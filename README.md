@@ -6,7 +6,7 @@
 
 ## Background
 
-To answer the question above I'm using scrobbles from [my last.fm account](https://www.last.fm/user/matsest), the ['seen live' tag](https://www.last.fm/tag/seen+live) on my last.fm artists and the [last.fm API](https://www.last.fm/api) together with some PowerShell.
+To answer the question above I'm using scrobbles from [my last.fm account](https://www.last.fm/user/matsest), the ['seen live' tag](https://www.last.fm/tag/seen+live) on my last.fm artists and the [last.fm API](https://www.last.fm/api) together with some PowerShell. This is a fork of [matsests repo of the same name](https://github.com/matsest/lastfm-artists-seen-live#:~:text=Skip%20to%20content-,matsest,-/)
 
 ## Usage
 
