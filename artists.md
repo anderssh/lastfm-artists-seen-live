@@ -4,11 +4,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of artists seen live in total: 67
 
-- Number of fetched top artists: 100 (Active: 90 Inactive: 10)
+- Number of fetched top artists: 100 (Active: 89 Inactive: 11)
 
 - Number of top artists seen live: 41 (Active: 40 Inactive: 1)
 
-- Number of top artists not seen live: 59 (Active: 50 Inactive: 9)
+- Number of top artists not seen live: 59 (Active: 49 Inactive: 10)
 
 ## Top 100 artists seen live (41)
 
@@ -56,7 +56,7 @@ Children of Bodom              | 90   | 27
 Kaizers Orchestra              | 92   | 27       
 Pantera                        | 96   | 26       
 
-## Active top 100 artists not seen live (50)
+## Active top 100 artists not seen live (49)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -80,7 +80,6 @@ The Notorious B.I.G.           | 45   | 55
 The Police                     | 51   | 49       
 Queens of the Stone Age        | 52   | 48       
 Bill Withers                   | 53   | 47       
-Creedence Clearwater Revival   | 54   | 47       
 Apollo Suns                    | 55   | 46       
 Adele                          | 56   | 44       
 Thulsa Doom                    | 59   | 43       
@@ -111,16 +110,17 @@ Robert Pehrsson's Humbucker    | 97   | 26
 Sleep Token                    | 98   | 26       
 Highasakite                    | 100  | 25       
 
-## Inactive top 100 artists not seen live (9)
+## Inactive top 100 artists not seen live (10)
 
-Name          | Rank | PlayCount
-------------- | ---- | ---------
-Fleetwood Mac | 4    | 260      
-Rush          | 10   | 157      
-Led Zeppelin  | 30   | 72       
-Pink Floyd    | 47   | 54       
-The Who       | 50   | 52       
-The Beatles   | 62   | 41       
-Dire Straits  | 66   | 37       
-Jimi Hendrix  | 71   | 34       
-Thin Lizzy    | 99   | 26       
+Name                         | Rank | PlayCount
+---------------------------- | ---- | ---------
+Fleetwood Mac                | 4    | 260      
+Rush                         | 10   | 157      
+Led Zeppelin                 | 30   | 72       
+Pink Floyd                   | 47   | 54       
+The Who                      | 50   | 52       
+Creedence Clearwater Revival | 54   | 47       
+The Beatles                  | 62   | 41       
+Dire Straits                 | 66   | 37       
+Jimi Hendrix                 | 71   | 34       
+Thin Lizzy                   | 99   | 26       
