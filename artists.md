@@ -2,15 +2,15 @@
 
 Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
-- Number of artists seen live in total: 53
+- Number of artists seen live in total: 65
 
 - Number of fetched top artists: 100 (Active: 92 Inactive: 8)
 
-- Number of top artists seen live: 38 (Active: 36 Inactive: 2)
+- Number of top artists seen live: 39 (Active: 37 Inactive: 2)
 
-- Number of top artists not seen live: 62 (Active: 56 Inactive: 6)
+- Number of top artists not seen live: 61 (Active: 55 Inactive: 6)
 
-## Top 100 artists seen live (38)
+## Top 100 artists seen live (39)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -36,8 +36,8 @@ Green Day                      | 34   | 64
 The Good The Bad and The Zugly | 35   | 63       
 Kvelertak                      | 36   | 60       
 Oslo Ess                       | 37   | 60       
-Snarky Puppy                   | 38   | 58       
-Mall Girl                      | 41   | 56       
+Snarky Puppy                   | 39   | 58       
+Mall Girl                      | 42   | 56       
 The Winery Dogs                | 46   | 55       
 Leo                            | 48   | 53       
 Maktkamp                       | 49   | 52       
@@ -47,13 +47,14 @@ Soilwork                       | 67   | 37
 Danko Jones                    | 69   | 36       
 HammerFall                     | 70   | 35       
 Behemoth                       | 73   | 33       
+Clutch                         | 77   | 32       
 Powerwolf                      | 81   | 30       
 Avatar                         | 87   | 28       
 Children of Bodom              | 90   | 27       
 Kaizers Orchestra              | 92   | 27       
 Pantera                        | 96   | 26       
 
-## Active top 100 artists not seen live (56)
+## Active top 100 artists not seen live (55)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -70,11 +71,11 @@ Love                           | 29   | 73
 Styx                           | 31   | 67       
 Eminem                         | 32   | 66       
 Bokassa                        | 33   | 64       
-Daft Punk                      | 39   | 57       
-Frank Zappa                    | 40   | 57       
-Tool                           | 42   | 56       
-Backstreet Girls               | 43   | 55       
-Seven Spires                   | 44   | 55       
+Seven Spires                   | 38   | 59       
+Daft Punk                      | 40   | 57       
+Frank Zappa                    | 41   | 57       
+Tool                           | 43   | 56       
+Backstreet Girls               | 44   | 55       
 The Notorious B.I.G.           | 45   | 55       
 The Police                     | 51   | 49       
 Queens of the Stone Age        | 52   | 48       
@@ -95,7 +96,6 @@ Sabaton                        | 72   | 34
 Elton John                     | 74   | 33       
 All That Remains               | 75   | 32       
 Amyl and the Sniffers          | 76   | 32       
-Clutch                         | 77   | 32       
 Lørdagsrådet                   | 78   | 32       
 Maraton                        | 79   | 32       
 Rival Sons                     | 80   | 32       
