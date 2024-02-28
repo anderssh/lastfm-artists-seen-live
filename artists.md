@@ -1,126 +1,126 @@
 ## Seen Live Stats
 
-Last.fm user: [matsest](https://www.last.fm/user/matsest)
+Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
-- Number of artists seen live in total: 387
+- Number of artists seen live in total: 0
 
-- Number of fetched top artists: 100 (Active: 69 Inactive: 31)
+- Number of fetched top artists: 100 (Active: 92 Inactive: 8)
 
-- Number of top artists seen live: 52 (Active: 44 Inactive: 8)
+- Number of top artists seen live: 0 (Active: 0 Inactive: 0)
 
-- Number of top artists not seen live: 48 (Active: 25 Inactive: 23)
+- Number of top artists not seen live: 100 (Active: 92 Inactive: 8)
 
-## Top 100 artists seen live (52)
+## Top 100 artists seen live (0)
+
+
+
+
+## Active top 100 artists not seen live (92)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6112     
-Pearl Jam                      | 2    | 6079     
-Rush                           | 3    | 4587     
-The Gaslight Anthem            | 4    | 4415     
-DumDum Boys                    | 6    | 3008     
-Against Me!                    | 7    | 2990     
-Motorpsycho                    | 9    | 2825     
-Bruce Springsteen              | 10   | 2782     
-Manic Street Preachers         | 11   | 2615     
-Frank Turner                   | 12   | 2500     
-AC/DC                          | 14   | 2344     
-Raga Rockers                   | 16   | 2245     
-Chris Cornell                  | 17   | 2234     
-The National                   | 19   | 2145     
-johndoe                        | 22   | 2013     
-Mastodon                       | 24   | 1757     
-Spidergawd                     | 25   | 1757     
-The Smashing Pumpkins          | 27   | 1569     
-Mark Lanegan                   | 29   | 1501     
-Baroness                       | 30   | 1358     
-Kvelertak                      | 31   | 1322     
-Chuck Ragan                    | 35   | 1175     
-Biffy Clyro                    | 36   | 1105     
-Hellbillies                    | 37   | 1069     
-Stein Torleif Bjella           | 39   | 1056     
-Justin Townes Earle            | 40   | 1027     
-Anti-Lam Front                 | 41   | 1005     
-Thin Lizzy                     | 44   | 871      
-Oslo Ess                       | 45   | 861      
-Pappasaft                      | 46   | 854      
-Tool                           | 47   | 841      
-Brian Fallon                   | 49   | 818      
-Sweden                         | 50   | 795      
-The Tallest Man on Earth       | 52   | 790      
-Devin Townsend                 | 54   | 760      
-Thulsa Doom                    | 55   | 757      
-Jason Isbell                   | 57   | 701      
-Ghost                          | 61   | 673      
-The Posies                     | 62   | 657      
-Japandroids                    | 64   | 651      
-Blood Command                  | 66   | 633      
-Clutch                         | 67   | 621      
-Devin Townsend Project         | 68   | 608      
-Dropkick Murphys               | 69   | 608      
-Spielbergs                     | 71   | 603      
-Kylesa                         | 72   | 584      
-The Good The Bad and The Zugly | 76   | 528      
-Jason Isbell and the 400 Unit  | 81   | 487      
-Gojira                         | 90   | 429      
-Opeth                          | 94   | 410      
-Swans                          | 96   | 404      
-Kaizers Orchestra              | 98   | 400      
+Spidergawd                     | 1    | 361      
+Dream Theater                  | 2    | 335      
+Metallica                      | 3    | 270      
+Fleetwood Mac                  | 4    | 260      
+Ghost                          | 5    | 225      
+AC/DC                          | 7    | 185      
+Honningbarna                   | 8    | 172      
+The Dogs                       | 9    | 159      
+In Flames                      | 11   | 155      
+Circus Maximus                 | 12   | 154      
+Avenged Sevenfold              | 13   | 153      
+Architects                     | 14   | 120      
+The Night Flight Orchestra     | 15   | 119      
+Lars Vaular                    | 16   | 117      
+Animals as Leaders             | 17   | 111      
+Sylosis                        | 18   | 111      
+Slipknot                       | 19   | 107      
+blink-182                      | 20   | 98       
+Mastodon                       | 21   | 98       
+Skálmöld                       | 22   | 88       
+Finntroll                      | 23   | 87       
+Greta Van Fleet                | 24   | 86       
+Pagan's Mind                   | 25   | 82       
+Hall & Oates                   | 26   | 79       
+DumDum Boys                    | 27   | 75       
+Gojira                         | 28   | 75       
+Love                           | 29   | 73       
+Styx                           | 31   | 67       
+Eminem                         | 32   | 66       
+Bokassa                        | 33   | 64       
+Green Day                      | 34   | 64       
+The Good The Bad and The Zugly | 35   | 63       
+Kvelertak                      | 36   | 60       
+Oslo Ess                       | 37   | 60       
+Snarky Puppy                   | 38   | 58       
+Daft Punk                      | 39   | 57       
+Frank Zappa                    | 40   | 57       
+Mall Girl                      | 41   | 56       
+Tool                           | 42   | 56       
+Backstreet Girls               | 43   | 55       
+The Notorious B.I.G.           | 44   | 55       
+The Winery Dogs                | 45   | 55       
+Leo                            | 47   | 53       
+Maktkamp                       | 48   | 52       
+The Police                     | 50   | 49       
+Queens of the Stone Age        | 51   | 48       
+Bill Withers                   | 52   | 47       
+Creedence Clearwater Revival   | 53   | 47       
+Seven Spires                   | 54   | 47       
+Apollo Suns                    | 55   | 46       
+Adele                          | 56   | 44       
+Def Leppard                    | 57   | 44       
+Spiritbox                      | 58   | 43       
+Thulsa Doom                    | 59   | 43       
+22                             | 60   | 42       
+All Them Witches               | 61   | 41       
+Porcupine Tree                 | 63   | 39       
+Graveyard                      | 64   | 38       
+The Rolling Stones             | 65   | 38       
+Dire Straits                   | 66   | 37       
+Soilwork                       | 67   | 37       
+Witchcraft                     | 68   | 37       
+Danko Jones                    | 69   | 36       
+HammerFall                     | 70   | 35       
+Jimi Hendrix                   | 71   | 34       
+Sabaton                        | 72   | 34       
+Behemoth                       | 73   | 33       
+Elton John                     | 74   | 33       
+All That Remains               | 75   | 32       
+Amyl and the Sniffers          | 76   | 32       
+Clutch                         | 77   | 32       
+Lørdagsrådet                   | 78   | 32       
+Maraton                        | 79   | 32       
+Rival Sons                     | 80   | 32       
+Powerwolf                      | 81   | 30       
+Haken                          | 82   | 29       
+Judas Priest                   | 83   | 29       
+Nightwish                      | 84   | 29       
+OnklP & De Fjerne Slektningene | 85   | 29       
+Van Halen                      | 86   | 29       
+Avatar                         | 87   | 28       
+Electric Light Orchestra       | 88   | 28       
+Buffalo Springfield            | 89   | 27       
+Children of Bodom              | 90   | 27       
+Hoobastank                     | 91   | 27       
+Stage Dolls                    | 93   | 27       
+Cream                          | 94   | 26       
+Mangini                        | 95   | 26       
+Pantera                        | 96   | 26       
+Robert Pehrsson's Humbucker    | 97   | 26       
+Sleep Token                    | 98   | 26       
+Highasakite                    | 100  | 25       
 
-## Active top 100 artists not seen live (25)
+## Inactive top 100 artists not seen live (8)
 
-Name             | Rank | PlayCount
----------------- | ---- | ---------
-Alice in Chains  | 13   | 2376     
-Bob Mould        | 18   | 2227     
-Propagandhi      | 20   | 2077     
-Ryan Adams       | 21   | 2059     
-Guided by Voices | 23   | 1834     
-The Menzingers   | 26   | 1632     
-Weezer           | 28   | 1567     
-Touché Amoré     | 33   | 1212     
-The Hold Steady  | 43   | 900      
-The Black Crowes | 48   | 830      
-Melvins          | 51   | 790      
-Bob Dylan        | 53   | 779      
-Afghan Whigs     | 58   | 695      
-Eddie Vedder     | 59   | 692      
-Hot Water Music  | 63   | 652      
-Neil Young       | 65   | 639      
-The Hotelier     | 78   | 506      
-Yes              | 79   | 498      
-Dinosaur Jr.     | 80   | 493      
-The War on Drugs | 84   | 473      
-Faith No More    | 86   | 458      
-Dawes            | 87   | 447      
-Thåström         | 88   | 437      
-Richard Thompson | 97   | 401      
-Ulver            | 99   | 396      
-
-## Inactive top 100 artists not seen live (23)
-
-Name                     | Rank | PlayCount
------------------------- | ---- | ---------
-The Replacements         | 5    | 3295     
-Hüsker Dü                | 8    | 2888     
-The Who                  | 15   | 2258     
-Sugar                    | 32   | 1269     
-The Horrible Crowes      | 34   | 1179     
-Genesis                  | 38   | 1067     
-Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 731      
-Audioslave               | 60   | 691      
-Foo Fighters             | 70   | 606      
-Big Star                 | 73   | 566      
-Temple of the Dog        | 74   | 553      
-Paul Westerberg          | 75   | 530      
-The Beatles              | 77   | 523      
-Rage Against the Machine | 82   | 486      
-Pink Floyd               | 83   | 474      
-Black Sabbath            | 85   | 468      
-The Twilight Singers     | 89   | 433      
-The Band                 | 91   | 429      
-Marillion                | 92   | 418      
-Warren Zevon             | 93   | 413      
-Jokke med Tourettes      | 95   | 409      
-Screaming Trees          | 100  | 382      
+Name              | Rank | PlayCount
+----------------- | ---- | ---------
+Foo Fighters      | 6    | 187      
+Rush              | 10   | 157      
+Led Zeppelin      | 30   | 72       
+Pink Floyd        | 46   | 54       
+The Who           | 49   | 52       
+The Beatles       | 62   | 41       
+Kaizers Orchestra | 92   | 27       
+Thin Lizzy        | 99   | 26       
