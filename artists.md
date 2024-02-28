@@ -2,15 +2,15 @@
 
 Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
-- Number of artists seen live in total: 65
+- Number of artists seen live in total: 66
 
 - Number of fetched top artists: 100 (Active: 92 Inactive: 8)
 
-- Number of top artists seen live: 39 (Active: 37 Inactive: 2)
+- Number of top artists seen live: 40 (Active: 39 Inactive: 1)
 
-- Number of top artists not seen live: 61 (Active: 55 Inactive: 6)
+- Number of top artists not seen live: 60 (Active: 53 Inactive: 7)
 
-## Top 100 artists seen live (39)
+## Top 100 artists seen live (40)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -32,6 +32,7 @@ Skálmöld                       | 22   | 88
 Finntroll                      | 23   | 87       
 Pagan's Mind                   | 25   | 82       
 Gojira                         | 28   | 75       
+Eminem                         | 32   | 66       
 Green Day                      | 34   | 64       
 The Good The Bad and The Zugly | 35   | 63       
 Kvelertak                      | 36   | 60       
@@ -54,11 +55,10 @@ Children of Bodom              | 90   | 27
 Kaizers Orchestra              | 92   | 27       
 Pantera                        | 96   | 26       
 
-## Active top 100 artists not seen live (55)
+## Active top 100 artists not seen live (53)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Fleetwood Mac                  | 4    | 260      
 The Night Flight Orchestra     | 15   | 119      
 Lars Vaular                    | 16   | 117      
 Animals as Leaders             | 17   | 111      
@@ -69,7 +69,6 @@ Hall & Oates                   | 26   | 79
 DumDum Boys                    | 27   | 75       
 Love                           | 29   | 73       
 Styx                           | 31   | 67       
-Eminem                         | 32   | 66       
 Bokassa                        | 33   | 64       
 Seven Spires                   | 38   | 59       
 Daft Punk                      | 40   | 57       
@@ -114,13 +113,14 @@ Robert Pehrsson's Humbucker    | 97   | 26
 Sleep Token                    | 98   | 26       
 Highasakite                    | 100  | 25       
 
-## Inactive top 100 artists not seen live (6)
+## Inactive top 100 artists not seen live (7)
 
-Name         | Rank | PlayCount
------------- | ---- | ---------
-Rush         | 10   | 157      
-Led Zeppelin | 30   | 72       
-Pink Floyd   | 47   | 54       
-The Who      | 50   | 52       
-The Beatles  | 62   | 41       
-Thin Lizzy   | 99   | 26       
+Name          | Rank | PlayCount
+------------- | ---- | ---------
+Fleetwood Mac | 4    | 260      
+Rush          | 10   | 157      
+Led Zeppelin  | 30   | 72       
+Pink Floyd    | 47   | 54       
+The Who       | 50   | 52       
+The Beatles   | 62   | 41       
+Thin Lizzy    | 99   | 26       
