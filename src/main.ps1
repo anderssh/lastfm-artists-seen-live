@@ -2,7 +2,7 @@
 param (
     [Parameter(HelpMessage = "Last.fm username")]
     [string]
-    $LastFmUserName = "matsest",
+    $LastFmUserName = "anderssh93",
     [Parameter(HelpMessage = "Number of most listened to artists to fetch from Last.fm")]
     [string]
     $NumberOfArtists = "100",
