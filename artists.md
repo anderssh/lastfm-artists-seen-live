@@ -2,15 +2,15 @@
 
 Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
-- Number of artists seen live in total: 66
+- Number of artists seen live in total: 67
 
-- Number of fetched top artists: 100 (Active: 91 Inactive: 9)
+- Number of fetched top artists: 100 (Active: 90 Inactive: 10)
 
-- Number of top artists seen live: 40 (Active: 39 Inactive: 1)
+- Number of top artists seen live: 41 (Active: 40 Inactive: 1)
 
-- Number of top artists not seen live: 60 (Active: 52 Inactive: 8)
+- Number of top artists not seen live: 59 (Active: 50 Inactive: 9)
 
-## Top 100 artists seen live (40)
+## Top 100 artists seen live (41)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -42,6 +42,7 @@ Mall Girl                      | 42   | 56
 The Winery Dogs                | 46   | 55       
 Leo                            | 48   | 53       
 Maktkamp                       | 49   | 52       
+Def Leppard                    | 57   | 44       
 Spiritbox                      | 58   | 43       
 22                             | 60   | 42       
 Soilwork                       | 67   | 37       
@@ -55,7 +56,7 @@ Children of Bodom              | 90   | 27
 Kaizers Orchestra              | 92   | 27       
 Pantera                        | 96   | 26       
 
-## Active top 100 artists not seen live (52)
+## Active top 100 artists not seen live (50)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -82,14 +83,12 @@ Bill Withers                   | 53   | 47
 Creedence Clearwater Revival   | 54   | 47       
 Apollo Suns                    | 55   | 46       
 Adele                          | 56   | 44       
-Def Leppard                    | 57   | 44       
 Thulsa Doom                    | 59   | 43       
 All Them Witches               | 61   | 41       
 Porcupine Tree                 | 63   | 39       
 Graveyard                      | 64   | 38       
 The Rolling Stones             | 65   | 38       
 Witchcraft                     | 68   | 37       
-Jimi Hendrix                   | 71   | 34       
 Sabaton                        | 72   | 34       
 Elton John                     | 74   | 33       
 All That Remains               | 75   | 32       
@@ -112,7 +111,7 @@ Robert Pehrsson's Humbucker    | 97   | 26
 Sleep Token                    | 98   | 26       
 Highasakite                    | 100  | 25       
 
-## Inactive top 100 artists not seen live (8)
+## Inactive top 100 artists not seen live (9)
 
 Name          | Rank | PlayCount
 ------------- | ---- | ---------
@@ -123,4 +122,5 @@ Pink Floyd    | 47   | 54
 The Who       | 50   | 52       
 The Beatles   | 62   | 41       
 Dire Straits  | 66   | 37       
+Jimi Hendrix  | 71   | 34       
 Thin Lizzy    | 99   | 26       
