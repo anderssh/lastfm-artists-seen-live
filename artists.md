@@ -63,11 +63,11 @@ The Notorious B.I.G.           | 44   | 55
 The Winery Dogs                | 45   | 55       
 Leo                            | 47   | 53       
 Maktkamp                       | 48   | 52       
-The Police                     | 50   | 49       
-Queens of the Stone Age        | 51   | 48       
-Bill Withers                   | 52   | 47       
-Creedence Clearwater Revival   | 53   | 47       
-Seven Spires                   | 54   | 47       
+Seven Spires                   | 50   | 50       
+The Police                     | 51   | 49       
+Queens of the Stone Age        | 52   | 48       
+Bill Withers                   | 53   | 47       
+Creedence Clearwater Revival   | 54   | 47       
 Apollo Suns                    | 55   | 46       
 Adele                          | 56   | 44       
 Def Leppard                    | 57   | 44       
