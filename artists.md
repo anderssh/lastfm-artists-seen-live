@@ -2,15 +2,15 @@
 
 Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
-- Number of artists seen live in total: 67
+- Number of artists seen live in total: 73
 
 - Number of fetched top artists: 100 (Active: 89 Inactive: 11)
 
-- Number of top artists seen live: 41 (Active: 40 Inactive: 1)
+- Number of top artists seen live: 43 (Active: 42 Inactive: 1)
 
-- Number of top artists not seen live: 59 (Active: 49 Inactive: 10)
+- Number of top artists not seen live: 57 (Active: 47 Inactive: 10)
 
-## Top 100 artists seen live (41)
+## Top 100 artists seen live (43)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -28,6 +28,7 @@ Avenged Sevenfold              | 13   | 153
 Architects                     | 14   | 120      
 Slipknot                       | 19   | 107      
 blink-182                      | 20   | 98       
+Mastodon                       | 21   | 98       
 Skálmöld                       | 22   | 88       
 Finntroll                      | 23   | 87       
 Pagan's Mind                   | 25   | 82       
@@ -48,6 +49,7 @@ Spiritbox                      | 58   | 43
 Soilwork                       | 67   | 37       
 Danko Jones                    | 69   | 36       
 HammerFall                     | 70   | 35       
+Sabaton                        | 72   | 34       
 Behemoth                       | 73   | 33       
 Clutch                         | 77   | 32       
 Powerwolf                      | 81   | 30       
@@ -56,7 +58,7 @@ Children of Bodom              | 90   | 27
 Kaizers Orchestra              | 92   | 27       
 Pantera                        | 96   | 26       
 
-## Active top 100 artists not seen live (49)
+## Active top 100 artists not seen live (47)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -64,7 +66,6 @@ The Night Flight Orchestra     | 15   | 119
 Lars Vaular                    | 16   | 117      
 Animals as Leaders             | 17   | 111      
 Sylosis                        | 18   | 111      
-Mastodon                       | 21   | 98       
 Greta Van Fleet                | 24   | 86       
 Hall & Oates                   | 26   | 79       
 DumDum Boys                    | 27   | 75       
@@ -88,7 +89,6 @@ Porcupine Tree                 | 63   | 39
 Graveyard                      | 64   | 38       
 The Rolling Stones             | 65   | 38       
 Witchcraft                     | 68   | 37       
-Sabaton                        | 72   | 34       
 Elton John                     | 74   | 33       
 All That Remains               | 75   | 32       
 Amyl and the Sniffers          | 76   | 32       
