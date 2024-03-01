@@ -32,12 +32,12 @@ Mastodon                       | 21   | 98
 Skálmöld                       | 22   | 88       
 Finntroll                      | 23   | 87       
 Pagan's Mind                   | 25   | 82       
-Gojira                         | 28   | 75       
-Eminem                         | 32   | 66       
-Green Day                      | 34   | 64       
-The Good The Bad and The Zugly | 35   | 63       
-Kvelertak                      | 36   | 60       
-Oslo Ess                       | 37   | 60       
+Gojira                         | 29   | 75       
+Eminem                         | 33   | 66       
+Green Day                      | 35   | 64       
+The Good The Bad and The Zugly | 36   | 63       
+Kvelertak                      | 37   | 60       
+Oslo Ess                       | 38   | 60       
 Snarky Puppy                   | 39   | 58       
 Mall Girl                      | 42   | 56       
 The Winery Dogs                | 46   | 55       
@@ -68,11 +68,11 @@ Animals as Leaders             | 17   | 111
 Sylosis                        | 18   | 111      
 Greta Van Fleet                | 24   | 86       
 Hall & Oates                   | 26   | 79       
-DumDum Boys                    | 27   | 75       
-Love                           | 29   | 73       
-Styx                           | 31   | 67       
-Bokassa                        | 33   | 64       
-Seven Spires                   | 38   | 59       
+Seven Spires                   | 27   | 78       
+DumDum Boys                    | 28   | 75       
+Love                           | 30   | 73       
+Styx                           | 32   | 67       
+Bokassa                        | 34   | 64       
 Daft Punk                      | 40   | 57       
 Frank Zappa                    | 41   | 57       
 Tool                           | 43   | 56       
@@ -116,7 +116,7 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 260      
 Rush                         | 10   | 157      
-Led Zeppelin                 | 30   | 72       
+Led Zeppelin                 | 31   | 72       
 Pink Floyd                   | 47   | 54       
 The Who                      | 50   | 52       
 Creedence Clearwater Revival | 54   | 47       
