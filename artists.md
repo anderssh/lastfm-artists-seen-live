@@ -78,7 +78,7 @@ Frank Zappa                    | 41   | 57
 Tool                           | 43   | 56       
 Backstreet Girls               | 44   | 55       
 The Notorious B.I.G.           | 45   | 55       
-Queens of the Stone Age        | 51   | 49       
+Queens of the Stone Age        | 51   | 50       
 The Police                     | 52   | 49       
 Bill Withers                   | 53   | 47       
 Apollo Suns                    | 55   | 46       
@@ -123,4 +123,4 @@ Creedence Clearwater Revival | 54   | 47
 The Beatles                  | 62   | 41       
 Dire Straits                 | 67   | 37       
 Jimi Hendrix                 | 71   | 34       
-Thin Lizzy                   | 100  | 26       
+The Doors                    | 100  | 26       
