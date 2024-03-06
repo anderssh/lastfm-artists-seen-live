@@ -15,14 +15,14 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Spidergawd                     | 1    | 361      
-Dream Theater                  | 2    | 335      
-Metallica                      | 3    | 270      
+Dream Theater                  | 2    | 338      
+Metallica                      | 3    | 271      
 Ghost                          | 5    | 225      
 AC/DC                          | 6    | 193      
 Foo Fighters                   | 7    | 191      
 Honningbarna                   | 8    | 172      
 The Dogs                       | 9    | 159      
-In Flames                      | 11   | 155      
+In Flames                      | 10   | 158      
 Circus Maximus                 | 12   | 154      
 Avenged Sevenfold              | 13   | 153      
 Architects                     | 14   | 120      
@@ -103,10 +103,10 @@ Van Halen                      | 86   | 29
 Electric Light Orchestra       | 88   | 28       
 Buffalo Springfield            | 89   | 27       
 Hoobastank                     | 91   | 27       
-Stage Dolls                    | 93   | 27       
-Cream                          | 95   | 26       
-Mangini                        | 96   | 26       
-Megadeth                       | 97   | 26       
+Megadeth                       | 93   | 27       
+Stage Dolls                    | 94   | 27       
+Cream                          | 96   | 26       
+Mangini                        | 97   | 26       
 Robert Pehrsson's Humbucker    | 99   | 26       
 Sleep Token                    | 100  | 26       
 
@@ -115,7 +115,7 @@ Sleep Token                    | 100  | 26
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 260      
-Rush                         | 10   | 157      
+Rush                         | 11   | 157      
 Led Zeppelin                 | 30   | 74       
 Pink Floyd                   | 47   | 54       
 The Who                      | 50   | 52       
@@ -123,4 +123,4 @@ Creedence Clearwater Revival | 51   | 51
 The Beatles                  | 62   | 41       
 Dire Straits                 | 63   | 39       
 Jimi Hendrix                 | 71   | 34       
-The Doors                    | 94   | 27       
+The Doors                    | 95   | 27       
