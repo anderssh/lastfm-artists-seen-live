@@ -15,24 +15,24 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Spidergawd                     | 1    | 361      
-Dream Theater                  | 2    | 338      
-Metallica                      | 3    | 271      
+Dream Theater                  | 2    | 342      
+Metallica                      | 3    | 273      
 Ghost                          | 5    | 225      
 AC/DC                          | 6    | 193      
 Foo Fighters                   | 7    | 191      
 Honningbarna                   | 8    | 172      
-The Dogs                       | 9    | 159      
-In Flames                      | 10   | 158      
+In Flames                      | 9    | 159      
+The Dogs                       | 10   | 159      
 Circus Maximus                 | 12   | 154      
 Avenged Sevenfold              | 13   | 153      
 Architects                     | 14   | 120      
 Slipknot                       | 19   | 108      
 blink-182                      | 20   | 99       
-Mastodon                       | 21   | 98       
+Mastodon                       | 21   | 99       
 Skálmöld                       | 23   | 88       
 Finntroll                      | 24   | 87       
 Pagan's Mind                   | 25   | 82       
-Gojira                         | 29   | 75       
+Gojira                         | 28   | 76       
 Kvelertak                      | 32   | 68       
 Eminem                         | 34   | 66       
 Green Day                      | 36   | 64       
@@ -69,7 +69,7 @@ Sylosis                        | 18   | 111
 Greta Van Fleet                | 22   | 88       
 Hall & Oates                   | 26   | 79       
 Seven Spires                   | 27   | 78       
-DumDum Boys                    | 28   | 75       
+DumDum Boys                    | 29   | 75       
 Love                           | 31   | 73       
 Styx                           | 33   | 67       
 Bokassa                        | 35   | 64       
@@ -85,7 +85,7 @@ Apollo Suns                    | 55   | 46
 Adele                          | 57   | 44       
 Thulsa Doom                    | 59   | 43       
 All Them Witches               | 61   | 41       
-Porcupine Tree                 | 64   | 39       
+Porcupine Tree                 | 62   | 41       
 Graveyard                      | 65   | 38       
 The Rolling Stones             | 67   | 38       
 Witchcraft                     | 68   | 37       
@@ -120,7 +120,7 @@ Led Zeppelin                 | 30   | 74
 Pink Floyd                   | 47   | 54       
 The Who                      | 50   | 52       
 Creedence Clearwater Revival | 51   | 51       
-The Beatles                  | 62   | 41       
-Dire Straits                 | 63   | 39       
+The Beatles                  | 63   | 41       
+Dire Straits                 | 64   | 39       
 Jimi Hendrix                 | 71   | 34       
 The Doors                    | 95   | 27       
