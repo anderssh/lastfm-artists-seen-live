@@ -15,24 +15,24 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Spidergawd                     | 1    | 361      
-Dream Theater                  | 2    | 342      
-Metallica                      | 3    | 273      
+Dream Theater                  | 2    | 347      
+Metallica                      | 3    | 277      
 Ghost                          | 5    | 225      
 AC/DC                          | 6    | 193      
 Foo Fighters                   | 7    | 191      
 Honningbarna                   | 8    | 172      
-In Flames                      | 9    | 159      
+In Flames                      | 9    | 160      
 The Dogs                       | 10   | 159      
-Circus Maximus                 | 12   | 154      
-Avenged Sevenfold              | 13   | 153      
+Avenged Sevenfold              | 12   | 156      
+Circus Maximus                 | 13   | 156      
 Architects                     | 14   | 120      
 Slipknot                       | 19   | 108      
-blink-182                      | 20   | 99       
-Mastodon                       | 21   | 99       
-Skálmöld                       | 23   | 88       
+Mastodon                       | 20   | 101      
+blink-182                      | 21   | 99       
+Skálmöld                       | 22   | 90       
 Finntroll                      | 24   | 87       
 Pagan's Mind                   | 25   | 82       
-Gojira                         | 28   | 76       
+Gojira                         | 28   | 77       
 Kvelertak                      | 32   | 68       
 Eminem                         | 34   | 66       
 Green Day                      | 36   | 64       
@@ -44,8 +44,8 @@ The Winery Dogs                | 46   | 55
 Leo                            | 48   | 53       
 Maktkamp                       | 49   | 52       
 Def Leppard                    | 56   | 45       
-Spiritbox                      | 58   | 43       
-22                             | 60   | 42       
+Spiritbox                      | 59   | 43       
+22                             | 61   | 42       
 Soilwork                       | 66   | 38       
 Danko Jones                    | 69   | 36       
 HammerFall                     | 70   | 35       
@@ -54,8 +54,8 @@ Behemoth                       | 74   | 33
 Clutch                         | 78   | 32       
 Powerwolf                      | 81   | 30       
 Avatar                         | 87   | 28       
-Children of Bodom              | 90   | 27       
-Kaizers Orchestra              | 92   | 27       
+Children of Bodom              | 91   | 27       
+Kaizers Orchestra              | 93   | 27       
 Pantera                        | 98   | 26       
 
 ## Active top 100 artists not seen live (47)
@@ -66,7 +66,7 @@ The Night Flight Orchestra     | 15   | 119
 Lars Vaular                    | 16   | 117      
 Animals as Leaders             | 17   | 111      
 Sylosis                        | 18   | 111      
-Greta Van Fleet                | 22   | 88       
+Greta Van Fleet                | 23   | 88       
 Hall & Oates                   | 26   | 79       
 Seven Spires                   | 27   | 78       
 DumDum Boys                    | 29   | 75       
@@ -83,9 +83,9 @@ The Police                     | 53   | 49
 Bill Withers                   | 54   | 47       
 Apollo Suns                    | 55   | 46       
 Adele                          | 57   | 44       
-Thulsa Doom                    | 59   | 43       
-All Them Witches               | 61   | 41       
-Porcupine Tree                 | 62   | 41       
+Porcupine Tree                 | 58   | 43       
+Thulsa Doom                    | 60   | 43       
+All Them Witches               | 62   | 41       
 Graveyard                      | 65   | 38       
 The Rolling Stones             | 67   | 38       
 Witchcraft                     | 68   | 37       
@@ -101,9 +101,9 @@ Nightwish                      | 84   | 29
 OnklP & De Fjerne Slektningene | 85   | 29       
 Van Halen                      | 86   | 29       
 Electric Light Orchestra       | 88   | 28       
-Buffalo Springfield            | 89   | 27       
-Hoobastank                     | 91   | 27       
-Megadeth                       | 93   | 27       
+Megadeth                       | 89   | 28       
+Buffalo Springfield            | 90   | 27       
+Hoobastank                     | 92   | 27       
 Stage Dolls                    | 94   | 27       
 Cream                          | 96   | 26       
 Mangini                        | 97   | 26       
