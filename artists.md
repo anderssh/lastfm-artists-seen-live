@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Spidergawd                     | 1    | 361      
 Dream Theater                  | 2    | 347      
-Metallica                      | 3    | 277      
+Metallica                      | 3    | 278      
 Ghost                          | 5    | 225      
 AC/DC                          | 6    | 193      
 Foo Fighters                   | 7    | 191      
@@ -27,9 +27,9 @@ Avenged Sevenfold              | 12   | 156
 Circus Maximus                 | 13   | 156      
 Architects                     | 14   | 120      
 Slipknot                       | 19   | 108      
-Mastodon                       | 20   | 101      
-blink-182                      | 21   | 99       
-Skálmöld                       | 22   | 90       
+Skálmöld                       | 20   | 102      
+Mastodon                       | 21   | 101      
+blink-182                      | 22   | 100      
 Finntroll                      | 24   | 87       
 Pagan's Mind                   | 25   | 82       
 Gojira                         | 28   | 77       
@@ -42,7 +42,7 @@ Snarky Puppy                   | 39   | 58
 Mall Girl                      | 42   | 56       
 The Winery Dogs                | 46   | 55       
 Leo                            | 48   | 53       
-Maktkamp                       | 49   | 52       
+Maktkamp                       | 50   | 52       
 Def Leppard                    | 56   | 45       
 Spiritbox                      | 59   | 43       
 22                             | 61   | 42       
@@ -118,9 +118,9 @@ Fleetwood Mac                | 4    | 260
 Rush                         | 11   | 157      
 Led Zeppelin                 | 30   | 74       
 Pink Floyd                   | 47   | 54       
-The Who                      | 50   | 52       
+The Who                      | 49   | 53       
 Creedence Clearwater Revival | 51   | 51       
 The Beatles                  | 63   | 41       
 Dire Straits                 | 64   | 39       
-Jimi Hendrix                 | 71   | 34       
+Jimi Hendrix                 | 71   | 35       
 The Doors                    | 95   | 27       
