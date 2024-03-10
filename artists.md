@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Spidergawd                     | 1    | 361      
-Dream Theater                  | 2    | 347      
+Dream Theater                  | 2    | 348      
 Metallica                      | 3    | 278      
 Ghost                          | 5    | 225      
 AC/DC                          | 6    | 193      
@@ -35,7 +35,7 @@ Pagan's Mind                   | 25   | 82
 Gojira                         | 28   | 77       
 Kvelertak                      | 32   | 68       
 Eminem                         | 34   | 66       
-Green Day                      | 36   | 64       
+Green Day                      | 35   | 65       
 The Good The Bad and The Zugly | 37   | 63       
 Oslo Ess                       | 38   | 60       
 Snarky Puppy                   | 39   | 58       
@@ -64,7 +64,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 The Night Flight Orchestra     | 15   | 119      
 Lars Vaular                    | 16   | 117      
-Animals as Leaders             | 17   | 111      
+Animals as Leaders             | 17   | 114      
 Sylosis                        | 18   | 111      
 Greta Van Fleet                | 23   | 88       
 Hall & Oates                   | 26   | 79       
@@ -72,7 +72,7 @@ Seven Spires                   | 27   | 78
 DumDum Boys                    | 29   | 75       
 Love                           | 31   | 73       
 Styx                           | 33   | 67       
-Bokassa                        | 35   | 64       
+Bokassa                        | 36   | 64       
 Daft Punk                      | 40   | 57       
 Frank Zappa                    | 41   | 57       
 Tool                           | 43   | 56       
