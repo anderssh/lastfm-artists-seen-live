@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Spidergawd                     | 1    | 361      
-Dream Theater                  | 2    | 348      
+Dream Theater                  | 2    | 351      
 Metallica                      | 3    | 278      
 Ghost                          | 5    | 225      
 AC/DC                          | 6    | 193      
@@ -31,7 +31,7 @@ Skálmöld                       | 20   | 102
 Mastodon                       | 21   | 101      
 blink-182                      | 22   | 100      
 Finntroll                      | 24   | 87       
-Pagan's Mind                   | 25   | 82       
+Pagan's Mind                   | 25   | 86       
 Gojira                         | 28   | 77       
 Kvelertak                      | 32   | 68       
 Eminem                         | 34   | 66       
