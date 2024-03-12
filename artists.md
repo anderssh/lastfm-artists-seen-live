@@ -15,23 +15,23 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Spidergawd                     | 1    | 361      
-Dream Theater                  | 2    | 351      
+Dream Theater                  | 2    | 352      
 Metallica                      | 3    | 278      
 Ghost                          | 5    | 225      
 AC/DC                          | 6    | 193      
 Foo Fighters                   | 7    | 191      
 Honningbarna                   | 8    | 172      
-In Flames                      | 9    | 160      
-The Dogs                       | 10   | 159      
+In Flames                      | 10   | 161      
+The Dogs                       | 11   | 159      
 Avenged Sevenfold              | 12   | 156      
 Circus Maximus                 | 13   | 156      
 Architects                     | 14   | 120      
-Slipknot                       | 19   | 108      
-Skálmöld                       | 20   | 102      
-Mastodon                       | 21   | 101      
-blink-182                      | 22   | 100      
-Finntroll                      | 24   | 87       
-Pagan's Mind                   | 25   | 86       
+Pagan's Mind                   | 18   | 114      
+Skálmöld                       | 19   | 112      
+Slipknot                       | 21   | 108      
+Mastodon                       | 22   | 101      
+blink-182                      | 23   | 100      
+Finntroll                      | 25   | 87       
 Gojira                         | 28   | 77       
 Kvelertak                      | 32   | 68       
 Eminem                         | 34   | 66       
@@ -48,7 +48,7 @@ Spiritbox                      | 59   | 43
 22                             | 61   | 42       
 Soilwork                       | 66   | 38       
 Danko Jones                    | 69   | 36       
-HammerFall                     | 70   | 35       
+HammerFall                     | 71   | 35       
 Sabaton                        | 72   | 34       
 Behemoth                       | 74   | 33       
 Clutch                         | 78   | 32       
@@ -65,8 +65,8 @@ Name                           | Rank | PlayCount
 The Night Flight Orchestra     | 15   | 119      
 Lars Vaular                    | 16   | 117      
 Animals as Leaders             | 17   | 114      
-Sylosis                        | 18   | 111      
-Greta Van Fleet                | 23   | 88       
+Sylosis                        | 20   | 111      
+Greta Van Fleet                | 24   | 88       
 Hall & Oates                   | 26   | 79       
 Seven Spires                   | 27   | 78       
 DumDum Boys                    | 29   | 75       
@@ -115,12 +115,12 @@ Sleep Token                    | 100  | 26
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 260      
-Rush                         | 11   | 157      
+Rush                         | 9    | 170      
 Led Zeppelin                 | 30   | 74       
 Pink Floyd                   | 47   | 54       
 The Who                      | 49   | 53       
 Creedence Clearwater Revival | 51   | 51       
 The Beatles                  | 63   | 41       
 Dire Straits                 | 64   | 39       
-Jimi Hendrix                 | 71   | 35       
+Jimi Hendrix                 | 70   | 36       
 The Doors                    | 95   | 27       
