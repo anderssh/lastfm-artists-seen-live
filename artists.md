@@ -15,13 +15,13 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Spidergawd                     | 1    | 361      
-Dream Theater                  | 2    | 352      
+Dream Theater                  | 2    | 355      
 Metallica                      | 3    | 278      
 Ghost                          | 5    | 225      
 AC/DC                          | 6    | 193      
-Foo Fighters                   | 7    | 191      
+Foo Fighters                   | 7    | 192      
 Honningbarna                   | 8    | 172      
-In Flames                      | 10   | 161      
+In Flames                      | 10   | 162      
 The Dogs                       | 11   | 159      
 Avenged Sevenfold              | 12   | 156      
 Circus Maximus                 | 13   | 156      
@@ -35,7 +35,7 @@ Finntroll                      | 25   | 87
 Gojira                         | 28   | 77       
 Kvelertak                      | 32   | 68       
 Eminem                         | 34   | 66       
-Green Day                      | 35   | 65       
+Green Day                      | 35   | 66       
 The Good The Bad and The Zugly | 37   | 63       
 Oslo Ess                       | 38   | 60       
 Snarky Puppy                   | 39   | 58       
@@ -43,17 +43,17 @@ Mall Girl                      | 42   | 56
 The Winery Dogs                | 46   | 55       
 Leo                            | 48   | 53       
 Maktkamp                       | 50   | 52       
-Def Leppard                    | 56   | 45       
+Def Leppard                    | 57   | 45       
 Spiritbox                      | 59   | 43       
 22                             | 61   | 42       
-Soilwork                       | 66   | 38       
+Soilwork                       | 67   | 38       
 Danko Jones                    | 69   | 36       
 HammerFall                     | 71   | 35       
 Sabaton                        | 72   | 34       
 Behemoth                       | 74   | 33       
 Clutch                         | 78   | 32       
 Powerwolf                      | 81   | 30       
-Avatar                         | 87   | 28       
+Avatar                         | 88   | 28       
 Children of Bodom              | 91   | 27       
 Kaizers Orchestra              | 93   | 27       
 Pantera                        | 98   | 26       
@@ -69,7 +69,7 @@ Sylosis                        | 20   | 111
 Greta Van Fleet                | 24   | 88       
 Hall & Oates                   | 26   | 79       
 Seven Spires                   | 27   | 78       
-DumDum Boys                    | 29   | 75       
+DumDum Boys                    | 30   | 75       
 Love                           | 31   | 73       
 Styx                           | 33   | 67       
 Bokassa                        | 36   | 64       
@@ -82,12 +82,12 @@ Queens of the Stone Age        | 52   | 50
 The Police                     | 53   | 49       
 Bill Withers                   | 54   | 47       
 Apollo Suns                    | 55   | 46       
-Adele                          | 57   | 44       
-Porcupine Tree                 | 58   | 43       
+Porcupine Tree                 | 56   | 46       
+Adele                          | 58   | 44       
 Thulsa Doom                    | 60   | 43       
 All Them Witches               | 62   | 41       
-Graveyard                      | 65   | 38       
-The Rolling Stones             | 67   | 38       
+The Rolling Stones             | 65   | 39       
+Graveyard                      | 66   | 38       
 Witchcraft                     | 68   | 37       
 All That Remains               | 73   | 33       
 Elton John                     | 75   | 33       
@@ -95,12 +95,12 @@ Maraton                        | 76   | 33
 Amyl and the Sniffers          | 77   | 32       
 Lørdagsrådet                   | 79   | 32       
 Rival Sons                     | 80   | 32       
-Haken                          | 82   | 29       
-Judas Priest                   | 83   | 29       
-Nightwish                      | 84   | 29       
-OnklP & De Fjerne Slektningene | 85   | 29       
-Van Halen                      | 86   | 29       
-Electric Light Orchestra       | 88   | 28       
+Electric Light Orchestra       | 82   | 29       
+Haken                          | 83   | 29       
+Judas Priest                   | 84   | 29       
+Nightwish                      | 85   | 29       
+OnklP & De Fjerne Slektningene | 86   | 29       
+Van Halen                      | 87   | 29       
 Megadeth                       | 89   | 28       
 Buffalo Springfield            | 90   | 27       
 Hoobastank                     | 92   | 27       
@@ -114,9 +114,9 @@ Sleep Token                    | 100  | 26
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 4    | 260      
+Fleetwood Mac                | 4    | 261      
 Rush                         | 9    | 170      
-Led Zeppelin                 | 30   | 74       
+Led Zeppelin                 | 29   | 77       
 Pink Floyd                   | 47   | 54       
 The Who                      | 49   | 53       
 Creedence Clearwater Revival | 51   | 51       
