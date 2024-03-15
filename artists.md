@@ -26,8 +26,8 @@ The Dogs                       | 11   | 159
 Avenged Sevenfold              | 12   | 156      
 Circus Maximus                 | 13   | 156      
 Architects                     | 14   | 120      
-Pagan's Mind                   | 18   | 114      
-Skálmöld                       | 19   | 112      
+Skálmöld                       | 15   | 120      
+Pagan's Mind                   | 19   | 114      
 Slipknot                       | 21   | 108      
 Mastodon                       | 22   | 101      
 blink-182                      | 23   | 100      
@@ -62,9 +62,9 @@ Pantera                        | 98   | 26
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-The Night Flight Orchestra     | 15   | 119      
-Lars Vaular                    | 16   | 117      
-Animals as Leaders             | 17   | 114      
+The Night Flight Orchestra     | 16   | 119      
+Lars Vaular                    | 17   | 117      
+Animals as Leaders             | 18   | 114      
 Sylosis                        | 20   | 111      
 Greta Van Fleet                | 24   | 88       
 Seven Spires                   | 26   | 80       
