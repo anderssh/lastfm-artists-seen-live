@@ -43,7 +43,7 @@ Mall Girl                      | 42   | 56
 The Winery Dogs                | 46   | 55       
 Leo                            | 48   | 53       
 Maktkamp                       | 50   | 52       
-Def Leppard                    | 57   | 45       
+Def Leppard                    | 56   | 46       
 Spiritbox                      | 59   | 43       
 22                             | 61   | 42       
 Soilwork                       | 68   | 38       
@@ -82,7 +82,7 @@ Queens of the Stone Age        | 52   | 50
 The Police                     | 53   | 49       
 Bill Withers                   | 54   | 47       
 Apollo Suns                    | 55   | 46       
-Porcupine Tree                 | 56   | 46       
+Porcupine Tree                 | 57   | 46       
 Adele                          | 58   | 44       
 Thulsa Doom                    | 60   | 43       
 All Them Witches               | 62   | 41       
