@@ -25,7 +25,7 @@ In Flames                      | 10   | 162
 The Dogs                       | 11   | 159      
 Avenged Sevenfold              | 12   | 156      
 Circus Maximus                 | 13   | 156      
-Skálmöld                       | 14   | 129      
+Skálmöld                       | 14   | 137      
 Architects                     | 15   | 120      
 Pagan's Mind                   | 19   | 114      
 Slipknot                       | 21   | 108      
@@ -43,9 +43,9 @@ Mall Girl                      | 42   | 56
 The Winery Dogs                | 46   | 55       
 Leo                            | 48   | 53       
 Maktkamp                       | 50   | 52       
-Def Leppard                    | 56   | 46       
-Spiritbox                      | 59   | 43       
-22                             | 61   | 42       
+Def Leppard                    | 57   | 46       
+Spiritbox                      | 60   | 43       
+22                             | 62   | 42       
 Soilwork                       | 68   | 38       
 Danko Jones                    | 70   | 36       
 HammerFall                     | 72   | 35       
@@ -78,15 +78,15 @@ Frank Zappa                    | 41   | 57
 Tool                           | 43   | 56       
 Backstreet Girls               | 44   | 55       
 The Notorious B.I.G.           | 45   | 55       
-Queens of the Stone Age        | 52   | 50       
-The Police                     | 53   | 49       
-Bill Withers                   | 54   | 47       
-Apollo Suns                    | 55   | 46       
-Porcupine Tree                 | 57   | 46       
-Adele                          | 58   | 44       
-Thulsa Doom                    | 60   | 43       
-All Them Witches               | 62   | 41       
-Judas Priest                   | 64   | 40       
+Judas Priest                   | 52   | 51       
+Queens of the Stone Age        | 53   | 50       
+The Police                     | 54   | 49       
+Bill Withers                   | 55   | 47       
+Apollo Suns                    | 56   | 46       
+Porcupine Tree                 | 58   | 46       
+Adele                          | 59   | 44       
+Thulsa Doom                    | 61   | 43       
+All Them Witches               | 63   | 41       
 The Rolling Stones             | 66   | 39       
 Graveyard                      | 67   | 38       
 Witchcraft                     | 69   | 37       
@@ -120,7 +120,7 @@ Led Zeppelin                 | 29   | 77
 Pink Floyd                   | 47   | 54       
 The Who                      | 49   | 53       
 Creedence Clearwater Revival | 51   | 51       
-The Beatles                  | 63   | 41       
+The Beatles                  | 64   | 41       
 Dire Straits                 | 65   | 39       
 Jimi Hendrix                 | 71   | 36       
 The Doors                    | 95   | 27       
