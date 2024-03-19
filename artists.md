@@ -25,13 +25,13 @@ In Flames                      | 10   | 162
 The Dogs                       | 11   | 159      
 Avenged Sevenfold              | 12   | 156      
 Circus Maximus                 | 13   | 156      
-Skálmöld                       | 14   | 137      
+Skálmöld                       | 14   | 140      
 Architects                     | 15   | 120      
 Pagan's Mind                   | 19   | 114      
 Slipknot                       | 21   | 108      
 Mastodon                       | 22   | 101      
 blink-182                      | 23   | 100      
-Finntroll                      | 25   | 87       
+Finntroll                      | 26   | 87       
 Gojira                         | 28   | 77       
 Kvelertak                      | 32   | 68       
 Eminem                         | 34   | 66       
@@ -66,8 +66,8 @@ The Night Flight Orchestra     | 16   | 119
 Lars Vaular                    | 17   | 117      
 Animals as Leaders             | 18   | 114      
 Sylosis                        | 20   | 111      
-Greta Van Fleet                | 24   | 88       
-Seven Spires                   | 26   | 80       
+Seven Spires                   | 24   | 93       
+Greta Van Fleet                | 25   | 88       
 Hall & Oates                   | 27   | 79       
 DumDum Boys                    | 30   | 75       
 Love                           | 31   | 73       
