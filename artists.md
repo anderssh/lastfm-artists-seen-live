@@ -16,16 +16,16 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Spidergawd                     | 1    | 361      
 Dream Theater                  | 2    | 357      
-Metallica                      | 3    | 278      
-Ghost                          | 5    | 225      
-AC/DC                          | 6    | 193      
+Metallica                      | 3    | 279      
+Ghost                          | 5    | 227      
+AC/DC                          | 6    | 194      
 Foo Fighters                   | 7    | 192      
 Honningbarna                   | 8    | 172      
 In Flames                      | 10   | 162      
 The Dogs                       | 11   | 159      
 Avenged Sevenfold              | 12   | 156      
 Circus Maximus                 | 13   | 156      
-Skálmöld                       | 14   | 140      
+Skálmöld                       | 14   | 141      
 Architects                     | 15   | 120      
 Pagan's Mind                   | 19   | 114      
 Slipknot                       | 21   | 108      
@@ -42,21 +42,21 @@ Snarky Puppy                   | 39   | 58
 Mall Girl                      | 42   | 56       
 The Winery Dogs                | 46   | 55       
 Leo                            | 48   | 53       
-Maktkamp                       | 50   | 52       
+Maktkamp                       | 51   | 52       
 Def Leppard                    | 57   | 46       
 Spiritbox                      | 60   | 43       
 22                             | 62   | 42       
 Soilwork                       | 68   | 38       
-Danko Jones                    | 70   | 36       
+Danko Jones                    | 71   | 36       
 HammerFall                     | 72   | 35       
 Sabaton                        | 73   | 34       
 Behemoth                       | 75   | 33       
 Clutch                         | 79   | 32       
 Powerwolf                      | 82   | 30       
-Avatar                         | 88   | 28       
-Children of Bodom              | 91   | 27       
-Kaizers Orchestra              | 93   | 27       
-Pantera                        | 98   | 26       
+Avatar                         | 89   | 28       
+Children of Bodom              | 92   | 27       
+Kaizers Orchestra              | 94   | 27       
+Pantera                        | 100  | 26       
 
 ## Active top 100 artists not seen live (47)
 
@@ -66,7 +66,7 @@ The Night Flight Orchestra     | 16   | 119
 Lars Vaular                    | 17   | 117      
 Animals as Leaders             | 18   | 114      
 Sylosis                        | 20   | 111      
-Seven Spires                   | 24   | 93       
+Seven Spires                   | 24   | 100      
 Greta Van Fleet                | 25   | 88       
 Hall & Oates                   | 27   | 79       
 DumDum Boys                    | 30   | 75       
@@ -78,7 +78,7 @@ Frank Zappa                    | 41   | 57
 Tool                           | 43   | 56       
 Backstreet Girls               | 44   | 55       
 The Notorious B.I.G.           | 45   | 55       
-Judas Priest                   | 52   | 51       
+Judas Priest                   | 50   | 52       
 Queens of the Stone Age        | 53   | 50       
 The Police                     | 54   | 49       
 Bill Withers                   | 55   | 47       
@@ -89,7 +89,7 @@ Thulsa Doom                    | 61   | 43
 All Them Witches               | 63   | 41       
 The Rolling Stones             | 66   | 39       
 Graveyard                      | 67   | 38       
-Witchcraft                     | 69   | 37       
+Witchcraft                     | 70   | 37       
 All That Remains               | 74   | 33       
 Elton John                     | 76   | 33       
 Maraton                        | 77   | 33       
@@ -101,14 +101,14 @@ Haken                          | 84   | 29
 Nightwish                      | 85   | 29       
 OnklP & De Fjerne Slektningene | 86   | 29       
 Van Halen                      | 87   | 29       
-Megadeth                       | 89   | 28       
-Buffalo Springfield            | 90   | 27       
-Hoobastank                     | 92   | 27       
-Stage Dolls                    | 94   | 27       
-Cream                          | 96   | 26       
-Mangini                        | 97   | 26       
-Robert Pehrsson's Humbucker    | 99   | 26       
-Sleep Token                    | 100  | 26       
+Aktiv Dödshjelp                | 88   | 28       
+Megadeth                       | 90   | 28       
+Buffalo Springfield            | 91   | 27       
+Hoobastank                     | 93   | 27       
+Stage Dolls                    | 95   | 27       
+Atavistia                      | 97   | 26       
+Cream                          | 98   | 26       
+Mangini                        | 99   | 26       
 
 ## Inactive top 100 artists not seen live (10)
 
@@ -119,8 +119,8 @@ Rush                         | 9    | 170
 Led Zeppelin                 | 29   | 77       
 Pink Floyd                   | 47   | 54       
 The Who                      | 49   | 53       
-Creedence Clearwater Revival | 51   | 51       
+Creedence Clearwater Revival | 52   | 51       
 The Beatles                  | 64   | 41       
 Dire Straits                 | 65   | 39       
-Jimi Hendrix                 | 71   | 36       
-The Doors                    | 95   | 27       
+Jimi Hendrix                 | 69   | 37       
+The Doors                    | 96   | 27       
