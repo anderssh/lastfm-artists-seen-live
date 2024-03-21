@@ -18,19 +18,19 @@ Spidergawd                     | 1    | 361
 Dream Theater                  | 2    | 357      
 Metallica                      | 3    | 279      
 Ghost                          | 5    | 227      
-AC/DC                          | 6    | 194      
+AC/DC                          | 6    | 196      
 Foo Fighters                   | 7    | 192      
 Honningbarna                   | 8    | 172      
 In Flames                      | 10   | 162      
 The Dogs                       | 11   | 159      
 Avenged Sevenfold              | 12   | 156      
 Circus Maximus                 | 13   | 156      
-Skálmöld                       | 14   | 141      
-Architects                     | 15   | 120      
-Pagan's Mind                   | 19   | 114      
-Slipknot                       | 21   | 108      
-Mastodon                       | 22   | 101      
-blink-182                      | 23   | 100      
+Skálmöld                       | 14   | 144      
+Architects                     | 16   | 120      
+Pagan's Mind                   | 20   | 114      
+Slipknot                       | 22   | 108      
+Mastodon                       | 23   | 101      
+blink-182                      | 24   | 100      
 Finntroll                      | 26   | 87       
 Gojira                         | 28   | 77       
 Kvelertak                      | 32   | 68       
@@ -54,19 +54,19 @@ Behemoth                       | 75   | 33
 Clutch                         | 79   | 32       
 Powerwolf                      | 82   | 30       
 Avatar                         | 89   | 28       
-Children of Bodom              | 92   | 27       
-Kaizers Orchestra              | 94   | 27       
+Children of Bodom              | 93   | 27       
+Kaizers Orchestra              | 95   | 27       
 Pantera                        | 100  | 26       
 
 ## Active top 100 artists not seen live (47)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-The Night Flight Orchestra     | 16   | 119      
-Lars Vaular                    | 17   | 117      
-Animals as Leaders             | 18   | 114      
-Sylosis                        | 20   | 111      
-Seven Spires                   | 24   | 100      
+Seven Spires                   | 15   | 124      
+The Night Flight Orchestra     | 17   | 119      
+Lars Vaular                    | 18   | 117      
+Animals as Leaders             | 19   | 114      
+Sylosis                        | 21   | 111      
 Greta Van Fleet                | 25   | 88       
 Hall & Oates                   | 27   | 79       
 DumDum Boys                    | 30   | 75       
@@ -96,17 +96,17 @@ Maraton                        | 77   | 33
 Amyl and the Sniffers          | 78   | 32       
 Lørdagsrådet                   | 80   | 32       
 Rival Sons                     | 81   | 32       
-Electric Light Orchestra       | 83   | 29       
-Haken                          | 84   | 29       
-Nightwish                      | 85   | 29       
-OnklP & De Fjerne Slektningene | 86   | 29       
-Van Halen                      | 87   | 29       
+Van Halen                      | 83   | 30       
+Electric Light Orchestra       | 84   | 29       
+Haken                          | 85   | 29       
+Nightwish                      | 86   | 29       
+OnklP & De Fjerne Slektningene | 87   | 29       
 Aktiv Dödshjelp                | 88   | 28       
 Megadeth                       | 90   | 28       
-Buffalo Springfield            | 91   | 27       
-Hoobastank                     | 93   | 27       
-Stage Dolls                    | 95   | 27       
-Atavistia                      | 97   | 26       
+Atavistia                      | 91   | 27       
+Buffalo Springfield            | 92   | 27       
+Hoobastank                     | 94   | 27       
+Stage Dolls                    | 96   | 27       
 Cream                          | 98   | 26       
 Mangini                        | 99   | 26       
 
@@ -114,7 +114,7 @@ Mangini                        | 99   | 26
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 4    | 261      
+Fleetwood Mac                | 4    | 262      
 Rush                         | 9    | 170      
 Led Zeppelin                 | 29   | 77       
 Pink Floyd                   | 47   | 54       
@@ -123,4 +123,4 @@ Creedence Clearwater Revival | 52   | 51
 The Beatles                  | 64   | 41       
 Dire Straits                 | 65   | 39       
 Jimi Hendrix                 | 69   | 37       
-The Doors                    | 96   | 27       
+The Doors                    | 97   | 27       
