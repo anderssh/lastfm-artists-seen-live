@@ -23,9 +23,9 @@ Foo Fighters                   | 7    | 192
 Honningbarna                   | 8    | 172      
 In Flames                      | 10   | 163      
 The Dogs                       | 11   | 159      
-Avenged Sevenfold              | 12   | 156      
-Circus Maximus                 | 13   | 156      
-Skálmöld                       | 14   | 144      
+Avenged Sevenfold              | 13   | 156      
+Circus Maximus                 | 14   | 156      
+Skálmöld                       | 15   | 145      
 Architects                     | 16   | 120      
 Pagan's Mind                   | 20   | 114      
 Slipknot                       | 22   | 108      
@@ -62,7 +62,7 @@ Pantera                        | 100  | 26
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Seven Spires                   | 15   | 138      
+Seven Spires                   | 12   | 158      
 The Night Flight Orchestra     | 17   | 119      
 Lars Vaular                    | 18   | 117      
 Animals as Leaders             | 19   | 115      
