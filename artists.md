@@ -21,8 +21,8 @@ Ghost                          | 5    | 227
 AC/DC                          | 6    | 197      
 Foo Fighters                   | 7    | 192      
 Honningbarna                   | 8    | 172      
-In Flames                      | 10   | 163      
-The Dogs                       | 11   | 159      
+In Flames                      | 11   | 163      
+The Dogs                       | 12   | 159      
 Avenged Sevenfold              | 13   | 156      
 Circus Maximus                 | 14   | 156      
 Skálmöld                       | 15   | 145      
@@ -49,7 +49,7 @@ Spiritbox                      | 60   | 43
 Soilwork                       | 68   | 38       
 Danko Jones                    | 71   | 36       
 HammerFall                     | 72   | 35       
-Sabaton                        | 73   | 34       
+Sabaton                        | 74   | 34       
 Behemoth                       | 76   | 33       
 Clutch                         | 80   | 32       
 Powerwolf                      | 83   | 30       
@@ -62,7 +62,7 @@ Pantera                        | 100  | 26
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Seven Spires                   | 12   | 158      
+Seven Spires                   | 10   | 167      
 The Night Flight Orchestra     | 17   | 119      
 Lars Vaular                    | 18   | 117      
 Animals as Leaders             | 19   | 115      
@@ -90,8 +90,8 @@ All Them Witches               | 64   | 41
 The Rolling Stones             | 65   | 40       
 Graveyard                      | 67   | 38       
 Witchcraft                     | 70   | 37       
-All That Remains               | 74   | 33       
-Atavistia                      | 75   | 33       
+Atavistia                      | 73   | 34       
+All That Remains               | 75   | 33       
 Elton John                     | 77   | 33       
 Maraton                        | 78   | 33       
 Amyl and the Sniffers          | 79   | 32       
