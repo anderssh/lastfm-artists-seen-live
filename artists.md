@@ -20,7 +20,7 @@ Metallica                      | 3    | 280
 Ghost                          | 5    | 227      
 AC/DC                          | 6    | 197      
 Foo Fighters                   | 7    | 192      
-Honningbarna                   | 8    | 172      
+Honningbarna                   | 9    | 172      
 In Flames                      | 11   | 163      
 The Dogs                       | 12   | 159      
 Avenged Sevenfold              | 13   | 156      
@@ -47,8 +47,8 @@ Def Leppard                    | 58   | 46
 Spiritbox                      | 60   | 43       
 22                             | 62   | 42       
 Soilwork                       | 68   | 38       
-Danko Jones                    | 71   | 36       
-HammerFall                     | 72   | 35       
+Danko Jones                    | 72   | 36       
+HammerFall                     | 73   | 35       
 Sabaton                        | 74   | 34       
 Behemoth                       | 76   | 33       
 Clutch                         | 80   | 32       
@@ -62,7 +62,7 @@ Pantera                        | 100  | 26
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Seven Spires                   | 10   | 167      
+Seven Spires                   | 8    | 175      
 The Night Flight Orchestra     | 17   | 119      
 Lars Vaular                    | 18   | 117      
 Animals as Leaders             | 19   | 115      
@@ -89,8 +89,8 @@ Thulsa Doom                    | 61   | 43
 All Them Witches               | 64   | 41       
 The Rolling Stones             | 65   | 40       
 Graveyard                      | 67   | 38       
-Witchcraft                     | 70   | 37       
-Atavistia                      | 73   | 34       
+Atavistia                      | 69   | 37       
+Witchcraft                     | 71   | 37       
 All That Remains               | 75   | 33       
 Elton John                     | 77   | 33       
 Maraton                        | 78   | 33       
@@ -115,12 +115,12 @@ Mangini                        | 99   | 26
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 263      
-Rush                         | 9    | 170      
+Rush                         | 10   | 170      
 Led Zeppelin                 | 29   | 77       
 Pink Floyd                   | 47   | 54       
 The Who                      | 49   | 53       
 Creedence Clearwater Revival | 52   | 51       
 The Beatles                  | 63   | 42       
 Dire Straits                 | 66   | 39       
-Jimi Hendrix                 | 69   | 37       
+Jimi Hendrix                 | 70   | 37       
 The Doors                    | 97   | 27       
