@@ -2,7 +2,7 @@
 
 Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
-- Number of artists seen live in total: 75
+- Number of artists seen live in total: 78
 
 - Number of fetched top artists: 100 (Active: 89 Inactive: 11)
 
@@ -19,8 +19,8 @@ Spidergawd                     | 2    | 361
 Metallica                      | 3    | 280      
 Ghost                          | 5    | 227      
 AC/DC                          | 6    | 197      
-Foo Fighters                   | 7    | 192      
-Seven Spires                   | 8    | 175      
+Foo Fighters                   | 7    | 193      
+Seven Spires                   | 8    | 177      
 Honningbarna                   | 9    | 172      
 In Flames                      | 11   | 163      
 The Dogs                       | 12   | 159      
@@ -35,17 +35,17 @@ blink-182                      | 24   | 100
 Finntroll                      | 26   | 87       
 Gojira                         | 28   | 78       
 Kvelertak                      | 32   | 70       
-Eminem                         | 34   | 66       
-Green Day                      | 35   | 66       
+Green Day                      | 33   | 67       
+Eminem                         | 35   | 66       
 The Good The Bad and The Zugly | 37   | 63       
 Oslo Ess                       | 38   | 60       
 Snarky Puppy                   | 39   | 58       
-Mall Girl                      | 42   | 56       
+Mall Girl                      | 43   | 56       
 The Winery Dogs                | 46   | 55       
 Leo                            | 49   | 53       
 Maktkamp                       | 51   | 52       
 Def Leppard                    | 58   | 46       
-Spiritbox                      | 60   | 43       
+Spiritbox                      | 61   | 43       
 22                             | 62   | 42       
 Atavistia                      | 67   | 38       
 Soilwork                       | 69   | 38       
@@ -72,11 +72,11 @@ Greta Van Fleet                | 25   | 88
 Hall & Oates                   | 27   | 79       
 DumDum Boys                    | 30   | 75       
 Love                           | 31   | 73       
-Styx                           | 33   | 67       
-Bokassa                        | 36   | 64       
+Styx                           | 34   | 67       
+Bokassa                        | 36   | 65       
 Daft Punk                      | 40   | 57       
 Frank Zappa                    | 41   | 57       
-Tool                           | 43   | 56       
+Tool                           | 42   | 57       
 Backstreet Girls               | 44   | 55       
 The Notorious B.I.G.           | 45   | 55       
 Judas Priest                   | 48   | 53       
@@ -86,7 +86,7 @@ Porcupine Tree                 | 55   | 49
 Bill Withers                   | 56   | 47       
 Apollo Suns                    | 57   | 46       
 Adele                          | 59   | 44       
-Thulsa Doom                    | 61   | 43       
+Thulsa Doom                    | 60   | 44       
 All Them Witches               | 64   | 41       
 The Rolling Stones             | 65   | 40       
 Graveyard                      | 68   | 38       
@@ -115,7 +115,7 @@ Mangini                        | 100  | 26
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 263      
-Rush                         | 10   | 170      
+Rush                         | 10   | 172      
 Led Zeppelin                 | 29   | 77       
 Pink Floyd                   | 47   | 54       
 The Who                      | 50   | 53       
