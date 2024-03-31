@@ -35,7 +35,7 @@ blink-182                      | 24   | 100
 Finntroll                      | 26   | 87       
 Gojira                         | 28   | 78       
 Kvelertak                      | 32   | 70       
-Green Day                      | 33   | 67       
+Green Day                      | 33   | 68       
 Eminem                         | 35   | 66       
 The Good The Bad and The Zugly | 37   | 63       
 Oslo Ess                       | 38   | 60       
@@ -58,7 +58,7 @@ Powerwolf                      | 83   | 30
 Avatar                         | 90   | 28       
 Children of Bodom              | 93   | 27       
 Kaizers Orchestra              | 95   | 27       
-Lamb of God                    | 99   | 26       
+Lamb of God                    | 100  | 26       
 
 ## Active top 100 artists not seen live (45)
 
@@ -106,9 +106,9 @@ Aktiv Dödshjelp                | 89   | 28
 Megadeth                       | 91   | 28       
 Buffalo Springfield            | 92   | 27       
 Hoobastank                     | 94   | 27       
-Stage Dolls                    | 96   | 27       
-Cream                          | 98   | 26       
-Mangini                        | 100  | 26       
+Red Hot Chili Peppers          | 96   | 27       
+Stage Dolls                    | 97   | 27       
+Cream                          | 99   | 26       
 
 ## Inactive top 100 artists not seen live (10)
 
@@ -123,4 +123,4 @@ Creedence Clearwater Revival | 52   | 51
 The Beatles                  | 63   | 42       
 Dire Straits                 | 66   | 39       
 Jimi Hendrix                 | 70   | 37       
-The Doors                    | 97   | 27       
+The Doors                    | 98   | 27       
