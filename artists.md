@@ -26,10 +26,10 @@ In Flames                      | 11   | 164
 The Dogs                       | 12   | 159      
 Circus Maximus                 | 13   | 157      
 Avenged Sevenfold              | 14   | 156      
-Skálmöld                       | 15   | 145      
+Skálmöld                       | 15   | 153      
 Architects                     | 16   | 120      
 Pagan's Mind                   | 20   | 114      
-Slipknot                       | 22   | 108      
+Slipknot                       | 22   | 109      
 blink-182                      | 23   | 101      
 Mastodon                       | 24   | 101      
 Finntroll                      | 26   | 87       
