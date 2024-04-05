@@ -20,7 +20,7 @@ Metallica                      | 3    | 282
 Ghost                          | 5    | 227      
 AC/DC                          | 6    | 198      
 Foo Fighters                   | 7    | 196      
-Seven Spires                   | 9    | 177      
+Seven Spires                   | 8    | 182      
 Honningbarna                   | 10   | 172      
 In Flames                      | 11   | 164      
 The Dogs                       | 12   | 159      
@@ -49,11 +49,11 @@ Spiritbox                      | 61   | 43
 22                             | 62   | 42       
 Atavistia                      | 68   | 38       
 Soilwork                       | 70   | 38       
-Danko Jones                    | 73   | 36       
-HammerFall                     | 74   | 35       
-Sabaton                        | 77   | 34       
-Behemoth                       | 78   | 33       
-Clutch                         | 81   | 32       
+Danko Jones                    | 74   | 36       
+HammerFall                     | 75   | 35       
+Sabaton                        | 78   | 34       
+Behemoth                       | 79   | 33       
+Clutch                         | 82   | 32       
 Powerwolf                      | 86   | 30       
 Avatar                         | 93   | 28       
 Children of Bodom              | 97   | 27       
@@ -68,7 +68,7 @@ Lars Vaular                    | 18   | 117
 Animals as Leaders             | 19   | 115      
 Sylosis                        | 21   | 112      
 Greta Van Fleet                | 25   | 88       
-Hall & Oates                   | 27   | 79       
+Hall & Oates                   | 27   | 80       
 DumDum Boys                    | 30   | 75       
 Love                           | 31   | 73       
 Styx                           | 34   | 67       
@@ -90,14 +90,14 @@ All Them Witches               | 64   | 41
 Sum 41                         | 65   | 41       
 The Rolling Stones             | 66   | 40       
 Graveyard                      | 69   | 38       
-Witchcraft                     | 72   | 37       
-All That Remains               | 75   | 34       
-Maraton                        | 76   | 34       
-Elton John                     | 79   | 33       
-Amyl and the Sniffers          | 80   | 32       
-Lørdagsrådet                   | 82   | 32       
-Rival Sons                     | 83   | 32       
-The Offspring                  | 84   | 32       
+The Offspring                  | 71   | 38       
+Witchcraft                     | 73   | 37       
+All That Remains               | 76   | 34       
+Maraton                        | 77   | 34       
+Elton John                     | 80   | 33       
+Amyl and the Sniffers          | 81   | 32       
+Lørdagsrådet                   | 83   | 32       
+Rival Sons                     | 84   | 32       
 Van Halen                      | 85   | 31       
 Electric Light Orchestra       | 87   | 29       
 Haken                          | 88   | 29       
@@ -115,12 +115,12 @@ Stage Dolls                    | 100  | 27
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 263      
-Rush                         | 8    | 177      
+Rush                         | 9    | 177      
 Led Zeppelin                 | 29   | 77       
 Pink Floyd                   | 45   | 55       
 Creedence Clearwater Revival | 48   | 53       
 The Who                      | 51   | 53       
 The Beatles                  | 63   | 42       
 Dire Straits                 | 67   | 39       
-Jimi Hendrix                 | 71   | 37       
+Jimi Hendrix                 | 72   | 37       
 Thin Lizzy                   | 95   | 28       
