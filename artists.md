@@ -2,7 +2,7 @@
 
 Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
-- Number of artists seen live in total: 78
+- Number of artists seen live in total: 79
 
 - Number of fetched top artists: 100 (Active: 89 Inactive: 11)
 
@@ -18,7 +18,7 @@ Dream Theater                  | 1    | 364
 Spidergawd                     | 2    | 361      
 Metallica                      | 3    | 282      
 Ghost                          | 5    | 227      
-AC/DC                          | 6    | 198      
+AC/DC                          | 6    | 199      
 Foo Fighters                   | 7    | 196      
 Seven Spires                   | 8    | 182      
 Honningbarna                   | 10   | 172      
@@ -30,10 +30,10 @@ Skálmöld                       | 15   | 153
 Architects                     | 16   | 120      
 Pagan's Mind                   | 20   | 114      
 Slipknot                       | 22   | 109      
-blink-182                      | 23   | 101      
-Mastodon                       | 24   | 101      
+blink-182                      | 24   | 101      
+Mastodon                       | 25   | 101      
 Finntroll                      | 26   | 87       
-Gojira                         | 28   | 78       
+Gojira                         | 27   | 81       
 Green Day                      | 32   | 72       
 Kvelertak                      | 33   | 71       
 Eminem                         | 36   | 66       
@@ -51,9 +51,9 @@ Atavistia                      | 68   | 38
 Soilwork                       | 70   | 38       
 Danko Jones                    | 74   | 36       
 HammerFall                     | 75   | 35       
-Sabaton                        | 78   | 34       
-Behemoth                       | 79   | 33       
-Clutch                         | 82   | 32       
+Sabaton                        | 79   | 34       
+Behemoth                       | 80   | 33       
+Clutch                         | 83   | 32       
 Powerwolf                      | 86   | 30       
 Avatar                         | 93   | 28       
 Children of Bodom              | 97   | 27       
@@ -67,8 +67,8 @@ The Night Flight Orchestra     | 17   | 119
 Lars Vaular                    | 18   | 117      
 Animals as Leaders             | 19   | 115      
 Sylosis                        | 21   | 112      
-Greta Van Fleet                | 25   | 88       
-Hall & Oates                   | 27   | 80       
+Greta Van Fleet                | 23   | 107      
+Hall & Oates                   | 28   | 80       
 DumDum Boys                    | 30   | 75       
 Love                           | 31   | 73       
 Styx                           | 34   | 67       
@@ -94,10 +94,10 @@ The Offspring                  | 71   | 38
 Witchcraft                     | 73   | 37       
 All That Remains               | 76   | 34       
 Maraton                        | 77   | 34       
-Elton John                     | 80   | 33       
-Amyl and the Sniffers          | 81   | 32       
-Lørdagsrådet                   | 83   | 32       
-Rival Sons                     | 84   | 32       
+Rival Sons                     | 78   | 34       
+Elton John                     | 81   | 33       
+Amyl and the Sniffers          | 82   | 32       
+Lørdagsrådet                   | 84   | 32       
 Van Halen                      | 85   | 31       
 Electric Light Orchestra       | 87   | 29       
 Haken                          | 88   | 29       
@@ -115,7 +115,7 @@ Stage Dolls                    | 100  | 27
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 263      
-Rush                         | 9    | 177      
+Rush                         | 9    | 179      
 Led Zeppelin                 | 29   | 77       
 Pink Floyd                   | 45   | 55       
 Creedence Clearwater Revival | 48   | 53       
