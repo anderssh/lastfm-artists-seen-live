@@ -20,13 +20,13 @@ Metallica                      | 3    | 282
 Ghost                          | 5    | 227      
 AC/DC                          | 6    | 199      
 Foo Fighters                   | 7    | 196      
-Seven Spires                   | 8    | 182      
+Seven Spires                   | 8    | 192      
 Honningbarna                   | 10   | 172      
 In Flames                      | 11   | 164      
 The Dogs                       | 12   | 159      
 Circus Maximus                 | 13   | 157      
 Avenged Sevenfold              | 14   | 156      
-Skálmöld                       | 15   | 153      
+Skálmöld                       | 15   | 156      
 Architects                     | 16   | 120      
 Pagan's Mind                   | 20   | 114      
 Slipknot                       | 22   | 109      
@@ -47,7 +47,7 @@ Maktkamp                       | 52   | 52
 Def Leppard                    | 58   | 46       
 Spiritbox                      | 61   | 43       
 22                             | 62   | 42       
-Atavistia                      | 68   | 38       
+Atavistia                      | 66   | 40       
 Soilwork                       | 70   | 38       
 Danko Jones                    | 74   | 36       
 HammerFall                     | 75   | 35       
@@ -88,7 +88,7 @@ Adele                          | 59   | 44
 Thulsa Doom                    | 60   | 44       
 All Them Witches               | 64   | 41       
 Sum 41                         | 65   | 41       
-The Rolling Stones             | 66   | 40       
+The Rolling Stones             | 67   | 40       
 Graveyard                      | 69   | 38       
 The Offspring                  | 71   | 38       
 Witchcraft                     | 73   | 37       
@@ -121,6 +121,6 @@ Pink Floyd                   | 45   | 55
 Creedence Clearwater Revival | 48   | 53       
 The Who                      | 51   | 53       
 The Beatles                  | 63   | 42       
-Dire Straits                 | 67   | 39       
+Dire Straits                 | 68   | 39       
 Jimi Hendrix                 | 72   | 37       
 Thin Lizzy                   | 95   | 28       
