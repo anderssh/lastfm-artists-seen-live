@@ -2,7 +2,7 @@
 
 Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
-- Number of artists seen live in total: 79
+- Number of artists seen live in total: 81
 
 - Number of fetched top artists: 100 (Active: 89 Inactive: 11)
 
@@ -41,13 +41,13 @@ The Good The Bad and The Zugly | 37   | 63
 Oslo Ess                       | 38   | 60       
 Snarky Puppy                   | 39   | 58       
 Mall Girl                      | 43   | 56       
-The Winery Dogs                | 47   | 55       
+The Winery Dogs                | 48   | 55       
 Leo                            | 50   | 53       
 Maktkamp                       | 52   | 52       
 Def Leppard                    | 58   | 46       
 Spiritbox                      | 61   | 43       
 22                             | 62   | 42       
-Atavistia                      | 66   | 40       
+Atavistia                      | 65   | 41       
 Soilwork                       | 70   | 38       
 Danko Jones                    | 74   | 36       
 HammerFall                     | 75   | 35       
@@ -77,8 +77,8 @@ Daft Punk                      | 40   | 57
 Frank Zappa                    | 41   | 57       
 Tool                           | 42   | 57       
 Backstreet Girls               | 44   | 55       
-The Notorious B.I.G.           | 46   | 55       
-Judas Priest                   | 49   | 53       
+Judas Priest                   | 45   | 55       
+The Notorious B.I.G.           | 47   | 55       
 Queens of the Stone Age        | 53   | 50       
 The Police                     | 54   | 50       
 Porcupine Tree                 | 55   | 49       
@@ -87,7 +87,7 @@ Apollo Suns                    | 57   | 46
 Adele                          | 59   | 44       
 Thulsa Doom                    | 60   | 44       
 All Them Witches               | 64   | 41       
-Sum 41                         | 65   | 41       
+Sum 41                         | 66   | 41       
 The Rolling Stones             | 67   | 40       
 Graveyard                      | 69   | 38       
 The Offspring                  | 71   | 38       
@@ -117,8 +117,8 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 4    | 263      
 Rush                         | 9    | 179      
 Led Zeppelin                 | 29   | 77       
-Pink Floyd                   | 45   | 55       
-Creedence Clearwater Revival | 48   | 53       
+Pink Floyd                   | 46   | 55       
+Creedence Clearwater Revival | 49   | 53       
 The Who                      | 51   | 53       
 The Beatles                  | 63   | 42       
 Dire Straits                 | 68   | 39       
