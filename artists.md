@@ -16,20 +16,20 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 364      
 Spidergawd                     | 2    | 361      
-Metallica                      | 3    | 282      
+Metallica                      | 3    | 283      
 Ghost                          | 5    | 227      
 Seven Spires                   | 6    | 207      
 AC/DC                          | 7    | 199      
 Foo Fighters                   | 8    | 196      
 Honningbarna                   | 10   | 172      
-In Flames                      | 11   | 164      
+In Flames                      | 11   | 165      
 The Dogs                       | 12   | 159      
 Circus Maximus                 | 13   | 157      
 Avenged Sevenfold              | 14   | 156      
 Skálmöld                       | 15   | 156      
 Architects                     | 16   | 120      
 Pagan's Mind                   | 20   | 114      
-Slipknot                       | 22   | 109      
+Slipknot                       | 23   | 109      
 blink-182                      | 24   | 101      
 Mastodon                       | 25   | 101      
 Finntroll                      | 26   | 87       
@@ -40,17 +40,17 @@ Eminem                         | 36   | 66
 The Good The Bad and The Zugly | 37   | 63       
 Oslo Ess                       | 38   | 60       
 Snarky Puppy                   | 39   | 58       
-Mall Girl                      | 43   | 56       
+Mall Girl                      | 44   | 56       
 The Winery Dogs                | 48   | 55       
 Leo                            | 50   | 53       
 Maktkamp                       | 52   | 52       
 Def Leppard                    | 58   | 46       
-Spiritbox                      | 61   | 43       
-22                             | 62   | 42       
-Atavistia                      | 65   | 41       
+Spiritbox                      | 62   | 43       
+22                             | 63   | 42       
+Atavistia                      | 64   | 42       
 Soilwork                       | 70   | 38       
 Danko Jones                    | 74   | 36       
-HammerFall                     | 75   | 35       
+HammerFall                     | 76   | 35       
 Sabaton                        | 79   | 34       
 Behemoth                       | 80   | 33       
 Clutch                         | 83   | 32       
@@ -67,7 +67,7 @@ The Night Flight Orchestra     | 17   | 119
 Lars Vaular                    | 18   | 117      
 Animals as Leaders             | 19   | 115      
 Sylosis                        | 21   | 112      
-Greta Van Fleet                | 23   | 107      
+Greta Van Fleet                | 22   | 110      
 Hall & Oates                   | 28   | 80       
 DumDum Boys                    | 30   | 75       
 Love                           | 31   | 73       
@@ -76,29 +76,29 @@ Bokassa                        | 35   | 66
 Daft Punk                      | 40   | 57       
 Frank Zappa                    | 41   | 57       
 Tool                           | 42   | 57       
-Backstreet Girls               | 44   | 55       
-Judas Priest                   | 45   | 55       
+Judas Priest                   | 43   | 56       
+Backstreet Girls               | 45   | 55       
 The Notorious B.I.G.           | 47   | 55       
 Queens of the Stone Age        | 53   | 50       
 The Police                     | 54   | 50       
 Porcupine Tree                 | 55   | 49       
 Bill Withers                   | 56   | 47       
 Apollo Suns                    | 57   | 46       
-Adele                          | 59   | 44       
-Thulsa Doom                    | 60   | 44       
-All Them Witches               | 64   | 41       
-Sum 41                         | 66   | 41       
-The Rolling Stones             | 67   | 40       
+Sum 41                         | 59   | 45       
+Adele                          | 60   | 44       
+Thulsa Doom                    | 61   | 44       
+The Rolling Stones             | 66   | 42       
+All Them Witches               | 67   | 41       
 Graveyard                      | 69   | 38       
 The Offspring                  | 71   | 38       
 Witchcraft                     | 73   | 37       
-All That Remains               | 76   | 34       
+All That Remains               | 75   | 35       
 Maraton                        | 77   | 34       
 Rival Sons                     | 78   | 34       
 Elton John                     | 81   | 33       
 Amyl and the Sniffers          | 82   | 32       
 Lørdagsrådet                   | 84   | 32       
-Van Halen                      | 85   | 31       
+Van Halen                      | 85   | 32       
 Electric Light Orchestra       | 87   | 29       
 Haken                          | 88   | 29       
 Nightwish                      | 89   | 29       
@@ -108,19 +108,19 @@ Aktiv Dödshjelp                | 92   | 28
 Megadeth                       | 94   | 28       
 Buffalo Springfield            | 96   | 27       
 Hoobastank                     | 98   | 27       
-Stage Dolls                    | 100  | 27       
+Mangini                        | 100  | 27       
 
 ## Inactive top 100 artists not seen live (10)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 263      
-Rush                         | 9    | 179      
+Rush                         | 9    | 181      
 Led Zeppelin                 | 29   | 77       
 Pink Floyd                   | 46   | 55       
 Creedence Clearwater Revival | 49   | 53       
 The Who                      | 51   | 53       
-The Beatles                  | 63   | 42       
+The Beatles                  | 65   | 42       
 Dire Straits                 | 68   | 39       
 Jimi Hendrix                 | 72   | 37       
 Thin Lizzy                   | 95   | 28       
