@@ -16,24 +16,24 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 364      
 Spidergawd                     | 2    | 361      
-Metallica                      | 3    | 283      
+Metallica                      | 3    | 286      
 Ghost                          | 5    | 227      
-Seven Spires                   | 6    | 207      
-AC/DC                          | 7    | 199      
+Seven Spires                   | 6    | 211      
+AC/DC                          | 7    | 201      
 Foo Fighters                   | 8    | 196      
 Honningbarna                   | 10   | 172      
-In Flames                      | 11   | 165      
+In Flames                      | 11   | 167      
 The Dogs                       | 12   | 159      
-Circus Maximus                 | 13   | 157      
-Avenged Sevenfold              | 14   | 156      
-Skálmöld                       | 15   | 156      
+Skálmöld                       | 13   | 158      
+Avenged Sevenfold              | 14   | 157      
+Circus Maximus                 | 15   | 157      
 Architects                     | 16   | 120      
 Pagan's Mind                   | 20   | 114      
 Slipknot                       | 23   | 109      
 blink-182                      | 24   | 101      
 Mastodon                       | 25   | 101      
 Finntroll                      | 26   | 87       
-Gojira                         | 27   | 81       
+Gojira                         | 27   | 83       
 Green Day                      | 32   | 72       
 Kvelertak                      | 33   | 71       
 Eminem                         | 36   | 66       
@@ -57,7 +57,7 @@ Clutch                         | 83   | 32
 Powerwolf                      | 86   | 30       
 Avatar                         | 93   | 28       
 Children of Bodom              | 97   | 27       
-Kaizers Orchestra              | 99   | 27       
+Kaizers Orchestra              | 100  | 27       
 
 ## Active top 100 artists not seen live (46)
 
@@ -66,7 +66,7 @@ Name                           | Rank | PlayCount
 The Night Flight Orchestra     | 17   | 119      
 Lars Vaular                    | 18   | 117      
 Animals as Leaders             | 19   | 115      
-Sylosis                        | 21   | 112      
+Sylosis                        | 21   | 113      
 Greta Van Fleet                | 22   | 110      
 Hall & Oates                   | 28   | 80       
 DumDum Boys                    | 30   | 75       
@@ -75,8 +75,8 @@ Styx                           | 34   | 67
 Bokassa                        | 35   | 66       
 Daft Punk                      | 40   | 57       
 Frank Zappa                    | 41   | 57       
-Tool                           | 42   | 57       
-Judas Priest                   | 43   | 56       
+Judas Priest                   | 42   | 57       
+Tool                           | 43   | 57       
 Backstreet Girls               | 45   | 55       
 The Notorious B.I.G.           | 47   | 55       
 Queens of the Stone Age        | 53   | 50       
@@ -107,8 +107,8 @@ Red Hot Chili Peppers          | 91   | 29
 Aktiv Dödshjelp                | 92   | 28       
 Megadeth                       | 94   | 28       
 Buffalo Springfield            | 96   | 27       
-Hoobastank                     | 98   | 27       
-Mangini                        | 100  | 27       
+Cream                          | 98   | 27       
+Hoobastank                     | 99   | 27       
 
 ## Inactive top 100 artists not seen live (10)
 
@@ -116,7 +116,7 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 263      
 Rush                         | 9    | 181      
-Led Zeppelin                 | 29   | 77       
+Led Zeppelin                 | 29   | 78       
 Pink Floyd                   | 46   | 55       
 Creedence Clearwater Revival | 49   | 53       
 The Who                      | 51   | 53       
