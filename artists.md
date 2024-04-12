@@ -14,15 +14,15 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 364      
+Dream Theater                  | 1    | 372      
 Spidergawd                     | 2    | 361      
 Metallica                      | 3    | 286      
 Ghost                          | 5    | 227      
 Seven Spires                   | 6    | 211      
 AC/DC                          | 7    | 201      
 Foo Fighters                   | 8    | 196      
-Honningbarna                   | 10   | 172      
-In Flames                      | 11   | 167      
+In Flames                      | 10   | 174      
+Honningbarna                   | 11   | 172      
 The Dogs                       | 12   | 159      
 Skálmöld                       | 13   | 158      
 Avenged Sevenfold              | 14   | 157      
@@ -42,8 +42,8 @@ Oslo Ess                       | 38   | 60
 Snarky Puppy                   | 39   | 58       
 Mall Girl                      | 44   | 56       
 The Winery Dogs                | 48   | 55       
-Leo                            | 50   | 53       
-Maktkamp                       | 52   | 52       
+Maktkamp                       | 49   | 54       
+Leo                            | 51   | 53       
 Def Leppard                    | 58   | 46       
 Spiritbox                      | 62   | 43       
 22                             | 63   | 42       
@@ -99,12 +99,12 @@ Elton John                     | 81   | 33
 Amyl and the Sniffers          | 82   | 32       
 Lørdagsrådet                   | 84   | 32       
 Van Halen                      | 85   | 32       
-Electric Light Orchestra       | 87   | 29       
-Haken                          | 88   | 29       
-Nightwish                      | 89   | 29       
-OnklP & De Fjerne Slektningene | 90   | 29       
-Red Hot Chili Peppers          | 91   | 29       
-Aktiv Dödshjelp                | 92   | 28       
+Aktiv Dödshjelp                | 87   | 29       
+Electric Light Orchestra       | 88   | 29       
+Haken                          | 89   | 29       
+Nightwish                      | 90   | 29       
+OnklP & De Fjerne Slektningene | 91   | 29       
+Red Hot Chili Peppers          | 92   | 29       
 Megadeth                       | 94   | 28       
 Buffalo Springfield            | 96   | 27       
 Cream                          | 98   | 27       
@@ -118,8 +118,8 @@ Fleetwood Mac                | 4    | 263
 Rush                         | 9    | 181      
 Led Zeppelin                 | 29   | 78       
 Pink Floyd                   | 46   | 55       
-Creedence Clearwater Revival | 49   | 53       
-The Who                      | 51   | 53       
+Creedence Clearwater Revival | 50   | 53       
+The Who                      | 52   | 53       
 The Beatles                  | 65   | 42       
 Dire Straits                 | 68   | 39       
 Jimi Hendrix                 | 72   | 37       
