@@ -28,7 +28,7 @@ Skálmöld                       | 13   | 158
 Avenged Sevenfold              | 14   | 157      
 Circus Maximus                 | 15   | 157      
 Architects                     | 16   | 121      
-Pagan's Mind                   | 20   | 114      
+Pagan's Mind                   | 20   | 115      
 Slipknot                       | 23   | 109      
 blink-182                      | 24   | 101      
 Mastodon                       | 25   | 101      
