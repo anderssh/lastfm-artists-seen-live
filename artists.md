@@ -38,7 +38,7 @@ Green Day                      | 32   | 72
 Kvelertak                      | 33   | 71       
 Eminem                         | 36   | 66       
 The Good The Bad and The Zugly | 37   | 63       
-Oslo Ess                       | 38   | 60       
+Oslo Ess                       | 39   | 60       
 Snarky Puppy                   | 40   | 58       
 Mall Girl                      | 44   | 56       
 The Winery Dogs                | 49   | 55       
@@ -72,7 +72,7 @@ DumDum Boys                    | 30   | 75
 Love                           | 31   | 73       
 Bokassa                        | 34   | 67       
 Styx                           | 35   | 67       
-Judas Priest                   | 39   | 58       
+Judas Priest                   | 38   | 60       
 Daft Punk                      | 41   | 57       
 Frank Zappa                    | 42   | 57       
 Tool                           | 43   | 57       
