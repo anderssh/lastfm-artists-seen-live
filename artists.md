@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 374      
+Dream Theater                  | 1    | 377      
 Spidergawd                     | 2    | 362      
 Metallica                      | 3    | 292      
 Ghost                          | 5    | 228      
@@ -41,20 +41,20 @@ The Good The Bad and The Zugly | 37   | 63
 Oslo Ess                       | 39   | 60       
 Snarky Puppy                   | 40   | 58       
 Mall Girl                      | 44   | 56       
-The Winery Dogs                | 49   | 55       
-Maktkamp                       | 50   | 54       
-Leo                            | 52   | 53       
-Def Leppard                    | 58   | 46       
-Spiritbox                      | 62   | 43       
-22                             | 63   | 42       
-Atavistia                      | 64   | 42       
-Soilwork                       | 69   | 39       
-Danko Jones                    | 75   | 36       
-HammerFall                     | 76   | 35       
-Sabaton                        | 79   | 34       
-Behemoth                       | 80   | 33       
-Clutch                         | 83   | 32       
-Powerwolf                      | 87   | 30       
+The Winery Dogs                | 50   | 55       
+Maktkamp                       | 51   | 54       
+Leo                            | 53   | 53       
+Def Leppard                    | 59   | 46       
+Spiritbox                      | 63   | 43       
+22                             | 64   | 42       
+Atavistia                      | 65   | 42       
+Soilwork                       | 70   | 39       
+Danko Jones                    | 76   | 36       
+HammerFall                     | 77   | 35       
+Sabaton                        | 80   | 34       
+Behemoth                       | 81   | 33       
+Clutch                         | 84   | 32       
+Powerwolf                      | 88   | 30       
 Avatar                         | 95   | 28       
 Children of Bodom              | 99   | 27       
 
@@ -76,36 +76,36 @@ Judas Priest                   | 38   | 60
 Daft Punk                      | 41   | 57       
 Frank Zappa                    | 42   | 57       
 Tool                           | 43   | 57       
-Backstreet Girls               | 45   | 55       
-Porcupine Tree                 | 47   | 55       
-The Notorious B.I.G.           | 48   | 55       
-Queens of the Stone Age        | 54   | 50       
-The Police                     | 55   | 50       
-Bill Withers                   | 56   | 47       
-Apollo Suns                    | 57   | 46       
-Sum 41                         | 59   | 45       
-Adele                          | 60   | 44       
-Thulsa Doom                    | 61   | 44       
-The Rolling Stones             | 66   | 42       
-All Them Witches               | 67   | 41       
-Graveyard                      | 70   | 38       
-The Offspring                  | 71   | 38       
-Witchcraft                     | 73   | 37       
-All That Remains               | 74   | 36       
-Maraton                        | 77   | 34       
-Rival Sons                     | 78   | 34       
-Elton John                     | 81   | 33       
-Amyl and the Sniffers          | 82   | 32       
-Flying Colors                  | 84   | 32       
-Lørdagsrådet                   | 85   | 32       
-Van Halen                      | 86   | 32       
-Aktiv Dödshjelp                | 88   | 29       
-Electric Light Orchestra       | 89   | 29       
-Haken                          | 90   | 29       
-Nightwish                      | 91   | 29       
-OnklP & De Fjerne Slektningene | 92   | 29       
-Red Hot Chili Peppers          | 93   | 29       
-The Halo Effect                | 94   | 29       
+The Halo Effect                | 45   | 56       
+Backstreet Girls               | 46   | 55       
+Porcupine Tree                 | 48   | 55       
+The Notorious B.I.G.           | 49   | 55       
+Queens of the Stone Age        | 55   | 50       
+The Police                     | 56   | 50       
+Bill Withers                   | 57   | 47       
+Apollo Suns                    | 58   | 46       
+Sum 41                         | 60   | 45       
+Adele                          | 61   | 44       
+Thulsa Doom                    | 62   | 44       
+The Rolling Stones             | 67   | 42       
+All Them Witches               | 68   | 41       
+Graveyard                      | 71   | 38       
+The Offspring                  | 72   | 38       
+Witchcraft                     | 74   | 37       
+All That Remains               | 75   | 36       
+Maraton                        | 78   | 34       
+Rival Sons                     | 79   | 34       
+Elton John                     | 82   | 33       
+Amyl and the Sniffers          | 83   | 32       
+Flying Colors                  | 85   | 32       
+Lørdagsrådet                   | 86   | 32       
+Van Halen                      | 87   | 32       
+Aktiv Dödshjelp                | 89   | 29       
+Electric Light Orchestra       | 90   | 29       
+Haken                          | 91   | 29       
+Nightwish                      | 92   | 29       
+OnklP & De Fjerne Slektningene | 93   | 29       
+Red Hot Chili Peppers          | 94   | 29       
 Megadeth                       | 96   | 28       
 Buffalo Springfield            | 98   | 27       
 Cream                          | 100  | 27       
@@ -117,10 +117,10 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 4    | 263      
 Rush                         | 9    | 188      
 Led Zeppelin                 | 29   | 78       
-Pink Floyd                   | 46   | 55       
-Creedence Clearwater Revival | 51   | 53       
-The Who                      | 53   | 53       
-The Beatles                  | 65   | 42       
-Dire Straits                 | 68   | 39       
-Jimi Hendrix                 | 72   | 37       
+Pink Floyd                   | 47   | 55       
+Creedence Clearwater Revival | 52   | 53       
+The Who                      | 54   | 53       
+The Beatles                  | 66   | 42       
+Dire Straits                 | 69   | 39       
+Jimi Hendrix                 | 73   | 37       
 Thin Lizzy                   | 97   | 28       
