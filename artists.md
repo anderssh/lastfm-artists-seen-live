@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 377      
+Dream Theater                  | 1    | 378      
 Spidergawd                     | 2    | 362      
 Metallica                      | 3    | 292      
 Ghost                          | 5    | 228      
@@ -45,18 +45,18 @@ The Winery Dogs                | 50   | 55
 Maktkamp                       | 51   | 54       
 Leo                            | 53   | 53       
 Def Leppard                    | 59   | 46       
-Spiritbox                      | 63   | 43       
-22                             | 64   | 42       
-Atavistia                      | 65   | 42       
-Soilwork                       | 70   | 39       
-Danko Jones                    | 76   | 36       
-HammerFall                     | 77   | 35       
-Sabaton                        | 80   | 34       
-Behemoth                       | 81   | 33       
-Clutch                         | 84   | 32       
-Powerwolf                      | 88   | 30       
-Avatar                         | 95   | 28       
-Children of Bodom              | 99   | 27       
+Spiritbox                      | 64   | 43       
+22                             | 65   | 42       
+Atavistia                      | 66   | 42       
+Soilwork                       | 71   | 39       
+Danko Jones                    | 78   | 36       
+HammerFall                     | 79   | 35       
+Sabaton                        | 82   | 34       
+Behemoth                       | 83   | 33       
+Clutch                         | 86   | 32       
+Powerwolf                      | 90   | 30       
+Avatar                         | 96   | 28       
+Children of Bodom              | 100  | 27       
 
 ## Active top 100 artists not seen live (47)
 
@@ -84,31 +84,31 @@ Queens of the Stone Age        | 55   | 50
 The Police                     | 56   | 50       
 Bill Withers                   | 57   | 47       
 Apollo Suns                    | 58   | 46       
-Sum 41                         | 60   | 45       
-Adele                          | 61   | 44       
-Thulsa Doom                    | 62   | 44       
-The Rolling Stones             | 67   | 42       
-All Them Witches               | 68   | 41       
-Graveyard                      | 71   | 38       
-The Offspring                  | 72   | 38       
-Witchcraft                     | 74   | 37       
-All That Remains               | 75   | 36       
-Maraton                        | 78   | 34       
-Rival Sons                     | 79   | 34       
-Elton John                     | 82   | 33       
-Amyl and the Sniffers          | 83   | 32       
-Flying Colors                  | 85   | 32       
-Lørdagsrådet                   | 86   | 32       
-Van Halen                      | 87   | 32       
-Aktiv Dödshjelp                | 89   | 29       
-Electric Light Orchestra       | 90   | 29       
-Haken                          | 91   | 29       
-Nightwish                      | 92   | 29       
-OnklP & De Fjerne Slektningene | 93   | 29       
-Red Hot Chili Peppers          | 94   | 29       
-Megadeth                       | 96   | 28       
-Buffalo Springfield            | 98   | 27       
-Cream                          | 100  | 27       
+Parius                         | 60   | 45       
+Sum 41                         | 61   | 45       
+Adele                          | 62   | 44       
+Thulsa Doom                    | 63   | 44       
+The Rolling Stones             | 68   | 42       
+All Them Witches               | 69   | 41       
+Graveyard                      | 72   | 38       
+The Offspring                  | 73   | 38       
+Haken                          | 74   | 37       
+Witchcraft                     | 76   | 37       
+All That Remains               | 77   | 36       
+Maraton                        | 80   | 34       
+Rival Sons                     | 81   | 34       
+Elton John                     | 84   | 33       
+Amyl and the Sniffers          | 85   | 32       
+Flying Colors                  | 87   | 32       
+Lørdagsrådet                   | 88   | 32       
+Van Halen                      | 89   | 32       
+Aktiv Dödshjelp                | 91   | 29       
+Electric Light Orchestra       | 92   | 29       
+Nightwish                      | 93   | 29       
+OnklP & De Fjerne Slektningene | 94   | 29       
+Red Hot Chili Peppers          | 95   | 29       
+Megadeth                       | 97   | 28       
+Buffalo Springfield            | 99   | 27       
 
 ## Inactive top 100 artists not seen live (10)
 
@@ -120,7 +120,7 @@ Led Zeppelin                 | 29   | 78
 Pink Floyd                   | 47   | 55       
 Creedence Clearwater Revival | 52   | 53       
 The Who                      | 54   | 53       
-The Beatles                  | 66   | 42       
-Dire Straits                 | 69   | 39       
-Jimi Hendrix                 | 73   | 37       
-Thin Lizzy                   | 97   | 28       
+The Beatles                  | 67   | 42       
+Dire Straits                 | 70   | 39       
+Jimi Hendrix                 | 75   | 37       
+Thin Lizzy                   | 98   | 28       
