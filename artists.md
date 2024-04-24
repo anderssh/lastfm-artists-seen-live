@@ -23,8 +23,8 @@ AC/DC                          | 7    | 204
 Foo Fighters                   | 8    | 197      
 In Flames                      | 10   | 182      
 Honningbarna                   | 11   | 172      
-The Dogs                       | 12   | 159      
-Skálmöld                       | 13   | 158      
+Skálmöld                       | 12   | 166      
+The Dogs                       | 13   | 159      
 Avenged Sevenfold              | 14   | 157      
 Circus Maximus                 | 15   | 157      
 Architects                     | 16   | 121      
@@ -44,11 +44,11 @@ Mall Girl                      | 45   | 56
 The Winery Dogs                | 51   | 55       
 Maktkamp                       | 53   | 54       
 Leo                            | 55   | 53       
-Def Leppard                    | 61   | 46       
-Spiritbox                      | 64   | 43       
-22                             | 65   | 42       
-Atavistia                      | 66   | 42       
-Soilwork                       | 72   | 39       
+Def Leppard                    | 62   | 46       
+Spiritbox                      | 65   | 43       
+22                             | 66   | 42       
+Atavistia                      | 67   | 42       
+Soilwork                       | 73   | 39       
 Danko Jones                    | 78   | 36       
 Behemoth                       | 79   | 35       
 HammerFall                     | 80   | 35       
@@ -84,15 +84,15 @@ The Notorious B.I.G.           | 50   | 55
 Sum 41                         | 54   | 54       
 Queens of the Stone Age        | 57   | 50       
 The Police                     | 58   | 50       
-Bill Withers                   | 59   | 47       
-Apollo Suns                    | 60   | 46       
-Adele                          | 62   | 44       
-Thulsa Doom                    | 63   | 44       
-The Offspring                  | 68   | 42       
-The Rolling Stones             | 69   | 42       
-All Them Witches               | 70   | 41       
-Graveyard                      | 73   | 38       
-All That Remains               | 74   | 37       
+All That Remains               | 59   | 48       
+Bill Withers                   | 60   | 47       
+Apollo Suns                    | 61   | 46       
+Adele                          | 63   | 44       
+Thulsa Doom                    | 64   | 44       
+The Offspring                  | 69   | 42       
+The Rolling Stones             | 70   | 42       
+All Them Witches               | 71   | 41       
+Graveyard                      | 74   | 38       
 Haken                          | 75   | 37       
 Witchcraft                     | 77   | 37       
 Maraton                        | 81   | 34       
@@ -120,7 +120,7 @@ Led Zeppelin                 | 29   | 78
 Pink Floyd                   | 48   | 55       
 Creedence Clearwater Revival | 52   | 54       
 The Who                      | 56   | 53       
-The Beatles                  | 67   | 42       
-Dire Straits                 | 71   | 39       
+The Beatles                  | 68   | 42       
+Dire Straits                 | 72   | 39       
 Jimi Hendrix                 | 76   | 37       
 Thin Lizzy                   | 99   | 28       
