@@ -23,8 +23,8 @@ AC/DC                          | 7    | 204
 Foo Fighters                   | 8    | 197      
 In Flames                      | 10   | 182      
 Honningbarna                   | 11   | 172      
-Skálmöld                       | 12   | 166      
-The Dogs                       | 13   | 159      
+The Dogs                       | 12   | 172      
+Skálmöld                       | 13   | 167      
 Avenged Sevenfold              | 14   | 157      
 Circus Maximus                 | 15   | 157      
 Architects                     | 16   | 121      
