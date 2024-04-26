@@ -22,8 +22,8 @@ Seven Spires                   | 6    | 212
 AC/DC                          | 7    | 204      
 Foo Fighters                   | 8    | 197      
 In Flames                      | 10   | 182      
-Honningbarna                   | 11   | 172      
-The Dogs                       | 12   | 172      
+The Dogs                       | 11   | 173      
+Honningbarna                   | 12   | 172      
 Skálmöld                       | 13   | 167      
 Avenged Sevenfold              | 14   | 157      
 Circus Maximus                 | 15   | 157      
@@ -34,10 +34,10 @@ blink-182                      | 24   | 101
 Mastodon                       | 25   | 101      
 Gojira                         | 26   | 88       
 Finntroll                      | 27   | 87       
-Green Day                      | 31   | 73       
-Kvelertak                      | 33   | 71       
-Eminem                         | 35   | 67       
-The Good The Bad and The Zugly | 38   | 63       
+Green Day                      | 32   | 73       
+Kvelertak                      | 34   | 71       
+Eminem                         | 36   | 67       
+The Good The Bad and The Zugly | 39   | 63       
 Oslo Ess                       | 40   | 60       
 Snarky Puppy                   | 41   | 58       
 Mall Girl                      | 45   | 56       
@@ -45,10 +45,10 @@ The Winery Dogs                | 51   | 55
 Maktkamp                       | 53   | 54       
 Leo                            | 55   | 53       
 Def Leppard                    | 62   | 46       
-Spiritbox                      | 65   | 43       
-22                             | 66   | 42       
-Atavistia                      | 67   | 42       
-Soilwork                       | 73   | 39       
+Spiritbox                      | 66   | 43       
+22                             | 67   | 42       
+Atavistia                      | 68   | 42       
+Soilwork                       | 74   | 39       
 Danko Jones                    | 78   | 36       
 Behemoth                       | 79   | 35       
 HammerFall                     | 80   | 35       
@@ -69,11 +69,11 @@ Animals as Leaders             | 20   | 115
 Sylosis                        | 22   | 115      
 Hall & Oates                   | 28   | 80       
 DumDum Boys                    | 30   | 75       
-Love                           | 32   | 73       
-Bokassa                        | 34   | 67       
-Styx                           | 36   | 67       
-Judas Priest                   | 37   | 63       
-Parius                         | 39   | 61       
+Parius                         | 31   | 74       
+Love                           | 33   | 73       
+Bokassa                        | 35   | 67       
+Styx                           | 37   | 67       
+Judas Priest                   | 38   | 63       
 Daft Punk                      | 42   | 57       
 Frank Zappa                    | 43   | 57       
 Tool                           | 44   | 57       
@@ -87,13 +87,13 @@ The Police                     | 58   | 50
 All That Remains               | 59   | 48       
 Bill Withers                   | 60   | 47       
 Apollo Suns                    | 61   | 46       
-Adele                          | 63   | 44       
-Thulsa Doom                    | 64   | 44       
-The Offspring                  | 69   | 42       
-The Rolling Stones             | 70   | 42       
-All Them Witches               | 71   | 41       
-Graveyard                      | 74   | 38       
-Haken                          | 75   | 37       
+Haken                          | 63   | 45       
+Adele                          | 64   | 44       
+Thulsa Doom                    | 65   | 44       
+The Offspring                  | 70   | 42       
+The Rolling Stones             | 71   | 42       
+All Them Witches               | 72   | 41       
+Graveyard                      | 75   | 38       
 Witchcraft                     | 77   | 37       
 Maraton                        | 81   | 34       
 Rival Sons                     | 82   | 34       
@@ -120,7 +120,7 @@ Led Zeppelin                 | 29   | 78
 Pink Floyd                   | 48   | 55       
 Creedence Clearwater Revival | 52   | 54       
 The Who                      | 56   | 53       
-The Beatles                  | 68   | 42       
-Dire Straits                 | 72   | 39       
+The Beatles                  | 69   | 42       
+Dire Straits                 | 73   | 39       
 Jimi Hendrix                 | 76   | 37       
 Thin Lizzy                   | 99   | 28       
