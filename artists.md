@@ -38,13 +38,13 @@ Green Day                      | 32   | 73
 Kvelertak                      | 34   | 71       
 Eminem                         | 36   | 67       
 The Good The Bad and The Zugly | 39   | 63       
-Oslo Ess                       | 40   | 60       
-Snarky Puppy                   | 41   | 58       
-Mall Girl                      | 45   | 56       
-The Winery Dogs                | 51   | 55       
-Maktkamp                       | 53   | 54       
-Leo                            | 55   | 53       
-Def Leppard                    | 62   | 46       
+Oslo Ess                       | 41   | 60       
+Snarky Puppy                   | 42   | 58       
+Mall Girl                      | 46   | 56       
+The Winery Dogs                | 52   | 55       
+Maktkamp                       | 54   | 54       
+Leo                            | 56   | 53       
+Def Leppard                    | 63   | 46       
 Spiritbox                      | 66   | 43       
 22                             | 67   | 42       
 Atavistia                      | 68   | 42       
@@ -74,20 +74,20 @@ Love                           | 33   | 73
 Bokassa                        | 35   | 67       
 Styx                           | 37   | 67       
 Judas Priest                   | 38   | 63       
-Daft Punk                      | 42   | 57       
-Frank Zappa                    | 43   | 57       
-Tool                           | 44   | 57       
-The Halo Effect                | 46   | 56       
-Backstreet Girls               | 47   | 55       
-Porcupine Tree                 | 49   | 55       
-The Notorious B.I.G.           | 50   | 55       
-Sum 41                         | 54   | 54       
-Queens of the Stone Age        | 57   | 50       
-The Police                     | 58   | 50       
-All That Remains               | 59   | 48       
-Bill Withers                   | 60   | 47       
-Apollo Suns                    | 61   | 46       
-Haken                          | 63   | 45       
+Haken                          | 40   | 60       
+Daft Punk                      | 43   | 57       
+Frank Zappa                    | 44   | 57       
+Tool                           | 45   | 57       
+The Halo Effect                | 47   | 56       
+Backstreet Girls               | 48   | 55       
+Porcupine Tree                 | 50   | 55       
+The Notorious B.I.G.           | 51   | 55       
+Sum 41                         | 55   | 54       
+Queens of the Stone Age        | 58   | 50       
+The Police                     | 59   | 50       
+All That Remains               | 60   | 48       
+Bill Withers                   | 61   | 47       
+Apollo Suns                    | 62   | 46       
 Adele                          | 64   | 44       
 Thulsa Doom                    | 65   | 44       
 The Offspring                  | 70   | 42       
@@ -117,9 +117,9 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 4    | 264      
 Rush                         | 9    | 195      
 Led Zeppelin                 | 29   | 78       
-Pink Floyd                   | 48   | 55       
-Creedence Clearwater Revival | 52   | 54       
-The Who                      | 56   | 53       
+Pink Floyd                   | 49   | 55       
+Creedence Clearwater Revival | 53   | 54       
+The Who                      | 57   | 53       
 The Beatles                  | 69   | 42       
 Dire Straits                 | 73   | 39       
 Jimi Hendrix                 | 76   | 37       
