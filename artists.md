@@ -74,7 +74,7 @@ Love                           | 33   | 73
 Bokassa                        | 35   | 67       
 Styx                           | 37   | 67       
 Judas Priest                   | 38   | 63       
-Haken                          | 40   | 60       
+Haken                          | 40   | 61       
 Daft Punk                      | 43   | 57       
 Frank Zappa                    | 44   | 57       
 Tool                           | 45   | 57       
