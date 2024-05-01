@@ -21,8 +21,8 @@ Ghost                          | 5    | 228
 Seven Spires                   | 6    | 212      
 AC/DC                          | 7    | 204      
 Foo Fighters                   | 8    | 197      
-In Flames                      | 10   | 182      
-The Dogs                       | 11   | 173      
+The Dogs                       | 10   | 184      
+In Flames                      | 11   | 182      
 Honningbarna                   | 12   | 172      
 Skálmöld                       | 13   | 167      
 Avenged Sevenfold              | 14   | 157      
@@ -54,9 +54,9 @@ Behemoth                       | 79   | 35
 HammerFall                     | 80   | 35       
 Sabaton                        | 83   | 34       
 Clutch                         | 87   | 32       
-Powerwolf                      | 90   | 30       
-Avatar                         | 96   | 28       
-Children of Bodom              | 97   | 28       
+Powerwolf                      | 91   | 30       
+Avatar                         | 97   | 28       
+Children of Bodom              | 98   | 28       
 
 ## Active top 100 artists not seen live (47)
 
@@ -102,13 +102,13 @@ Van Halen                      | 85   | 33
 Amyl and the Sniffers          | 86   | 32       
 Flying Colors                  | 88   | 32       
 Lørdagsrådet                   | 89   | 32       
-Aktiv Dödshjelp                | 91   | 29       
-Electric Light Orchestra       | 92   | 29       
-Nightwish                      | 93   | 29       
-OnklP & De Fjerne Slektningene | 94   | 29       
-Red Hot Chili Peppers          | 95   | 29       
-Megadeth                       | 98   | 28       
-Buffalo Springfield            | 100  | 27       
+oberst                         | 90   | 32       
+Aktiv Dödshjelp                | 92   | 29       
+Electric Light Orchestra       | 93   | 29       
+Nightwish                      | 94   | 29       
+OnklP & De Fjerne Slektningene | 95   | 29       
+Red Hot Chili Peppers          | 96   | 29       
+Megadeth                       | 99   | 28       
 
 ## Inactive top 100 artists not seen live (10)
 
@@ -123,4 +123,4 @@ The Who                      | 57   | 53
 The Beatles                  | 69   | 42       
 Dire Straits                 | 73   | 39       
 Jimi Hendrix                 | 76   | 37       
-Thin Lizzy                   | 99   | 28       
+Thin Lizzy                   | 100  | 28       
