@@ -4,11 +4,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of artists seen live in total: 81
 
-- Number of fetched top artists: 100 (Active: 90 Inactive: 10)
+- Number of fetched top artists: 100 (Active: 91 Inactive: 9)
 
 - Number of top artists seen live: 43 (Active: 43 Inactive: 0)
 
-- Number of top artists not seen live: 57 (Active: 47 Inactive: 10)
+- Number of top artists not seen live: 57 (Active: 48 Inactive: 9)
 
 ## Top 100 artists seen live (43)
 
@@ -18,17 +18,17 @@ Dream Theater                  | 1    | 381
 Spidergawd                     | 2    | 362      
 Metallica                      | 3    | 297      
 Ghost                          | 5    | 228      
-Seven Spires                   | 6    | 212      
+Seven Spires                   | 6    | 215      
 AC/DC                          | 7    | 204      
 Foo Fighters                   | 8    | 197      
 The Dogs                       | 10   | 184      
 In Flames                      | 11   | 182      
-Honningbarna                   | 12   | 172      
-Skálmöld                       | 13   | 167      
+Skálmöld                       | 12   | 173      
+Honningbarna                   | 13   | 172      
 Avenged Sevenfold              | 14   | 157      
 Circus Maximus                 | 15   | 157      
 Architects                     | 16   | 121      
-Pagan's Mind                   | 21   | 115      
+Pagan's Mind                   | 22   | 115      
 Slipknot                       | 23   | 109      
 blink-182                      | 24   | 101      
 Mastodon                       | 25   | 101      
@@ -55,18 +55,18 @@ HammerFall                     | 80   | 35
 Sabaton                        | 83   | 34       
 Clutch                         | 87   | 32       
 Powerwolf                      | 91   | 30       
-Avatar                         | 97   | 28       
-Children of Bodom              | 98   | 28       
+Avatar                         | 98   | 28       
+Children of Bodom              | 99   | 28       
 
-## Active top 100 artists not seen live (47)
+## Active top 100 artists not seen live (48)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 The Night Flight Orchestra     | 17   | 119      
 Lars Vaular                    | 18   | 117      
-Greta Van Fleet                | 19   | 116      
-Animals as Leaders             | 20   | 115      
-Sylosis                        | 22   | 115      
+Sylosis                        | 19   | 117      
+Greta Van Fleet                | 20   | 116      
+Animals as Leaders             | 21   | 115      
 Hall & Oates                   | 28   | 80       
 DumDum Boys                    | 30   | 75       
 Parius                         | 31   | 74       
@@ -104,17 +104,18 @@ Flying Colors                  | 88   | 32
 Lørdagsrådet                   | 89   | 32       
 oberst                         | 90   | 32       
 Aktiv Dödshjelp                | 92   | 29       
-Electric Light Orchestra       | 93   | 29       
-Nightwish                      | 94   | 29       
-OnklP & De Fjerne Slektningene | 95   | 29       
-Red Hot Chili Peppers          | 96   | 29       
-Megadeth                       | 99   | 28       
+Ballinciaga                    | 93   | 29       
+Electric Light Orchestra       | 94   | 29       
+Nightwish                      | 95   | 29       
+OnklP & De Fjerne Slektningene | 96   | 29       
+Red Hot Chili Peppers          | 97   | 29       
+Megadeth                       | 100  | 28       
 
-## Inactive top 100 artists not seen live (10)
+## Inactive top 100 artists not seen live (9)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 4    | 264      
+Fleetwood Mac                | 4    | 266      
 Rush                         | 9    | 195      
 Led Zeppelin                 | 29   | 78       
 Pink Floyd                   | 49   | 55       
@@ -123,4 +124,3 @@ The Who                      | 57   | 53
 The Beatles                  | 69   | 42       
 Dire Straits                 | 73   | 39       
 Jimi Hendrix                 | 76   | 37       
-Thin Lizzy                   | 100  | 28       
