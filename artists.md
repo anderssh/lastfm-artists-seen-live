@@ -23,7 +23,7 @@ AC/DC                          | 7    | 204
 Foo Fighters                   | 8    | 197      
 The Dogs                       | 10   | 184      
 In Flames                      | 11   | 182      
-Skálmöld                       | 12   | 173      
+Skálmöld                       | 12   | 180      
 Honningbarna                   | 13   | 172      
 Avenged Sevenfold              | 14   | 157      
 Circus Maximus                 | 15   | 157      
@@ -34,13 +34,13 @@ blink-182                      | 24   | 101
 Mastodon                       | 25   | 101      
 Gojira                         | 26   | 88       
 Finntroll                      | 27   | 87       
-Green Day                      | 32   | 73       
-Kvelertak                      | 34   | 71       
-Eminem                         | 36   | 67       
-The Good The Bad and The Zugly | 39   | 63       
-Oslo Ess                       | 41   | 60       
-Snarky Puppy                   | 42   | 58       
-Mall Girl                      | 46   | 56       
+Green Day                      | 33   | 73       
+Kvelertak                      | 35   | 71       
+Eminem                         | 37   | 67       
+The Good The Bad and The Zugly | 40   | 63       
+Oslo Ess                       | 42   | 60       
+Snarky Puppy                   | 43   | 58       
+Mall Girl                      | 47   | 56       
 The Winery Dogs                | 52   | 55       
 Maktkamp                       | 54   | 54       
 Leo                            | 56   | 53       
@@ -51,8 +51,8 @@ Atavistia                      | 68   | 42
 Soilwork                       | 74   | 39       
 Danko Jones                    | 78   | 36       
 Behemoth                       | 79   | 35       
-HammerFall                     | 80   | 35       
-Sabaton                        | 83   | 34       
+HammerFall                     | 81   | 35       
+Sabaton                        | 84   | 34       
 Clutch                         | 87   | 32       
 Powerwolf                      | 91   | 30       
 Avatar                         | 98   | 28       
@@ -67,18 +67,18 @@ Lars Vaular                    | 18   | 117
 Sylosis                        | 19   | 117      
 Greta Van Fleet                | 20   | 116      
 Animals as Leaders             | 21   | 115      
-Hall & Oates                   | 28   | 80       
-DumDum Boys                    | 30   | 75       
-Parius                         | 31   | 74       
-Love                           | 33   | 73       
-Bokassa                        | 35   | 67       
-Styx                           | 37   | 67       
-Judas Priest                   | 38   | 63       
-Haken                          | 40   | 61       
-Daft Punk                      | 43   | 57       
-Frank Zappa                    | 44   | 57       
-Tool                           | 45   | 57       
-The Halo Effect                | 47   | 56       
+The Halo Effect                | 28   | 86       
+Hall & Oates                   | 29   | 80       
+DumDum Boys                    | 31   | 75       
+Parius                         | 32   | 74       
+Love                           | 34   | 73       
+Bokassa                        | 36   | 67       
+Styx                           | 38   | 67       
+Judas Priest                   | 39   | 63       
+Haken                          | 41   | 61       
+Daft Punk                      | 44   | 57       
+Frank Zappa                    | 45   | 57       
+Tool                           | 46   | 57       
 Backstreet Girls               | 48   | 55       
 Porcupine Tree                 | 50   | 55       
 The Notorious B.I.G.           | 51   | 55       
@@ -95,9 +95,9 @@ The Rolling Stones             | 71   | 42
 All Them Witches               | 72   | 41       
 Graveyard                      | 75   | 38       
 Witchcraft                     | 77   | 37       
-Maraton                        | 81   | 34       
-Rival Sons                     | 82   | 34       
-Elton John                     | 84   | 33       
+Elton John                     | 80   | 35       
+Maraton                        | 82   | 34       
+Rival Sons                     | 83   | 34       
 Van Halen                      | 85   | 33       
 Amyl and the Sniffers          | 86   | 32       
 Flying Colors                  | 88   | 32       
@@ -117,7 +117,7 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 266      
 Rush                         | 9    | 195      
-Led Zeppelin                 | 29   | 78       
+Led Zeppelin                 | 30   | 78       
 Pink Floyd                   | 49   | 55       
 Creedence Clearwater Revival | 53   | 54       
 The Who                      | 57   | 53       
