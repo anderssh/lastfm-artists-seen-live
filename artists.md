@@ -18,12 +18,12 @@ Dream Theater                  | 1    | 381
 Spidergawd                     | 2    | 362      
 Metallica                      | 3    | 297      
 Ghost                          | 5    | 228      
-Seven Spires                   | 6    | 215      
-AC/DC                          | 7    | 204      
-Foo Fighters                   | 8    | 197      
-The Dogs                       | 10   | 184      
-In Flames                      | 11   | 182      
-Skálmöld                       | 12   | 180      
+In Flames                      | 6    | 224      
+Seven Spires                   | 7    | 215      
+AC/DC                          | 8    | 204      
+Foo Fighters                   | 9    | 197      
+The Dogs                       | 11   | 184      
+Skálmöld                       | 12   | 181      
 Honningbarna                   | 13   | 172      
 Avenged Sevenfold              | 14   | 157      
 Circus Maximus                 | 15   | 157      
@@ -116,7 +116,7 @@ Megadeth                       | 100  | 28
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 266      
-Rush                         | 9    | 195      
+Rush                         | 10   | 195      
 Led Zeppelin                 | 30   | 78       
 Pink Floyd                   | 49   | 55       
 Creedence Clearwater Revival | 53   | 54       
