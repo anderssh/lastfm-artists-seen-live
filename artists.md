@@ -18,7 +18,7 @@ Dream Theater                  | 1    | 381
 Spidergawd                     | 2    | 362      
 Metallica                      | 3    | 297      
 Ghost                          | 5    | 228      
-In Flames                      | 6    | 224      
+In Flames                      | 6    | 226      
 Seven Spires                   | 7    | 215      
 AC/DC                          | 8    | 204      
 Foo Fighters                   | 9    | 197      
@@ -40,9 +40,9 @@ Eminem                         | 37   | 67
 The Good The Bad and The Zugly | 40   | 63       
 Oslo Ess                       | 42   | 60       
 Snarky Puppy                   | 43   | 58       
-Mall Girl                      | 47   | 56       
-The Winery Dogs                | 52   | 55       
-Maktkamp                       | 54   | 54       
+Maktkamp                       | 47   | 56       
+Mall Girl                      | 48   | 56       
+The Winery Dogs                | 54   | 55       
 Leo                            | 56   | 53       
 Def Leppard                    | 63   | 46       
 Spiritbox                      | 66   | 43       
@@ -54,7 +54,7 @@ Behemoth                       | 79   | 35
 HammerFall                     | 81   | 35       
 Sabaton                        | 84   | 34       
 Clutch                         | 87   | 32       
-Powerwolf                      | 91   | 30       
+Powerwolf                      | 92   | 30       
 Avatar                         | 98   | 28       
 Children of Bodom              | 99   | 28       
 
@@ -79,9 +79,9 @@ Haken                          | 41   | 61
 Daft Punk                      | 44   | 57       
 Frank Zappa                    | 45   | 57       
 Tool                           | 46   | 57       
-Backstreet Girls               | 48   | 55       
-Porcupine Tree                 | 50   | 55       
-The Notorious B.I.G.           | 51   | 55       
+Backstreet Girls               | 49   | 55       
+Porcupine Tree                 | 52   | 55       
+The Notorious B.I.G.           | 53   | 55       
 Sum 41                         | 55   | 54       
 Queens of the Stone Age        | 58   | 50       
 The Police                     | 59   | 50       
@@ -103,8 +103,8 @@ Amyl and the Sniffers          | 86   | 32
 Flying Colors                  | 88   | 32       
 Lørdagsrådet                   | 89   | 32       
 oberst                         | 90   | 32       
-Aktiv Dödshjelp                | 92   | 29       
-Ballinciaga                    | 93   | 29       
+Ballinciaga                    | 91   | 31       
+Aktiv Dödshjelp                | 93   | 29       
 Electric Light Orchestra       | 94   | 29       
 Nightwish                      | 95   | 29       
 OnklP & De Fjerne Slektningene | 96   | 29       
@@ -118,8 +118,8 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 4    | 266      
 Rush                         | 10   | 195      
 Led Zeppelin                 | 30   | 78       
-Pink Floyd                   | 49   | 55       
-Creedence Clearwater Revival | 53   | 54       
+Creedence Clearwater Revival | 50   | 55       
+Pink Floyd                   | 51   | 55       
 The Who                      | 57   | 53       
 The Beatles                  | 69   | 42       
 Dire Straits                 | 73   | 39       
