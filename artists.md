@@ -16,9 +16,9 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 381      
 Spidergawd                     | 2    | 362      
-Metallica                      | 3    | 297      
-Ghost                          | 5    | 228      
-In Flames                      | 6    | 226      
+Metallica                      | 3    | 302      
+In Flames                      | 5    | 229      
+Ghost                          | 6    | 228      
 Seven Spires                   | 7    | 215      
 AC/DC                          | 8    | 204      
 Foo Fighters                   | 9    | 197      
@@ -32,12 +32,12 @@ Pagan's Mind                   | 22   | 115
 Slipknot                       | 23   | 109      
 blink-182                      | 24   | 101      
 Mastodon                       | 25   | 101      
-Gojira                         | 26   | 88       
-Finntroll                      | 27   | 87       
+Gojira                         | 27   | 89       
+Finntroll                      | 28   | 87       
 Green Day                      | 33   | 73       
 Kvelertak                      | 35   | 71       
 Eminem                         | 37   | 67       
-The Good The Bad and The Zugly | 40   | 63       
+The Good The Bad and The Zugly | 41   | 63       
 Oslo Ess                       | 42   | 60       
 Snarky Puppy                   | 43   | 58       
 Maktkamp                       | 47   | 56       
@@ -67,15 +67,15 @@ Lars Vaular                    | 18   | 117
 Sylosis                        | 19   | 117      
 Greta Van Fleet                | 20   | 116      
 Animals as Leaders             | 21   | 115      
-The Halo Effect                | 28   | 86       
+The Halo Effect                | 26   | 92       
 Hall & Oates                   | 29   | 80       
-DumDum Boys                    | 31   | 75       
-Parius                         | 32   | 74       
+Parius                         | 31   | 76       
+DumDum Boys                    | 32   | 75       
 Love                           | 34   | 73       
 Bokassa                        | 36   | 67       
-Styx                           | 38   | 67       
-Judas Priest                   | 39   | 63       
-Haken                          | 41   | 61       
+Judas Priest                   | 38   | 67       
+Styx                           | 39   | 67       
+Haken                          | 40   | 64       
 Daft Punk                      | 44   | 57       
 Frank Zappa                    | 45   | 57       
 Tool                           | 46   | 57       
@@ -83,9 +83,9 @@ Backstreet Girls               | 49   | 55
 Porcupine Tree                 | 52   | 55       
 The Notorious B.I.G.           | 53   | 55       
 Sum 41                         | 55   | 54       
-Queens of the Stone Age        | 58   | 50       
-The Police                     | 59   | 50       
-All That Remains               | 60   | 48       
+All That Remains               | 58   | 50       
+Queens of the Stone Age        | 59   | 50       
+The Police                     | 60   | 50       
 Bill Withers                   | 61   | 47       
 Apollo Suns                    | 62   | 46       
 Adele                          | 64   | 44       
