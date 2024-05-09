@@ -22,7 +22,7 @@ Ghost                          | 6    | 228
 Seven Spires                   | 7    | 216      
 AC/DC                          | 8    | 204      
 Foo Fighters                   | 9    | 197      
-Skálmöld                       | 11   | 193      
+Skálmöld                       | 11   | 194      
 The Dogs                       | 12   | 184      
 Honningbarna                   | 13   | 172      
 Avenged Sevenfold              | 14   | 157      
@@ -30,8 +30,8 @@ Circus Maximus                 | 15   | 157
 Architects                     | 16   | 121      
 Pagan's Mind                   | 22   | 115      
 Slipknot                       | 23   | 109      
-blink-182                      | 24   | 101      
-Mastodon                       | 25   | 101      
+blink-182                      | 25   | 101      
+Mastodon                       | 26   | 101      
 Gojira                         | 27   | 92       
 Finntroll                      | 28   | 87       
 Green Day                      | 34   | 73       
@@ -46,8 +46,8 @@ The Winery Dogs                | 54   | 55
 Leo                            | 56   | 53       
 Def Leppard                    | 63   | 46       
 Spiritbox                      | 66   | 43       
-22                             | 67   | 42       
-Atavistia                      | 68   | 42       
+22                             | 68   | 42       
+Atavistia                      | 69   | 42       
 Soilwork                       | 74   | 39       
 Danko Jones                    | 78   | 36       
 Behemoth                       | 79   | 35       
@@ -64,10 +64,10 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 The Night Flight Orchestra     | 17   | 119      
 Sylosis                        | 18   | 118      
-Lars Vaular                    | 19   | 117      
-Greta Van Fleet                | 20   | 116      
+Greta Van Fleet                | 19   | 117      
+Lars Vaular                    | 20   | 117      
 Animals as Leaders             | 21   | 115      
-The Halo Effect                | 26   | 99       
+The Halo Effect                | 24   | 108      
 Parius                         | 29   | 82       
 Hall & Oates                   | 30   | 80       
 DumDum Boys                    | 32   | 75       
@@ -90,7 +90,7 @@ Bill Withers                   | 61   | 47
 Apollo Suns                    | 62   | 46       
 Adele                          | 64   | 44       
 Thulsa Doom                    | 65   | 44       
-The Offspring                  | 70   | 42       
+The Offspring                  | 67   | 43       
 The Rolling Stones             | 71   | 42       
 All Them Witches               | 72   | 41       
 Graveyard                      | 75   | 38       
@@ -121,6 +121,6 @@ Led Zeppelin                 | 31   | 78
 Creedence Clearwater Revival | 50   | 55       
 Pink Floyd                   | 51   | 55       
 The Who                      | 57   | 53       
-The Beatles                  | 69   | 42       
+The Beatles                  | 70   | 42       
 Dire Straits                 | 73   | 39       
 Jimi Hendrix                 | 76   | 37       
