@@ -16,12 +16,12 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 381      
 Spidergawd                     | 2    | 362      
-Metallica                      | 3    | 308      
+Metallica                      | 3    | 310      
 In Flames                      | 5    | 235      
 Ghost                          | 6    | 228      
-Seven Spires                   | 7    | 216      
+Seven Spires                   | 7    | 220      
 AC/DC                          | 8    | 204      
-Foo Fighters                   | 9    | 197      
+Foo Fighters                   | 9    | 198      
 Skálmöld                       | 11   | 194      
 The Dogs                       | 12   | 184      
 Honningbarna                   | 13   | 172      
@@ -32,22 +32,22 @@ Pagan's Mind                   | 22   | 115
 Slipknot                       | 23   | 109      
 blink-182                      | 25   | 101      
 Mastodon                       | 26   | 101      
-Gojira                         | 27   | 92       
+Gojira                         | 27   | 93       
 Finntroll                      | 28   | 87       
 Green Day                      | 34   | 73       
 Kvelertak                      | 36   | 71       
 Eminem                         | 39   | 67       
 The Good The Bad and The Zugly | 41   | 63       
-Oslo Ess                       | 42   | 60       
-Snarky Puppy                   | 43   | 58       
+Oslo Ess                       | 42   | 61       
+Snarky Puppy                   | 44   | 58       
 Maktkamp                       | 47   | 56       
 Mall Girl                      | 48   | 56       
 The Winery Dogs                | 54   | 55       
 Leo                            | 56   | 53       
 Def Leppard                    | 63   | 46       
-Spiritbox                      | 66   | 43       
-22                             | 68   | 42       
-Atavistia                      | 69   | 42       
+Spiritbox                      | 67   | 43       
+22                             | 69   | 42       
+Atavistia                      | 70   | 42       
 Soilwork                       | 74   | 39       
 Danko Jones                    | 78   | 36       
 Behemoth                       | 79   | 35       
@@ -63,8 +63,8 @@ Children of Bodom              | 100  | 28
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 The Night Flight Orchestra     | 17   | 119      
-Sylosis                        | 18   | 118      
-Greta Van Fleet                | 19   | 117      
+Greta Van Fleet                | 18   | 118      
+Sylosis                        | 19   | 118      
 Lars Vaular                    | 20   | 117      
 Animals as Leaders             | 21   | 115      
 The Halo Effect                | 24   | 108      
@@ -76,11 +76,11 @@ Love                           | 35   | 73
 Haken                          | 37   | 70       
 Bokassa                        | 38   | 67       
 Styx                           | 40   | 67       
-Daft Punk                      | 44   | 57       
-Frank Zappa                    | 45   | 57       
-Tool                           | 46   | 57       
-Backstreet Girls               | 49   | 55       
-Porcupine Tree                 | 52   | 55       
+Tool                           | 43   | 60       
+Daft Punk                      | 45   | 57       
+Frank Zappa                    | 46   | 57       
+Porcupine Tree                 | 49   | 56       
+Backstreet Girls               | 50   | 55       
 The Notorious B.I.G.           | 53   | 55       
 Sum 41                         | 55   | 54       
 All That Remains               | 58   | 52       
@@ -90,9 +90,9 @@ Bill Withers                   | 61   | 47
 Apollo Suns                    | 62   | 46       
 Adele                          | 64   | 44       
 Thulsa Doom                    | 65   | 44       
-The Offspring                  | 67   | 43       
-The Rolling Stones             | 71   | 42       
-All Them Witches               | 72   | 41       
+All Them Witches               | 66   | 43       
+The Offspring                  | 68   | 43       
+The Rolling Stones             | 72   | 42       
 Graveyard                      | 75   | 38       
 Witchcraft                     | 77   | 37       
 Elton John                     | 80   | 35       
@@ -115,12 +115,12 @@ Rise Against                   | 98   | 29
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 4    | 266      
-Rush                         | 10   | 195      
+Fleetwood Mac                | 4    | 267      
+Rush                         | 10   | 196      
 Led Zeppelin                 | 31   | 78       
-Creedence Clearwater Revival | 50   | 55       
-Pink Floyd                   | 51   | 55       
+Creedence Clearwater Revival | 51   | 55       
+Pink Floyd                   | 52   | 55       
 The Who                      | 57   | 53       
-The Beatles                  | 70   | 42       
+The Beatles                  | 71   | 42       
 Dire Straits                 | 73   | 39       
 Jimi Hendrix                 | 76   | 37       
