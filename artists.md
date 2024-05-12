@@ -34,7 +34,7 @@ blink-182                      | 25   | 101
 Mastodon                       | 26   | 101      
 Gojira                         | 27   | 93       
 Finntroll                      | 28   | 87       
-Green Day                      | 34   | 73       
+Green Day                      | 34   | 74       
 Kvelertak                      | 36   | 71       
 Eminem                         | 39   | 67       
 The Good The Bad and The Zugly | 41   | 63       
@@ -45,7 +45,7 @@ Mall Girl                      | 48   | 56
 The Winery Dogs                | 54   | 55       
 Leo                            | 56   | 53       
 Def Leppard                    | 63   | 46       
-Spiritbox                      | 67   | 43       
+Spiritbox                      | 68   | 43       
 22                             | 69   | 42       
 Atavistia                      | 70   | 42       
 Soilwork                       | 74   | 39       
@@ -70,8 +70,8 @@ Animals as Leaders             | 21   | 115
 The Halo Effect                | 24   | 108      
 Parius                         | 29   | 82       
 Hall & Oates                   | 30   | 80       
-DumDum Boys                    | 32   | 75       
-Judas Priest                   | 33   | 75       
+Judas Priest                   | 32   | 76       
+DumDum Boys                    | 33   | 75       
 Love                           | 35   | 73       
 Haken                          | 37   | 70       
 Bokassa                        | 38   | 67       
@@ -89,26 +89,26 @@ The Police                     | 60   | 50
 Bill Withers                   | 61   | 47       
 Apollo Suns                    | 62   | 46       
 Adele                          | 64   | 44       
-Thulsa Doom                    | 65   | 44       
-All Them Witches               | 66   | 43       
-The Offspring                  | 68   | 43       
+The Offspring                  | 65   | 44       
+Thulsa Doom                    | 66   | 44       
+All Them Witches               | 67   | 43       
 The Rolling Stones             | 72   | 42       
 Graveyard                      | 75   | 38       
 Witchcraft                     | 77   | 37       
 Elton John                     | 80   | 35       
 Maraton                        | 82   | 34       
 Rival Sons                     | 83   | 34       
-Van Halen                      | 85   | 33       
+Van Halen                      | 85   | 34       
 Amyl and the Sniffers          | 86   | 32       
 Flying Colors                  | 88   | 32       
 Lørdagsrådet                   | 89   | 32       
 oberst                         | 90   | 32       
 Ballinciaga                    | 91   | 31       
-Aktiv Dödshjelp                | 93   | 29       
-Electric Light Orchestra       | 94   | 29       
-Nightwish                      | 95   | 29       
-OnklP & De Fjerne Slektningene | 96   | 29       
-Red Hot Chili Peppers          | 97   | 29       
+Red Hot Chili Peppers          | 93   | 30       
+Aktiv Dödshjelp                | 94   | 29       
+Electric Light Orchestra       | 95   | 29       
+Nightwish                      | 96   | 29       
+OnklP & De Fjerne Slektningene | 97   | 29       
 Rise Against                   | 98   | 29       
 
 ## Inactive top 100 artists not seen live (9)
@@ -116,7 +116,7 @@ Rise Against                   | 98   | 29
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 267      
-Rush                         | 10   | 196      
+Rush                         | 10   | 197      
 Led Zeppelin                 | 31   | 78       
 Creedence Clearwater Revival | 51   | 55       
 Pink Floyd                   | 52   | 55       
