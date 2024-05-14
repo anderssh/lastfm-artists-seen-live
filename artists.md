@@ -54,7 +54,7 @@ Behemoth                       | 79   | 35
 HammerFall                     | 81   | 35       
 Sabaton                        | 84   | 34       
 Clutch                         | 87   | 32       
-Powerwolf                      | 92   | 30       
+Powerwolf                      | 93   | 30       
 Avatar                         | 99   | 28       
 Children of Bodom              | 100  | 28       
 
@@ -104,7 +104,7 @@ Flying Colors                  | 88   | 32
 Lørdagsrådet                   | 89   | 32       
 oberst                         | 90   | 32       
 Ballinciaga                    | 91   | 31       
-Red Hot Chili Peppers          | 93   | 30       
+Red Hot Chili Peppers          | 92   | 31       
 Aktiv Dödshjelp                | 94   | 29       
 Electric Light Orchestra       | 95   | 29       
 Nightwish                      | 96   | 29       
