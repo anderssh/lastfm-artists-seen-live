@@ -29,7 +29,7 @@ Avenged Sevenfold              | 14   | 157
 Circus Maximus                 | 15   | 157      
 Architects                     | 16   | 121      
 Pagan's Mind                   | 22   | 115      
-Slipknot                       | 23   | 109      
+Slipknot                       | 24   | 109      
 blink-182                      | 25   | 101      
 Mastodon                       | 26   | 101      
 Gojira                         | 27   | 93       
@@ -67,7 +67,7 @@ Greta Van Fleet                | 18   | 118
 Sylosis                        | 19   | 118      
 Lars Vaular                    | 20   | 117      
 Animals as Leaders             | 21   | 115      
-The Halo Effect                | 24   | 108      
+The Halo Effect                | 23   | 110      
 Parius                         | 29   | 82       
 Hall & Oates                   | 30   | 80       
 Judas Priest                   | 32   | 76       
@@ -84,7 +84,7 @@ Backstreet Girls               | 50   | 55
 The Notorious B.I.G.           | 53   | 55       
 Sum 41                         | 55   | 54       
 All That Remains               | 58   | 52       
-Queens of the Stone Age        | 59   | 50       
+Queens of the Stone Age        | 59   | 51       
 The Police                     | 60   | 50       
 Bill Withers                   | 61   | 47       
 Apollo Suns                    | 62   | 46       
