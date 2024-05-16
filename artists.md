@@ -46,8 +46,8 @@ The Winery Dogs                | 54   | 55
 Leo                            | 56   | 53       
 Def Leppard                    | 63   | 46       
 Spiritbox                      | 68   | 43       
-22                             | 69   | 42       
-Atavistia                      | 70   | 42       
+22                             | 70   | 42       
+Atavistia                      | 71   | 42       
 Soilwork                       | 74   | 39       
 Danko Jones                    | 78   | 36       
 Behemoth                       | 79   | 35       
@@ -67,7 +67,7 @@ Greta Van Fleet                | 18   | 118
 Sylosis                        | 19   | 118      
 Lars Vaular                    | 20   | 117      
 Animals as Leaders             | 21   | 115      
-The Halo Effect                | 23   | 110      
+The Halo Effect                | 23   | 112      
 Parius                         | 29   | 82       
 Hall & Oates                   | 30   | 80       
 Judas Priest                   | 32   | 76       
@@ -121,6 +121,6 @@ Led Zeppelin                 | 31   | 78
 Creedence Clearwater Revival | 51   | 55       
 Pink Floyd                   | 52   | 55       
 The Who                      | 57   | 53       
-The Beatles                  | 71   | 42       
+The Beatles                  | 69   | 43       
 Dire Straits                 | 73   | 39       
 Jimi Hendrix                 | 76   | 37       
