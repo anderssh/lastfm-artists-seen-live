@@ -6,11 +6,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of fetched top artists: 100 (Active: 91 Inactive: 9)
 
-- Number of top artists seen live: 43 (Active: 43 Inactive: 0)
+- Number of top artists seen live: 42 (Active: 42 Inactive: 0)
 
-- Number of top artists not seen live: 57 (Active: 48 Inactive: 9)
+- Number of top artists not seen live: 58 (Active: 49 Inactive: 9)
 
-## Top 100 artists seen live (43)
+## Top 100 artists seen live (42)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -19,7 +19,7 @@ Spidergawd                     | 2    | 362
 Metallica                      | 3    | 310      
 In Flames                      | 5    | 235      
 Ghost                          | 6    | 228      
-Seven Spires                   | 7    | 220      
+Seven Spires                   | 7    | 223      
 AC/DC                          | 8    | 204      
 Foo Fighters                   | 9    | 198      
 Skálmöld                       | 11   | 194      
@@ -52,13 +52,12 @@ Soilwork                       | 74   | 39
 Danko Jones                    | 78   | 36       
 Behemoth                       | 79   | 35       
 HammerFall                     | 81   | 35       
-Sabaton                        | 84   | 34       
-Clutch                         | 87   | 32       
-Powerwolf                      | 93   | 30       
-Avatar                         | 99   | 28       
-Children of Bodom              | 100  | 28       
+Sabaton                        | 85   | 34       
+Clutch                         | 88   | 32       
+Powerwolf                      | 94   | 30       
+Avatar                         | 100  | 28       
 
-## Active top 100 artists not seen live (48)
+## Active top 100 artists not seen live (49)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -96,20 +95,21 @@ The Rolling Stones             | 72   | 42
 Graveyard                      | 75   | 38       
 Witchcraft                     | 77   | 37       
 Elton John                     | 80   | 35       
-Maraton                        | 82   | 34       
-Rival Sons                     | 83   | 34       
-Van Halen                      | 85   | 34       
-Amyl and the Sniffers          | 86   | 32       
-Flying Colors                  | 88   | 32       
-Lørdagsrådet                   | 89   | 32       
-oberst                         | 90   | 32       
-Ballinciaga                    | 91   | 31       
-Red Hot Chili Peppers          | 92   | 31       
-Aktiv Dödshjelp                | 94   | 29       
-Electric Light Orchestra       | 95   | 29       
-Nightwish                      | 96   | 29       
-OnklP & De Fjerne Slektningene | 97   | 29       
-Rise Against                   | 98   | 29       
+Jean-Luc Ponty                 | 82   | 35       
+Maraton                        | 83   | 34       
+Rival Sons                     | 84   | 34       
+Van Halen                      | 86   | 34       
+Amyl and the Sniffers          | 87   | 32       
+Flying Colors                  | 89   | 32       
+Lørdagsrådet                   | 90   | 32       
+oberst                         | 91   | 32       
+Ballinciaga                    | 92   | 31       
+Red Hot Chili Peppers          | 93   | 31       
+Aktiv Dödshjelp                | 95   | 29       
+Electric Light Orchestra       | 96   | 29       
+Nightwish                      | 97   | 29       
+OnklP & De Fjerne Slektningene | 98   | 29       
+Rise Against                   | 99   | 29       
 
 ## Inactive top 100 artists not seen live (9)
 
