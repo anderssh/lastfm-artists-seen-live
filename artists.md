@@ -66,8 +66,8 @@ Sylosis                        | 19   | 118
 Lars Vaular                    | 20   | 117      
 Animals as Leaders             | 21   | 115      
 The Halo Effect                | 23   | 112      
-Parius                         | 29   | 82       
-Judas Priest                   | 30   | 81       
+Judas Priest                   | 29   | 82       
+Parius                         | 30   | 82       
 Hall & Oates                   | 31   | 80       
 DumDum Boys                    | 33   | 75       
 Love                           | 35   | 73       
