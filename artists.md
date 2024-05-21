@@ -27,7 +27,7 @@ The Dogs                       | 12   | 184
 Honningbarna                   | 13   | 172      
 Avenged Sevenfold              | 14   | 157      
 Circus Maximus                 | 15   | 157      
-Architects                     | 16   | 121      
+Architects                     | 17   | 121      
 Pagan's Mind                   | 22   | 115      
 Slipknot                       | 24   | 109      
 blink-182                      | 25   | 101      
@@ -60,7 +60,7 @@ Powerwolf                      | 95   | 30
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Greta Van Fleet                | 17   | 120      
+Greta Van Fleet                | 16   | 137      
 The Night Flight Orchestra     | 18   | 119      
 Sylosis                        | 19   | 118      
 Lars Vaular                    | 20   | 117      
