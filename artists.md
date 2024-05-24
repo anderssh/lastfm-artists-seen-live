@@ -15,16 +15,16 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 381      
-Spidergawd                     | 2    | 365      
+Spidergawd                     | 2    | 367      
 Metallica                      | 3    | 321      
 In Flames                      | 5    | 241      
 Ghost                          | 6    | 228      
 Seven Spires                   | 7    | 223      
 AC/DC                          | 8    | 206      
 Foo Fighters                   | 10   | 198      
-The Dogs                       | 11   | 195      
+The Dogs                       | 11   | 197      
 Skálmöld                       | 12   | 194      
-Honningbarna                   | 13   | 173      
+Honningbarna                   | 13   | 174      
 Avenged Sevenfold              | 14   | 157      
 Circus Maximus                 | 15   | 157      
 Architects                     | 17   | 121      
@@ -39,12 +39,12 @@ Kvelertak                      | 36   | 72
 Eminem                         | 39   | 67       
 Oslo Ess                       | 41   | 66       
 The Good The Bad and The Zugly | 42   | 66       
-Maktkamp                       | 43   | 60       
-Snarky Puppy                   | 45   | 58       
-Mall Girl                      | 49   | 56       
-The Winery Dogs                | 55   | 55       
-Leo                            | 58   | 53       
-Def Leppard                    | 63   | 46       
+Maktkamp                       | 43   | 63       
+Snarky Puppy                   | 46   | 58       
+Mall Girl                      | 50   | 56       
+The Winery Dogs                | 56   | 55       
+Leo                            | 59   | 53       
+Def Leppard                    | 64   | 46       
 Spiritbox                      | 69   | 43       
 22                             | 72   | 42       
 Atavistia                      | 73   | 42       
@@ -75,19 +75,19 @@ Haken                          | 37   | 71
 Bokassa                        | 38   | 69       
 Styx                           | 40   | 67       
 Tool                           | 44   | 60       
-Daft Punk                      | 47   | 57       
-Frank Zappa                    | 48   | 57       
-Porcupine Tree                 | 51   | 56       
-Backstreet Girls               | 52   | 55       
-The Notorious B.I.G.           | 53   | 55       
-All That Remains               | 56   | 54       
-Sum 41                         | 57   | 54       
-Queens of the Stone Age        | 59   | 51       
-The Police                     | 60   | 50       
-Bill Withers                   | 61   | 48       
-Apollo Suns                    | 62   | 46       
-Adele                          | 64   | 44       
-Aktiv Dödshjelp                | 65   | 44       
+Aktiv Dödshjelp                | 45   | 59       
+Daft Punk                      | 48   | 57       
+Frank Zappa                    | 49   | 57       
+Porcupine Tree                 | 52   | 56       
+Backstreet Girls               | 53   | 55       
+The Notorious B.I.G.           | 54   | 55       
+All That Remains               | 57   | 54       
+Sum 41                         | 58   | 54       
+Queens of the Stone Age        | 60   | 51       
+The Police                     | 61   | 50       
+Bill Withers                   | 62   | 48       
+Apollo Suns                    | 63   | 46       
+Adele                          | 65   | 44       
 The Offspring                  | 66   | 44       
 Thulsa Doom                    | 67   | 44       
 All Them Witches               | 68   | 43       
@@ -117,9 +117,9 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 4    | 271      
 Rush                         | 9    | 200      
 Led Zeppelin                 | 32   | 79       
-Creedence Clearwater Revival | 46   | 57       
-Pink Floyd                   | 50   | 56       
-The Who                      | 54   | 55       
+Creedence Clearwater Revival | 47   | 57       
+Pink Floyd                   | 51   | 56       
+The Who                      | 55   | 55       
 The Beatles                  | 70   | 43       
 Dire Straits                 | 74   | 39       
 Jimi Hendrix                 | 77   | 37       
