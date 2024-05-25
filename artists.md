@@ -15,9 +15,9 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 381      
-Spidergawd                     | 2    | 367      
-Metallica                      | 3    | 321      
-In Flames                      | 5    | 241      
+Spidergawd                     | 2    | 368      
+Metallica                      | 3    | 323      
+In Flames                      | 5    | 243      
 Ghost                          | 6    | 228      
 Seven Spires                   | 7    | 223      
 AC/DC                          | 8    | 206      
@@ -45,13 +45,13 @@ Mall Girl                      | 50   | 56
 The Winery Dogs                | 56   | 55       
 Leo                            | 59   | 53       
 Def Leppard                    | 64   | 46       
-Spiritbox                      | 69   | 43       
-22                             | 72   | 42       
-Atavistia                      | 73   | 42       
-Soilwork                       | 75   | 39       
-Danko Jones                    | 79   | 36       
-Behemoth                       | 81   | 35       
-HammerFall                     | 82   | 35       
+Spiritbox                      | 70   | 43       
+22                             | 73   | 42       
+Atavistia                      | 74   | 42       
+Soilwork                       | 76   | 39       
+Danko Jones                    | 80   | 36       
+Behemoth                       | 82   | 35       
+HammerFall                     | 83   | 35       
 Sabaton                        | 87   | 34       
 Clutch                         | 90   | 32       
 Powerwolf                      | 96   | 30       
@@ -65,8 +65,8 @@ The Night Flight Orchestra     | 18   | 119
 Sylosis                        | 19   | 118      
 Lars Vaular                    | 20   | 117      
 Animals as Leaders             | 21   | 115      
-The Halo Effect                | 23   | 114      
-Judas Priest                   | 28   | 90       
+The Halo Effect                | 23   | 115      
+Judas Priest                   | 28   | 91       
 Parius                         | 30   | 82       
 Hall & Oates                   | 31   | 80       
 DumDum Boys                    | 33   | 76       
@@ -88,14 +88,14 @@ The Police                     | 61   | 50
 Bill Withers                   | 62   | 48       
 Apollo Suns                    | 63   | 46       
 Adele                          | 65   | 44       
-The Offspring                  | 66   | 44       
-Thulsa Doom                    | 67   | 44       
-All Them Witches               | 68   | 43       
-The Rolling Stones             | 71   | 43       
-Graveyard                      | 76   | 38       
-Witchcraft                     | 78   | 37       
-Elton John                     | 80   | 36       
-Jean-Luc Ponty                 | 83   | 35       
+Jean-Luc Ponty                 | 66   | 44       
+The Offspring                  | 67   | 44       
+Thulsa Doom                    | 68   | 44       
+All Them Witches               | 69   | 43       
+The Rolling Stones             | 72   | 43       
+Graveyard                      | 77   | 38       
+Witchcraft                     | 79   | 37       
+Elton John                     | 81   | 36       
 Van Halen                      | 84   | 35       
 Maraton                        | 85   | 34       
 Rival Sons                     | 86   | 34       
@@ -120,7 +120,7 @@ Led Zeppelin                 | 32   | 79
 Creedence Clearwater Revival | 47   | 57       
 Pink Floyd                   | 51   | 56       
 The Who                      | 55   | 55       
-The Beatles                  | 70   | 43       
-Dire Straits                 | 74   | 39       
-Jimi Hendrix                 | 77   | 37       
+The Beatles                  | 71   | 43       
+Dire Straits                 | 75   | 39       
+Jimi Hendrix                 | 78   | 37       
 The Doors                    | 100  | 29       
