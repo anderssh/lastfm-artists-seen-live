@@ -17,10 +17,10 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 381      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 323      
-In Flames                      | 5    | 243      
+In Flames                      | 5    | 244      
 Ghost                          | 6    | 228      
 Seven Spires                   | 7    | 223      
-AC/DC                          | 8    | 206      
+AC/DC                          | 8    | 207      
 Foo Fighters                   | 10   | 198      
 The Dogs                       | 11   | 197      
 Skálmöld                       | 12   | 194      
@@ -40,8 +40,8 @@ Eminem                         | 39   | 67
 Oslo Ess                       | 41   | 66       
 The Good The Bad and The Zugly | 42   | 66       
 Maktkamp                       | 43   | 63       
-Snarky Puppy                   | 46   | 58       
-Mall Girl                      | 50   | 56       
+Snarky Puppy                   | 47   | 58       
+Mall Girl                      | 51   | 56       
 The Winery Dogs                | 56   | 55       
 Leo                            | 59   | 53       
 Def Leppard                    | 64   | 46       
@@ -76,10 +76,10 @@ Bokassa                        | 38   | 69
 Styx                           | 40   | 67       
 Tool                           | 44   | 60       
 Aktiv Dödshjelp                | 45   | 59       
-Daft Punk                      | 48   | 57       
-Frank Zappa                    | 49   | 57       
-Porcupine Tree                 | 52   | 56       
-Backstreet Girls               | 53   | 55       
+Backstreet Girls               | 46   | 58       
+Daft Punk                      | 49   | 57       
+Frank Zappa                    | 50   | 57       
+Porcupine Tree                 | 53   | 56       
 The Notorious B.I.G.           | 54   | 55       
 All That Remains               | 57   | 54       
 Sum 41                         | 58   | 54       
@@ -116,9 +116,9 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 271      
 Rush                         | 9    | 200      
-Led Zeppelin                 | 32   | 79       
-Creedence Clearwater Revival | 47   | 57       
-Pink Floyd                   | 51   | 56       
+Led Zeppelin                 | 32   | 80       
+Creedence Clearwater Revival | 48   | 57       
+Pink Floyd                   | 52   | 56       
 The Who                      | 55   | 55       
 The Beatles                  | 71   | 43       
 Dire Straits                 | 75   | 39       
