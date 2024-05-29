@@ -39,11 +39,11 @@ Kvelertak                      | 37   | 72
 Oslo Ess                       | 39   | 68       
 Eminem                         | 40   | 67       
 The Good The Bad and The Zugly | 42   | 66       
-Maktkamp                       | 45   | 63       
-Snarky Puppy                   | 47   | 58       
-Mall Girl                      | 51   | 56       
-The Winery Dogs                | 56   | 55       
-Leo                            | 59   | 53       
+Maktkamp                       | 46   | 63       
+Snarky Puppy                   | 48   | 58       
+Mall Girl                      | 52   | 56       
+The Winery Dogs                | 57   | 55       
+Leo                            | 60   | 53       
 Def Leppard                    | 65   | 46       
 Spiritbox                      | 70   | 43       
 22                             | 73   | 42       
@@ -74,17 +74,17 @@ Love                           | 35   | 73
 Haken                          | 36   | 72       
 Bokassa                        | 38   | 69       
 Styx                           | 41   | 67       
-Tool                           | 43   | 65       
-Backstreet Girls               | 44   | 63       
-Aktiv Dödshjelp                | 46   | 59       
-Daft Punk                      | 49   | 57       
-Frank Zappa                    | 50   | 57       
-Porcupine Tree                 | 53   | 56       
-The Notorious B.I.G.           | 54   | 55       
-All That Remains               | 57   | 54       
-Sum 41                         | 58   | 54       
-Queens of the Stone Age        | 60   | 52       
-Jean-Luc Ponty                 | 61   | 50       
+Jean-Luc Ponty                 | 43   | 65       
+Tool                           | 44   | 65       
+Backstreet Girls               | 45   | 63       
+Aktiv Dödshjelp                | 47   | 59       
+Daft Punk                      | 50   | 57       
+Frank Zappa                    | 51   | 57       
+Porcupine Tree                 | 54   | 56       
+The Notorious B.I.G.           | 55   | 55       
+All That Remains               | 58   | 54       
+Sum 41                         | 59   | 54       
+Queens of the Stone Age        | 61   | 52       
 The Police                     | 62   | 50       
 Bill Withers                   | 63   | 48       
 Apollo Suns                    | 64   | 46       
@@ -117,9 +117,9 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 4    | 271      
 Rush                         | 9    | 201      
 Led Zeppelin                 | 32   | 80       
-Creedence Clearwater Revival | 48   | 57       
-Pink Floyd                   | 52   | 56       
-The Who                      | 55   | 55       
+Creedence Clearwater Revival | 49   | 57       
+Pink Floyd                   | 53   | 56       
+The Who                      | 56   | 55       
 The Beatles                  | 71   | 43       
 Dire Straits                 | 75   | 39       
 Jimi Hendrix                 | 78   | 37       
