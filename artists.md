@@ -4,11 +4,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of artists seen live in total: 81
 
-- Number of fetched top artists: 100 (Active: 90 Inactive: 10)
+- Number of fetched top artists: 100 (Active: 91 Inactive: 9)
 
 - Number of top artists seen live: 41 (Active: 41 Inactive: 0)
 
-- Number of top artists not seen live: 59 (Active: 49 Inactive: 10)
+- Number of top artists not seen live: 59 (Active: 50 Inactive: 9)
 
 ## Top 100 artists seen live (41)
 
@@ -32,13 +32,13 @@ Pagan's Mind                   | 22   | 115
 Slipknot                       | 24   | 109      
 Mastodon                       | 25   | 103      
 blink-182                      | 26   | 101      
-Gojira                         | 27   | 94       
-Finntroll                      | 29   | 87       
+Gojira                         | 28   | 94       
+Finntroll                      | 30   | 87       
 Green Day                      | 34   | 74       
 Kvelertak                      | 37   | 72       
-Oslo Ess                       | 39   | 68       
-Eminem                         | 40   | 67       
-The Good The Bad and The Zugly | 42   | 66       
+Oslo Ess                       | 40   | 68       
+Eminem                         | 41   | 67       
+The Good The Bad and The Zugly | 44   | 66       
 Maktkamp                       | 46   | 63       
 Snarky Puppy                   | 48   | 58       
 Mall Girl                      | 52   | 56       
@@ -56,7 +56,7 @@ Sabaton                        | 87   | 34
 Clutch                         | 88   | 33       
 Powerwolf                      | 96   | 30       
 
-## Active top 100 artists not seen live (49)
+## Active top 100 artists not seen live (50)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -66,17 +66,17 @@ Sylosis                        | 19   | 118
 Lars Vaular                    | 20   | 117      
 Animals as Leaders             | 21   | 115      
 The Halo Effect                | 23   | 115      
-Judas Priest                   | 28   | 94       
-Parius                         | 30   | 82       
+Judas Priest                   | 27   | 95       
+Parius                         | 29   | 91       
 Hall & Oates                   | 31   | 80       
 DumDum Boys                    | 33   | 76       
 Love                           | 35   | 73       
 Haken                          | 36   | 72       
-Bokassa                        | 38   | 69       
-Styx                           | 41   | 67       
-Jean-Luc Ponty                 | 43   | 65       
-Tool                           | 44   | 65       
-Backstreet Girls               | 45   | 63       
+Backstreet Girls               | 38   | 71       
+Bokassa                        | 39   | 69       
+Jean-Luc Ponty                 | 42   | 67       
+Styx                           | 43   | 67       
+Tool                           | 45   | 65       
 Aktiv Dödshjelp                | 47   | 59       
 Daft Punk                      | 50   | 57       
 Frank Zappa                    | 51   | 57       
@@ -107,10 +107,11 @@ Ballinciaga                    | 93   | 31
 Red Hot Chili Peppers          | 94   | 31       
 Electric Light Orchestra       | 95   | 30       
 Rise Against                   | 97   | 30       
-Nightwish                      | 98   | 29       
-OnklP & De Fjerne Slektningene | 99   | 29       
+Robert Pehrsson's Humbucker    | 98   | 30       
+Nightwish                      | 99   | 29       
+OnklP & De Fjerne Slektningene | 100  | 29       
 
-## Inactive top 100 artists not seen live (10)
+## Inactive top 100 artists not seen live (9)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
@@ -123,4 +124,3 @@ The Who                      | 56   | 55
 The Beatles                  | 71   | 43       
 Dire Straits                 | 75   | 39       
 Jimi Hendrix                 | 78   | 37       
-The Doors                    | 100  | 29       
