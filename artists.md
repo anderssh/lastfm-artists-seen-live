@@ -4,26 +4,26 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of artists seen live in total: 81
 
-- Number of fetched top artists: 100 (Active: 90 Inactive: 10)
+- Number of fetched top artists: 100 (Active: 89 Inactive: 11)
 
 - Number of top artists seen live: 41 (Active: 41 Inactive: 0)
 
-- Number of top artists not seen live: 59 (Active: 49 Inactive: 10)
+- Number of top artists not seen live: 59 (Active: 48 Inactive: 11)
 
 ## Top 100 artists seen live (41)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 390      
+Dream Theater                  | 1    | 391      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 335      
 In Flames                      | 5    | 245      
-Ghost                          | 6    | 228      
-Seven Spires                   | 7    | 223      
-AC/DC                          | 8    | 211      
+AC/DC                          | 6    | 237      
+Ghost                          | 7    | 228      
+Seven Spires                   | 8    | 223      
 The Dogs                       | 10   | 199      
 Foo Fighters                   | 11   | 198      
-Skálmöld                       | 12   | 194      
+Skálmöld                       | 12   | 195      
 Honningbarna                   | 13   | 174      
 Avenged Sevenfold              | 14   | 158      
 Circus Maximus                 | 15   | 157      
@@ -36,11 +36,11 @@ Gojira                         | 27   | 96
 Finntroll                      | 30   | 87       
 Kvelertak                      | 31   | 83       
 Green Day                      | 35   | 74       
-Oslo Ess                       | 40   | 68       
-Eminem                         | 41   | 67       
+Eminem                         | 39   | 71       
+Oslo Ess                       | 41   | 68       
 The Good The Bad and The Zugly | 44   | 66       
 Maktkamp                       | 46   | 63       
-Snarky Puppy                   | 48   | 58       
+Snarky Puppy                   | 49   | 58       
 Mall Girl                      | 52   | 56       
 The Winery Dogs                | 57   | 55       
 Leo                            | 60   | 53       
@@ -54,26 +54,26 @@ Behemoth                       | 82   | 35
 HammerFall                     | 83   | 35       
 Sabaton                        | 87   | 34       
 Clutch                         | 88   | 33       
-Powerwolf                      | 96   | 30       
+Powerwolf                      | 97   | 30       
 
-## Active top 100 artists not seen live (49)
+## Active top 100 artists not seen live (48)
 
 Name                        | Rank | PlayCount
 --------------------------- | ---- | ---------
-Greta Van Fleet             | 16   | 138      
+Greta Van Fleet             | 16   | 140      
 The Night Flight Orchestra  | 18   | 119      
 Sylosis                     | 19   | 118      
 Lars Vaular                 | 20   | 117      
 Animals as Leaders          | 21   | 115      
 The Halo Effect             | 23   | 115      
-Judas Priest                | 28   | 95       
+Judas Priest                | 28   | 96       
 Parius                      | 29   | 91       
 Hall & Oates                | 32   | 80       
 DumDum Boys                 | 34   | 76       
 Love                        | 36   | 73       
 Haken                       | 37   | 72       
 Backstreet Girls            | 38   | 71       
-Bokassa                     | 39   | 69       
+Bokassa                     | 40   | 69       
 Jean-Luc Ponty              | 42   | 67       
 Styx                        | 43   | 67       
 Tool                        | 45   | 66       
@@ -85,7 +85,7 @@ The Notorious B.I.G.        | 55   | 55
 All That Remains            | 58   | 54       
 Sum 41                      | 59   | 54       
 Queens of the Stone Age     | 61   | 53       
-The Police                  | 62   | 50       
+The Police                  | 62   | 51       
 Bill Withers                | 63   | 48       
 Apollo Suns                 | 64   | 46       
 Adele                       | 66   | 44       
@@ -103,24 +103,24 @@ oberst                      | 89   | 33
 Amyl and the Sniffers       | 90   | 32       
 Flying Colors               | 91   | 32       
 Lørdagsrådet                | 92   | 32       
-Ballinciaga                 | 93   | 31       
-Red Hot Chili Peppers       | 94   | 31       
-Electric Light Orchestra    | 95   | 30       
-Rise Against                | 97   | 30       
-Robert Pehrsson's Humbucker | 98   | 30       
-Nightwish                   | 100  | 29       
+Red Hot Chili Peppers       | 93   | 32       
+Ballinciaga                 | 94   | 31       
+Electric Light Orchestra    | 96   | 30       
+Rise Against                | 98   | 30       
+Robert Pehrsson's Humbucker | 99   | 30       
 
-## Inactive top 100 artists not seen live (10)
+## Inactive top 100 artists not seen live (11)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 271      
-Rush                         | 9    | 201      
+Rush                         | 9    | 202      
 Led Zeppelin                 | 33   | 80       
-Creedence Clearwater Revival | 49   | 57       
+Creedence Clearwater Revival | 48   | 59       
 Pink Floyd                   | 53   | 56       
 The Who                      | 56   | 55       
 The Beatles                  | 71   | 43       
 Dire Straits                 | 75   | 39       
 Jimi Hendrix                 | 78   | 37       
-Jokke & Valentinerne         | 99   | 29       
+Black Sabbath                | 95   | 30       
+Jokke & Valentinerne         | 100  | 29       
