@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 391      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 337      
-AC/DC                          | 5    | 254      
+AC/DC                          | 5    | 272      
 In Flames                      | 6    | 245      
 Ghost                          | 7    | 228      
 Seven Spires                   | 8    | 223      
@@ -37,9 +37,9 @@ Finntroll                      | 30   | 87
 Kvelertak                      | 31   | 83       
 Green Day                      | 35   | 74       
 Eminem                         | 39   | 71       
-Oslo Ess                       | 41   | 68       
-The Good The Bad and The Zugly | 44   | 66       
-Maktkamp                       | 46   | 63       
+Oslo Ess                       | 40   | 70       
+The Good The Bad and The Zugly | 45   | 66       
+Maktkamp                       | 47   | 63       
 Snarky Puppy                   | 49   | 58       
 Mall Girl                      | 52   | 56       
 The Winery Dogs                | 57   | 55       
@@ -49,10 +49,10 @@ Spiritbox                      | 71   | 43
 22                             | 73   | 42       
 Atavistia                      | 74   | 42       
 Soilwork                       | 76   | 39       
-Danko Jones                    | 81   | 36       
+Danko Jones                    | 82   | 36       
 Behemoth                       | 83   | 35       
 HammerFall                     | 84   | 35       
-Sabaton                        | 87   | 34       
+Sabaton                        | 88   | 34       
 Clutch                         | 89   | 33       
 Powerwolf                      | 97   | 30       
 
@@ -73,10 +73,10 @@ DumDum Boys                 | 34   | 76
 Love                        | 36   | 73       
 Haken                       | 37   | 72       
 Backstreet Girls            | 38   | 71       
-Bokassa                     | 40   | 69       
+Bokassa                     | 41   | 69       
 Jean-Luc Ponty              | 42   | 67       
 Styx                        | 43   | 67       
-Tool                        | 45   | 66       
+Tool                        | 44   | 67       
 Aktiv Dödshjelp             | 48   | 59       
 Daft Punk                   | 50   | 57       
 Frank Zappa                 | 51   | 57       
@@ -88,17 +88,17 @@ Queens of the Stone Age     | 61   | 53
 Bill Withers                | 62   | 52       
 The Police                  | 63   | 52       
 Apollo Suns                 | 64   | 46       
-Adele                       | 66   | 44       
-All Them Witches            | 67   | 44       
-The Offspring               | 68   | 44       
-The Rolling Stones          | 69   | 44       
+The Rolling Stones          | 66   | 45       
+Adele                       | 67   | 44       
+All Them Witches            | 68   | 44       
+The Offspring               | 69   | 44       
 Thulsa Doom                 | 70   | 44       
 Elton John                  | 77   | 38       
 Graveyard                   | 78   | 38       
-Witchcraft                  | 80   | 37       
-Van Halen                   | 82   | 36       
-Maraton                     | 85   | 34       
-Rival Sons                  | 86   | 34       
+Van Halen                   | 80   | 37       
+Witchcraft                  | 81   | 37       
+Maraton                     | 86   | 34       
+Rival Sons                  | 87   | 34       
 oberst                      | 90   | 33       
 Amyl and the Sniffers       | 91   | 32       
 Flying Colors               | 92   | 32       
@@ -116,11 +116,11 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 4    | 275      
 Rush                         | 9    | 206      
 Led Zeppelin                 | 33   | 80       
-Creedence Clearwater Revival | 47   | 62       
+Creedence Clearwater Revival | 46   | 63       
 Pink Floyd                   | 53   | 56       
 The Who                      | 56   | 55       
 The Beatles                  | 72   | 43       
 Dire Straits                 | 75   | 39       
 Jimi Hendrix                 | 79   | 37       
-Black Sabbath                | 88   | 33       
+Black Sabbath                | 85   | 34       
 The Doors                    | 100  | 30       
