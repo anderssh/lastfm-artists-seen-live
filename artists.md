@@ -14,11 +14,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 391      
+Dream Theater                  | 1    | 392      
 Spidergawd                     | 2    | 368      
-Metallica                      | 3    | 337      
-AC/DC                          | 5    | 274      
-In Flames                      | 6    | 245      
+Metallica                      | 3    | 341      
+AC/DC                          | 4    | 280      
+In Flames                      | 6    | 248      
 Ghost                          | 7    | 228      
 Seven Spires                   | 8    | 223      
 The Dogs                       | 10   | 199      
@@ -30,11 +30,11 @@ Circus Maximus                 | 16   | 157
 Architects                     | 17   | 121      
 Pagan's Mind                   | 22   | 115      
 Slipknot                       | 24   | 109      
-Mastodon                       | 25   | 103      
+Mastodon                       | 25   | 104      
 blink-182                      | 27   | 101      
-Gojira                         | 28   | 96       
+Gojira                         | 28   | 97       
 Finntroll                      | 30   | 87       
-Kvelertak                      | 31   | 83       
+Kvelertak                      | 31   | 84       
 Green Day                      | 35   | 74       
 Eminem                         | 39   | 71       
 Oslo Ess                       | 40   | 71       
@@ -49,9 +49,9 @@ Spiritbox                      | 71   | 43
 22                             | 73   | 42       
 Atavistia                      | 74   | 42       
 Soilwork                       | 76   | 39       
-Danko Jones                    | 82   | 36       
-Behemoth                       | 83   | 35       
-HammerFall                     | 84   | 35       
+Danko Jones                    | 83   | 36       
+Behemoth                       | 84   | 35       
+HammerFall                     | 85   | 35       
 Sabaton                        | 88   | 34       
 Clutch                         | 89   | 33       
 Powerwolf                      | 98   | 30       
@@ -66,12 +66,12 @@ Sylosis                     | 19   | 118
 Lars Vaular                 | 20   | 117      
 Animals as Leaders          | 21   | 115      
 The Halo Effect             | 23   | 115      
-Judas Priest                | 26   | 102      
-Parius                      | 29   | 91       
+Judas Priest                | 26   | 103      
+Parius                      | 29   | 92       
 Hall & Oates                | 32   | 81       
 DumDum Boys                 | 34   | 76       
-Love                        | 36   | 73       
-Haken                       | 37   | 72       
+Haken                       | 36   | 73       
+Love                        | 37   | 73       
 Backstreet Girls            | 38   | 71       
 Bokassa                     | 41   | 70       
 Tool                        | 42   | 68       
@@ -85,13 +85,13 @@ The Notorious B.I.G.        | 55   | 55
 All That Remains            | 58   | 54       
 Sum 41                      | 59   | 54       
 Queens of the Stone Age     | 61   | 53       
-Bill Withers                | 62   | 52       
-The Police                  | 63   | 52       
+The Police                  | 62   | 53       
+Bill Withers                | 63   | 52       
 Apollo Suns                 | 64   | 46       
-The Rolling Stones          | 66   | 45       
-Adele                       | 67   | 44       
-All Them Witches            | 68   | 44       
-The Offspring               | 69   | 44       
+The Offspring               | 66   | 45       
+The Rolling Stones          | 67   | 45       
+Adele                       | 68   | 44       
+All Them Witches            | 69   | 44       
 Thulsa Doom                 | 70   | 44       
 Elton John                  | 77   | 38       
 Graveyard                   | 78   | 38       
@@ -113,8 +113,8 @@ Robert Pehrsson's Humbucker | 100  | 30
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 4    | 275      
-Rush                         | 9    | 206      
+Fleetwood Mac                | 5    | 275      
+Rush                         | 9    | 208      
 Led Zeppelin                 | 33   | 80       
 Creedence Clearwater Revival | 46   | 65       
 Pink Floyd                   | 53   | 56       
@@ -122,5 +122,5 @@ The Who                      | 56   | 55
 The Beatles                  | 72   | 43       
 Dire Straits                 | 75   | 39       
 Jimi Hendrix                 | 79   | 37       
-Black Sabbath                | 85   | 34       
+Black Sabbath                | 82   | 36       
 Jokke & Valentinerne         | 96   | 31       
