@@ -14,23 +14,23 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 392      
+Dream Theater                  | 1    | 393      
 Spidergawd                     | 2    | 368      
-Metallica                      | 3    | 341      
+Metallica                      | 3    | 345      
 AC/DC                          | 4    | 280      
-In Flames                      | 6    | 248      
+In Flames                      | 6    | 250      
 Ghost                          | 7    | 228      
 Seven Spires                   | 8    | 223      
-The Dogs                       | 10   | 199      
-Foo Fighters                   | 11   | 198      
-Skálmöld                       | 12   | 198      
+Skálmöld                       | 10   | 207      
+The Dogs                       | 11   | 199      
+Foo Fighters                   | 12   | 198      
 Honningbarna                   | 13   | 174      
 Avenged Sevenfold              | 15   | 158      
 Circus Maximus                 | 16   | 157      
 Architects                     | 17   | 121      
-Pagan's Mind                   | 22   | 115      
+Pagan's Mind                   | 23   | 115      
 Slipknot                       | 24   | 109      
-Mastodon                       | 25   | 104      
+Mastodon                       | 26   | 104      
 blink-182                      | 27   | 101      
 Gojira                         | 28   | 97       
 Finntroll                      | 30   | 87       
@@ -64,9 +64,9 @@ Greta Van Fleet             | 14   | 164
 The Night Flight Orchestra  | 18   | 119      
 Sylosis                     | 19   | 118      
 Lars Vaular                 | 20   | 117      
-Animals as Leaders          | 21   | 115      
-The Halo Effect             | 23   | 115      
-Judas Priest                | 26   | 103      
+The Halo Effect             | 21   | 117      
+Animals as Leaders          | 22   | 115      
+Judas Priest                | 25   | 106      
 Parius                      | 29   | 92       
 Hall & Oates                | 32   | 81       
 DumDum Boys                 | 34   | 76       
@@ -93,10 +93,10 @@ The Rolling Stones          | 67   | 45
 Adele                       | 68   | 44       
 All Them Witches            | 69   | 44       
 Thulsa Doom                 | 70   | 44       
-Elton John                  | 77   | 38       
-Graveyard                   | 78   | 38       
-Van Halen                   | 80   | 37       
-Witchcraft                  | 81   | 37       
+Elton John                  | 78   | 38       
+Graveyard                   | 79   | 38       
+Van Halen                   | 81   | 37       
+Witchcraft                  | 82   | 37       
 Maraton                     | 86   | 34       
 Rival Sons                  | 87   | 34       
 oberst                      | 90   | 33       
@@ -121,6 +121,6 @@ Pink Floyd                   | 53   | 56
 The Who                      | 56   | 55       
 The Beatles                  | 72   | 43       
 Dire Straits                 | 75   | 39       
-Jimi Hendrix                 | 79   | 37       
-Black Sabbath                | 82   | 36       
+Black Sabbath                | 77   | 38       
+Jimi Hendrix                 | 80   | 37       
 Jokke & Valentinerne         | 96   | 31       
