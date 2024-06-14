@@ -14,10 +14,10 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 400      
+Dream Theater                  | 1    | 406      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 346      
-AC/DC                          | 4    | 288      
+AC/DC                          | 4    | 289      
 In Flames                      | 6    | 250      
 Ghost                          | 7    | 228      
 Seven Spires                   | 8    | 223      
@@ -35,9 +35,9 @@ blink-182                      | 27   | 102
 Gojira                         | 28   | 97       
 Finntroll                      | 30   | 87       
 Kvelertak                      | 32   | 84       
-Eminem                         | 36   | 76       
-Green Day                      | 37   | 74       
-Oslo Ess                       | 40   | 71       
+Eminem                         | 37   | 76       
+Green Day                      | 38   | 74       
+Oslo Ess                       | 42   | 71       
 The Good The Bad and The Zugly | 45   | 66       
 Maktkamp                       | 47   | 63       
 Snarky Puppy                   | 49   | 58       
@@ -69,13 +69,13 @@ Animals as Leaders         | 22   | 115
 Judas Priest               | 25   | 106      
 Parius                     | 29   | 92       
 Hall & Oates               | 31   | 85       
-Backstreet Girls           | 34   | 76       
-DumDum Boys                | 35   | 76       
-Haken                      | 38   | 73       
-Love                       | 39   | 73       
-Bokassa                    | 41   | 70       
-Tool                       | 42   | 68       
-Jean-Luc Ponty             | 43   | 67       
+Tool                       | 34   | 77       
+Backstreet Girls           | 35   | 76       
+DumDum Boys                | 36   | 76       
+Haken                      | 39   | 73       
+Love                       | 40   | 73       
+Jean-Luc Ponty             | 41   | 72       
+Bokassa                    | 43   | 70       
 Styx                       | 44   | 67       
 Aktiv Dödshjelp            | 48   | 59       
 Daft Punk                  | 50   | 57       
