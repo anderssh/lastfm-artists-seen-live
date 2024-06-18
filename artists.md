@@ -31,16 +31,16 @@ Architects                     | 17   | 122
 Pagan's Mind                   | 23   | 115      
 Slipknot                       | 24   | 109      
 Mastodon                       | 26   | 104      
-blink-182                      | 27   | 102      
+blink-182                      | 27   | 103      
 Gojira                         | 28   | 97       
 Finntroll                      | 30   | 87       
 Kvelertak                      | 32   | 84       
 Eminem                         | 37   | 76       
-Green Day                      | 38   | 74       
+Green Day                      | 38   | 75       
 Oslo Ess                       | 42   | 71       
 The Good The Bad and The Zugly | 45   | 66       
 Maktkamp                       | 48   | 63       
-Snarky Puppy                   | 50   | 58       
+Snarky Puppy                   | 51   | 58       
 Mall Girl                      | 53   | 56       
 The Winery Dogs                | 59   | 55       
 Leo                            | 62   | 53       
@@ -63,8 +63,8 @@ Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Greta Van Fleet            | 14   | 165      
 The Night Flight Orchestra | 18   | 119      
-Sylosis                    | 19   | 118      
-Lars Vaular                | 20   | 117      
+Lars Vaular                | 19   | 118      
+Sylosis                    | 20   | 118      
 The Halo Effect            | 21   | 117      
 Animals as Leaders         | 22   | 115      
 Judas Priest               | 25   | 106      
@@ -73,14 +73,14 @@ Hall & Oates               | 31   | 85
 Tool                       | 34   | 77       
 Backstreet Girls           | 35   | 76       
 DumDum Boys                | 36   | 76       
-Haken                      | 39   | 73       
-Love                       | 40   | 73       
-Jean-Luc Ponty             | 41   | 72       
+Jean-Luc Ponty             | 39   | 74       
+Haken                      | 40   | 73       
+Love                       | 41   | 73       
 Bokassa                    | 43   | 70       
 Styx                       | 44   | 67       
 All That Remains           | 47   | 64       
 Aktiv Dödshjelp            | 49   | 59       
-Daft Punk                  | 51   | 57       
+Daft Punk                  | 50   | 58       
 Frank Zappa                | 52   | 57       
 Porcupine Tree             | 55   | 56       
 The Police                 | 56   | 56       
@@ -95,9 +95,9 @@ Adele                      | 68   | 44
 All Them Witches           | 69   | 44       
 Thulsa Doom                | 71   | 44       
 Van Halen                  | 72   | 44       
-Elton John                 | 79   | 38       
-Graveyard                  | 80   | 38       
-Witchcraft                 | 82   | 37       
+Graveyard                  | 78   | 41       
+Elton John                 | 80   | 38       
+Witchcraft                 | 81   | 38       
 Maraton                    | 87   | 34       
 Rival Sons                 | 88   | 34       
 Electric Light Orchestra   | 91   | 33       
@@ -121,6 +121,6 @@ Pink Floyd                   | 54   | 56
 The Who                      | 58   | 55       
 The Beatles                  | 73   | 43       
 Dire Straits                 | 77   | 41       
-Black Sabbath                | 78   | 39       
-Jimi Hendrix                 | 81   | 37       
+Black Sabbath                | 79   | 39       
+Jimi Hendrix                 | 82   | 37       
 Jokke & Valentinerne         | 99   | 31       
