@@ -29,12 +29,12 @@ Avenged Sevenfold              | 15   | 158
 Circus Maximus                 | 16   | 157      
 Architects                     | 17   | 122      
 Pagan's Mind                   | 23   | 115      
-Slipknot                       | 24   | 109      
+Slipknot                       | 25   | 109      
 blink-182                      | 27   | 104      
 Mastodon                       | 28   | 104      
 Gojira                         | 29   | 97       
 Finntroll                      | 31   | 87       
-Kvelertak                      | 33   | 85       
+Kvelertak                      | 34   | 85       
 Eminem                         | 38   | 76       
 Green Day                      | 39   | 75       
 Oslo Ess                       | 42   | 71       
@@ -48,13 +48,13 @@ Def Leppard                    | 67   | 46
 Spiritbox                      | 70   | 44       
 22                             | 75   | 42       
 Atavistia                      | 76   | 42       
-Soilwork                       | 77   | 42       
+Soilwork                       | 78   | 42       
 Danko Jones                    | 83   | 36       
 Behemoth                       | 84   | 35       
 HammerFall                     | 85   | 35       
-Lamb of God                    | 86   | 35       
-Sabaton                        | 89   | 34       
-Clutch                         | 90   | 33       
+Lamb of God                    | 87   | 35       
+Sabaton                        | 90   | 34       
+Clutch                         | 91   | 33       
 
 ## Active top 100 artists not seen live (48)
 
@@ -66,11 +66,11 @@ Lars Vaular                 | 19   | 118
 Sylosis                     | 20   | 118      
 The Halo Effect             | 21   | 117      
 Animals as Leaders          | 22   | 115      
-Jean-Luc Ponty              | 25   | 107      
+Jean-Luc Ponty              | 24   | 109      
 Judas Priest                | 26   | 106      
 Parius                      | 30   | 92       
-Hall & Oates                | 32   | 85       
-Backstreet Girls            | 34   | 82       
+Backstreet Girls            | 32   | 85       
+Hall & Oates                | 33   | 85       
 Tool                        | 36   | 77       
 DumDum Boys                 | 37   | 76       
 Haken                       | 40   | 73       
@@ -78,8 +78,8 @@ Love                        | 41   | 73
 Bokassa                     | 43   | 70       
 Styx                        | 44   | 67       
 All That Remains            | 47   | 64       
-Aktiv Dödshjelp             | 49   | 59       
-Daft Punk                   | 50   | 58       
+Daft Punk                   | 49   | 60       
+Aktiv Dödshjelp             | 50   | 59       
 Frank Zappa                 | 52   | 57       
 Porcupine Tree              | 55   | 56       
 The Police                  | 56   | 56       
@@ -95,16 +95,16 @@ All Them Witches            | 69   | 44
 Thulsa Doom                 | 71   | 44       
 Van Halen                   | 72   | 44       
 Graveyard                   | 73   | 43       
-Elton John                  | 80   | 38       
+Elton John                  | 80   | 39       
 Witchcraft                  | 81   | 38       
-Maraton                     | 87   | 34       
-Rival Sons                  | 88   | 34       
-Electric Light Orchestra    | 91   | 33       
-oberst                      | 92   | 33       
-Red Hot Chili Peppers       | 93   | 33       
-Amyl and the Sniffers       | 94   | 32       
-Ballinciaga                 | 95   | 32       
-Flying Colors               | 96   | 32       
+Maraton                     | 88   | 34       
+Rival Sons                  | 89   | 34       
+Electric Light Orchestra    | 92   | 33       
+oberst                      | 93   | 33       
+Red Hot Chili Peppers       | 94   | 33       
+Amyl and the Sniffers       | 95   | 32       
+Ballinciaga                 | 96   | 32       
+Flying Colors               | 97   | 32       
 Lørdagsrådet                | 98   | 32       
 Toto                        | 99   | 32       
 Robert Pehrsson's Humbucker | 100  | 31       
@@ -120,7 +120,7 @@ Creedence Clearwater Revival | 46   | 65
 Pink Floyd                   | 53   | 57       
 The Who                      | 58   | 55       
 The Beatles                  | 74   | 43       
-Dire Straits                 | 78   | 41       
+Dire Straits                 | 77   | 42       
 Black Sabbath                | 79   | 39       
 Jimi Hendrix                 | 82   | 37       
-Jokke & Valentinerne         | 97   | 32       
+Jokke & Valentinerne         | 86   | 35       
