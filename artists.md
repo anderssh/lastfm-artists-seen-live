@@ -14,13 +14,13 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 406      
+Dream Theater                  | 1    | 408      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 346      
 AC/DC                          | 4    | 290      
 In Flames                      | 6    | 251      
 Ghost                          | 7    | 228      
-Seven Spires                   | 8    | 223      
+Seven Spires                   | 8    | 228      
 Skálmöld                       | 10   | 207      
 The Dogs                       | 11   | 203      
 Foo Fighters                   | 12   | 199      
@@ -33,16 +33,16 @@ Slipknot                       | 25   | 109
 blink-182                      | 27   | 104      
 Mastodon                       | 28   | 104      
 Gojira                         | 29   | 97       
-Finntroll                      | 31   | 87       
+Finntroll                      | 32   | 87       
 Kvelertak                      | 34   | 85       
 Eminem                         | 38   | 76       
 Green Day                      | 39   | 75       
-Oslo Ess                       | 42   | 71       
+Oslo Ess                       | 42   | 72       
 The Good The Bad and The Zugly | 45   | 66       
 Maktkamp                       | 48   | 63       
 Snarky Puppy                   | 51   | 58       
 Mall Girl                      | 54   | 56       
-The Winery Dogs                | 59   | 55       
+The Winery Dogs                | 60   | 55       
 Leo                            | 62   | 53       
 Def Leppard                    | 67   | 46       
 Spiritbox                      | 70   | 44       
@@ -50,8 +50,8 @@ Spiritbox                      | 70   | 44
 Atavistia                      | 76   | 42       
 Soilwork                       | 78   | 42       
 Danko Jones                    | 83   | 36       
-Behemoth                       | 84   | 35       
-HammerFall                     | 85   | 35       
+Behemoth                       | 85   | 35       
+HammerFall                     | 86   | 35       
 Lamb of God                    | 87   | 35       
 Sabaton                        | 90   | 34       
 Clutch                         | 91   | 33       
@@ -60,16 +60,16 @@ Clutch                         | 91   | 33
 
 Name                        | Rank | PlayCount
 --------------------------- | ---- | ---------
-Greta Van Fleet             | 14   | 165      
+Greta Van Fleet             | 14   | 166      
 The Night Flight Orchestra  | 18   | 119      
 Lars Vaular                 | 19   | 118      
 Sylosis                     | 20   | 118      
 The Halo Effect             | 21   | 117      
 Animals as Leaders          | 22   | 115      
 Jean-Luc Ponty              | 24   | 109      
-Judas Priest                | 26   | 106      
+Judas Priest                | 26   | 108      
 Parius                      | 30   | 92       
-Backstreet Girls            | 32   | 85       
+Backstreet Girls            | 31   | 87       
 Hall & Oates                | 33   | 85       
 Tool                        | 36   | 77       
 DumDum Boys                 | 37   | 76       
@@ -83,8 +83,8 @@ Aktiv Dödshjelp             | 50   | 59
 Frank Zappa                 | 52   | 57       
 Porcupine Tree              | 55   | 56       
 The Police                  | 56   | 56       
-The Notorious B.I.G.        | 57   | 55       
-Sum 41                      | 60   | 54       
+Sum 41                      | 57   | 55       
+The Notorious B.I.G.        | 58   | 55       
 Bill Withers                | 61   | 53       
 Queens of the Stone Age     | 63   | 53       
 The Rolling Stones          | 64   | 50       
@@ -106,21 +106,21 @@ Amyl and the Sniffers       | 95   | 32
 Ballinciaga                 | 96   | 32       
 Flying Colors               | 97   | 32       
 Lørdagsrådet                | 98   | 32       
-Toto                        | 99   | 32       
-Robert Pehrsson's Humbucker | 100  | 31       
+Robert Pehrsson's Humbucker | 99   | 32       
+Toto                        | 100  | 32       
 
 ## Inactive top 100 artists not seen live (11)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 280      
-Rush                         | 9    | 215      
-Led Zeppelin                 | 35   | 82       
+Rush                         | 9    | 216      
+Led Zeppelin                 | 35   | 83       
 Creedence Clearwater Revival | 46   | 65       
 Pink Floyd                   | 53   | 57       
-The Who                      | 58   | 55       
+The Who                      | 59   | 55       
 The Beatles                  | 74   | 43       
 Dire Straits                 | 77   | 42       
 Black Sabbath                | 79   | 39       
 Jimi Hendrix                 | 82   | 37       
-Jokke & Valentinerne         | 86   | 35       
+Jokke & Valentinerne         | 84   | 36       
