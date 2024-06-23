@@ -35,8 +35,8 @@ Mastodon                       | 28   | 104
 Gojira                         | 29   | 97       
 Finntroll                      | 32   | 87       
 Kvelertak                      | 34   | 85       
-Eminem                         | 38   | 76       
-Green Day                      | 39   | 75       
+Green Day                      | 36   | 78       
+Eminem                         | 39   | 76       
 Oslo Ess                       | 42   | 72       
 The Good The Bad and The Zugly | 45   | 66       
 Maktkamp                       | 48   | 63       
@@ -71,8 +71,8 @@ Judas Priest                | 26   | 108
 Parius                      | 30   | 92       
 Backstreet Girls            | 31   | 87       
 Hall & Oates                | 33   | 85       
-Tool                        | 36   | 77       
-DumDum Boys                 | 37   | 76       
+Tool                        | 37   | 77       
+DumDum Boys                 | 38   | 76       
 Haken                       | 40   | 73       
 Love                        | 41   | 73       
 Bokassa                     | 43   | 70       
@@ -82,13 +82,13 @@ Daft Punk                   | 49   | 60
 Aktiv Dödshjelp             | 50   | 59       
 Frank Zappa                 | 52   | 57       
 Porcupine Tree              | 55   | 56       
-The Police                  | 56   | 56       
-Sum 41                      | 57   | 55       
+Sum 41                      | 56   | 56       
+The Police                  | 57   | 56       
 The Notorious B.I.G.        | 58   | 55       
 Bill Withers                | 61   | 53       
 Queens of the Stone Age     | 63   | 53       
 The Rolling Stones          | 64   | 50       
-The Offspring               | 65   | 47       
+The Offspring               | 65   | 48       
 Apollo Suns                 | 66   | 46       
 Adele                       | 68   | 44       
 All Them Witches            | 69   | 44       
