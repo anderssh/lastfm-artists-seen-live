@@ -29,7 +29,7 @@ Avenged Sevenfold              | 15   | 158
 Circus Maximus                 | 16   | 157      
 Architects                     | 17   | 122      
 Pagan's Mind                   | 23   | 115      
-Slipknot                       | 25   | 109      
+Slipknot                       | 26   | 109      
 blink-182                      | 27   | 104      
 Mastodon                       | 28   | 104      
 Gojira                         | 29   | 97       
@@ -37,7 +37,7 @@ Finntroll                      | 32   | 87
 Kvelertak                      | 34   | 85       
 Green Day                      | 36   | 78       
 Eminem                         | 39   | 76       
-Oslo Ess                       | 42   | 72       
+Oslo Ess                       | 42   | 73       
 The Good The Bad and The Zugly | 45   | 66       
 Maktkamp                       | 48   | 63       
 Snarky Puppy                   | 51   | 58       
@@ -49,10 +49,10 @@ Spiritbox                      | 70   | 44
 22                             | 75   | 42       
 Atavistia                      | 76   | 42       
 Soilwork                       | 78   | 42       
-Danko Jones                    | 83   | 36       
-Behemoth                       | 85   | 35       
-HammerFall                     | 86   | 35       
-Lamb of God                    | 87   | 35       
+Danko Jones                    | 84   | 36       
+Lamb of God                    | 85   | 36       
+Behemoth                       | 86   | 35       
+HammerFall                     | 87   | 35       
 Sabaton                        | 90   | 34       
 Clutch                         | 91   | 33       
 
@@ -60,22 +60,22 @@ Clutch                         | 91   | 33
 
 Name                        | Rank | PlayCount
 --------------------------- | ---- | ---------
-Greta Van Fleet             | 14   | 166      
+Greta Van Fleet             | 14   | 168      
 The Night Flight Orchestra  | 18   | 119      
 Lars Vaular                 | 19   | 118      
 Sylosis                     | 20   | 118      
 The Halo Effect             | 21   | 117      
 Animals as Leaders          | 22   | 115      
 Jean-Luc Ponty              | 24   | 109      
-Judas Priest                | 26   | 108      
+Judas Priest                | 25   | 109      
 Parius                      | 30   | 92       
 Backstreet Girls            | 31   | 87       
 Hall & Oates                | 33   | 85       
-Tool                        | 37   | 77       
+Tool                        | 37   | 78       
 DumDum Boys                 | 38   | 76       
 Haken                       | 40   | 73       
 Love                        | 41   | 73       
-Bokassa                     | 43   | 70       
+Bokassa                     | 43   | 72       
 Styx                        | 44   | 67       
 All That Remains            | 47   | 64       
 Daft Punk                   | 49   | 60       
@@ -96,7 +96,7 @@ Thulsa Doom                 | 71   | 44
 Van Halen                   | 72   | 44       
 Graveyard                   | 73   | 43       
 Elton John                  | 80   | 39       
-Witchcraft                  | 81   | 38       
+Witchcraft                  | 82   | 38       
 Maraton                     | 88   | 34       
 Rival Sons                  | 89   | 34       
 Electric Light Orchestra    | 92   | 33       
@@ -122,5 +122,5 @@ The Who                      | 59   | 55
 The Beatles                  | 74   | 43       
 Dire Straits                 | 77   | 42       
 Black Sabbath                | 79   | 39       
-Jimi Hendrix                 | 82   | 37       
-Jokke & Valentinerne         | 84   | 36       
+Jokke & Valentinerne         | 81   | 38       
+Jimi Hendrix                 | 83   | 37       
