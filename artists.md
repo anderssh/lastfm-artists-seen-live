@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 408      
 Spidergawd                     | 2    | 368      
-Metallica                      | 3    | 346      
+Metallica                      | 3    | 347      
 AC/DC                          | 4    | 290      
 In Flames                      | 6    | 251      
 Ghost                          | 7    | 228      
@@ -35,9 +35,9 @@ Mastodon                       | 28   | 104
 Gojira                         | 29   | 97       
 Finntroll                      | 32   | 87       
 Kvelertak                      | 34   | 85       
-Green Day                      | 36   | 78       
+Green Day                      | 37   | 78       
 Eminem                         | 39   | 76       
-Oslo Ess                       | 42   | 73       
+Oslo Ess                       | 43   | 73       
 The Good The Bad and The Zugly | 45   | 66       
 Maktkamp                       | 48   | 63       
 Snarky Puppy                   | 51   | 58       
@@ -71,11 +71,11 @@ Judas Priest                | 25   | 109
 Parius                      | 30   | 92       
 Backstreet Girls            | 31   | 87       
 Hall & Oates                | 33   | 85       
-Tool                        | 37   | 78       
+Tool                        | 36   | 79       
 DumDum Boys                 | 38   | 76       
-Haken                       | 40   | 73       
-Love                        | 41   | 73       
-Bokassa                     | 43   | 72       
+Bokassa                     | 40   | 75       
+Haken                       | 41   | 73       
+Love                        | 42   | 73       
 Styx                        | 44   | 67       
 All That Remains            | 47   | 64       
 Daft Punk                   | 49   | 60       
@@ -90,8 +90,8 @@ Queens of the Stone Age     | 63   | 53
 The Rolling Stones          | 64   | 50       
 The Offspring               | 65   | 48       
 Apollo Suns                 | 66   | 46       
-Adele                       | 68   | 44       
-All Them Witches            | 69   | 44       
+All Them Witches            | 68   | 45       
+Adele                       | 69   | 44       
 Thulsa Doom                 | 71   | 44       
 Van Halen                   | 72   | 44       
 Graveyard                   | 73   | 43       
