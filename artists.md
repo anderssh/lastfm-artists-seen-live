@@ -16,8 +16,8 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 408      
 Spidergawd                     | 2    | 368      
-Metallica                      | 3    | 347      
-AC/DC                          | 4    | 290      
+Metallica                      | 3    | 348      
+AC/DC                          | 4    | 291      
 In Flames                      | 6    | 251      
 Ghost                          | 7    | 228      
 Seven Spires                   | 8    | 228      
@@ -36,7 +36,7 @@ Gojira                         | 29   | 97
 Finntroll                      | 32   | 87       
 Kvelertak                      | 34   | 85       
 Green Day                      | 37   | 78       
-Eminem                         | 39   | 76       
+Eminem                         | 40   | 76       
 Oslo Ess                       | 43   | 73       
 The Good The Bad and The Zugly | 45   | 66       
 Maktkamp                       | 48   | 63       
@@ -60,7 +60,7 @@ Clutch                         | 91   | 33
 
 Name                        | Rank | PlayCount
 --------------------------- | ---- | ---------
-Greta Van Fleet             | 14   | 168      
+Greta Van Fleet             | 14   | 169      
 The Night Flight Orchestra  | 18   | 119      
 Lars Vaular                 | 19   | 118      
 Sylosis                     | 20   | 118      
@@ -71,9 +71,9 @@ Judas Priest                | 25   | 109
 Parius                      | 30   | 92       
 Backstreet Girls            | 31   | 87       
 Hall & Oates                | 33   | 85       
-Tool                        | 36   | 79       
-DumDum Boys                 | 38   | 76       
-Bokassa                     | 40   | 75       
+Tool                        | 36   | 81       
+Bokassa                     | 38   | 76       
+DumDum Boys                 | 39   | 76       
 Haken                       | 41   | 73       
 Love                        | 42   | 73       
 Styx                        | 44   | 67       
@@ -96,7 +96,7 @@ Thulsa Doom                 | 71   | 44
 Van Halen                   | 72   | 44       
 Graveyard                   | 73   | 43       
 Elton John                  | 80   | 39       
-Witchcraft                  | 82   | 38       
+Witchcraft                  | 83   | 38       
 Maraton                     | 88   | 34       
 Rival Sons                  | 89   | 34       
 Electric Light Orchestra    | 92   | 33       
@@ -114,7 +114,7 @@ Toto                        | 100  | 32
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 280      
-Rush                         | 9    | 216      
+Rush                         | 9    | 217      
 Led Zeppelin                 | 35   | 83       
 Creedence Clearwater Revival | 46   | 65       
 Pink Floyd                   | 53   | 57       
@@ -122,5 +122,5 @@ The Who                      | 59   | 55
 The Beatles                  | 74   | 43       
 Dire Straits                 | 77   | 42       
 Black Sabbath                | 79   | 39       
-Jokke & Valentinerne         | 81   | 38       
-Jimi Hendrix                 | 83   | 37       
+Jokke & Valentinerne         | 81   | 39       
+Jimi Hendrix                 | 82   | 38       
