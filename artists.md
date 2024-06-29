@@ -43,7 +43,7 @@ Maktkamp                       | 48   | 63
 Snarky Puppy                   | 51   | 58       
 Mall Girl                      | 54   | 56       
 The Winery Dogs                | 60   | 55       
-Leo                            | 62   | 53       
+Leo                            | 63   | 53       
 Def Leppard                    | 67   | 46       
 Spiritbox                      | 70   | 44       
 22                             | 75   | 42       
@@ -53,8 +53,8 @@ Danko Jones                    | 84   | 36
 Lamb of God                    | 85   | 36       
 Behemoth                       | 86   | 35       
 HammerFall                     | 87   | 35       
-Sabaton                        | 90   | 34       
-Clutch                         | 91   | 33       
+Sabaton                        | 91   | 34       
+Clutch                         | 92   | 33       
 
 ## Active top 100 artists not seen live (48)
 
@@ -85,8 +85,8 @@ Porcupine Tree              | 55   | 56
 Sum 41                      | 56   | 56       
 The Police                  | 57   | 56       
 The Notorious B.I.G.        | 58   | 55       
-Bill Withers                | 61   | 53       
-Queens of the Stone Age     | 63   | 53       
+Queens of the Stone Age     | 61   | 54       
+Bill Withers                | 62   | 53       
 The Rolling Stones          | 64   | 50       
 The Offspring               | 65   | 48       
 Apollo Suns                 | 66   | 46       
@@ -98,10 +98,10 @@ Graveyard                   | 73   | 43
 Elton John                  | 80   | 39       
 Witchcraft                  | 83   | 38       
 Maraton                     | 88   | 34       
-Rival Sons                  | 89   | 34       
-Electric Light Orchestra    | 92   | 33       
-oberst                      | 93   | 33       
-Red Hot Chili Peppers       | 94   | 33       
+Red Hot Chili Peppers       | 89   | 34       
+Rival Sons                  | 90   | 34       
+Electric Light Orchestra    | 93   | 33       
+oberst                      | 94   | 33       
 Amyl and the Sniffers       | 95   | 32       
 Ballinciaga                 | 96   | 32       
 Flying Colors               | 97   | 32       
@@ -122,5 +122,5 @@ The Who                      | 59   | 55
 The Beatles                  | 74   | 43       
 Dire Straits                 | 77   | 42       
 Black Sabbath                | 79   | 39       
-Jokke & Valentinerne         | 81   | 39       
-Jimi Hendrix                 | 82   | 38       
+Jimi Hendrix                 | 81   | 39       
+Jokke & Valentinerne         | 82   | 39       
