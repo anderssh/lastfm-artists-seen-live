@@ -60,7 +60,7 @@ Clutch                         | 92   | 33
 
 Name                        | Rank | PlayCount
 --------------------------- | ---- | ---------
-Greta Van Fleet             | 14   | 169      
+Greta Van Fleet             | 14   | 170      
 The Night Flight Orchestra  | 18   | 119      
 Lars Vaular                 | 19   | 118      
 Sylosis                     | 20   | 118      
