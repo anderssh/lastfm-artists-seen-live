@@ -34,7 +34,7 @@ blink-182                      | 27   | 104
 Mastodon                       | 28   | 104      
 Gojira                         | 29   | 97       
 Finntroll                      | 32   | 87       
-Kvelertak                      | 34   | 85       
+Kvelertak                      | 33   | 86       
 Green Day                      | 37   | 78       
 Eminem                         | 40   | 76       
 Oslo Ess                       | 43   | 73       
@@ -60,7 +60,7 @@ Clutch                         | 92   | 33
 
 Name                        | Rank | PlayCount
 --------------------------- | ---- | ---------
-Greta Van Fleet             | 14   | 170      
+Greta Van Fleet             | 14   | 171      
 The Night Flight Orchestra  | 18   | 119      
 Lars Vaular                 | 19   | 118      
 Sylosis                     | 20   | 118      
@@ -70,7 +70,7 @@ Jean-Luc Ponty              | 24   | 109
 Judas Priest                | 25   | 109      
 Parius                      | 30   | 92       
 Backstreet Girls            | 31   | 87       
-Hall & Oates                | 33   | 85       
+Hall & Oates                | 34   | 85       
 Tool                        | 36   | 81       
 Bokassa                     | 38   | 76       
 DumDum Boys                 | 39   | 76       
