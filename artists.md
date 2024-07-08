@@ -46,15 +46,15 @@ The Winery Dogs                | 60   | 55
 Leo                            | 63   | 53       
 Def Leppard                    | 67   | 46       
 Spiritbox                      | 70   | 44       
-22                             | 75   | 42       
+22                             | 73   | 43       
 Atavistia                      | 76   | 42       
 Soilwork                       | 78   | 42       
 Danko Jones                    | 84   | 36       
-Lamb of God                    | 85   | 36       
-Behemoth                       | 86   | 35       
-HammerFall                     | 87   | 35       
-Sabaton                        | 91   | 34       
-Clutch                         | 92   | 33       
+Lamb of God                    | 86   | 36       
+Behemoth                       | 87   | 35       
+HammerFall                     | 88   | 35       
+Sabaton                        | 92   | 34       
+Clutch                         | 93   | 33       
 
 ## Active top 100 artists not seen live (48)
 
@@ -94,17 +94,17 @@ All Them Witches            | 68   | 45
 Adele                       | 69   | 44       
 Thulsa Doom                 | 71   | 44       
 Van Halen                   | 72   | 44       
-Graveyard                   | 73   | 43       
+Graveyard                   | 74   | 43       
 Elton John                  | 80   | 39       
 Witchcraft                  | 83   | 38       
-Maraton                     | 88   | 34       
-Red Hot Chili Peppers       | 89   | 34       
-Rival Sons                  | 90   | 34       
-Electric Light Orchestra    | 93   | 33       
-oberst                      | 94   | 33       
-Amyl and the Sniffers       | 95   | 32       
-Ballinciaga                 | 96   | 32       
-Flying Colors               | 97   | 32       
+Flying Colors               | 85   | 36       
+Maraton                     | 89   | 34       
+Red Hot Chili Peppers       | 90   | 34       
+Rival Sons                  | 91   | 34       
+Electric Light Orchestra    | 94   | 33       
+oberst                      | 95   | 33       
+Amyl and the Sniffers       | 96   | 32       
+Ballinciaga                 | 97   | 32       
 Lørdagsrådet                | 98   | 32       
 Robert Pehrsson's Humbucker | 99   | 32       
 Toto                        | 100  | 32       
@@ -115,11 +115,11 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 280      
 Rush                         | 9    | 217      
-Led Zeppelin                 | 35   | 84       
+Led Zeppelin                 | 35   | 85       
 Creedence Clearwater Revival | 46   | 65       
 Pink Floyd                   | 53   | 57       
 The Who                      | 59   | 55       
-The Beatles                  | 74   | 43       
+The Beatles                  | 75   | 43       
 Dire Straits                 | 77   | 42       
 Black Sabbath                | 79   | 39       
 Jimi Hendrix                 | 81   | 39       
