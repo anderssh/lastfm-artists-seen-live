@@ -38,7 +38,7 @@ Kvelertak                      | 33   | 86
 Green Day                      | 37   | 78       
 Eminem                         | 40   | 76       
 Oslo Ess                       | 43   | 73       
-The Good The Bad and The Zugly | 45   | 66       
+The Good The Bad and The Zugly | 46   | 66       
 Maktkamp                       | 48   | 63       
 Snarky Puppy                   | 51   | 58       
 Mall Girl                      | 54   | 56       
@@ -49,7 +49,7 @@ Spiritbox                      | 70   | 44
 22                             | 73   | 43       
 Atavistia                      | 76   | 42       
 Soilwork                       | 78   | 42       
-Danko Jones                    | 84   | 36       
+Danko Jones                    | 85   | 36       
 Lamb of God                    | 86   | 36       
 Behemoth                       | 87   | 35       
 HammerFall                     | 88   | 35       
@@ -96,8 +96,8 @@ Thulsa Doom                 | 71   | 44
 Van Halen                   | 72   | 44       
 Graveyard                   | 74   | 43       
 Elton John                  | 80   | 39       
-Witchcraft                  | 83   | 38       
-Flying Colors               | 85   | 36       
+Flying Colors               | 83   | 38       
+Witchcraft                  | 84   | 38       
 Maraton                     | 89   | 34       
 Red Hot Chili Peppers       | 90   | 34       
 Rival Sons                  | 91   | 34       
@@ -116,7 +116,7 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 5    | 280      
 Rush                         | 9    | 217      
 Led Zeppelin                 | 35   | 85       
-Creedence Clearwater Revival | 46   | 65       
+Creedence Clearwater Revival | 45   | 66       
 Pink Floyd                   | 53   | 57       
 The Who                      | 59   | 55       
 The Beatles                  | 75   | 43       
