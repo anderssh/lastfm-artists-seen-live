@@ -114,7 +114,7 @@ Toto                        | 100  | 32
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 280      
-Rush                         | 9    | 217      
+Rush                         | 9    | 218      
 Led Zeppelin                 | 35   | 85       
 Creedence Clearwater Revival | 45   | 66       
 Pink Floyd                   | 53   | 57       
