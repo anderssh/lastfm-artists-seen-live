@@ -29,14 +29,14 @@ Avenged Sevenfold              | 15   | 158
 Circus Maximus                 | 16   | 157      
 Architects                     | 17   | 122      
 Pagan's Mind                   | 23   | 115      
-Slipknot                       | 26   | 109      
-blink-182                      | 27   | 104      
-Mastodon                       | 28   | 104      
-Gojira                         | 29   | 97       
-Finntroll                      | 32   | 87       
-Kvelertak                      | 33   | 86       
-Green Day                      | 37   | 78       
-Eminem                         | 40   | 76       
+Eminem                         | 24   | 109      
+Slipknot                       | 27   | 109      
+blink-182                      | 28   | 104      
+Mastodon                       | 29   | 104      
+Gojira                         | 30   | 97       
+Finntroll                      | 33   | 87       
+Kvelertak                      | 34   | 86       
+Green Day                      | 38   | 78       
 Oslo Ess                       | 43   | 73       
 The Good The Bad and The Zugly | 46   | 66       
 Maktkamp                       | 48   | 63       
@@ -66,14 +66,14 @@ Lars Vaular                 | 19   | 118
 Sylosis                     | 20   | 118      
 The Halo Effect             | 21   | 117      
 Animals as Leaders          | 22   | 115      
-Jean-Luc Ponty              | 24   | 109      
-Judas Priest                | 25   | 109      
-Parius                      | 30   | 92       
-Backstreet Girls            | 31   | 87       
-Hall & Oates                | 34   | 85       
-Tool                        | 36   | 81       
-Bokassa                     | 38   | 76       
-DumDum Boys                 | 39   | 76       
+Jean-Luc Ponty              | 25   | 109      
+Judas Priest                | 26   | 109      
+Parius                      | 31   | 92       
+Backstreet Girls            | 32   | 87       
+Hall & Oates                | 35   | 85       
+Tool                        | 37   | 81       
+Bokassa                     | 39   | 76       
+DumDum Boys                 | 40   | 76       
 Haken                       | 41   | 73       
 Love                        | 42   | 73       
 Styx                        | 44   | 67       
@@ -115,7 +115,7 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 280      
 Rush                         | 9    | 218      
-Led Zeppelin                 | 35   | 85       
+Led Zeppelin                 | 36   | 85       
 Creedence Clearwater Revival | 45   | 66       
 Pink Floyd                   | 53   | 57       
 The Who                      | 59   | 55       
