@@ -96,7 +96,7 @@ Thulsa Doom                 | 71   | 44
 Van Halen                   | 72   | 44       
 Graveyard                   | 74   | 43       
 Elton John                  | 80   | 39       
-Flying Colors               | 83   | 38       
+Flying Colors               | 81   | 39       
 Witchcraft                  | 84   | 38       
 Maraton                     | 89   | 34       
 Red Hot Chili Peppers       | 90   | 34       
@@ -113,7 +113,7 @@ Toto                        | 100  | 32
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 280      
+Fleetwood Mac                | 5    | 285      
 Rush                         | 9    | 218      
 Led Zeppelin                 | 36   | 85       
 Creedence Clearwater Revival | 45   | 66       
@@ -122,5 +122,5 @@ The Who                      | 59   | 55
 The Beatles                  | 75   | 43       
 Dire Straits                 | 77   | 42       
 Black Sabbath                | 79   | 39       
-Jimi Hendrix                 | 81   | 39       
-Jokke & Valentinerne         | 82   | 39       
+Jimi Hendrix                 | 82   | 39       
+Jokke & Valentinerne         | 83   | 39       
