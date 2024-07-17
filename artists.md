@@ -85,8 +85,8 @@ Porcupine Tree              | 55   | 56
 Sum 41                      | 56   | 56       
 The Police                  | 57   | 56       
 The Notorious B.I.G.        | 58   | 55       
-Queens of the Stone Age     | 61   | 54       
-Bill Withers                | 62   | 53       
+Bill Withers                | 61   | 54       
+Queens of the Stone Age     | 62   | 54       
 The Rolling Stones          | 64   | 50       
 The Offspring               | 65   | 48       
 Apollo Suns                 | 66   | 46       
