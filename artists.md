@@ -36,7 +36,7 @@ Mastodon                       | 29   | 104
 Gojira                         | 30   | 97       
 Finntroll                      | 33   | 87       
 Kvelertak                      | 34   | 86       
-Green Day                      | 38   | 78       
+Green Day                      | 38   | 79       
 Oslo Ess                       | 43   | 73       
 The Good The Bad and The Zugly | 46   | 66       
 Maktkamp                       | 48   | 63       
