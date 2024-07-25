@@ -23,11 +23,11 @@ Ghost                          | 7    | 228
 Seven Spires                   | 8    | 228      
 Skálmöld                       | 10   | 207      
 The Dogs                       | 11   | 203      
-Foo Fighters                   | 12   | 199      
+Foo Fighters                   | 12   | 200      
 Honningbarna                   | 13   | 174      
 Greta Van Fleet                | 14   | 171      
 Avenged Sevenfold              | 15   | 158      
-Circus Maximus                 | 16   | 157      
+Circus Maximus                 | 16   | 158      
 Architects                     | 17   | 122      
 Pagan's Mind                   | 23   | 115      
 Eminem                         | 24   | 109      
@@ -43,13 +43,13 @@ Green Day                      | 38   | 79
 Oslo Ess                       | 43   | 73       
 The Good The Bad and The Zugly | 46   | 66       
 Maktkamp                       | 48   | 63       
-Snarky Puppy                   | 51   | 58       
-Mall Girl                      | 54   | 56       
-The Winery Dogs                | 60   | 55       
-Leo                            | 63   | 53       
+Snarky Puppy                   | 53   | 58       
+Mall Girl                      | 55   | 56       
+The Winery Dogs                | 61   | 55       
+Leo                            | 62   | 54       
 Def Leppard                    | 67   | 46       
-Spiritbox                      | 70   | 44       
-22                             | 73   | 43       
+22                             | 69   | 44       
+Spiritbox                      | 71   | 44       
 Atavistia                      | 76   | 42       
 Soilwork                       | 78   | 42       
 Lamb of God                    | 85   | 37       
@@ -80,20 +80,20 @@ Styx                        | 44   | 67
 All That Remains            | 47   | 64       
 Daft Punk                   | 49   | 60       
 Aktiv Dödshjelp             | 50   | 59       
-Frank Zappa                 | 52   | 57       
-Porcupine Tree              | 55   | 56       
+Porcupine Tree              | 52   | 59       
+Frank Zappa                 | 54   | 57       
 Sum 41                      | 56   | 56       
 The Police                  | 57   | 56       
-The Notorious B.I.G.        | 58   | 55       
-Bill Withers                | 61   | 54       
-Queens of the Stone Age     | 62   | 54       
+Bill Withers                | 58   | 55       
+The Notorious B.I.G.        | 59   | 55       
+Queens of the Stone Age     | 63   | 54       
 The Rolling Stones          | 64   | 50       
 The Offspring               | 65   | 48       
 Apollo Suns                 | 66   | 46       
 All Them Witches            | 68   | 45       
-Adele                       | 69   | 44       
-Thulsa Doom                 | 71   | 44       
-Van Halen                   | 72   | 44       
+Adele                       | 70   | 44       
+Thulsa Doom                 | 72   | 44       
+Van Halen                   | 73   | 44       
 Graveyard                   | 74   | 43       
 Elton John                  | 80   | 39       
 Flying Colors               | 81   | 39       
@@ -117,8 +117,8 @@ Fleetwood Mac                | 5    | 285
 Rush                         | 9    | 218      
 Led Zeppelin                 | 36   | 85       
 Creedence Clearwater Revival | 45   | 66       
-Pink Floyd                   | 53   | 57       
-The Who                      | 59   | 55       
+Pink Floyd                   | 51   | 59       
+The Who                      | 60   | 55       
 The Beatles                  | 75   | 43       
 Dire Straits                 | 77   | 42       
 Black Sabbath                | 79   | 39       
