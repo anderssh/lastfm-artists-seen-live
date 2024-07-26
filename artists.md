@@ -37,14 +37,14 @@ blink-182                      | 28   | 104
 Mastodon                       | 29   | 104      
 Gojira                         | 30   | 97       
 Finntroll                      | 33   | 87       
-Kvelertak                      | 34   | 86       
+Kvelertak                      | 35   | 86       
 Tool                           | 37   | 81       
 Green Day                      | 38   | 79       
 Oslo Ess                       | 43   | 73       
 The Good The Bad and The Zugly | 46   | 66       
 Maktkamp                       | 48   | 63       
 Snarky Puppy                   | 53   | 58       
-Mall Girl                      | 55   | 56       
+Mall Girl                      | 56   | 56       
 The Winery Dogs                | 61   | 55       
 Leo                            | 62   | 54       
 Def Leppard                    | 67   | 46       
@@ -71,30 +71,30 @@ Animals as Leaders          | 22   | 115
 Jean-Luc Ponty              | 25   | 109      
 Parius                      | 31   | 92       
 Backstreet Girls            | 32   | 87       
-Hall & Oates                | 35   | 85       
+Hall & Oates                | 34   | 86       
 Bokassa                     | 39   | 76       
 DumDum Boys                 | 40   | 76       
 Haken                       | 41   | 73       
 Love                        | 42   | 73       
-Styx                        | 44   | 67       
+Styx                        | 45   | 67       
 All That Remains            | 47   | 64       
-Daft Punk                   | 49   | 60       
-Aktiv Dödshjelp             | 50   | 59       
+Daft Punk                   | 50   | 60       
+Aktiv Dödshjelp             | 51   | 59       
 Porcupine Tree              | 52   | 59       
 Frank Zappa                 | 54   | 57       
-Sum 41                      | 56   | 56       
-The Police                  | 57   | 56       
-Bill Withers                | 58   | 55       
+Bill Withers                | 55   | 56       
+Sum 41                      | 57   | 56       
+The Police                  | 58   | 56       
 The Notorious B.I.G.        | 59   | 55       
 Queens of the Stone Age     | 63   | 54       
-The Rolling Stones          | 64   | 50       
+The Rolling Stones          | 64   | 51       
 The Offspring               | 65   | 48       
 Apollo Suns                 | 66   | 46       
 All Them Witches            | 68   | 45       
 Adele                       | 70   | 44       
-Thulsa Doom                 | 72   | 44       
-Van Halen                   | 73   | 44       
-Graveyard                   | 74   | 43       
+Thulsa Doom                 | 73   | 44       
+Van Halen                   | 74   | 44       
+Graveyard                   | 75   | 43       
 Elton John                  | 80   | 39       
 Flying Colors               | 81   | 39       
 Witchcraft                  | 84   | 38       
@@ -103,24 +103,24 @@ Red Hot Chili Peppers       | 90   | 34
 Rival Sons                  | 91   | 34       
 Electric Light Orchestra    | 94   | 33       
 oberst                      | 95   | 33       
-Amyl and the Sniffers       | 96   | 32       
-Ballinciaga                 | 97   | 32       
-Lørdagsrådet                | 98   | 32       
-Robert Pehrsson's Humbucker | 99   | 32       
-Toto                        | 100  | 32       
+Toto                        | 96   | 33       
+Amyl and the Sniffers       | 97   | 32       
+Ballinciaga                 | 98   | 32       
+Lørdagsrådet                | 99   | 32       
+Robert Pehrsson's Humbucker | 100  | 32       
 
 ## Inactive top 100 artists not seen live (11)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 285      
+Fleetwood Mac                | 5    | 286      
 Rush                         | 9    | 218      
 Led Zeppelin                 | 36   | 85       
-Creedence Clearwater Revival | 45   | 66       
-Pink Floyd                   | 51   | 59       
+Creedence Clearwater Revival | 44   | 67       
+Pink Floyd                   | 49   | 62       
 The Who                      | 60   | 55       
-The Beatles                  | 75   | 43       
+The Beatles                  | 72   | 44       
 Dire Straits                 | 77   | 42       
-Black Sabbath                | 79   | 39       
+Black Sabbath                | 79   | 40       
 Jimi Hendrix                 | 82   | 39       
 Jokke & Valentinerne         | 83   | 39       
