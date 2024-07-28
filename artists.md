@@ -39,7 +39,7 @@ Gojira                         | 30   | 97
 Finntroll                      | 33   | 87       
 Kvelertak                      | 35   | 86       
 Tool                           | 37   | 81       
-Green Day                      | 38   | 79       
+Green Day                      | 38   | 80       
 Oslo Ess                       | 43   | 73       
 The Good The Bad and The Zugly | 46   | 66       
 Maktkamp                       | 48   | 63       
@@ -48,8 +48,8 @@ Mall Girl                      | 56   | 56
 The Winery Dogs                | 61   | 55       
 Leo                            | 62   | 54       
 Def Leppard                    | 67   | 46       
-22                             | 69   | 44       
-Spiritbox                      | 71   | 44       
+22                             | 70   | 44       
+Spiritbox                      | 72   | 44       
 Atavistia                      | 76   | 42       
 Soilwork                       | 78   | 42       
 Lamb of God                    | 85   | 37       
@@ -81,8 +81,8 @@ All That Remains           | 47   | 64
 Daft Punk                  | 50   | 60       
 Aktiv Dödshjelp            | 51   | 59       
 Porcupine Tree             | 52   | 59       
-Frank Zappa                | 54   | 57       
-Bill Withers               | 55   | 56       
+Bill Withers               | 54   | 57       
+Frank Zappa                | 55   | 57       
 Sum 41                     | 57   | 56       
 The Police                 | 58   | 56       
 The Notorious B.I.G.       | 59   | 55       
@@ -91,7 +91,7 @@ The Rolling Stones         | 64   | 51
 The Offspring              | 65   | 48       
 Apollo Suns                | 66   | 46       
 All Them Witches           | 68   | 45       
-Adele                      | 70   | 44       
+Adele                      | 71   | 44       
 Thulsa Doom                | 73   | 44       
 Van Halen                  | 74   | 44       
 Graveyard                  | 75   | 43       
@@ -112,13 +112,13 @@ Lørdagsrådet               | 100  | 32
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 286      
+Fleetwood Mac                | 5    | 287      
 Rush                         | 9    | 219      
 Led Zeppelin                 | 36   | 85       
 Creedence Clearwater Revival | 44   | 68       
 Pink Floyd                   | 49   | 63       
 The Who                      | 60   | 55       
-The Beatles                  | 72   | 44       
+The Beatles                  | 69   | 45       
 Dire Straits                 | 77   | 42       
 Black Sabbath                | 79   | 40       
 Jimi Hendrix                 | 82   | 39       
