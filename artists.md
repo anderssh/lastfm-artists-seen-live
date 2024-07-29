@@ -24,7 +24,7 @@ Seven Spires                   | 8    | 228
 Skálmöld                       | 10   | 207      
 The Dogs                       | 11   | 203      
 Foo Fighters                   | 12   | 200      
-Greta Van Fleet                | 13   | 186      
+Greta Van Fleet                | 13   | 187      
 Honningbarna                   | 14   | 174      
 Avenged Sevenfold              | 15   | 158      
 Circus Maximus                 | 16   | 158      
@@ -42,9 +42,9 @@ Tool                           | 37   | 81
 Green Day                      | 38   | 80       
 Oslo Ess                       | 43   | 73       
 The Good The Bad and The Zugly | 46   | 66       
-Maktkamp                       | 48   | 63       
+Maktkamp                       | 49   | 63       
 Snarky Puppy                   | 53   | 58       
-Mall Girl                      | 56   | 56       
+Mall Girl                      | 57   | 56       
 The Winery Dogs                | 61   | 55       
 Leo                            | 62   | 54       
 Def Leppard                    | 67   | 46       
@@ -56,8 +56,8 @@ Lamb of God                    | 85   | 37
 Danko Jones                    | 86   | 36       
 Behemoth                       | 87   | 35       
 HammerFall                     | 88   | 35       
-Sabaton                        | 92   | 34       
-Clutch                         | 94   | 33       
+Sabaton                        | 93   | 34       
+Clutch                         | 95   | 33       
 
 ## Active top 100 artists not seen live (44)
 
@@ -72,25 +72,25 @@ Jean-Luc Ponty             | 25   | 109
 Parius                     | 31   | 92       
 Backstreet Girls           | 32   | 87       
 Hall & Oates               | 34   | 86       
-Bokassa                    | 39   | 76       
-DumDum Boys                | 40   | 76       
+DumDum Boys                | 39   | 77       
+Bokassa                    | 40   | 76       
 Haken                      | 41   | 73       
 Love                       | 42   | 73       
 Styx                       | 45   | 67       
-All That Remains           | 47   | 64       
+All That Remains           | 48   | 64       
 Daft Punk                  | 50   | 60       
 Aktiv Dödshjelp            | 51   | 59       
 Porcupine Tree             | 52   | 59       
 Bill Withers               | 54   | 57       
 Frank Zappa                | 55   | 57       
-Sum 41                     | 57   | 56       
-The Police                 | 58   | 56       
+The Police                 | 56   | 57       
+Sum 41                     | 58   | 56       
 The Notorious B.I.G.       | 59   | 55       
 Queens of the Stone Age    | 63   | 54       
 The Rolling Stones         | 64   | 51       
 The Offspring              | 65   | 48       
 Apollo Suns                | 66   | 46       
-All Them Witches           | 68   | 45       
+All Them Witches           | 69   | 45       
 Adele                      | 71   | 44       
 Thulsa Doom                | 73   | 44       
 Van Halen                  | 74   | 44       
@@ -99,11 +99,11 @@ Elton John                 | 80   | 39
 Flying Colors              | 81   | 39       
 Witchcraft                 | 84   | 38       
 Rival Sons                 | 89   | 35       
-Maraton                    | 90   | 34       
-Red Hot Chili Peppers      | 91   | 34       
-Toto                       | 93   | 34       
-Electric Light Orchestra   | 95   | 33       
-oberst                     | 96   | 33       
+Toto                       | 90   | 35       
+Maraton                    | 91   | 34       
+Red Hot Chili Peppers      | 92   | 34       
+Electric Light Orchestra   | 96   | 33       
+oberst                     | 97   | 33       
 Amyl and the Sniffers      | 98   | 32       
 Ballinciaga                | 99   | 32       
 Lørdagsrådet               | 100  | 32       
@@ -112,15 +112,15 @@ Lørdagsrådet               | 100  | 32
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 287      
+Fleetwood Mac                | 5    | 290      
 Rush                         | 9    | 219      
-Led Zeppelin                 | 36   | 85       
-Creedence Clearwater Revival | 44   | 68       
-Pink Floyd                   | 49   | 63       
+Led Zeppelin                 | 36   | 86       
+Creedence Clearwater Revival | 44   | 70       
+Pink Floyd                   | 47   | 65       
 The Who                      | 60   | 55       
-The Beatles                  | 69   | 45       
+The Beatles                  | 68   | 46       
 Dire Straits                 | 77   | 42       
 Black Sabbath                | 79   | 40       
 Jimi Hendrix                 | 82   | 39       
 Jokke & Valentinerne         | 83   | 39       
-The Doors                    | 97   | 33       
+The Doors                    | 94   | 34       
