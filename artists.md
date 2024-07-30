@@ -14,17 +14,17 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 408      
+Dream Theater                  | 1    | 417      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 348      
 AC/DC                          | 4    | 292      
-In Flames                      | 6    | 251      
+In Flames                      | 6    | 252      
 Ghost                          | 7    | 228      
 Seven Spires                   | 8    | 228      
 Skálmöld                       | 10   | 207      
 The Dogs                       | 11   | 203      
 Foo Fighters                   | 12   | 200      
-Greta Van Fleet                | 13   | 187      
+Greta Van Fleet                | 13   | 189      
 Honningbarna                   | 14   | 174      
 Avenged Sevenfold              | 15   | 158      
 Circus Maximus                 | 16   | 158      
@@ -56,8 +56,8 @@ Lamb of God                    | 85   | 37
 Danko Jones                    | 86   | 36       
 Behemoth                       | 87   | 35       
 HammerFall                     | 88   | 35       
-Sabaton                        | 93   | 34       
-Clutch                         | 95   | 33       
+Sabaton                        | 94   | 34       
+Clutch                         | 96   | 33       
 
 ## Active top 100 artists not seen live (44)
 
@@ -71,7 +71,7 @@ Animals as Leaders         | 22   | 115
 Jean-Luc Ponty             | 25   | 109      
 Parius                     | 31   | 92       
 Backstreet Girls           | 32   | 87       
-Hall & Oates               | 34   | 86       
+Hall & Oates               | 34   | 87       
 DumDum Boys                | 39   | 77       
 Bokassa                    | 40   | 76       
 Haken                      | 41   | 73       
@@ -79,8 +79,8 @@ Love                       | 42   | 73
 Styx                       | 45   | 67       
 All That Remains           | 48   | 64       
 Daft Punk                  | 50   | 60       
-Aktiv Dödshjelp            | 51   | 59       
-Porcupine Tree             | 52   | 59       
+Porcupine Tree             | 51   | 60       
+Aktiv Dödshjelp            | 52   | 59       
 Bill Withers               | 54   | 57       
 Frank Zappa                | 55   | 57       
 The Police                 | 56   | 57       
@@ -95,18 +95,18 @@ Adele                      | 71   | 44
 Thulsa Doom                | 73   | 44       
 Van Halen                  | 74   | 44       
 Graveyard                  | 75   | 43       
-Elton John                 | 80   | 39       
-Flying Colors              | 81   | 39       
+Flying Colors              | 79   | 41       
+Elton John                 | 81   | 39       
 Witchcraft                 | 84   | 38       
-Rival Sons                 | 89   | 35       
-Toto                       | 90   | 35       
-Maraton                    | 91   | 34       
-Red Hot Chili Peppers      | 92   | 34       
-Electric Light Orchestra   | 96   | 33       
-oberst                     | 97   | 33       
-Amyl and the Sniffers      | 98   | 32       
-Ballinciaga                | 99   | 32       
-Lørdagsrådet               | 100  | 32       
+Ne Obliviscaris            | 89   | 35       
+Rival Sons                 | 90   | 35       
+Toto                       | 91   | 35       
+Maraton                    | 92   | 34       
+Red Hot Chili Peppers      | 93   | 34       
+Electric Light Orchestra   | 97   | 33       
+oberst                     | 98   | 33       
+Amyl and the Sniffers      | 99   | 32       
+Ballinciaga                | 100  | 32       
 
 ## Inactive top 100 artists not seen live (12)
 
@@ -120,7 +120,7 @@ Pink Floyd                   | 47   | 65
 The Who                      | 60   | 55       
 The Beatles                  | 68   | 46       
 Dire Straits                 | 77   | 42       
-Black Sabbath                | 79   | 40       
+Black Sabbath                | 80   | 40       
 Jimi Hendrix                 | 82   | 39       
 Jokke & Valentinerne         | 83   | 39       
-The Doors                    | 94   | 34       
+The Doors                    | 95   | 34       
