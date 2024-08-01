@@ -14,11 +14,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 425      
+Dream Theater                  | 1    | 434      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 348      
 AC/DC                          | 4    | 292      
-In Flames                      | 6    | 252      
+In Flames                      | 6    | 253      
 Ghost                          | 7    | 228      
 Seven Spires                   | 8    | 228      
 Skálmöld                       | 10   | 207      
@@ -47,11 +47,11 @@ Snarky Puppy                   | 53   | 58
 Mall Girl                      | 57   | 56       
 The Winery Dogs                | 61   | 55       
 Leo                            | 62   | 54       
-Def Leppard                    | 67   | 46       
-22                             | 70   | 44       
-Spiritbox                      | 72   | 44       
-Atavistia                      | 76   | 42       
-Soilwork                       | 78   | 42       
+Def Leppard                    | 68   | 46       
+22                             | 71   | 44       
+Spiritbox                      | 73   | 44       
+Atavistia                      | 78   | 42       
+Soilwork                       | 80   | 42       
 Lamb of God                    | 86   | 37       
 Danko Jones                    | 87   | 36       
 Behemoth                       | 88   | 35       
@@ -78,7 +78,7 @@ Haken                      | 41   | 73
 Love                       | 42   | 73       
 Styx                       | 45   | 67       
 All That Remains           | 48   | 64       
-Porcupine Tree             | 50   | 61       
+Porcupine Tree             | 50   | 63       
 Daft Punk                  | 51   | 60       
 Aktiv Dödshjelp            | 52   | 59       
 Bill Withers               | 54   | 57       
@@ -88,15 +88,15 @@ Sum 41                     | 58   | 56
 The Notorious B.I.G.       | 59   | 55       
 Queens of the Stone Age    | 63   | 54       
 The Rolling Stones         | 64   | 51       
-The Offspring              | 65   | 48       
-Apollo Suns                | 66   | 46       
-All Them Witches           | 69   | 45       
-Adele                      | 71   | 44       
-Thulsa Doom                | 73   | 44       
-Van Halen                  | 74   | 44       
-Graveyard                  | 75   | 43       
-Flying Colors              | 79   | 41       
-Ne Obliviscaris            | 80   | 41       
+Ne Obliviscaris            | 65   | 48       
+The Offspring              | 66   | 48       
+Apollo Suns                | 67   | 46       
+All Them Witches           | 70   | 45       
+Adele                      | 72   | 44       
+Thulsa Doom                | 74   | 44       
+Van Halen                  | 75   | 44       
+Flying Colors              | 76   | 43       
+Graveyard                  | 77   | 43       
 Elton John                 | 82   | 39       
 Witchcraft                 | 85   | 38       
 Rival Sons                 | 90   | 35       
@@ -118,8 +118,8 @@ Led Zeppelin                 | 36   | 86
 Creedence Clearwater Revival | 44   | 70       
 Pink Floyd                   | 47   | 65       
 The Who                      | 60   | 55       
-The Beatles                  | 68   | 46       
-Dire Straits                 | 77   | 42       
+The Beatles                  | 69   | 46       
+Dire Straits                 | 79   | 42       
 Black Sabbath                | 81   | 40       
 Jimi Hendrix                 | 83   | 39       
 Jokke & Valentinerne         | 84   | 39       
