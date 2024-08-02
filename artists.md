@@ -43,10 +43,10 @@ Green Day                      | 38   | 80
 Oslo Ess                       | 43   | 73       
 The Good The Bad and The Zugly | 46   | 66       
 Maktkamp                       | 49   | 63       
-Snarky Puppy                   | 53   | 58       
-Mall Girl                      | 57   | 56       
-The Winery Dogs                | 61   | 55       
-Leo                            | 62   | 54       
+Snarky Puppy                   | 54   | 58       
+Mall Girl                      | 58   | 56       
+The Winery Dogs                | 62   | 55       
+Leo                            | 63   | 54       
 Def Leppard                    | 68   | 46       
 22                             | 71   | 44       
 Spiritbox                      | 73   | 44       
@@ -69,7 +69,7 @@ Sylosis                    | 20   | 118
 The Halo Effect            | 21   | 117      
 Animals as Leaders         | 22   | 115      
 Jean-Luc Ponty             | 25   | 109      
-Parius                     | 31   | 92       
+Parius                     | 31   | 94       
 Backstreet Girls           | 32   | 87       
 Hall & Oates               | 34   | 87       
 DumDum Boys                | 39   | 77       
@@ -79,16 +79,16 @@ Love                       | 42   | 73
 Styx                       | 45   | 67       
 All That Remains           | 48   | 64       
 Porcupine Tree             | 50   | 63       
-Daft Punk                  | 51   | 60       
-Aktiv Dödshjelp            | 52   | 59       
-Bill Withers               | 54   | 57       
-Frank Zappa                | 55   | 57       
-The Police                 | 56   | 57       
-Sum 41                     | 58   | 56       
-The Notorious B.I.G.       | 59   | 55       
-Queens of the Stone Age    | 63   | 54       
-The Rolling Stones         | 64   | 51       
-Ne Obliviscaris            | 65   | 48       
+Ne Obliviscaris            | 51   | 62       
+Daft Punk                  | 52   | 60       
+Aktiv Dödshjelp            | 53   | 59       
+Bill Withers               | 55   | 57       
+Frank Zappa                | 56   | 57       
+The Police                 | 57   | 57       
+Sum 41                     | 59   | 56       
+The Notorious B.I.G.       | 60   | 55       
+Queens of the Stone Age    | 64   | 54       
+The Rolling Stones         | 65   | 51       
 The Offspring              | 66   | 48       
 Apollo Suns                | 67   | 46       
 All Them Witches           | 70   | 45       
@@ -99,9 +99,9 @@ Flying Colors              | 76   | 43
 Graveyard                  | 77   | 43       
 Elton John                 | 82   | 39       
 Witchcraft                 | 85   | 38       
-Rival Sons                 | 90   | 35       
-Toto                       | 91   | 35       
-Maraton                    | 92   | 34       
+Maraton                    | 90   | 35       
+Rival Sons                 | 91   | 35       
+Toto                       | 92   | 35       
 Red Hot Chili Peppers      | 93   | 34       
 Electric Light Orchestra   | 97   | 33       
 oberst                     | 98   | 33       
@@ -117,7 +117,7 @@ Rush                         | 9    | 219
 Led Zeppelin                 | 36   | 86       
 Creedence Clearwater Revival | 44   | 70       
 Pink Floyd                   | 47   | 65       
-The Who                      | 60   | 55       
+The Who                      | 61   | 55       
 The Beatles                  | 69   | 46       
 Dire Straits                 | 79   | 42       
 Black Sabbath                | 81   | 40       
