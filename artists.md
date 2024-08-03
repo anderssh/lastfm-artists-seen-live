@@ -14,13 +14,13 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 434      
+Dream Theater                  | 1    | 436      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 348      
 AC/DC                          | 4    | 292      
-In Flames                      | 6    | 253      
-Ghost                          | 7    | 228      
-Seven Spires                   | 8    | 228      
+In Flames                      | 6    | 255      
+Seven Spires                   | 7    | 229      
+Ghost                          | 8    | 228      
 Skálmöld                       | 10   | 207      
 The Dogs                       | 11   | 203      
 Foo Fighters                   | 12   | 200      
@@ -35,14 +35,14 @@ Judas Priest                   | 26   | 109
 Slipknot                       | 27   | 109      
 blink-182                      | 28   | 104      
 Mastodon                       | 29   | 104      
-Gojira                         | 30   | 97       
+Gojira                         | 30   | 98       
 Finntroll                      | 33   | 87       
 Kvelertak                      | 35   | 86       
 Tool                           | 37   | 81       
 Green Day                      | 38   | 80       
 Oslo Ess                       | 43   | 73       
-The Good The Bad and The Zugly | 46   | 66       
-Maktkamp                       | 49   | 63       
+The Good The Bad and The Zugly | 47   | 66       
+Maktkamp                       | 51   | 63       
 Snarky Puppy                   | 54   | 58       
 Mall Girl                      | 58   | 56       
 The Winery Dogs                | 62   | 55       
@@ -63,10 +63,10 @@ Clutch                         | 96   | 33
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-The Night Flight Orchestra | 18   | 119      
-Lars Vaular                | 19   | 118      
-Sylosis                    | 20   | 118      
-The Halo Effect            | 21   | 117      
+Sylosis                    | 18   | 119      
+The Night Flight Orchestra | 19   | 119      
+Lars Vaular                | 20   | 118      
+The Halo Effect            | 21   | 118      
 Animals as Leaders         | 22   | 115      
 Jean-Luc Ponty             | 25   | 109      
 Parius                     | 31   | 94       
@@ -76,10 +76,10 @@ DumDum Boys                | 39   | 77
 Bokassa                    | 40   | 76       
 Haken                      | 41   | 73       
 Love                       | 42   | 73       
-Styx                       | 45   | 67       
-All That Remains           | 48   | 64       
-Porcupine Tree             | 50   | 63       
-Ne Obliviscaris            | 51   | 62       
+Ne Obliviscaris            | 45   | 70       
+Styx                       | 46   | 67       
+Porcupine Tree             | 49   | 65       
+All That Remains           | 50   | 64       
 Daft Punk                  | 52   | 60       
 Aktiv Dödshjelp            | 53   | 59       
 Bill Withers               | 55   | 57       
@@ -116,7 +116,7 @@ Fleetwood Mac                | 5    | 290
 Rush                         | 9    | 219      
 Led Zeppelin                 | 36   | 86       
 Creedence Clearwater Revival | 44   | 70       
-Pink Floyd                   | 47   | 65       
+Pink Floyd                   | 48   | 65       
 The Who                      | 61   | 55       
 The Beatles                  | 69   | 46       
 Dire Straits                 | 79   | 42       
