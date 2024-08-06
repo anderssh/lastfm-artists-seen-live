@@ -21,7 +21,7 @@ AC/DC                          | 4    | 292
 In Flames                      | 6    | 255      
 Seven Spires                   | 7    | 232      
 Ghost                          | 8    | 228      
-Skálmöld                       | 10   | 207      
+Skálmöld                       | 9    | 222      
 The Dogs                       | 11   | 203      
 Foo Fighters                   | 12   | 200      
 Greta Van Fleet                | 13   | 189      
@@ -30,12 +30,12 @@ Circus Maximus                 | 15   | 159
 Avenged Sevenfold              | 16   | 158      
 Architects                     | 17   | 122      
 Pagan's Mind                   | 23   | 115      
-Eminem                         | 24   | 109      
-Judas Priest                   | 26   | 109      
-Slipknot                       | 27   | 109      
-blink-182                      | 28   | 104      
-Mastodon                       | 29   | 104      
-Gojira                         | 30   | 98       
+Gojira                         | 24   | 114      
+Eminem                         | 25   | 109      
+Judas Priest                   | 27   | 109      
+Slipknot                       | 28   | 109      
+blink-182                      | 29   | 104      
+Mastodon                       | 30   | 104      
 Finntroll                      | 33   | 87       
 Kvelertak                      | 35   | 86       
 Tool                           | 37   | 81       
@@ -68,7 +68,7 @@ The Night Flight Orchestra | 19   | 119
 Lars Vaular                | 20   | 118      
 The Halo Effect            | 21   | 118      
 Animals as Leaders         | 22   | 115      
-Jean-Luc Ponty             | 25   | 109      
+Jean-Luc Ponty             | 26   | 109      
 Parius                     | 31   | 94       
 Backstreet Girls           | 32   | 87       
 Hall & Oates               | 34   | 87       
@@ -113,7 +113,7 @@ Ballinciaga                | 100  | 32
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 290      
-Rush                         | 9    | 219      
+Rush                         | 10   | 219      
 Led Zeppelin                 | 36   | 86       
 Creedence Clearwater Revival | 44   | 70       
 Pink Floyd                   | 48   | 65       
