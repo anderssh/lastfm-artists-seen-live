@@ -40,7 +40,7 @@ Finntroll                      | 33   | 87
 Kvelertak                      | 35   | 86       
 Tool                           | 37   | 81       
 Green Day                      | 38   | 80       
-Oslo Ess                       | 43   | 73       
+Oslo Ess                       | 44   | 73       
 The Good The Bad and The Zugly | 47   | 66       
 Maktkamp                       | 51   | 63       
 Snarky Puppy                   | 54   | 58       
@@ -74,9 +74,9 @@ Backstreet Girls           | 32   | 87
 Hall & Oates               | 34   | 87       
 DumDum Boys                | 39   | 77       
 Bokassa                    | 40   | 76       
-Haken                      | 41   | 73       
-Love                       | 42   | 73       
-Ne Obliviscaris            | 45   | 70       
+Ne Obliviscaris            | 41   | 76       
+Haken                      | 42   | 73       
+Love                       | 43   | 73       
 Styx                       | 46   | 67       
 Porcupine Tree             | 49   | 65       
 All That Remains           | 50   | 64       
@@ -88,8 +88,8 @@ The Police                 | 57   | 57
 Sum 41                     | 59   | 56       
 The Notorious B.I.G.       | 60   | 55       
 Queens of the Stone Age    | 64   | 54       
-The Rolling Stones         | 65   | 51       
-The Offspring              | 66   | 48       
+The Offspring              | 65   | 52       
+The Rolling Stones         | 66   | 51       
 Apollo Suns                | 67   | 46       
 All Them Witches           | 70   | 45       
 Adele                      | 72   | 44       
@@ -112,10 +112,10 @@ Ballinciaga                | 100  | 32
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 290      
+Fleetwood Mac                | 5    | 291      
 Rush                         | 10   | 219      
 Led Zeppelin                 | 36   | 86       
-Creedence Clearwater Revival | 44   | 70       
+Creedence Clearwater Revival | 45   | 70       
 Pink Floyd                   | 48   | 65       
 The Who                      | 61   | 55       
 The Beatles                  | 69   | 46       
