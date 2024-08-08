@@ -73,8 +73,8 @@ Parius                     | 31   | 94
 Backstreet Girls           | 32   | 87       
 Hall & Oates               | 34   | 87       
 DumDum Boys                | 39   | 77       
-Bokassa                    | 40   | 76       
-Ne Obliviscaris            | 41   | 76       
+Ne Obliviscaris            | 40   | 77       
+Bokassa                    | 41   | 76       
 Haken                      | 42   | 73       
 Love                       | 43   | 73       
 Styx                       | 46   | 67       
