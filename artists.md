@@ -28,10 +28,10 @@ Greta Van Fleet                | 13   | 189
 Honningbarna                   | 14   | 174      
 Circus Maximus                 | 15   | 159      
 Avenged Sevenfold              | 16   | 158      
-Architects                     | 17   | 122      
-Pagan's Mind                   | 23   | 115      
-Gojira                         | 24   | 114      
-Eminem                         | 25   | 109      
+Architects                     | 18   | 122      
+Pagan's Mind                   | 24   | 115      
+Gojira                         | 25   | 114      
+Eminem                         | 26   | 109      
 Judas Priest                   | 27   | 109      
 Slipknot                       | 28   | 109      
 blink-182                      | 29   | 104      
@@ -63,12 +63,12 @@ Clutch                         | 96   | 33
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Sylosis                    | 18   | 119      
-The Night Flight Orchestra | 19   | 119      
-Lars Vaular                | 20   | 118      
-The Halo Effect            | 21   | 118      
-Animals as Leaders         | 22   | 115      
-Jean-Luc Ponty             | 26   | 109      
+Jean-Luc Ponty             | 17   | 125      
+Sylosis                    | 19   | 119      
+The Night Flight Orchestra | 20   | 119      
+Lars Vaular                | 21   | 118      
+The Halo Effect            | 22   | 118      
+Animals as Leaders         | 23   | 115      
 Parius                     | 31   | 94       
 Backstreet Girls           | 32   | 87       
 Hall & Oates               | 34   | 87       
