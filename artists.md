@@ -26,8 +26,8 @@ The Dogs                       | 11   | 203
 Foo Fighters                   | 12   | 200      
 Greta Van Fleet                | 13   | 189      
 Honningbarna                   | 14   | 174      
-Circus Maximus                 | 15   | 159      
-Avenged Sevenfold              | 16   | 158      
+Circus Maximus                 | 16   | 159      
+Avenged Sevenfold              | 17   | 158      
 Architects                     | 18   | 122      
 Pagan's Mind                   | 24   | 115      
 Gojira                         | 25   | 114      
@@ -63,7 +63,7 @@ Clutch                         | 96   | 33
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Jean-Luc Ponty             | 17   | 125      
+Jean-Luc Ponty             | 15   | 174      
 Sylosis                    | 19   | 119      
 The Night Flight Orchestra | 20   | 119      
 Lars Vaular                | 21   | 118      
@@ -72,8 +72,8 @@ Animals as Leaders         | 23   | 115
 Parius                     | 31   | 94       
 Backstreet Girls           | 32   | 87       
 Hall & Oates               | 34   | 87       
-DumDum Boys                | 39   | 77       
-Ne Obliviscaris            | 40   | 77       
+Ne Obliviscaris            | 39   | 80       
+DumDum Boys                | 40   | 77       
 Bokassa                    | 41   | 76       
 Haken                      | 42   | 73       
 Love                       | 43   | 73       
