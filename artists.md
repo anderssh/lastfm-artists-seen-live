@@ -38,8 +38,8 @@ blink-182                      | 29   | 104
 Mastodon                       | 30   | 104      
 Finntroll                      | 33   | 87       
 Kvelertak                      | 35   | 86       
-Tool                           | 37   | 81       
-Green Day                      | 38   | 80       
+Tool                           | 38   | 81       
+Green Day                      | 39   | 80       
 Oslo Ess                       | 44   | 73       
 The Good The Bad and The Zugly | 47   | 66       
 Maktkamp                       | 51   | 63       
@@ -72,7 +72,7 @@ Animals as Leaders         | 23   | 115
 Parius                     | 31   | 94       
 Backstreet Girls           | 32   | 87       
 Hall & Oates               | 34   | 87       
-Ne Obliviscaris            | 39   | 80       
+Ne Obliviscaris            | 37   | 81       
 DumDum Boys                | 40   | 77       
 Bokassa                    | 41   | 76       
 Haken                      | 42   | 73       
