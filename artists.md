@@ -4,11 +4,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of artists seen live in total: 96
 
-- Number of fetched top artists: 100 (Active: 88 Inactive: 12)
+- Number of fetched top artists: 100 (Active: 87 Inactive: 13)
 
 - Number of top artists seen live: 44 (Active: 44 Inactive: 0)
 
-- Number of top artists not seen live: 56 (Active: 44 Inactive: 12)
+- Number of top artists not seen live: 56 (Active: 43 Inactive: 13)
 
 ## Top 100 artists seen live (44)
 
@@ -59,7 +59,7 @@ HammerFall                     | 89   | 35
 Sabaton                        | 94   | 34       
 Clutch                         | 96   | 33       
 
-## Active top 100 artists not seen live (44)
+## Active top 100 artists not seen live (43)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
@@ -80,7 +80,6 @@ Love                       | 43   | 73
 Styx                       | 46   | 67       
 Porcupine Tree             | 49   | 65       
 All That Remains           | 50   | 64       
-Daft Punk                  | 52   | 60       
 Aktiv Dödshjelp            | 53   | 59       
 Bill Withers               | 55   | 57       
 Frank Zappa                | 56   | 57       
@@ -108,7 +107,7 @@ oberst                     | 98   | 33
 Amyl and the Sniffers      | 99   | 32       
 Ballinciaga                | 100  | 32       
 
-## Inactive top 100 artists not seen live (12)
+## Inactive top 100 artists not seen live (13)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
@@ -117,6 +116,7 @@ Rush                         | 10   | 219
 Led Zeppelin                 | 36   | 86       
 Creedence Clearwater Revival | 45   | 70       
 Pink Floyd                   | 48   | 65       
+Daft Punk                    | 52   | 60       
 The Who                      | 61   | 55       
 The Beatles                  | 69   | 46       
 Dire Straits                 | 79   | 42       
