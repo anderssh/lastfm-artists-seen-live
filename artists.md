@@ -48,8 +48,8 @@ Mall Girl                      | 58   | 56
 The Winery Dogs                | 62   | 55       
 Leo                            | 63   | 54       
 Def Leppard                    | 68   | 46       
-22                             | 71   | 44       
-Spiritbox                      | 73   | 44       
+22                             | 72   | 44       
+Spiritbox                      | 74   | 44       
 Atavistia                      | 78   | 42       
 Soilwork                       | 80   | 42       
 Lamb of God                    | 86   | 37       
@@ -92,9 +92,9 @@ The Offspring              | 65   | 52
 The Rolling Stones         | 66   | 51       
 Apollo Suns                | 67   | 46       
 All Them Witches           | 70   | 45       
-Adele                      | 72   | 44       
-Thulsa Doom                | 74   | 44       
-Van Halen                  | 75   | 44       
+Van Halen                  | 71   | 45       
+Adele                      | 73   | 44       
+Thulsa Doom                | 75   | 44       
 Flying Colors              | 76   | 43       
 Graveyard                  | 77   | 43       
 Elton John                 | 82   | 39       
