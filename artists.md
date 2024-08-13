@@ -18,7 +18,7 @@ Dream Theater                  | 1    | 436
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 348      
 AC/DC                          | 4    | 292      
-In Flames                      | 6    | 255      
+In Flames                      | 6    | 256      
 Seven Spires                   | 7    | 232      
 Ghost                          | 8    | 228      
 Skálmöld                       | 9    | 222      
@@ -72,7 +72,7 @@ Animals as Leaders         | 23   | 115
 Parius                     | 31   | 94       
 Backstreet Girls           | 32   | 87       
 Hall & Oates               | 34   | 87       
-Ne Obliviscaris            | 37   | 81       
+Ne Obliviscaris            | 37   | 86       
 DumDum Boys                | 40   | 77       
 Bokassa                    | 41   | 76       
 Haken                      | 42   | 73       
