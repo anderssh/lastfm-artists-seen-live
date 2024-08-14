@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 436      
+Dream Theater                  | 1    | 437      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 348      
 AC/DC                          | 4    | 292      
@@ -28,7 +28,7 @@ Greta Van Fleet                | 13   | 189
 Honningbarna                   | 14   | 174      
 Circus Maximus                 | 16   | 159      
 Avenged Sevenfold              | 17   | 158      
-Architects                     | 18   | 122      
+Architects                     | 18   | 125      
 Pagan's Mind                   | 24   | 115      
 Gojira                         | 25   | 114      
 Eminem                         | 26   | 109      
@@ -37,7 +37,7 @@ Slipknot                       | 28   | 109
 blink-182                      | 29   | 104      
 Mastodon                       | 30   | 104      
 Finntroll                      | 33   | 87       
-Kvelertak                      | 35   | 86       
+Kvelertak                      | 36   | 86       
 Tool                           | 38   | 81       
 Green Day                      | 39   | 80       
 Oslo Ess                       | 44   | 73       
@@ -50,8 +50,8 @@ Leo                            | 63   | 54
 Def Leppard                    | 68   | 46       
 22                             | 72   | 44       
 Spiritbox                      | 74   | 44       
-Atavistia                      | 78   | 42       
-Soilwork                       | 80   | 42       
+Soilwork                       | 78   | 43       
+Atavistia                      | 79   | 42       
 Lamb of God                    | 86   | 37       
 Danko Jones                    | 87   | 36       
 Behemoth                       | 88   | 35       
@@ -68,14 +68,14 @@ Sylosis                    | 19   | 119
 The Night Flight Orchestra | 20   | 119      
 Lars Vaular                | 21   | 118      
 The Halo Effect            | 22   | 118      
-Animals as Leaders         | 23   | 115      
+Animals as Leaders         | 23   | 116      
 Parius                     | 31   | 94       
 Backstreet Girls           | 32   | 87       
 Hall & Oates               | 34   | 87       
-Ne Obliviscaris            | 37   | 86       
+Ne Obliviscaris            | 35   | 87       
 DumDum Boys                | 40   | 77       
 Bokassa                    | 41   | 76       
-Haken                      | 42   | 73       
+Haken                      | 42   | 74       
 Love                       | 43   | 73       
 Styx                       | 46   | 67       
 Porcupine Tree             | 49   | 65       
@@ -113,13 +113,13 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 291      
 Rush                         | 10   | 219      
-Led Zeppelin                 | 36   | 86       
+Led Zeppelin                 | 37   | 86       
 Creedence Clearwater Revival | 45   | 70       
 Pink Floyd                   | 48   | 65       
 Daft Punk                    | 52   | 60       
 The Who                      | 61   | 55       
 The Beatles                  | 69   | 46       
-Dire Straits                 | 79   | 42       
+Dire Straits                 | 80   | 42       
 Black Sabbath                | 81   | 40       
 Jimi Hendrix                 | 83   | 39       
 Jokke & Valentinerne         | 84   | 39       
