@@ -36,7 +36,7 @@ Judas Priest                   | 27   | 109
 Slipknot                       | 28   | 109      
 blink-182                      | 29   | 104      
 Mastodon                       | 30   | 104      
-Finntroll                      | 34   | 87       
+Finntroll                      | 35   | 87       
 Kvelertak                      | 36   | 86       
 Tool                           | 38   | 81       
 Green Day                      | 39   | 80       
@@ -48,8 +48,8 @@ Snarky Puppy                   | 55   | 58
 Mall Girl                      | 59   | 56       
 The Winery Dogs                | 63   | 55       
 Leo                            | 64   | 54       
-Def Leppard                    | 70   | 46       
-Spiritbox                      | 74   | 44       
+Def Leppard                    | 71   | 46       
+Spiritbox                      | 75   | 44       
 Soilwork                       | 79   | 43       
 Atavistia                      | 80   | 42       
 Lamb of God                    | 86   | 37       
@@ -70,9 +70,9 @@ Lars Vaular                | 22   | 118
 The Halo Effect            | 23   | 118      
 Animals as Leaders         | 24   | 117      
 Parius                     | 31   | 94       
-Hall & Oates               | 32   | 88       
-Backstreet Girls           | 33   | 87       
-Ne Obliviscaris            | 35   | 87       
+Ne Obliviscaris            | 32   | 93       
+Hall & Oates               | 33   | 88       
+Backstreet Girls           | 34   | 87       
 DumDum Boys                | 41   | 77       
 Bokassa                    | 42   | 76       
 Haken                      | 43   | 74       
@@ -89,11 +89,11 @@ The Notorious B.I.G.       | 61   | 55
 Queens of the Stone Age    | 65   | 54       
 The Offspring              | 66   | 52       
 The Rolling Stones         | 67   | 52       
-Apollo Suns                | 69   | 46       
-All Them Witches           | 71   | 45       
-Van Halen                  | 72   | 45       
-Adele                      | 73   | 44       
-Thulsa Doom                | 75   | 44       
+Thulsa Doom                | 68   | 52       
+Apollo Suns                | 70   | 46       
+All Them Witches           | 72   | 45       
+Van Halen                  | 73   | 45       
+Adele                      | 74   | 44       
 Flying Colors              | 77   | 43       
 Graveyard                  | 78   | 43       
 Elton John                 | 82   | 40       
@@ -118,7 +118,7 @@ Creedence Clearwater Revival | 40   | 77
 Pink Floyd                   | 47   | 66       
 Daft Punk                    | 52   | 60       
 The Who                      | 62   | 55       
-The Beatles                  | 68   | 50       
+The Beatles                  | 69   | 50       
 Dire Straits                 | 76   | 43       
 Black Sabbath                | 81   | 40       
 Jimi Hendrix                 | 83   | 39       
