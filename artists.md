@@ -41,7 +41,7 @@ Kvelertak                      | 36   | 86
 Tool                           | 38   | 81       
 Green Day                      | 39   | 80       
 Oslo Ess                       | 45   | 73       
-The Good The Bad and The Zugly | 48   | 66       
+The Good The Bad and The Zugly | 49   | 66       
 Maktkamp                       | 51   | 63       
 Snarky Puppy                   | 55   | 58       
 22                             | 58   | 56       
@@ -56,7 +56,7 @@ Lamb of God                    | 86   | 37
 Danko Jones                    | 87   | 36       
 Behemoth                       | 89   | 35       
 HammerFall                     | 90   | 35       
-Sabaton                        | 94   | 34       
+Sabaton                        | 95   | 34       
 Clutch                         | 96   | 33       
 
 ## Active top 100 artists not seen live (43)
@@ -69,8 +69,8 @@ The Night Flight Orchestra | 21   | 119
 Lars Vaular                | 22   | 118      
 The Halo Effect            | 23   | 118      
 Animals as Leaders         | 24   | 117      
-Parius                     | 31   | 94       
-Ne Obliviscaris            | 32   | 93       
+Ne Obliviscaris            | 31   | 99       
+Parius                     | 32   | 94       
 Hall & Oates               | 33   | 88       
 Backstreet Girls           | 34   | 87       
 DumDum Boys                | 41   | 77       
@@ -78,8 +78,8 @@ Bokassa                    | 42   | 76
 Haken                      | 43   | 74       
 Love                       | 44   | 73       
 Styx                       | 46   | 67       
-Porcupine Tree             | 49   | 65       
-All That Remains           | 50   | 64       
+All That Remains           | 47   | 66       
+Porcupine Tree             | 50   | 65       
 Aktiv Dödshjelp            | 53   | 59       
 Bill Withers               | 54   | 59       
 The Police                 | 56   | 58       
@@ -100,8 +100,8 @@ Elton John                 | 82   | 40
 Witchcraft                 | 85   | 38       
 Toto                       | 88   | 36       
 Maraton                    | 91   | 35       
-Rival Sons                 | 92   | 35       
-Red Hot Chili Peppers      | 93   | 34       
+Red Hot Chili Peppers      | 92   | 35       
+Rival Sons                 | 93   | 35       
 Electric Light Orchestra   | 97   | 33       
 oberst                     | 98   | 33       
 Amyl and the Sniffers      | 99   | 32       
@@ -115,7 +115,7 @@ Fleetwood Mac                | 4    | 300
 Rush                         | 10   | 219      
 Led Zeppelin                 | 37   | 86       
 Creedence Clearwater Revival | 40   | 77       
-Pink Floyd                   | 47   | 66       
+Pink Floyd                   | 48   | 66       
 Daft Punk                    | 52   | 60       
 The Who                      | 62   | 55       
 The Beatles                  | 69   | 50       
@@ -123,4 +123,4 @@ Dire Straits                 | 76   | 43
 Black Sabbath                | 81   | 40       
 Jimi Hendrix                 | 83   | 39       
 Jokke & Valentinerne         | 84   | 39       
-The Doors                    | 95   | 34       
+The Doors                    | 94   | 35       
