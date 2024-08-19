@@ -24,7 +24,7 @@ Ghost                          | 8    | 228
 Skálmöld                       | 9    | 222      
 The Dogs                       | 11   | 203      
 Foo Fighters                   | 12   | 200      
-Greta Van Fleet                | 13   | 189      
+Greta Van Fleet                | 14   | 189      
 Honningbarna                   | 15   | 174      
 Circus Maximus                 | 16   | 159      
 Avenged Sevenfold              | 17   | 158      
@@ -37,7 +37,7 @@ Slipknot                       | 28   | 109
 blink-182                      | 29   | 104      
 Mastodon                       | 30   | 104      
 Finntroll                      | 35   | 87       
-Kvelertak                      | 36   | 86       
+Kvelertak                      | 36   | 87       
 Tool                           | 38   | 81       
 Green Day                      | 39   | 80       
 Oslo Ess                       | 45   | 73       
@@ -63,7 +63,7 @@ Clutch                         | 96   | 33
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Jean-Luc Ponty             | 14   | 185      
+Jean-Luc Ponty             | 13   | 192      
 Sylosis                    | 20   | 120      
 The Night Flight Orchestra | 21   | 119      
 Lars Vaular                | 22   | 118      
@@ -111,7 +111,7 @@ Ballinciaga                | 100  | 32
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 4    | 300      
+Fleetwood Mac                | 4    | 302      
 Rush                         | 10   | 219      
 Led Zeppelin                 | 37   | 86       
 Creedence Clearwater Revival | 40   | 77       
