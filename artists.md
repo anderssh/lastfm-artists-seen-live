@@ -25,8 +25,8 @@ Skálmöld                       | 9    | 222
 The Dogs                       | 11   | 203      
 Foo Fighters                   | 12   | 200      
 Greta Van Fleet                | 14   | 189      
-Honningbarna                   | 15   | 174      
-Circus Maximus                 | 16   | 159      
+Circus Maximus                 | 15   | 175      
+Honningbarna                   | 16   | 174      
 Avenged Sevenfold              | 17   | 158      
 Architects                     | 18   | 125      
 Eminem                         | 19   | 120      
@@ -63,7 +63,7 @@ Clutch                         | 96   | 33
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Jean-Luc Ponty             | 13   | 192      
+Jean-Luc Ponty             | 13   | 193      
 Sylosis                    | 20   | 120      
 The Night Flight Orchestra | 21   | 119      
 Lars Vaular                | 22   | 118      
