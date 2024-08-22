@@ -17,11 +17,11 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 437      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 348      
-AC/DC                          | 5    | 292      
+AC/DC                          | 5    | 303      
 In Flames                      | 6    | 269      
 Seven Spires                   | 7    | 232      
-Ghost                          | 8    | 228      
-Skálmöld                       | 9    | 222      
+Skálmöld                       | 8    | 229      
+Ghost                          | 9    | 228      
 The Dogs                       | 11   | 203      
 Foo Fighters                   | 12   | 200      
 Greta Van Fleet                | 14   | 189      
@@ -43,7 +43,7 @@ Green Day                      | 39   | 80
 Oslo Ess                       | 45   | 73       
 The Good The Bad and The Zugly | 49   | 66       
 Maktkamp                       | 51   | 63       
-Snarky Puppy                   | 55   | 58       
+Snarky Puppy                   | 56   | 58       
 22                             | 58   | 56       
 Mall Girl                      | 59   | 56       
 The Winery Dogs                | 63   | 55       
@@ -54,8 +54,8 @@ Soilwork                       | 79   | 43
 Atavistia                      | 80   | 42       
 Lamb of God                    | 86   | 37       
 Danko Jones                    | 87   | 36       
-Behemoth                       | 89   | 35       
-HammerFall                     | 90   | 35       
+Behemoth                       | 90   | 35       
+HammerFall                     | 91   | 35       
 Sabaton                        | 95   | 34       
 Clutch                         | 96   | 33       
 
@@ -80,9 +80,9 @@ Love                       | 44   | 73
 Styx                       | 46   | 67       
 All That Remains           | 47   | 66       
 Porcupine Tree             | 50   | 65       
-Aktiv Dödshjelp            | 53   | 59       
-Bill Withers               | 54   | 59       
-The Police                 | 56   | 58       
+Bill Withers               | 52   | 60       
+Aktiv Dödshjelp            | 54   | 59       
+The Police                 | 55   | 59       
 Frank Zappa                | 57   | 57       
 Sum 41                     | 60   | 56       
 The Notorious B.I.G.       | 61   | 55       
@@ -98,8 +98,8 @@ Flying Colors              | 77   | 43
 Graveyard                  | 78   | 43       
 Elton John                 | 82   | 40       
 Witchcraft                 | 85   | 38       
-Toto                       | 88   | 36       
-Maraton                    | 91   | 35       
+Maraton                    | 88   | 36       
+Toto                       | 89   | 36       
 Red Hot Chili Peppers      | 92   | 35       
 Rival Sons                 | 93   | 35       
 Electric Light Orchestra   | 97   | 33       
@@ -111,12 +111,12 @@ Ballinciaga                | 100  | 32
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 4    | 302      
+Fleetwood Mac                | 4    | 305      
 Rush                         | 10   | 219      
 Led Zeppelin                 | 37   | 86       
-Creedence Clearwater Revival | 40   | 77       
+Creedence Clearwater Revival | 40   | 78       
 Pink Floyd                   | 48   | 66       
-Daft Punk                    | 52   | 60       
+Daft Punk                    | 53   | 60       
 The Who                      | 62   | 55       
 The Beatles                  | 69   | 50       
 Dire Straits                 | 76   | 43       
