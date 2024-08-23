@@ -19,8 +19,8 @@ Spidergawd                     | 2    | 368
 Metallica                      | 3    | 348      
 AC/DC                          | 5    | 303      
 In Flames                      | 6    | 269      
-Seven Spires                   | 7    | 232      
-Skálmöld                       | 8    | 229      
+Skálmöld                       | 7    | 238      
+Seven Spires                   | 8    | 232      
 Ghost                          | 9    | 228      
 The Dogs                       | 11   | 203      
 Foo Fighters                   | 12   | 200      
@@ -38,8 +38,8 @@ blink-182                      | 29   | 104
 Mastodon                       | 30   | 104      
 Finntroll                      | 35   | 87       
 Kvelertak                      | 36   | 87       
-Tool                           | 38   | 81       
-Green Day                      | 39   | 80       
+Tool                           | 39   | 81       
+Green Day                      | 40   | 80       
 Oslo Ess                       | 45   | 73       
 The Good The Bad and The Zugly | 49   | 66       
 Maktkamp                       | 51   | 63       
@@ -73,9 +73,9 @@ Ne Obliviscaris            | 31   | 100
 Parius                     | 32   | 94       
 Hall & Oates               | 33   | 88       
 Backstreet Girls           | 34   | 87       
-DumDum Boys                | 41   | 77       
-Bokassa                    | 42   | 76       
-Haken                      | 43   | 74       
+Haken                      | 38   | 81       
+DumDum Boys                | 42   | 77       
+Bokassa                    | 43   | 76       
 Love                       | 44   | 73       
 Styx                       | 46   | 67       
 All That Remains           | 47   | 66       
@@ -111,10 +111,10 @@ Ballinciaga                | 100  | 32
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 4    | 305      
+Fleetwood Mac                | 4    | 306      
 Rush                         | 10   | 219      
 Led Zeppelin                 | 37   | 86       
-Creedence Clearwater Revival | 40   | 78       
+Creedence Clearwater Revival | 41   | 78       
 Pink Floyd                   | 48   | 66       
 Daft Punk                    | 53   | 60       
 The Who                      | 62   | 55       
