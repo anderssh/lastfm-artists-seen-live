@@ -19,8 +19,8 @@ Spidergawd                     | 2    | 368
 Metallica                      | 3    | 348      
 AC/DC                          | 5    | 303      
 In Flames                      | 6    | 269      
-Skálmöld                       | 7    | 238      
-Seven Spires                   | 8    | 232      
+Seven Spires                   | 7    | 245      
+Skálmöld                       | 8    | 245      
 Ghost                          | 9    | 228      
 The Dogs                       | 11   | 203      
 Foo Fighters                   | 12   | 200      
