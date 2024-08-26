@@ -30,7 +30,7 @@ Honningbarna                   | 16   | 174
 Avenged Sevenfold              | 17   | 159      
 Architects                     | 18   | 125      
 Eminem                         | 19   | 120      
-Gojira                         | 21   | 119      
+Gojira                         | 22   | 119      
 Pagan's Mind                   | 26   | 117      
 Slipknot                       | 27   | 116      
 Judas Priest                   | 28   | 109      
@@ -38,7 +38,7 @@ blink-182                      | 29   | 105
 Mastodon                       | 30   | 104      
 Kvelertak                      | 34   | 88       
 Finntroll                      | 36   | 87       
-Green Day                      | 39   | 82       
+Green Day                      | 38   | 84       
 Tool                           | 41   | 81       
 Oslo Ess                       | 45   | 73       
 The Good The Bad and The Zugly | 49   | 66       
@@ -48,7 +48,7 @@ Snarky Puppy                   | 56   | 58
 Mall Girl                      | 59   | 56       
 The Winery Dogs                | 64   | 55       
 Leo                            | 65   | 54       
-Def Leppard                    | 71   | 46       
+Def Leppard                    | 70   | 47       
 Soilwork                       | 75   | 44       
 Spiritbox                      | 76   | 44       
 Atavistia                      | 80   | 42       
@@ -56,7 +56,7 @@ HammerFall                     | 86   | 37
 Lamb of God                    | 87   | 37       
 Danko Jones                    | 90   | 36       
 Behemoth                       | 91   | 35       
-Clutch                         | 95   | 34       
+Clutch                         | 92   | 35       
 Sabaton                        | 96   | 34       
 Kaizers Orchestra              | 98   | 33       
 
@@ -66,7 +66,7 @@ Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 193      
 Sylosis                    | 20   | 120      
-The Night Flight Orchestra | 22   | 119      
+The Night Flight Orchestra | 21   | 120      
 Lars Vaular                | 23   | 118      
 The Halo Effect            | 24   | 118      
 Animals as Leaders         | 25   | 117      
@@ -81,7 +81,7 @@ Love                       | 44   | 73
 All That Remains           | 46   | 68       
 Styx                       | 47   | 67       
 Porcupine Tree             | 50   | 65       
-Bill Withers               | 52   | 60       
+Bill Withers               | 53   | 60       
 The Police                 | 54   | 60       
 Aktiv Dödshjelp            | 55   | 59       
 Frank Zappa                | 57   | 57       
@@ -91,7 +91,7 @@ The Offspring              | 62   | 55
 Queens of the Stone Age    | 66   | 54       
 The Rolling Stones         | 67   | 52       
 Thulsa Doom                | 68   | 52       
-Apollo Suns                | 70   | 46       
+Apollo Suns                | 71   | 46       
 All Them Witches           | 72   | 45       
 Van Halen                  | 73   | 45       
 Adele                      | 74   | 44       
@@ -101,8 +101,8 @@ Elton John                 | 82   | 40
 Witchcraft                 | 85   | 38       
 Maraton                    | 88   | 37       
 Toto                       | 89   | 37       
-Red Hot Chili Peppers      | 92   | 35       
-Rival Sons                 | 93   | 35       
+Red Hot Chili Peppers      | 93   | 35       
+Rival Sons                 | 94   | 35       
 Electric Light Orchestra   | 97   | 33       
 oberst                     | 99   | 33       
 Amyl and the Sniffers      | 100  | 32       
@@ -114,13 +114,13 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 4    | 306      
 Rush                         | 10   | 219      
 Led Zeppelin                 | 37   | 86       
-Creedence Clearwater Revival | 38   | 82       
+Creedence Clearwater Revival | 39   | 82       
 Pink Floyd                   | 48   | 66       
-Daft Punk                    | 53   | 60       
+Daft Punk                    | 52   | 61       
 The Who                      | 63   | 55       
 The Beatles                  | 69   | 50       
 Dire Straits                 | 77   | 43       
 Black Sabbath                | 81   | 40       
 Jimi Hendrix                 | 83   | 39       
 Jokke & Valentinerne         | 84   | 39       
-The Doors                    | 94   | 35       
+The Doors                    | 95   | 35       
