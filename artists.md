@@ -24,14 +24,14 @@ Seven Spires                   | 8    | 246
 Ghost                          | 9    | 229      
 Foo Fighters                   | 11   | 204      
 The Dogs                       | 12   | 203      
-Greta Van Fleet                | 14   | 189      
-Circus Maximus                 | 15   | 175      
+Circus Maximus                 | 14   | 189      
+Greta Van Fleet                | 15   | 189      
 Honningbarna                   | 16   | 174      
 Avenged Sevenfold              | 17   | 159      
 Architects                     | 18   | 125      
 Eminem                         | 19   | 120      
 Gojira                         | 22   | 119      
-Pagan's Mind                   | 26   | 117      
+Pagan's Mind                   | 24   | 118      
 Slipknot                       | 27   | 116      
 Judas Priest                   | 28   | 109      
 blink-182                      | 29   | 105      
@@ -49,8 +49,8 @@ Mall Girl                      | 59   | 56
 The Winery Dogs                | 64   | 55       
 Leo                            | 65   | 54       
 Def Leppard                    | 70   | 47       
-Soilwork                       | 75   | 44       
-Spiritbox                      | 76   | 44       
+Soilwork                       | 76   | 44       
+Spiritbox                      | 77   | 44       
 Atavistia                      | 80   | 42       
 HammerFall                     | 86   | 37       
 Lamb of God                    | 87   | 37       
@@ -68,13 +68,13 @@ Jean-Luc Ponty             | 13   | 193
 Sylosis                    | 20   | 120      
 The Night Flight Orchestra | 21   | 120      
 Lars Vaular                | 23   | 118      
-The Halo Effect            | 24   | 118      
-Animals as Leaders         | 25   | 117      
+The Halo Effect            | 25   | 118      
+Animals as Leaders         | 26   | 117      
 Ne Obliviscaris            | 31   | 100      
 Parius                     | 32   | 94       
 Hall & Oates               | 33   | 88       
 Backstreet Girls           | 35   | 87       
-Haken                      | 40   | 81       
+Haken                      | 39   | 83       
 DumDum Boys                | 42   | 77       
 Bokassa                    | 43   | 76       
 Love                       | 44   | 73       
@@ -92,10 +92,10 @@ Queens of the Stone Age    | 66   | 54
 The Rolling Stones         | 67   | 52       
 Thulsa Doom                | 68   | 52       
 Apollo Suns                | 71   | 46       
-All Them Witches           | 72   | 45       
-Van Halen                  | 73   | 45       
-Adele                      | 74   | 44       
-Flying Colors              | 78   | 43       
+Flying Colors              | 72   | 46       
+All Them Witches           | 73   | 45       
+Van Halen                  | 74   | 45       
+Adele                      | 75   | 44       
 Graveyard                  | 79   | 43       
 Elton John                 | 82   | 40       
 Witchcraft                 | 85   | 38       
@@ -114,12 +114,12 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 4    | 306      
 Rush                         | 10   | 219      
 Led Zeppelin                 | 37   | 86       
-Creedence Clearwater Revival | 39   | 82       
+Creedence Clearwater Revival | 40   | 82       
 Pink Floyd                   | 48   | 66       
 Daft Punk                    | 52   | 61       
 The Who                      | 63   | 55       
 The Beatles                  | 69   | 50       
-Dire Straits                 | 77   | 43       
+Dire Straits                 | 78   | 43       
 Black Sabbath                | 81   | 40       
 Jimi Hendrix                 | 83   | 39       
 Jokke & Valentinerne         | 84   | 39       
