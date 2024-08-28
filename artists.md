@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 446      
+Dream Theater                  | 1    | 447      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 351      
 AC/DC                          | 5    | 305      
@@ -22,14 +22,14 @@ In Flames                      | 6    | 274
 Skálmöld                       | 7    | 248      
 Seven Spires                   | 8    | 246      
 Ghost                          | 9    | 229      
-Foo Fighters                   | 11   | 204      
-The Dogs                       | 12   | 203      
-Circus Maximus                 | 14   | 189      
+Circus Maximus                 | 11   | 205      
+Foo Fighters                   | 12   | 204      
+The Dogs                       | 13   | 203      
 Greta Van Fleet                | 15   | 189      
 Honningbarna                   | 16   | 174      
 Avenged Sevenfold              | 17   | 159      
 Architects                     | 18   | 125      
-Eminem                         | 19   | 120      
+Eminem                         | 20   | 120      
 Gojira                         | 22   | 119      
 Pagan's Mind                   | 24   | 118      
 Slipknot                       | 27   | 116      
@@ -64,8 +64,8 @@ Kaizers Orchestra              | 98   | 33
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Jean-Luc Ponty             | 13   | 193      
-Sylosis                    | 20   | 120      
+Jean-Luc Ponty             | 14   | 193      
+Sylosis                    | 19   | 122      
 The Night Flight Orchestra | 21   | 120      
 Lars Vaular                | 23   | 118      
 The Halo Effect            | 25   | 118      
