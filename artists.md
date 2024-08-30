@@ -18,7 +18,7 @@ Dream Theater                  | 1    | 447
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 351      
 AC/DC                          | 5    | 305      
-In Flames                      | 6    | 285      
+In Flames                      | 6    | 287      
 Skálmöld                       | 7    | 248      
 Seven Spires                   | 8    | 246      
 Ghost                          | 9    | 229      
@@ -40,7 +40,7 @@ Kvelertak                      | 34   | 88
 Finntroll                      | 36   | 87       
 Green Day                      | 39   | 84       
 Tool                           | 41   | 81       
-Oslo Ess                       | 45   | 73       
+Oslo Ess                       | 46   | 73       
 The Good The Bad and The Zugly | 49   | 66       
 Maktkamp                       | 51   | 63       
 Snarky Puppy                   | 56   | 58       
@@ -52,8 +52,8 @@ Def Leppard                    | 70   | 47
 Soilwork                       | 76   | 44       
 Spiritbox                      | 77   | 44       
 Atavistia                      | 80   | 42       
-HammerFall                     | 86   | 37       
-Lamb of God                    | 87   | 37       
+HammerFall                     | 87   | 37       
+Lamb of God                    | 88   | 37       
 Danko Jones                    | 90   | 36       
 Behemoth                       | 91   | 35       
 Clutch                         | 92   | 35       
@@ -78,8 +78,8 @@ Backstreet Girls           | 35   | 87
 Haken                      | 40   | 83       
 DumDum Boys                | 42   | 77       
 Bokassa                    | 43   | 76       
-Love                       | 44   | 73       
-All That Remains           | 46   | 68       
+All That Remains           | 44   | 74       
+Love                       | 45   | 73       
 Styx                       | 47   | 67       
 Porcupine Tree             | 50   | 65       
 Bill Withers               | 52   | 61       
@@ -90,7 +90,7 @@ Sum 41                     | 60   | 56
 The Notorious B.I.G.       | 61   | 55       
 The Offspring              | 62   | 55       
 Queens of the Stone Age    | 66   | 54       
-The Rolling Stones         | 67   | 52       
+The Rolling Stones         | 67   | 53       
 Thulsa Doom                | 68   | 52       
 Apollo Suns                | 71   | 46       
 Flying Colors              | 72   | 46       
@@ -99,9 +99,9 @@ Van Halen                  | 74   | 45
 Adele                      | 75   | 44       
 Graveyard                  | 79   | 43       
 Elton John                 | 82   | 40       
-Witchcraft                 | 85   | 38       
-Maraton                    | 88   | 37       
-Toto                       | 89   | 37       
+Toto                       | 85   | 38       
+Witchcraft                 | 86   | 38       
+Maraton                    | 89   | 37       
 Red Hot Chili Peppers      | 93   | 35       
 Rival Sons                 | 94   | 35       
 Electric Light Orchestra   | 97   | 33       
