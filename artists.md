@@ -49,11 +49,11 @@ Mall Girl                      | 59   | 56
 The Winery Dogs                | 64   | 55       
 Leo                            | 65   | 54       
 Def Leppard                    | 70   | 47       
-Soilwork                       | 76   | 44       
-Spiritbox                      | 77   | 44       
-Atavistia                      | 80   | 42       
-HammerFall                     | 87   | 37       
-Lamb of God                    | 88   | 37       
+Lamb of God                    | 73   | 46       
+Soilwork                       | 77   | 44       
+Spiritbox                      | 78   | 44       
+Atavistia                      | 81   | 42       
+HammerFall                     | 88   | 37       
 Danko Jones                    | 90   | 36       
 Behemoth                       | 91   | 35       
 Clutch                         | 92   | 35       
@@ -94,13 +94,13 @@ The Rolling Stones         | 67   | 53
 Thulsa Doom                | 68   | 52       
 Apollo Suns                | 71   | 46       
 Flying Colors              | 72   | 46       
-All Them Witches           | 73   | 45       
-Van Halen                  | 74   | 45       
-Adele                      | 75   | 44       
-Graveyard                  | 79   | 43       
-Elton John                 | 82   | 40       
-Toto                       | 85   | 38       
-Witchcraft                 | 86   | 38       
+All Them Witches           | 74   | 45       
+Van Halen                  | 75   | 45       
+Adele                      | 76   | 44       
+Graveyard                  | 80   | 43       
+Elton John                 | 83   | 40       
+Toto                       | 86   | 38       
+Witchcraft                 | 87   | 38       
 Maraton                    | 89   | 37       
 Red Hot Chili Peppers      | 93   | 35       
 Rival Sons                 | 94   | 35       
@@ -119,8 +119,8 @@ Pink Floyd                   | 48   | 66
 Daft Punk                    | 53   | 61       
 The Who                      | 63   | 55       
 The Beatles                  | 69   | 51       
-Dire Straits                 | 78   | 43       
-Black Sabbath                | 81   | 40       
-Jimi Hendrix                 | 83   | 39       
-Jokke & Valentinerne         | 84   | 39       
+Dire Straits                 | 79   | 43       
+Black Sabbath                | 82   | 40       
+Jimi Hendrix                 | 84   | 39       
+Jokke & Valentinerne         | 85   | 39       
 The Doors                    | 95   | 35       
