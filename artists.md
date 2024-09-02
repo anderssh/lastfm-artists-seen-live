@@ -34,8 +34,8 @@ Eminem                         | 21   | 120
 Pagan's Mind                   | 24   | 118      
 Slipknot                       | 27   | 116      
 Judas Priest                   | 28   | 109      
-blink-182                      | 29   | 105      
-Mastodon                       | 30   | 104      
+blink-182                      | 30   | 105      
+Mastodon                       | 31   | 104      
 Kvelertak                      | 34   | 88       
 Finntroll                      | 36   | 87       
 Green Day                      | 39   | 84       
@@ -49,7 +49,7 @@ Mall Girl                      | 59   | 56
 The Winery Dogs                | 64   | 55       
 Leo                            | 65   | 54       
 Def Leppard                    | 70   | 47       
-Lamb of God                    | 73   | 46       
+Lamb of God                    | 71   | 47       
 Soilwork                       | 77   | 44       
 Spiritbox                      | 78   | 44       
 Atavistia                      | 81   | 42       
@@ -71,7 +71,7 @@ The Night Flight Orchestra | 22   | 120
 Lars Vaular                | 23   | 118      
 The Halo Effect            | 25   | 118      
 Animals as Leaders         | 26   | 117      
-Ne Obliviscaris            | 31   | 100      
+Ne Obliviscaris            | 29   | 106      
 Parius                     | 32   | 94       
 Hall & Oates               | 33   | 88       
 Backstreet Girls           | 35   | 87       
@@ -92,8 +92,8 @@ The Offspring              | 62   | 55
 Queens of the Stone Age    | 66   | 54       
 The Rolling Stones         | 67   | 53       
 Thulsa Doom                | 68   | 52       
-Apollo Suns                | 71   | 46       
-Flying Colors              | 72   | 46       
+Apollo Suns                | 72   | 46       
+Flying Colors              | 73   | 46       
 All Them Witches           | 74   | 45       
 Van Halen                  | 75   | 45       
 Adele                      | 76   | 44       
