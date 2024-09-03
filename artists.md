@@ -36,9 +36,9 @@ Slipknot                       | 27   | 116
 Judas Priest                   | 28   | 109      
 blink-182                      | 30   | 105      
 Mastodon                       | 31   | 104      
-Kvelertak                      | 34   | 88       
-Finntroll                      | 36   | 87       
-Green Day                      | 39   | 84       
+Kvelertak                      | 35   | 88       
+Finntroll                      | 37   | 87       
+Green Day                      | 40   | 84       
 Tool                           | 41   | 81       
 Oslo Ess                       | 46   | 73       
 The Good The Bad and The Zugly | 49   | 66       
@@ -66,16 +66,16 @@ The Killers                    | 100  | 33
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 14   | 193      
-Sylosis                    | 19   | 122      
+Sylosis                    | 19   | 123      
 The Night Flight Orchestra | 22   | 120      
 Lars Vaular                | 23   | 118      
 The Halo Effect            | 25   | 118      
 Animals as Leaders         | 26   | 117      
 Ne Obliviscaris            | 29   | 106      
-Parius                     | 32   | 94       
-Hall & Oates               | 33   | 88       
-Backstreet Girls           | 35   | 87       
-Haken                      | 40   | 84       
+Haken                      | 32   | 97       
+Parius                     | 33   | 94       
+Hall & Oates               | 34   | 88       
+Backstreet Girls           | 36   | 87       
 All That Remains           | 42   | 79       
 DumDum Boys                | 43   | 77       
 Bokassa                    | 44   | 76       
@@ -113,8 +113,8 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 306      
 Rush                         | 10   | 219      
-Led Zeppelin                 | 37   | 86       
-Creedence Clearwater Revival | 38   | 84       
+Led Zeppelin                 | 38   | 86       
+Creedence Clearwater Revival | 39   | 84       
 Pink Floyd                   | 48   | 66       
 Daft Punk                    | 53   | 61       
 The Who                      | 63   | 55       
