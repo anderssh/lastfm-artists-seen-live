@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 447      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 351      
-AC/DC                          | 5    | 305      
+AC/DC                          | 4    | 306      
 In Flames                      | 6    | 289      
 Skálmöld                       | 7    | 248      
 Seven Spires                   | 8    | 246      
@@ -32,17 +32,17 @@ Architects                     | 18   | 125
 Gojira                         | 20   | 121      
 Eminem                         | 21   | 120      
 Pagan's Mind                   | 24   | 118      
-Slipknot                       | 27   | 116      
-Judas Priest                   | 28   | 109      
-blink-182                      | 30   | 105      
-Mastodon                       | 31   | 104      
+Slipknot                       | 28   | 116      
+Judas Priest                   | 29   | 109      
+blink-182                      | 31   | 105      
+Mastodon                       | 32   | 104      
 Kvelertak                      | 35   | 88       
 Finntroll                      | 37   | 87       
 Green Day                      | 40   | 84       
 Tool                           | 41   | 81       
 Oslo Ess                       | 46   | 73       
-The Good The Bad and The Zugly | 49   | 66       
-Maktkamp                       | 51   | 63       
+The Good The Bad and The Zugly | 50   | 66       
+Maktkamp                       | 52   | 63       
 Snarky Puppy                   | 56   | 58       
 22                             | 58   | 56       
 Mall Girl                      | 59   | 56       
@@ -71,19 +71,19 @@ The Night Flight Orchestra | 22   | 120
 Lars Vaular                | 23   | 118      
 The Halo Effect            | 25   | 118      
 Animals as Leaders         | 26   | 117      
-Ne Obliviscaris            | 29   | 106      
-Haken                      | 32   | 97       
+Haken                      | 27   | 117      
+Ne Obliviscaris            | 30   | 106      
 Parius                     | 33   | 94       
-Hall & Oates               | 34   | 88       
+Hall & Oates               | 34   | 90       
 Backstreet Girls           | 36   | 87       
 All That Remains           | 42   | 79       
 DumDum Boys                | 43   | 77       
 Bokassa                    | 44   | 76       
 Love                       | 45   | 73       
-Styx                       | 47   | 67       
-Porcupine Tree             | 50   | 65       
-Bill Withers               | 52   | 61       
-The Police                 | 54   | 60       
+Bill Withers               | 47   | 67       
+Styx                       | 48   | 67       
+Porcupine Tree             | 51   | 65       
+The Police                 | 54   | 61       
 Aktiv Dödshjelp            | 55   | 59       
 Frank Zappa                | 57   | 57       
 Sum 41                     | 60   | 56       
@@ -98,8 +98,8 @@ All Them Witches           | 74   | 45
 Van Halen                  | 75   | 45       
 Adele                      | 76   | 44       
 Graveyard                  | 80   | 43       
-Elton John                 | 83   | 40       
-Toto                       | 86   | 38       
+Toto                       | 82   | 41       
+Elton John                 | 84   | 40       
 Witchcraft                 | 87   | 38       
 Maraton                    | 89   | 37       
 Red Hot Chili Peppers      | 93   | 35       
@@ -111,16 +111,16 @@ oberst                     | 99   | 33
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 4    | 306      
+Fleetwood Mac                | 5    | 306      
 Rush                         | 10   | 219      
 Led Zeppelin                 | 38   | 86       
 Creedence Clearwater Revival | 39   | 84       
-Pink Floyd                   | 48   | 66       
+Pink Floyd                   | 49   | 66       
 Daft Punk                    | 53   | 61       
 The Who                      | 63   | 55       
 The Beatles                  | 69   | 51       
 Dire Straits                 | 79   | 43       
-Black Sabbath                | 82   | 40       
-Jimi Hendrix                 | 84   | 39       
-Jokke & Valentinerne         | 85   | 39       
+Black Sabbath                | 83   | 40       
+Jimi Hendrix                 | 85   | 39       
+Jokke & Valentinerne         | 86   | 39       
 The Doors                    | 95   | 35       
