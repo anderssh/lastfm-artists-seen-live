@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 447      
+Dream Theater                  | 1    | 448      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 351      
 AC/DC                          | 4    | 306      
@@ -28,10 +28,10 @@ The Dogs                       | 13   | 203
 Greta Van Fleet                | 15   | 189      
 Honningbarna                   | 16   | 174      
 Avenged Sevenfold              | 17   | 159      
-Architects                     | 18   | 125      
-Gojira                         | 20   | 121      
-Eminem                         | 21   | 120      
-Pagan's Mind                   | 24   | 118      
+Architects                     | 19   | 125      
+Gojira                         | 21   | 121      
+Eminem                         | 22   | 120      
+Pagan's Mind                   | 25   | 118      
 Slipknot                       | 28   | 116      
 Judas Priest                   | 29   | 109      
 blink-182                      | 31   | 105      
@@ -59,19 +59,19 @@ Behemoth                       | 91   | 35
 Clutch                         | 92   | 35       
 Sabaton                        | 96   | 34       
 Kaizers Orchestra              | 98   | 33       
-The Killers                    | 100  | 33       
+Opeth                          | 100  | 33       
 
 ## Active top 100 artists not seen live (41)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 14   | 193      
-Sylosis                    | 19   | 123      
-The Night Flight Orchestra | 22   | 120      
-Lars Vaular                | 23   | 118      
-The Halo Effect            | 25   | 118      
-Animals as Leaders         | 26   | 117      
-Haken                      | 27   | 117      
+Haken                      | 18   | 138      
+Sylosis                    | 20   | 123      
+The Night Flight Orchestra | 23   | 120      
+Lars Vaular                | 24   | 118      
+The Halo Effect            | 26   | 118      
+Animals as Leaders         | 27   | 117      
 Ne Obliviscaris            | 30   | 106      
 Parius                     | 33   | 94       
 Hall & Oates               | 34   | 90       
