@@ -27,7 +27,7 @@ Foo Fighters                   | 12   | 204
 The Dogs                       | 13   | 203      
 Greta Van Fleet                | 15   | 189      
 Honningbarna                   | 16   | 174      
-Avenged Sevenfold              | 17   | 159      
+Avenged Sevenfold              | 18   | 159      
 Architects                     | 19   | 125      
 Gojira                         | 21   | 121      
 Eminem                         | 22   | 120      
@@ -66,7 +66,7 @@ Opeth                          | 100  | 33
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 14   | 193      
-Haken                      | 18   | 138      
+Haken                      | 17   | 163      
 Sylosis                    | 20   | 123      
 The Night Flight Orchestra | 23   | 120      
 Lars Vaular                | 24   | 118      
