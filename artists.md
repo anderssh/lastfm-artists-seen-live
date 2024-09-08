@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 448      
+Dream Theater                  | 1    | 449      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 351      
 AC/DC                          | 4    | 306      
@@ -66,7 +66,7 @@ Opeth                          | 100  | 33
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 14   | 193      
-Haken                      | 17   | 163      
+Haken                      | 17   | 165      
 Sylosis                    | 20   | 123      
 The Night Flight Orchestra | 23   | 120      
 Lars Vaular                | 24   | 118      
