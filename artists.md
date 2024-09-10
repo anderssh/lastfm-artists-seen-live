@@ -2,15 +2,15 @@
 
 Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
-- Number of artists seen live in total: 96
+- Number of artists seen live in total: 98
 
 - Number of fetched top artists: 100 (Active: 86 Inactive: 14)
 
-- Number of top artists seen live: 46 (Active: 45 Inactive: 1)
+- Number of top artists seen live: 48 (Active: 47 Inactive: 1)
 
-- Number of top artists not seen live: 54 (Active: 41 Inactive: 13)
+- Number of top artists not seen live: 52 (Active: 39 Inactive: 13)
 
-## Top 100 artists seen live (46)
+## Top 100 artists seen live (48)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -27,6 +27,7 @@ Foo Fighters                   | 12   | 204
 The Dogs                       | 13   | 203      
 Greta Van Fleet                | 15   | 189      
 Honningbarna                   | 16   | 174      
+Haken                          | 17   | 169      
 Avenged Sevenfold              | 18   | 159      
 Architects                     | 19   | 125      
 Gojira                         | 21   | 121      
@@ -36,7 +37,7 @@ Slipknot                       | 28   | 116
 Judas Priest                   | 29   | 109      
 blink-182                      | 31   | 105      
 Mastodon                       | 32   | 104      
-Kvelertak                      | 35   | 88       
+Kvelertak                      | 35   | 89       
 Finntroll                      | 37   | 87       
 Green Day                      | 40   | 84       
 Tool                           | 41   | 81       
@@ -59,14 +60,14 @@ Behemoth                       | 91   | 35
 Clutch                         | 92   | 35       
 Sabaton                        | 96   | 34       
 Kaizers Orchestra              | 98   | 33       
+oberst                         | 99   | 33       
 Opeth                          | 100  | 33       
 
-## Active top 100 artists not seen live (41)
+## Active top 100 artists not seen live (39)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 14   | 193      
-Haken                      | 17   | 165      
 Sylosis                    | 20   | 123      
 The Night Flight Orchestra | 23   | 120      
 Lars Vaular                | 24   | 118      
@@ -105,7 +106,6 @@ Maraton                    | 89   | 37
 Red Hot Chili Peppers      | 93   | 35       
 Rival Sons                 | 94   | 35       
 Electric Light Orchestra   | 97   | 33       
-oberst                     | 99   | 33       
 
 ## Inactive top 100 artists not seen live (13)
 
