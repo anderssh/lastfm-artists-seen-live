@@ -4,11 +4,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of artists seen live in total: 98
 
-- Number of fetched top artists: 100 (Active: 85 Inactive: 15)
+- Number of fetched top artists: 100 (Active: 84 Inactive: 16)
 
 - Number of top artists seen live: 46 (Active: 45 Inactive: 1)
 
-- Number of top artists not seen live: 54 (Active: 40 Inactive: 14)
+- Number of top artists not seen live: 54 (Active: 39 Inactive: 15)
 
 ## Top 100 artists seen live (46)
 
@@ -61,7 +61,7 @@ Clutch                         | 92   | 35
 Sabaton                        | 97   | 34       
 Kaizers Orchestra              | 100  | 33       
 
-## Active top 100 artists not seen live (40)
+## Active top 100 artists not seen live (39)
 
 Name                        | Rank | PlayCount
 --------------------------- | ---- | ---------
@@ -73,7 +73,6 @@ The Halo Effect             | 26   | 118
 Animals as Leaders          | 27   | 117      
 Ne Obliviscaris             | 30   | 107      
 Parius                      | 33   | 94       
-Hall & Oates                | 34   | 90       
 Backstreet Girls            | 36   | 87       
 All That Remains            | 42   | 79       
 DumDum Boys                 | 43   | 77       
@@ -106,12 +105,13 @@ Robert Pehrsson's Humbucker | 96   | 34
 A.C.T                       | 98   | 33       
 Electric Light Orchestra    | 99   | 33       
 
-## Inactive top 100 artists not seen live (14)
+## Inactive top 100 artists not seen live (15)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 306      
 Rush                         | 10   | 219      
+Hall & Oates                 | 34   | 90       
 Led Zeppelin                 | 38   | 86       
 Creedence Clearwater Revival | 39   | 84       
 Pink Floyd                   | 49   | 66       
