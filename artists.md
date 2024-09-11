@@ -4,17 +4,17 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of artists seen live in total: 98
 
-- Number of fetched top artists: 100 (Active: 86 Inactive: 14)
+- Number of fetched top artists: 100 (Active: 85 Inactive: 15)
 
 - Number of top artists seen live: 46 (Active: 45 Inactive: 1)
 
-- Number of top artists not seen live: 54 (Active: 41 Inactive: 13)
+- Number of top artists not seen live: 54 (Active: 40 Inactive: 14)
 
 ## Top 100 artists seen live (46)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 452      
+Dream Theater                  | 1    | 453      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 351      
 AC/DC                          | 4    | 306      
@@ -27,7 +27,7 @@ Foo Fighters                   | 12   | 204
 The Dogs                       | 13   | 203      
 Greta Van Fleet                | 15   | 189      
 Honningbarna                   | 16   | 174      
-Haken                          | 17   | 170      
+Haken                          | 17   | 172      
 Avenged Sevenfold              | 18   | 159      
 Architects                     | 20   | 125      
 Gojira                         | 22   | 121      
@@ -51,17 +51,17 @@ The Winery Dogs                | 64   | 55
 Leo                            | 65   | 54       
 Def Leppard                    | 70   | 47       
 Lamb of God                    | 72   | 47       
-Soilwork                       | 75   | 45       
-Spiritbox                      | 78   | 44       
-Atavistia                      | 81   | 42       
-HammerFall                     | 88   | 37       
+Soilwork                       | 76   | 45       
+Spiritbox                      | 79   | 44       
+Atavistia                      | 82   | 42       
+HammerFall                     | 89   | 37       
 Danko Jones                    | 90   | 36       
 Behemoth                       | 91   | 35       
 Clutch                         | 92   | 35       
 Sabaton                        | 97   | 34       
 Kaizers Orchestra              | 100  | 33       
 
-## Active top 100 artists not seen live (41)
+## Active top 100 artists not seen live (40)
 
 Name                        | Rank | PlayCount
 --------------------------- | ---- | ---------
@@ -86,28 +86,27 @@ The Police                  | 54   | 61
 Aktiv Dödshjelp             | 55   | 59       
 Frank Zappa                 | 57   | 57       
 Sum 41                      | 60   | 56       
-The Notorious B.I.G.        | 61   | 55       
 The Offspring               | 62   | 55       
 Queens of the Stone Age     | 66   | 54       
 The Rolling Stones          | 67   | 53       
 Thulsa Doom                 | 68   | 52       
 Flying Colors               | 71   | 47       
-Apollo Suns                 | 73   | 46       
-All Them Witches            | 74   | 45       
-Van Halen                   | 76   | 45       
-Adele                       | 77   | 44       
-Graveyard                   | 80   | 43       
-Toto                        | 82   | 41       
-Elton John                  | 84   | 40       
-Witchcraft                  | 87   | 38       
-Maraton                     | 89   | 37       
+Maraton                     | 73   | 47       
+Apollo Suns                 | 74   | 46       
+All Them Witches            | 75   | 45       
+Van Halen                   | 77   | 45       
+Adele                       | 78   | 44       
+Graveyard                   | 81   | 43       
+Toto                        | 83   | 41       
+Elton John                  | 85   | 40       
+Witchcraft                  | 88   | 38       
 Red Hot Chili Peppers       | 93   | 35       
 Rival Sons                  | 94   | 35       
 Robert Pehrsson's Humbucker | 96   | 34       
 A.C.T                       | 98   | 33       
 Electric Light Orchestra    | 99   | 33       
 
-## Inactive top 100 artists not seen live (13)
+## Inactive top 100 artists not seen live (14)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
@@ -117,10 +116,11 @@ Led Zeppelin                 | 38   | 86
 Creedence Clearwater Revival | 39   | 84       
 Pink Floyd                   | 49   | 66       
 Daft Punk                    | 53   | 61       
+The Notorious B.I.G.         | 61   | 55       
 The Who                      | 63   | 55       
 The Beatles                  | 69   | 51       
-Dire Straits                 | 79   | 43       
-Black Sabbath                | 83   | 40       
-Jimi Hendrix                 | 85   | 39       
-Jokke & Valentinerne         | 86   | 39       
+Dire Straits                 | 80   | 43       
+Black Sabbath                | 84   | 40       
+Jimi Hendrix                 | 86   | 39       
+Jokke & Valentinerne         | 87   | 39       
 The Doors                    | 95   | 35       
