@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 453      
+Dream Theater                  | 1    | 454      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 351      
 AC/DC                          | 4    | 306      
@@ -22,12 +22,12 @@ In Flames                      | 6    | 291
 Skálmöld                       | 7    | 248      
 Seven Spires                   | 8    | 246      
 Ghost                          | 9    | 231      
-Circus Maximus                 | 11   | 205      
+Circus Maximus                 | 11   | 206      
 Foo Fighters                   | 12   | 204      
 The Dogs                       | 13   | 203      
 Greta Van Fleet                | 15   | 189      
-Honningbarna                   | 16   | 174      
-Haken                          | 17   | 172      
+Haken                          | 16   | 177      
+Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 159      
 Architects                     | 20   | 125      
 Gojira                         | 22   | 121      
@@ -39,7 +39,7 @@ blink-182                      | 31   | 105
 Mastodon                       | 32   | 104      
 Kvelertak                      | 35   | 89       
 Finntroll                      | 37   | 87       
-Green Day                      | 40   | 84       
+Green Day                      | 39   | 85       
 Tool                           | 41   | 81       
 Oslo Ess                       | 46   | 73       
 The Good The Bad and The Zugly | 50   | 66       
@@ -49,8 +49,8 @@ Snarky Puppy                   | 56   | 58
 Mall Girl                      | 59   | 56       
 The Winery Dogs                | 64   | 55       
 Leo                            | 65   | 54       
-Def Leppard                    | 70   | 47       
-Lamb of God                    | 72   | 47       
+Def Leppard                    | 71   | 47       
+Lamb of God                    | 73   | 47       
 Soilwork                       | 76   | 45       
 Spiritbox                      | 79   | 44       
 Atavistia                      | 82   | 42       
@@ -58,7 +58,7 @@ HammerFall                     | 89   | 37
 Danko Jones                    | 90   | 36       
 Behemoth                       | 91   | 35       
 Clutch                         | 92   | 35       
-Sabaton                        | 97   | 34       
+Sabaton                        | 98   | 34       
 Kaizers Orchestra              | 100  | 33       
 
 ## Active top 100 artists not seen live (39)
@@ -89,8 +89,8 @@ The Offspring               | 62   | 55
 Queens of the Stone Age     | 66   | 54       
 The Rolling Stones          | 67   | 53       
 Thulsa Doom                 | 68   | 52       
-Flying Colors               | 71   | 47       
-Maraton                     | 73   | 47       
+Maraton                     | 70   | 48       
+Flying Colors               | 72   | 47       
 Apollo Suns                 | 74   | 46       
 All Them Witches            | 75   | 45       
 Van Halen                   | 77   | 45       
@@ -101,8 +101,8 @@ Elton John                  | 85   | 40
 Witchcraft                  | 88   | 38       
 Red Hot Chili Peppers       | 93   | 35       
 Rival Sons                  | 94   | 35       
-Robert Pehrsson's Humbucker | 96   | 34       
-A.C.T                       | 98   | 33       
+A.C.T                       | 96   | 34       
+Robert Pehrsson's Humbucker | 97   | 34       
 Electric Light Orchestra    | 99   | 33       
 
 ## Inactive top 100 artists not seen live (15)
@@ -113,7 +113,7 @@ Fleetwood Mac                | 5    | 306
 Rush                         | 10   | 219      
 Hall & Oates                 | 34   | 90       
 Led Zeppelin                 | 38   | 86       
-Creedence Clearwater Revival | 39   | 84       
+Creedence Clearwater Revival | 40   | 84       
 Pink Floyd                   | 49   | 66       
 Daft Punk                    | 53   | 61       
 The Notorious B.I.G.         | 61   | 55       
