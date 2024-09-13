@@ -14,43 +14,43 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 454      
+Dream Theater                  | 1    | 455      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 351      
 AC/DC                          | 4    | 306      
-In Flames                      | 6    | 291      
+In Flames                      | 6    | 294      
 Skálmöld                       | 7    | 248      
 Seven Spires                   | 8    | 246      
 Ghost                          | 9    | 231      
-Circus Maximus                 | 11   | 206      
-Foo Fighters                   | 12   | 204      
-The Dogs                       | 13   | 203      
+Circus Maximus                 | 12   | 206      
+Foo Fighters                   | 13   | 204      
+The Dogs                       | 14   | 203      
 Greta Van Fleet                | 15   | 189      
-Haken                          | 16   | 177      
+Haken                          | 16   | 178      
 Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 159      
 Architects                     | 20   | 125      
-Gojira                         | 22   | 121      
+Gojira                         | 22   | 123      
 Eminem                         | 23   | 120      
 Pagan's Mind                   | 25   | 118      
 Slipknot                       | 28   | 116      
 Judas Priest                   | 29   | 109      
 blink-182                      | 31   | 105      
-Mastodon                       | 32   | 104      
+Mastodon                       | 32   | 105      
 Kvelertak                      | 35   | 89       
 Finntroll                      | 37   | 87       
 Green Day                      | 39   | 85       
 Tool                           | 41   | 81       
 Oslo Ess                       | 46   | 73       
-The Good The Bad and The Zugly | 50   | 66       
+The Good The Bad and The Zugly | 51   | 66       
 Maktkamp                       | 52   | 63       
 Snarky Puppy                   | 56   | 58       
 22                             | 58   | 56       
 Mall Girl                      | 59   | 56       
 The Winery Dogs                | 64   | 55       
 Leo                            | 65   | 54       
-Def Leppard                    | 71   | 47       
-Lamb of God                    | 73   | 47       
+Lamb of God                    | 70   | 49       
+Def Leppard                    | 72   | 47       
 Soilwork                       | 76   | 45       
 Spiritbox                      | 79   | 44       
 Atavistia                      | 82   | 42       
@@ -65,9 +65,9 @@ Kaizers Orchestra              | 100  | 33
 
 Name                        | Rank | PlayCount
 --------------------------- | ---- | ---------
-Jean-Luc Ponty              | 14   | 193      
+Jean-Luc Ponty              | 11   | 216      
 The Night Flight Orchestra  | 19   | 126      
-Sylosis                     | 21   | 123      
+Sylosis                     | 21   | 125      
 Lars Vaular                 | 24   | 118      
 The Halo Effect             | 26   | 118      
 Animals as Leaders          | 27   | 117      
@@ -80,7 +80,7 @@ Bokassa                     | 44   | 76
 Love                        | 45   | 73       
 Bill Withers                | 47   | 67       
 Styx                        | 48   | 67       
-Porcupine Tree              | 51   | 65       
+Porcupine Tree              | 50   | 66       
 The Police                  | 54   | 61       
 Aktiv Dödshjelp             | 55   | 59       
 Frank Zappa                 | 57   | 57       
@@ -89,8 +89,8 @@ The Offspring               | 62   | 55
 Queens of the Stone Age     | 66   | 54       
 The Rolling Stones          | 67   | 53       
 Thulsa Doom                 | 68   | 52       
-Maraton                     | 70   | 48       
-Flying Colors               | 72   | 47       
+Maraton                     | 71   | 48       
+Flying Colors               | 73   | 47       
 Apollo Suns                 | 74   | 46       
 All Them Witches            | 75   | 45       
 Van Halen                   | 77   | 45       
