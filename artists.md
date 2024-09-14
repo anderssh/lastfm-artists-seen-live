@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 455      
+Dream Theater                  | 1    | 456      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 351      
 AC/DC                          | 4    | 306      
@@ -22,11 +22,11 @@ In Flames                      | 6    | 294
 Skálmöld                       | 7    | 248      
 Seven Spires                   | 8    | 246      
 Ghost                          | 9    | 231      
-Circus Maximus                 | 12   | 206      
+Circus Maximus                 | 11   | 218      
 Foo Fighters                   | 13   | 204      
 The Dogs                       | 14   | 203      
 Greta Van Fleet                | 15   | 189      
-Haken                          | 16   | 178      
+Haken                          | 16   | 179      
 Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 159      
 Architects                     | 20   | 125      
@@ -49,15 +49,15 @@ Snarky Puppy                   | 56   | 58
 Mall Girl                      | 59   | 56       
 The Winery Dogs                | 64   | 55       
 Leo                            | 65   | 54       
-Lamb of God                    | 70   | 49       
-Def Leppard                    | 72   | 47       
+Lamb of God                    | 71   | 49       
+Def Leppard                    | 73   | 47       
 Soilwork                       | 76   | 45       
 Spiritbox                      | 79   | 44       
 Atavistia                      | 82   | 42       
-HammerFall                     | 89   | 37       
-Danko Jones                    | 90   | 36       
-Behemoth                       | 91   | 35       
-Clutch                         | 92   | 35       
+HammerFall                     | 90   | 37       
+Danko Jones                    | 91   | 36       
+Behemoth                       | 92   | 35       
+Clutch                         | 93   | 35       
 Sabaton                        | 98   | 34       
 Kaizers Orchestra              | 100  | 33       
 
@@ -65,7 +65,7 @@ Kaizers Orchestra              | 100  | 33
 
 Name                        | Rank | PlayCount
 --------------------------- | ---- | ---------
-Jean-Luc Ponty              | 11   | 216      
+Jean-Luc Ponty              | 12   | 217      
 The Night Flight Orchestra  | 19   | 126      
 Sylosis                     | 21   | 125      
 Lars Vaular                 | 24   | 118      
@@ -89,8 +89,8 @@ The Offspring               | 62   | 55
 Queens of the Stone Age     | 66   | 54       
 The Rolling Stones          | 67   | 53       
 Thulsa Doom                 | 68   | 52       
-Maraton                     | 71   | 48       
-Flying Colors               | 73   | 47       
+Flying Colors               | 70   | 49       
+Maraton                     | 72   | 48       
 Apollo Suns                 | 74   | 46       
 All Them Witches            | 75   | 45       
 Van Halen                   | 77   | 45       
@@ -99,9 +99,9 @@ Graveyard                   | 81   | 43
 Toto                        | 83   | 41       
 Elton John                  | 85   | 40       
 Witchcraft                  | 88   | 38       
-Red Hot Chili Peppers       | 93   | 35       
-Rival Sons                  | 94   | 35       
-A.C.T                       | 96   | 34       
+A.C.T                       | 89   | 37       
+Red Hot Chili Peppers       | 94   | 35       
+Rival Sons                  | 95   | 35       
 Robert Pehrsson's Humbucker | 97   | 34       
 Electric Light Orchestra    | 99   | 33       
 
@@ -123,4 +123,4 @@ Dire Straits                 | 80   | 43
 Black Sabbath                | 84   | 40       
 Jimi Hendrix                 | 86   | 39       
 Jokke & Valentinerne         | 87   | 39       
-The Doors                    | 95   | 35       
+The Doors                    | 96   | 35       
