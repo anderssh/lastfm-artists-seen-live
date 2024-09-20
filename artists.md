@@ -31,7 +31,7 @@ Honningbarna                   | 17   | 174
 Avenged Sevenfold              | 18   | 159      
 Architects                     | 20   | 125      
 Eminem                         | 21   | 125      
-Gojira                         | 23   | 123      
+Gojira                         | 23   | 124      
 Pagan's Mind                   | 25   | 118      
 Slipknot                       | 28   | 116      
 Judas Priest                   | 29   | 109      
