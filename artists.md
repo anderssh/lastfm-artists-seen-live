@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 464      
+Dream Theater                  | 1    | 465      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 352      
 AC/DC                          | 4    | 306      
@@ -40,7 +40,7 @@ Mastodon                       | 32   | 105
 Kvelertak                      | 35   | 89       
 Finntroll                      | 37   | 87       
 Green Day                      | 39   | 85       
-Tool                           | 41   | 81       
+Tool                           | 41   | 84       
 Oslo Ess                       | 46   | 73       
 The Good The Bad and The Zugly | 51   | 66       
 Maktkamp                       | 52   | 63       
@@ -49,7 +49,7 @@ Snarky Puppy                   | 56   | 58
 Mall Girl                      | 60   | 56       
 The Winery Dogs                | 64   | 55       
 Leo                            | 65   | 54       
-Lamb of God                    | 71   | 49       
+Lamb of God                    | 70   | 51       
 Def Leppard                    | 73   | 47       
 Soilwork                       | 76   | 45       
 Spiritbox                      | 79   | 44       
@@ -79,8 +79,8 @@ DumDum Boys                | 43   | 77
 Bokassa                    | 44   | 76       
 Love                       | 45   | 73       
 Bill Withers               | 47   | 68       
-Styx                       | 48   | 67       
-Porcupine Tree             | 50   | 66       
+Porcupine Tree             | 48   | 68       
+Styx                       | 49   | 67       
 The Police                 | 54   | 61       
 Aktiv Dödshjelp            | 55   | 59       
 Frank Zappa                | 57   | 57       
@@ -114,11 +114,11 @@ Rush                         | 11   | 219
 Hall & Oates                 | 34   | 90       
 Led Zeppelin                 | 38   | 86       
 Creedence Clearwater Revival | 40   | 84       
-Pink Floyd                   | 49   | 66       
+Pink Floyd                   | 50   | 66       
 Daft Punk                    | 53   | 61       
 The Notorious B.I.G.         | 62   | 55       
 The Who                      | 63   | 55       
-The Beatles                  | 70   | 51       
+The Beatles                  | 71   | 51       
 Dire Straits                 | 80   | 43       
 Black Sabbath                | 85   | 40       
 Jimi Hendrix                 | 87   | 39       
