@@ -26,7 +26,7 @@ Ghost                          | 10   | 231
 Foo Fighters                   | 13   | 205      
 The Dogs                       | 14   | 203      
 Greta Van Fleet                | 15   | 189      
-Haken                          | 16   | 185      
+Haken                          | 16   | 186      
 Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 159      
 Architects                     | 21   | 125      
