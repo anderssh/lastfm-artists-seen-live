@@ -32,8 +32,8 @@ Avenged Sevenfold              | 18   | 159
 Architects                     | 21   | 125      
 Eminem                         | 22   | 125      
 Gojira                         | 23   | 124      
-Pagan's Mind                   | 25   | 118      
-Slipknot                       | 28   | 116      
+Pagan's Mind                   | 26   | 118      
+Slipknot                       | 29   | 116      
 Judas Priest                   | 30   | 109      
 blink-182                      | 31   | 105      
 Mastodon                       | 32   | 105      
@@ -42,13 +42,13 @@ Kvelertak                      | 36   | 89
 Green Day                      | 37   | 88       
 Finntroll                      | 39   | 87       
 Oslo Ess                       | 46   | 73       
-The Good The Bad and The Zugly | 51   | 66       
-Maktkamp                       | 53   | 63       
-Snarky Puppy                   | 57   | 58       
-22                             | 59   | 56       
-Mall Girl                      | 60   | 56       
-The Winery Dogs                | 65   | 55       
-Leo                            | 66   | 54       
+The Good The Bad and The Zugly | 52   | 66       
+Maktkamp                       | 54   | 63       
+Snarky Puppy                   | 58   | 58       
+22                             | 60   | 56       
+Mall Girl                      | 61   | 56       
+The Winery Dogs                | 66   | 55       
+Leo                            | 67   | 54       
 Lamb of God                    | 70   | 51       
 Def Leppard                    | 73   | 47       
 Soilwork                       | 76   | 45       
@@ -67,28 +67,28 @@ Name                       | Rank | PlayCount
 Jean-Luc Ponty             | 13   | 217      
 Sylosis                    | 19   | 126      
 The Night Flight Orchestra | 20   | 126      
-Lars Vaular                | 24   | 118      
-The Halo Effect            | 26   | 118      
-Animals as Leaders         | 27   | 117      
-Ne Obliviscaris            | 29   | 115      
+Ne Obliviscaris            | 24   | 119      
+Lars Vaular                | 25   | 118      
+The Halo Effect            | 27   | 118      
+Animals as Leaders         | 28   | 117      
 Parius                     | 34   | 94       
 Backstreet Girls           | 38   | 87       
 All That Remains           | 42   | 79       
 DumDum Boys                | 43   | 77       
 Bokassa                    | 44   | 76       
 Love                       | 45   | 73       
-Bill Withers               | 47   | 69       
-Porcupine Tree             | 48   | 69       
-Styx                       | 49   | 67       
-The Police                 | 52   | 64       
-Aktiv Dödshjelp            | 55   | 59       
-The Offspring              | 56   | 59       
-Frank Zappa                | 58   | 57       
-Queens of the Stone Age    | 61   | 56       
-Sum 41                     | 62   | 56       
-The Rolling Stones         | 67   | 53       
-Flying Colors              | 68   | 52       
-Thulsa Doom                | 69   | 52       
+Thulsa Doom                | 47   | 72       
+Bill Withers               | 48   | 70       
+Porcupine Tree             | 49   | 69       
+Styx                       | 50   | 67       
+The Police                 | 53   | 64       
+Aktiv Dödshjelp            | 56   | 59       
+The Offspring              | 57   | 59       
+Frank Zappa                | 59   | 57       
+Queens of the Stone Age    | 62   | 56       
+Sum 41                     | 63   | 56       
+The Rolling Stones         | 68   | 53       
+Flying Colors              | 69   | 52       
 Maraton                    | 72   | 49       
 Apollo Suns                | 74   | 46       
 All Them Witches           | 75   | 45       
@@ -98,7 +98,7 @@ Graveyard                  | 81   | 43
 A.C.T                      | 83   | 41       
 Toto                       | 85   | 41       
 Elton John                 | 86   | 40       
-The Black Keys             | 89   | 39       
+The Black Keys             | 87   | 40       
 Witchcraft                 | 90   | 38       
 Rival Sons                 | 93   | 36       
 Ballinciaga                | 94   | 35       
@@ -115,12 +115,12 @@ Rush                         | 10   | 237
 Hall & Oates                 | 35   | 91       
 Led Zeppelin                 | 40   | 86       
 Creedence Clearwater Revival | 41   | 84       
-Pink Floyd                   | 50   | 66       
-Daft Punk                    | 54   | 61       
-The Notorious B.I.G.         | 63   | 55       
-The Who                      | 64   | 55       
+Pink Floyd                   | 51   | 66       
+Daft Punk                    | 55   | 61       
+The Notorious B.I.G.         | 64   | 55       
+The Who                      | 65   | 55       
 The Beatles                  | 71   | 51       
 Dire Straits                 | 80   | 43       
 Black Sabbath                | 84   | 41       
-Jimi Hendrix                 | 87   | 39       
-Jokke & Valentinerne         | 88   | 39       
+Jimi Hendrix                 | 88   | 39       
+Jokke & Valentinerne         | 89   | 39       
