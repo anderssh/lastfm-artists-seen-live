@@ -56,16 +56,16 @@ Spiritbox                      | 79   | 44
 Atavistia                      | 82   | 42       
 HammerFall                     | 91   | 37       
 Danko Jones                    | 92   | 36       
-Behemoth                       | 95   | 35       
-Clutch                         | 96   | 35       
-Opeth                          | 99   | 35       
+Behemoth                       | 96   | 35       
+Clutch                         | 97   | 35       
+Opeth                          | 100  | 35       
 
 ## Active top 100 artists not seen live (41)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 217      
-Sylosis                    | 19   | 126      
+Sylosis                    | 19   | 129      
 The Night Flight Orchestra | 20   | 126      
 Ne Obliviscaris            | 24   | 119      
 Lars Vaular                | 25   | 118      
@@ -77,7 +77,7 @@ All That Remains           | 42   | 79
 DumDum Boys                | 43   | 77       
 Bokassa                    | 44   | 76       
 Love                       | 45   | 73       
-Thulsa Doom                | 47   | 72       
+Thulsa Doom                | 47   | 73       
 Bill Withers               | 48   | 70       
 Porcupine Tree             | 49   | 69       
 Styx                       | 50   | 67       
@@ -101,10 +101,10 @@ Elton John                 | 86   | 40
 The Black Keys             | 87   | 40       
 Witchcraft                 | 90   | 38       
 Rival Sons                 | 93   | 36       
-Ballinciaga                | 94   | 35       
-DJ MøMø                    | 97   | 35       
-Electric Light Orchestra   | 98   | 35       
-Red Hot Chili Peppers      | 100  | 35       
+Amyl and the Sniffers      | 94   | 35       
+Ballinciaga                | 95   | 35       
+DJ MøMø                    | 98   | 35       
+Electric Light Orchestra   | 99   | 35       
 
 ## Inactive top 100 artists not seen live (14)
 
