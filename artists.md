@@ -19,9 +19,9 @@ Spidergawd                     | 2    | 368
 Metallica                      | 3    | 352      
 AC/DC                          | 4    | 308      
 In Flames                      | 6    | 297      
-Skálmöld                       | 7    | 248      
-Seven Spires                   | 8    | 246      
-Circus Maximus                 | 9    | 242      
+Skálmöld                       | 8    | 248      
+Seven Spires                   | 9    | 246      
+Circus Maximus                 | 10   | 242      
 Ghost                          | 11   | 231      
 Foo Fighters                   | 12   | 222      
 The Dogs                       | 14   | 203      
@@ -33,10 +33,10 @@ Architects                     | 21   | 125
 Eminem                         | 22   | 125      
 Gojira                         | 23   | 124      
 Pagan's Mind                   | 26   | 118      
-Slipknot                       | 29   | 116      
-Judas Priest                   | 30   | 109      
-blink-182                      | 31   | 105      
-Mastodon                       | 32   | 105      
+Mastodon                       | 29   | 117      
+Slipknot                       | 30   | 116      
+Judas Priest                   | 31   | 109      
+blink-182                      | 32   | 105      
 Tool                           | 33   | 98       
 Kvelertak                      | 36   | 89       
 Green Day                      | 37   | 88       
@@ -55,7 +55,7 @@ Soilwork                       | 76   | 45
 Spiritbox                      | 79   | 44       
 Atavistia                      | 82   | 42       
 HammerFall                     | 91   | 37       
-Danko Jones                    | 92   | 36       
+Danko Jones                    | 93   | 36       
 Behemoth                       | 96   | 35       
 Clutch                         | 97   | 35       
 Opeth                          | 100  | 35       
@@ -100,8 +100,8 @@ Toto                       | 85   | 41
 Elton John                 | 86   | 40       
 The Black Keys             | 87   | 40       
 Witchcraft                 | 90   | 38       
-Rival Sons                 | 93   | 36       
-Amyl and the Sniffers      | 94   | 35       
+Amyl and the Sniffers      | 92   | 36       
+Rival Sons                 | 94   | 36       
 Ballinciaga                | 95   | 35       
 DJ MøMø                    | 98   | 35       
 Electric Light Orchestra   | 99   | 35       
@@ -111,7 +111,7 @@ Electric Light Orchestra   | 99   | 35
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 306      
-Rush                         | 10   | 237      
+Rush                         | 7    | 260      
 Hall & Oates                 | 35   | 91       
 Led Zeppelin                 | 40   | 86       
 Creedence Clearwater Revival | 41   | 84       
