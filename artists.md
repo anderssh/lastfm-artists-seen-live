@@ -55,7 +55,7 @@ Soilwork                       | 76   | 45
 Spiritbox                      | 79   | 44       
 Atavistia                      | 82   | 42       
 HammerFall                     | 91   | 37       
-Danko Jones                    | 93   | 36       
+Danko Jones                    | 94   | 36       
 Behemoth                       | 96   | 35       
 Clutch                         | 97   | 35       
 Opeth                          | 100  | 35       
@@ -101,8 +101,8 @@ Elton John                 | 86   | 40
 The Black Keys             | 87   | 40       
 Witchcraft                 | 90   | 38       
 Amyl and the Sniffers      | 92   | 36       
-Rival Sons                 | 94   | 36       
-Ballinciaga                | 95   | 35       
+Ballinciaga                | 93   | 36       
+Rival Sons                 | 95   | 36       
 DJ MøMø                    | 98   | 35       
 Electric Light Orchestra   | 99   | 35       
 
