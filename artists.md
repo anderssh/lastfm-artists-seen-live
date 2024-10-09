@@ -18,8 +18,8 @@ Dream Theater                  | 1    | 468
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 352      
 AC/DC                          | 4    | 308      
-In Flames                      | 6    | 297      
-Skálmöld                       | 7    | 276      
+In Flames                      | 7    | 297      
+Skálmöld                       | 8    | 276      
 Seven Spires                   | 9    | 246      
 Circus Maximus                 | 10   | 242      
 Ghost                          | 11   | 231      
@@ -111,7 +111,7 @@ Electric Light Orchestra   | 99   | 35
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 307      
-Rush                         | 8    | 260      
+Rush                         | 6    | 298      
 Hall & Oates                 | 36   | 91       
 Led Zeppelin                 | 40   | 86       
 Creedence Clearwater Revival | 41   | 84       
