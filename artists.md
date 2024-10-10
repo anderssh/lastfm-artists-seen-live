@@ -25,8 +25,8 @@ Circus Maximus                 | 10   | 242
 Ghost                          | 11   | 231      
 Foo Fighters                   | 12   | 222      
 The Dogs                       | 14   | 203      
-Greta Van Fleet                | 15   | 191      
-Haken                          | 16   | 186      
+Haken                          | 15   | 194      
+Greta Van Fleet                | 16   | 191      
 Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 159      
 Architects                     | 21   | 125      
@@ -37,7 +37,7 @@ Mastodon                       | 29   | 117
 Slipknot                       | 30   | 116      
 Judas Priest                   | 31   | 109      
 blink-182                      | 32   | 105      
-Green Day                      | 33   | 103      
+Green Day                      | 33   | 104      
 Tool                           | 34   | 98       
 Kvelertak                      | 37   | 89       
 Finntroll                      | 39   | 87       
@@ -53,11 +53,11 @@ Lamb of God                    | 71   | 51
 Def Leppard                    | 73   | 47       
 Soilwork                       | 76   | 45       
 Spiritbox                      | 79   | 44       
-Atavistia                      | 82   | 42       
-HammerFall                     | 92   | 37       
-Danko Jones                    | 94   | 36       
-Behemoth                       | 96   | 35       
-Clutch                         | 97   | 35       
+Atavistia                      | 83   | 42       
+HammerFall                     | 93   | 37       
+Danko Jones                    | 95   | 36       
+Behemoth                       | 97   | 35       
+Clutch                         | 98   | 35       
 Opeth                          | 100  | 35       
 
 ## Active top 100 artists not seen live (41)
@@ -79,9 +79,9 @@ Bokassa                    | 44   | 76
 Love                       | 45   | 73       
 Thulsa Doom                | 47   | 73       
 Bill Withers               | 48   | 70       
-Porcupine Tree             | 49   | 69       
+Porcupine Tree             | 49   | 70       
 Styx                       | 51   | 67       
-The Police                 | 53   | 64       
+The Police                 | 53   | 65       
 Aktiv Dödshjelp            | 56   | 59       
 The Offspring              | 57   | 59       
 Frank Zappa                | 59   | 57       
@@ -95,15 +95,15 @@ All Them Witches           | 75   | 45
 Van Halen                  | 77   | 45       
 Adele                      | 78   | 44       
 Graveyard                  | 81   | 43       
-A.C.T                      | 83   | 41       
+A.C.T                      | 82   | 42       
 Toto                       | 85   | 41       
 Ballinciaga                | 86   | 40       
 Elton John                 | 87   | 40       
 The Black Keys             | 88   | 40       
 Witchcraft                 | 91   | 38       
-Amyl and the Sniffers      | 93   | 36       
-Rival Sons                 | 95   | 36       
-DJ MøMø                    | 98   | 35       
+DJ MøMø                    | 92   | 37       
+Amyl and the Sniffers      | 94   | 36       
+Rival Sons                 | 96   | 36       
 Electric Light Orchestra   | 99   | 35       
 
 ## Inactive top 100 artists not seen live (14)
