@@ -14,11 +14,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 469      
+Dream Theater                  | 1    | 488      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 353      
 AC/DC                          | 4    | 309      
-In Flames                      | 6    | 299      
+In Flames                      | 6    | 300      
 Skálmöld                       | 8    | 278      
 Seven Spires                   | 9    | 246      
 Circus Maximus                 | 10   | 242      
@@ -29,11 +29,11 @@ Haken                          | 15   | 194
 Greta Van Fleet                | 16   | 191      
 Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 159      
-Architects                     | 21   | 125      
-Eminem                         | 22   | 125      
-Gojira                         | 23   | 125      
-Pagan's Mind                   | 26   | 118      
-Mastodon                       | 29   | 117      
+Mastodon                       | 20   | 126      
+Architects                     | 22   | 125      
+Eminem                         | 23   | 125      
+Gojira                         | 24   | 125      
+Pagan's Mind                   | 28   | 118      
 Slipknot                       | 30   | 116      
 Judas Priest                   | 31   | 109      
 blink-182                      | 32   | 105      
@@ -49,12 +49,12 @@ Snarky Puppy                   | 58   | 58
 Mall Girl                      | 61   | 56       
 The Winery Dogs                | 66   | 55       
 Leo                            | 67   | 54       
-Lamb of God                    | 71   | 52       
-Def Leppard                    | 73   | 47       
-Soilwork                       | 76   | 45       
-Spiritbox                      | 79   | 44       
-Atavistia                      | 83   | 42       
-HammerFall                     | 94   | 37       
+Lamb of God                    | 72   | 52       
+Def Leppard                    | 74   | 47       
+Soilwork                       | 76   | 46       
+Spiritbox                      | 81   | 44       
+Atavistia                      | 86   | 42       
+HammerFall                     | 95   | 37       
 Danko Jones                    | 96   | 36       
 Behemoth                       | 98   | 35       
 Clutch                         | 99   | 35       
@@ -64,12 +64,12 @@ Clutch                         | 99   | 35
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 217      
-Sylosis                    | 19   | 129      
-The Night Flight Orchestra | 20   | 126      
-Ne Obliviscaris            | 24   | 120      
-Lars Vaular                | 25   | 118      
-The Halo Effect            | 27   | 118      
-Animals as Leaders         | 28   | 117      
+Sylosis                    | 19   | 130      
+The Night Flight Orchestra | 21   | 126      
+Ne Obliviscaris            | 25   | 120      
+The Halo Effect            | 26   | 119      
+Lars Vaular                | 27   | 118      
+Animals as Leaders         | 29   | 117      
 Parius                     | 35   | 94       
 Backstreet Girls           | 38   | 87       
 All That Remains           | 42   | 80       
@@ -81,28 +81,28 @@ Bill Withers               | 48   | 70
 Porcupine Tree             | 49   | 70       
 Styx                       | 51   | 67       
 The Police                 | 53   | 65       
-Aktiv Dödshjelp            | 56   | 59       
-The Offspring              | 57   | 59       
+The Offspring              | 56   | 60       
+Aktiv Dödshjelp            | 57   | 59       
 Frank Zappa                | 59   | 57       
 Queens of the Stone Age    | 62   | 56       
 Sum 41                     | 63   | 56       
 The Rolling Stones         | 68   | 54       
-Flying Colors              | 70   | 52       
-Maraton                    | 72   | 49       
-Apollo Suns                | 74   | 46       
-All Them Witches           | 75   | 45       
-Van Halen                  | 77   | 45       
-Adele                      | 78   | 44       
-Graveyard                  | 81   | 43       
-A.C.T                      | 82   | 42       
-Fit for an Autopsy         | 85   | 42       
-Toto                       | 86   | 41       
-Ballinciaga                | 87   | 40       
-Elton John                 | 88   | 40       
-The Black Keys             | 89   | 40       
-Witchcraft                 | 92   | 38       
-DJ MøMø                    | 93   | 37       
-Amyl and the Sniffers      | 95   | 36       
+DJ MøMø                    | 70   | 52       
+Flying Colors              | 71   | 52       
+Maraton                    | 73   | 49       
+Apollo Suns                | 75   | 46       
+All Them Witches           | 77   | 45       
+Ballinciaga                | 78   | 45       
+Van Halen                  | 79   | 45       
+Adele                      | 80   | 44       
+A.C.T                      | 82   | 43       
+Fit for an Autopsy         | 84   | 43       
+Graveyard                  | 85   | 43       
+Toto                       | 88   | 41       
+Elton John                 | 89   | 40       
+The Black Keys             | 90   | 40       
+Witchcraft                 | 93   | 38       
+Amyl and the Sniffers      | 94   | 37       
 Rival Sons                 | 97   | 36       
 Electric Light Orchestra   | 100  | 35       
 
@@ -120,7 +120,7 @@ Daft Punk                    | 55   | 61
 The Notorious B.I.G.         | 64   | 55       
 The Who                      | 65   | 55       
 The Beatles                  | 69   | 53       
-Dire Straits                 | 80   | 43       
-Black Sabbath                | 84   | 42       
-Jimi Hendrix                 | 90   | 39       
-Jokke & Valentinerne         | 91   | 39       
+Dire Straits                 | 83   | 43       
+Black Sabbath                | 87   | 42       
+Jimi Hendrix                 | 91   | 39       
+Jokke & Valentinerne         | 92   | 39       
