@@ -6,15 +6,15 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of fetched top artists: 100 (Active: 86 Inactive: 14)
 
-- Number of top artists seen live: 44 (Active: 44 Inactive: 0)
+- Number of top artists seen live: 45 (Active: 45 Inactive: 0)
 
-- Number of top artists not seen live: 56 (Active: 42 Inactive: 14)
+- Number of top artists not seen live: 55 (Active: 41 Inactive: 14)
 
-## Top 100 artists seen live (44)
+## Top 100 artists seen live (45)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 488      
+Dream Theater                  | 1    | 490      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 353      
 AC/DC                          | 4    | 309      
@@ -25,7 +25,7 @@ Circus Maximus                 | 10   | 242
 Ghost                          | 11   | 231      
 Foo Fighters                   | 12   | 222      
 The Dogs                       | 14   | 203      
-Haken                          | 15   | 194      
+Haken                          | 15   | 195      
 Greta Van Fleet                | 16   | 191      
 Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 159      
@@ -51,15 +51,16 @@ The Winery Dogs                | 66   | 55
 Leo                            | 67   | 54       
 Lamb of God                    | 72   | 52       
 Def Leppard                    | 74   | 47       
-Soilwork                       | 76   | 46       
-Spiritbox                      | 81   | 44       
+Soilwork                       | 77   | 46       
+Spiritbox                      | 82   | 44       
 Atavistia                      | 86   | 42       
 HammerFall                     | 95   | 37       
 Danko Jones                    | 96   | 36       
-Behemoth                       | 98   | 35       
-Clutch                         | 99   | 35       
+Opeth                          | 97   | 36       
+Behemoth                       | 99   | 35       
+Clutch                         | 100  | 35       
 
-## Active top 100 artists not seen live (42)
+## Active top 100 artists not seen live (41)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
@@ -87,15 +88,15 @@ Frank Zappa                | 59   | 57
 Queens of the Stone Age    | 62   | 56       
 Sum 41                     | 63   | 56       
 The Rolling Stones         | 68   | 54       
-DJ MøMø                    | 70   | 52       
+DJ MøMø                    | 69   | 53       
 Flying Colors              | 71   | 52       
 Maraton                    | 73   | 49       
 Apollo Suns                | 75   | 46       
-All Them Witches           | 77   | 45       
-Ballinciaga                | 78   | 45       
+Ballinciaga                | 76   | 46       
+All Them Witches           | 78   | 45       
 Van Halen                  | 79   | 45       
-Adele                      | 80   | 44       
-A.C.T                      | 82   | 43       
+A.C.T                      | 80   | 44       
+Adele                      | 81   | 44       
 Fit for an Autopsy         | 84   | 43       
 Graveyard                  | 85   | 43       
 Toto                       | 88   | 41       
@@ -103,8 +104,7 @@ Elton John                 | 89   | 40
 The Black Keys             | 90   | 40       
 Witchcraft                 | 93   | 38       
 Amyl and the Sniffers      | 94   | 37       
-Rival Sons                 | 97   | 36       
-Electric Light Orchestra   | 100  | 35       
+Rival Sons                 | 98   | 36       
 
 ## Inactive top 100 artists not seen live (14)
 
@@ -119,7 +119,7 @@ Pink Floyd                   | 52   | 66
 Daft Punk                    | 55   | 61       
 The Notorious B.I.G.         | 64   | 55       
 The Who                      | 65   | 55       
-The Beatles                  | 69   | 53       
+The Beatles                  | 70   | 53       
 Dire Straits                 | 83   | 43       
 Black Sabbath                | 87   | 42       
 Jimi Hendrix                 | 91   | 39       
