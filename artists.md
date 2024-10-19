@@ -81,7 +81,7 @@ Bill Withers               | 49   | 70
 Porcupine Tree             | 50   | 70       
 Styx                       | 52   | 67       
 The Police                 | 54   | 65       
-The Offspring              | 57   | 61       
+The Offspring              | 56   | 62       
 Aktiv Dödshjelp            | 58   | 59       
 Frank Zappa                | 60   | 57       
 Queens of the Stone Age    | 62   | 56       
@@ -116,7 +116,7 @@ Hall & Oates                 | 36   | 91
 Led Zeppelin                 | 40   | 86       
 Creedence Clearwater Revival | 41   | 84       
 Pink Floyd                   | 53   | 66       
-Daft Punk                    | 56   | 61       
+Daft Punk                    | 57   | 61       
 The Notorious B.I.G.         | 64   | 55       
 The Who                      | 65   | 55       
 The Beatles                  | 70   | 53       
