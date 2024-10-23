@@ -14,18 +14,18 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 497      
+Dream Theater                  | 1    | 499      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 353      
 AC/DC                          | 4    | 309      
-In Flames                      | 6    | 300      
+In Flames                      | 6    | 301      
 Skálmöld                       | 8    | 278      
 Seven Spires                   | 9    | 246      
 Circus Maximus                 | 10   | 242      
 Ghost                          | 11   | 231      
 Foo Fighters                   | 12   | 222      
 The Dogs                       | 14   | 203      
-Haken                          | 15   | 195      
+Haken                          | 15   | 196      
 Greta Van Fleet                | 16   | 191      
 Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 159      
@@ -92,15 +92,15 @@ Flying Colors              | 71   | 52
 Maraton                    | 73   | 49       
 Apollo Suns                | 75   | 46       
 Ballinciaga                | 76   | 46       
-All Them Witches           | 78   | 45       
-Van Halen                  | 79   | 45       
-A.C.T                      | 80   | 44       
+A.C.T                      | 78   | 45       
+All Them Witches           | 79   | 45       
+Van Halen                  | 80   | 45       
 Adele                      | 81   | 44       
 Fit for an Autopsy         | 82   | 44       
 Graveyard                  | 85   | 43       
-Toto                       | 88   | 41       
-Elton John                 | 89   | 40       
-The Black Keys             | 90   | 40       
+The Black Keys             | 88   | 42       
+Toto                       | 89   | 41       
+Elton John                 | 90   | 40       
 Witchcraft                 | 93   | 38       
 Amyl and the Sniffers      | 94   | 37       
 Red Hot Chili Peppers      | 99   | 36       
