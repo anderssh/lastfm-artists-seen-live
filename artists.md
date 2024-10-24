@@ -18,7 +18,7 @@ Dream Theater                  | 1    | 499
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 353      
 AC/DC                          | 4    | 309      
-In Flames                      | 6    | 301      
+In Flames                      | 7    | 301      
 Skálmöld                       | 8    | 278      
 Seven Spires                   | 9    | 246      
 Circus Maximus                 | 10   | 242      
@@ -110,8 +110,8 @@ Rival Sons                 | 100  | 36
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 307      
-Rush                         | 7    | 299      
+Fleetwood Mac                | 5    | 308      
+Rush                         | 6    | 308      
 Hall & Oates                 | 36   | 91       
 Led Zeppelin                 | 40   | 86       
 Creedence Clearwater Revival | 41   | 84       
