@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 499      
+Dream Theater                  | 1    | 506      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 353      
 AC/DC                          | 4    | 309      
@@ -53,11 +53,11 @@ Lamb of God                    | 72   | 52
 Def Leppard                    | 74   | 47       
 Soilwork                       | 77   | 46       
 Spiritbox                      | 83   | 44       
-Atavistia                      | 86   | 42       
+Atavistia                      | 87   | 42       
 HammerFall                     | 95   | 37       
-Danko Jones                    | 96   | 36       
-Kaizers Orchestra              | 97   | 36       
-Opeth                          | 98   | 36       
+Danko Jones                    | 97   | 36       
+Kaizers Orchestra              | 99   | 36       
+Opeth                          | 100  | 36       
 
 ## Active top 100 artists not seen live (42)
 
@@ -77,11 +77,11 @@ DumDum Boys                | 43   | 77
 Bokassa                    | 44   | 76       
 Love                       | 45   | 73       
 Thulsa Doom                | 47   | 73       
-Bill Withers               | 49   | 70       
+Bill Withers               | 49   | 71       
 Porcupine Tree             | 50   | 70       
 Styx                       | 52   | 67       
-The Police                 | 54   | 65       
-The Offspring              | 56   | 62       
+The Police                 | 54   | 66       
+The Offspring              | 56   | 63       
 Aktiv Dödshjelp            | 58   | 59       
 Frank Zappa                | 60   | 57       
 Queens of the Stone Age    | 62   | 56       
@@ -97,21 +97,21 @@ All Them Witches           | 79   | 45
 Van Halen                  | 80   | 45       
 Adele                      | 81   | 44       
 Fit for an Autopsy         | 82   | 44       
-Graveyard                  | 85   | 43       
-The Black Keys             | 88   | 42       
+The Black Keys             | 84   | 44       
+Graveyard                  | 86   | 43       
 Toto                       | 89   | 41       
 Elton John                 | 90   | 40       
 Witchcraft                 | 93   | 38       
 Amyl and the Sniffers      | 94   | 37       
-Red Hot Chili Peppers      | 99   | 36       
-Rival Sons                 | 100  | 36       
+Stevie Wonder              | 96   | 37       
+Electric Light Orchestra   | 98   | 36       
 
 ## Inactive top 100 artists not seen live (14)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 308      
-Rush                         | 6    | 308      
+Fleetwood Mac                | 5    | 309      
+Rush                         | 6    | 309      
 Hall & Oates                 | 36   | 91       
 Led Zeppelin                 | 40   | 86       
 Creedence Clearwater Revival | 41   | 84       
@@ -120,7 +120,7 @@ Daft Punk                    | 57   | 61
 The Notorious B.I.G.         | 64   | 55       
 The Who                      | 65   | 55       
 The Beatles                  | 70   | 53       
-Dire Straits                 | 84   | 43       
-Black Sabbath                | 87   | 42       
+Dire Straits                 | 85   | 43       
+Black Sabbath                | 88   | 42       
 Jimi Hendrix                 | 91   | 39       
 Jokke & Valentinerne         | 92   | 39       
