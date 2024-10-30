@@ -29,11 +29,11 @@ Haken                          | 15   | 196
 Greta Van Fleet                | 16   | 191      
 Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 159      
-Judas Priest                   | 20   | 127      
-Gojira                         | 21   | 126      
-Mastodon                       | 22   | 126      
-Architects                     | 24   | 125      
-Eminem                         | 25   | 125      
+Judas Priest                   | 21   | 127      
+Gojira                         | 22   | 126      
+Mastodon                       | 23   | 126      
+Architects                     | 25   | 125      
+Eminem                         | 26   | 125      
 Pagan's Mind                   | 30   | 118      
 Slipknot                       | 31   | 116      
 blink-182                      | 32   | 105      
@@ -52,7 +52,7 @@ Leo                            | 67   | 54
 Lamb of God                    | 72   | 52       
 Def Leppard                    | 74   | 47       
 Soilwork                       | 77   | 46       
-Spiritbox                      | 80   | 45       
+Spiritbox                      | 81   | 45       
 Atavistia                      | 87   | 42       
 HammerFall                     | 95   | 37       
 The Killers                    | 98   | 37       
@@ -64,13 +64,13 @@ Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 217      
 Sylosis                    | 19   | 130      
-The Night Flight Orchestra | 23   | 126      
-Ne Obliviscaris            | 26   | 120      
-The Halo Effect            | 27   | 120      
+The Halo Effect            | 20   | 128      
+The Night Flight Orchestra | 24   | 126      
+Ne Obliviscaris            | 27   | 120      
 Animals as Leaders         | 28   | 118      
 Lars Vaular                | 29   | 118      
 Parius                     | 35   | 94       
-Backstreet Girls           | 38   | 87       
+Backstreet Girls           | 38   | 88       
 All That Remains           | 42   | 80       
 DumDum Boys                | 43   | 77       
 Bokassa                    | 44   | 76       
@@ -93,10 +93,10 @@ Apollo Suns                | 75   | 46
 Ballinciaga                | 76   | 46       
 A.C.T                      | 78   | 45       
 All Them Witches           | 79   | 45       
-Van Halen                  | 81   | 45       
-Adele                      | 82   | 44       
-Fit for an Autopsy         | 83   | 44       
-The Black Keys             | 84   | 44       
+Fit for an Autopsy         | 80   | 45       
+The Black Keys             | 82   | 45       
+Van Halen                  | 83   | 45       
+Adele                      | 84   | 44       
 Graveyard                  | 86   | 43       
 Toto                       | 89   | 41       
 Elton John                 | 90   | 40       
