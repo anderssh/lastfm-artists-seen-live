@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 507      
+Dream Theater                  | 1    | 514      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 353      
 AC/DC                          | 4    | 309      
@@ -44,16 +44,16 @@ Finntroll                      | 39   | 87
 Oslo Ess                       | 46   | 73       
 22                             | 48   | 71       
 The Good The Bad and The Zugly | 51   | 68       
-Maktkamp                       | 56   | 63       
-Snarky Puppy                   | 59   | 58       
-Mall Girl                      | 62   | 56       
-The Winery Dogs                | 66   | 55       
-Leo                            | 67   | 54       
-Lamb of God                    | 72   | 52       
-Def Leppard                    | 74   | 47       
-Soilwork                       | 77   | 46       
-Spiritbox                      | 81   | 45       
-Atavistia                      | 87   | 42       
+Maktkamp                       | 57   | 63       
+Snarky Puppy                   | 60   | 58       
+Mall Girl                      | 63   | 56       
+The Winery Dogs                | 67   | 55       
+Leo                            | 68   | 54       
+Lamb of God                    | 73   | 52       
+Def Leppard                    | 75   | 47       
+Soilwork                       | 78   | 46       
+Spiritbox                      | 82   | 45       
+Atavistia                      | 88   | 42       
 HammerFall                     | 95   | 37       
 The Killers                    | 98   | 37       
 Danko Jones                    | 99   | 36       
@@ -81,27 +81,27 @@ Porcupine Tree             | 50   | 70
 Styx                       | 52   | 67       
 The Offspring              | 53   | 67       
 The Police                 | 55   | 66       
-Aktiv Dödshjelp            | 58   | 59       
-Frank Zappa                | 60   | 57       
-Sum 41                     | 61   | 57       
-Queens of the Stone Age    | 63   | 56       
-The Rolling Stones         | 68   | 54       
-DJ MøMø                    | 69   | 53       
-Flying Colors              | 71   | 52       
-Maraton                    | 73   | 49       
-Apollo Suns                | 75   | 46       
-Ballinciaga                | 76   | 46       
-A.C.T                      | 78   | 45       
-All Them Witches           | 79   | 45       
-Fit for an Autopsy         | 80   | 45       
-The Black Keys             | 82   | 45       
-Van Halen                  | 83   | 45       
-Adele                      | 84   | 44       
-Graveyard                  | 86   | 43       
-Toto                       | 89   | 41       
-Elton John                 | 90   | 40       
-Witchcraft                 | 93   | 38       
-Amyl and the Sniffers      | 94   | 37       
+Amyl and the Sniffers      | 56   | 63       
+Aktiv Dödshjelp            | 59   | 59       
+Frank Zappa                | 61   | 57       
+Sum 41                     | 62   | 57       
+Queens of the Stone Age    | 64   | 56       
+The Rolling Stones         | 69   | 54       
+DJ MøMø                    | 70   | 53       
+Flying Colors              | 72   | 52       
+Maraton                    | 74   | 49       
+Apollo Suns                | 76   | 46       
+Ballinciaga                | 77   | 46       
+A.C.T                      | 79   | 45       
+All Them Witches           | 80   | 45       
+Fit for an Autopsy         | 81   | 45       
+The Black Keys             | 83   | 45       
+Van Halen                  | 84   | 45       
+Adele                      | 85   | 44       
+Graveyard                  | 87   | 43       
+Elton John                 | 90   | 41       
+Toto                       | 91   | 41       
+Witchcraft                 | 94   | 38       
 Rise Against               | 96   | 37       
 Stevie Wonder              | 97   | 37       
 Electric Light Orchestra   | 100  | 36       
@@ -116,11 +116,11 @@ Hall & Oates                 | 36   | 91
 Led Zeppelin                 | 40   | 86       
 Creedence Clearwater Revival | 41   | 84       
 Pink Floyd                   | 54   | 66       
-Daft Punk                    | 57   | 61       
-The Notorious B.I.G.         | 64   | 55       
-The Who                      | 65   | 55       
-The Beatles                  | 70   | 53       
-Dire Straits                 | 85   | 43       
-Black Sabbath                | 88   | 42       
-Jimi Hendrix                 | 91   | 39       
-Jokke & Valentinerne         | 92   | 39       
+Daft Punk                    | 58   | 61       
+The Notorious B.I.G.         | 65   | 55       
+The Who                      | 66   | 55       
+The Beatles                  | 71   | 53       
+Dire Straits                 | 86   | 43       
+Black Sabbath                | 89   | 42       
+Jimi Hendrix                 | 92   | 39       
+Jokke & Valentinerne         | 93   | 39       
