@@ -40,13 +40,13 @@ Slipknot                       | 31   | 116
 blink-182                      | 32   | 105      
 Green Day                      | 33   | 105      
 Tool                           | 34   | 100      
-Kvelertak                      | 37   | 89       
+Kvelertak                      | 35   | 94       
 Backstreet Girls               | 38   | 88       
 Finntroll                      | 39   | 87       
 Oslo Ess                       | 46   | 73       
-22                             | 48   | 71       
-The Good The Bad and The Zugly | 51   | 68       
-Maktkamp                       | 57   | 63       
+Maktkamp                       | 48   | 72       
+The Good The Bad and The Zugly | 49   | 72       
+22                             | 50   | 71       
 Snarky Puppy                   | 60   | 58       
 Mall Girl                      | 63   | 56       
 The Winery Dogs                | 67   | 55       
@@ -70,18 +70,18 @@ The Halo Effect            | 20   | 128
 The Night Flight Orchestra | 24   | 126      
 Animals as Leaders         | 28   | 118      
 Lars Vaular                | 29   | 118      
-Parius                     | 35   | 94       
+Parius                     | 36   | 94       
 All That Remains           | 42   | 80       
 DumDum Boys                | 43   | 77       
 Bokassa                    | 44   | 76       
 Love                       | 45   | 73       
 Thulsa Doom                | 47   | 73       
-Bill Withers               | 49   | 71       
-Porcupine Tree             | 50   | 70       
-Styx                       | 52   | 67       
-The Offspring              | 53   | 67       
-The Police                 | 55   | 66       
-Amyl and the Sniffers      | 56   | 63       
+Bill Withers               | 51   | 71       
+Porcupine Tree             | 52   | 70       
+Styx                       | 53   | 67       
+The Offspring              | 54   | 67       
+The Police                 | 56   | 66       
+Amyl and the Sniffers      | 57   | 63       
 Aktiv Dödshjelp            | 59   | 59       
 Frank Zappa                | 61   | 57       
 Sum 41                     | 62   | 57       
@@ -112,10 +112,10 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 310      
 Rush                         | 6    | 309      
-Hall & Oates                 | 36   | 91       
+Hall & Oates                 | 37   | 91       
 Led Zeppelin                 | 40   | 86       
 Creedence Clearwater Revival | 41   | 84       
-Pink Floyd                   | 54   | 66       
+Pink Floyd                   | 55   | 66       
 Daft Punk                    | 58   | 61       
 The Notorious B.I.G.         | 65   | 55       
 The Who                      | 66   | 55       
