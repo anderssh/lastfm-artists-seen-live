@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 533      
+Dream Theater                  | 1    | 546      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 353      
 AC/DC                          | 5    | 309      
@@ -29,9 +29,9 @@ Haken                          | 15   | 196
 Greta Van Fleet                | 16   | 191      
 Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 159      
-Gojira                         | 21   | 127      
-Judas Priest                   | 22   | 127      
-Mastodon                       | 23   | 126      
+Gojira                         | 22   | 127      
+Judas Priest                   | 23   | 127      
+Mastodon                       | 24   | 126      
 Architects                     | 25   | 125      
 Eminem                         | 26   | 125      
 Ne Obliviscaris                | 27   | 120      
@@ -67,7 +67,7 @@ Name                       | Rank | PlayCount
 Jean-Luc Ponty             | 13   | 217      
 Sylosis                    | 19   | 130      
 The Halo Effect            | 20   | 128      
-The Night Flight Orchestra | 24   | 126      
+The Night Flight Orchestra | 21   | 128      
 Animals as Leaders         | 28   | 118      
 Lars Vaular                | 29   | 118      
 Parius                     | 36   | 94       
