@@ -43,8 +43,8 @@ Tool                           | 34   | 100
 Kvelertak                      | 35   | 94       
 Backstreet Girls               | 39   | 88       
 Finntroll                      | 40   | 87       
-Oslo Ess                       | 47   | 73       
-Maktkamp                       | 49   | 72       
+Maktkamp                       | 47   | 73       
+Oslo Ess                       | 48   | 73       
 The Good The Bad and The Zugly | 50   | 72       
 22                             | 51   | 71       
 Snarky Puppy                   | 60   | 58       
@@ -71,12 +71,12 @@ The Night Flight Orchestra | 21   | 128
 Animals as Leaders         | 28   | 118      
 Lars Vaular                | 29   | 118      
 Parius                     | 36   | 94       
-Amyl and the Sniffers      | 37   | 91       
+Amyl and the Sniffers      | 37   | 92       
 All That Remains           | 43   | 80       
 DumDum Boys                | 44   | 77       
 Bokassa                    | 45   | 76       
 Love                       | 46   | 73       
-Thulsa Doom                | 48   | 73       
+Thulsa Doom                | 49   | 73       
 Bill Withers               | 52   | 71       
 Porcupine Tree             | 53   | 70       
 Styx                       | 54   | 67       
