@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 550      
+Dream Theater                  | 1    | 565      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 353      
 AC/DC                          | 5    | 309      
@@ -53,7 +53,7 @@ The Winery Dogs                | 67   | 55
 Leo                            | 68   | 54       
 Lamb of God                    | 73   | 52       
 Def Leppard                    | 75   | 47       
-Soilwork                       | 78   | 46       
+Soilwork                       | 79   | 46       
 Spiritbox                      | 82   | 45       
 Atavistia                      | 88   | 42       
 HammerFall                     | 95   | 37       
@@ -92,9 +92,9 @@ Flying Colors              | 72   | 52
 Maraton                    | 74   | 49       
 Apollo Suns                | 76   | 46       
 Ballinciaga                | 77   | 46       
-A.C.T                      | 79   | 45       
-All Them Witches           | 80   | 45       
-Fit for an Autopsy         | 81   | 45       
+Fit for an Autopsy         | 78   | 46       
+A.C.T                      | 80   | 45       
+All Them Witches           | 81   | 45       
 The Black Keys             | 83   | 45       
 Van Halen                  | 84   | 45       
 Adele                      | 85   | 44       
