@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 565      
+Dream Theater                  | 1    | 568      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 353      
 AC/DC                          | 5    | 309      
@@ -66,7 +66,7 @@ Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 217      
 Sylosis                    | 19   | 130      
-The Halo Effect            | 20   | 128      
+The Halo Effect            | 20   | 129      
 The Night Flight Orchestra | 21   | 128      
 Animals as Leaders         | 28   | 118      
 Lars Vaular                | 29   | 118      
