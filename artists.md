@@ -25,7 +25,7 @@ Circus Maximus                 | 10   | 242
 Ghost                          | 11   | 231      
 Foo Fighters                   | 12   | 222      
 The Dogs                       | 14   | 203      
-Haken                          | 15   | 196      
+Haken                          | 15   | 197      
 Greta Van Fleet                | 16   | 191      
 Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 159      
@@ -39,8 +39,8 @@ Pagan's Mind                   | 30   | 118
 Slipknot                       | 31   | 116      
 blink-182                      | 32   | 105      
 Green Day                      | 33   | 105      
-Tool                           | 34   | 100      
-Kvelertak                      | 35   | 94       
+Tool                           | 35   | 100      
+Kvelertak                      | 36   | 94       
 Backstreet Girls               | 39   | 88       
 Finntroll                      | 40   | 87       
 Maktkamp                       | 47   | 73       
@@ -58,7 +58,7 @@ Spiritbox                      | 82   | 45
 Atavistia                      | 88   | 42       
 HammerFall                     | 95   | 37       
 The Killers                    | 98   | 37       
-Danko Jones                    | 99   | 36       
+Danko Jones                    | 100  | 36       
 
 ## Active top 100 artists not seen live (41)
 
@@ -66,12 +66,12 @@ Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 217      
 Sylosis                    | 19   | 130      
-The Halo Effect            | 20   | 129      
+The Halo Effect            | 20   | 130      
 The Night Flight Orchestra | 21   | 128      
-Animals as Leaders         | 28   | 118      
+Animals as Leaders         | 28   | 119      
 Lars Vaular                | 29   | 118      
-Parius                     | 36   | 94       
-Amyl and the Sniffers      | 37   | 92       
+Amyl and the Sniffers      | 34   | 102      
+Parius                     | 37   | 94       
 All That Remains           | 43   | 80       
 DumDum Boys                | 44   | 77       
 Bokassa                    | 45   | 76       
@@ -104,7 +104,7 @@ Toto                       | 91   | 41
 Witchcraft                 | 94   | 38       
 Rise Against               | 96   | 37       
 Stevie Wonder              | 97   | 37       
-Electric Light Orchestra   | 100  | 36       
+VOLA                       | 99   | 37       
 
 ## Inactive top 100 artists not seen live (14)
 
