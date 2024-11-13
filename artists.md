@@ -54,9 +54,9 @@ Leo                            | 68   | 54
 Lamb of God                    | 73   | 52       
 Def Leppard                    | 75   | 47       
 Soilwork                       | 79   | 46       
-Spiritbox                      | 82   | 45       
+Spiritbox                      | 83   | 45       
 Atavistia                      | 88   | 42       
-HammerFall                     | 95   | 37       
+HammerFall                     | 96   | 37       
 The Killers                    | 98   | 37       
 Danko Jones                    | 100  | 36       
 
@@ -70,7 +70,7 @@ The Halo Effect            | 20   | 130
 The Night Flight Orchestra | 21   | 128      
 Animals as Leaders         | 28   | 119      
 Lars Vaular                | 29   | 118      
-Amyl and the Sniffers      | 34   | 102      
+Amyl and the Sniffers      | 34   | 103      
 Parius                     | 37   | 94       
 All That Remains           | 43   | 80       
 DumDum Boys                | 44   | 77       
@@ -93,17 +93,17 @@ Maraton                    | 74   | 49
 Apollo Suns                | 76   | 46       
 Ballinciaga                | 77   | 46       
 Fit for an Autopsy         | 78   | 46       
-A.C.T                      | 80   | 45       
-All Them Witches           | 81   | 45       
-The Black Keys             | 83   | 45       
+The Black Keys             | 80   | 46       
+A.C.T                      | 81   | 45       
+All Them Witches           | 82   | 45       
 Van Halen                  | 84   | 45       
 Adele                      | 85   | 44       
 Graveyard                  | 87   | 43       
 Elton John                 | 90   | 41       
 Toto                       | 91   | 41       
-Witchcraft                 | 94   | 38       
-Rise Against               | 96   | 37       
-Stevie Wonder              | 97   | 37       
+Stevie Wonder              | 94   | 38       
+Witchcraft                 | 95   | 38       
+Rise Against               | 97   | 37       
 VOLA                       | 99   | 37       
 
 ## Inactive top 100 artists not seen live (14)
