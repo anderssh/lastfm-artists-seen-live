@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 568      
+Dream Theater                  | 1    | 569      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 353      
 AC/DC                          | 5    | 309      
@@ -37,9 +37,9 @@ Eminem                         | 26   | 125
 Ne Obliviscaris                | 27   | 120      
 Pagan's Mind                   | 30   | 118      
 Slipknot                       | 31   | 116      
-blink-182                      | 32   | 105      
-Green Day                      | 33   | 105      
-Tool                           | 35   | 100      
+Tool                           | 32   | 107      
+Green Day                      | 33   | 106      
+blink-182                      | 34   | 105      
 Kvelertak                      | 36   | 94       
 Backstreet Girls               | 39   | 88       
 Finntroll                      | 40   | 87       
@@ -70,7 +70,7 @@ The Halo Effect            | 20   | 130
 The Night Flight Orchestra | 21   | 128      
 Animals as Leaders         | 28   | 119      
 Lars Vaular                | 29   | 118      
-Amyl and the Sniffers      | 34   | 103      
+Amyl and the Sniffers      | 35   | 103      
 Parius                     | 37   | 94       
 All That Remains           | 43   | 80       
 DumDum Boys                | 44   | 77       
@@ -101,7 +101,7 @@ Adele                      | 85   | 44
 Graveyard                  | 87   | 43       
 Elton John                 | 90   | 41       
 Toto                       | 91   | 41       
-Stevie Wonder              | 94   | 38       
+Stevie Wonder              | 94   | 39       
 Witchcraft                 | 95   | 38       
 Rise Against               | 97   | 37       
 VOLA                       | 99   | 37       
