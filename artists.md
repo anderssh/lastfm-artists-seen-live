@@ -14,13 +14,13 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 569      
+Dream Theater                  | 1    | 571      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 353      
 AC/DC                          | 5    | 309      
 In Flames                      | 7    | 301      
 Skálmöld                       | 8    | 278      
-Circus Maximus                 | 9    | 250      
+Circus Maximus                 | 9    | 255      
 Seven Spires                   | 10   | 246      
 Ghost                          | 11   | 231      
 Foo Fighters                   | 12   | 222      
@@ -53,7 +53,7 @@ The Winery Dogs                | 67   | 55
 Leo                            | 68   | 54       
 Lamb of God                    | 73   | 52       
 Def Leppard                    | 76   | 47       
-Soilwork                       | 80   | 46       
+Soilwork                       | 81   | 46       
 Spiritbox                      | 84   | 45       
 Atavistia                      | 89   | 42       
 HammerFall                     | 97   | 37       
@@ -90,11 +90,11 @@ DJ MøMø                    | 70   | 53
 Flying Colors              | 72   | 52       
 Maraton                    | 74   | 49       
 Toto                       | 75   | 48       
-Apollo Suns                | 77   | 46       
-Ballinciaga                | 78   | 46       
-Fit for an Autopsy         | 79   | 46       
-The Black Keys             | 81   | 46       
-A.C.T                      | 82   | 45       
+A.C.T                      | 77   | 46       
+Apollo Suns                | 78   | 46       
+Ballinciaga                | 79   | 46       
+Fit for an Autopsy         | 80   | 46       
+The Black Keys             | 82   | 46       
 All Them Witches           | 83   | 45       
 Van Halen                  | 85   | 45       
 Adele                      | 86   | 44       
