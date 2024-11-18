@@ -40,10 +40,10 @@ Slipknot                       | 31   | 116
 Green Day                      | 32   | 108      
 Tool                           | 33   | 107      
 blink-182                      | 34   | 105      
-Kvelertak                      | 37   | 94       
+Kvelertak                      | 37   | 95       
 Backstreet Girls               | 39   | 88       
 Finntroll                      | 40   | 87       
-Maktkamp                       | 48   | 73       
+Maktkamp                       | 47   | 74       
 Oslo Ess                       | 49   | 73       
 The Good The Bad and The Zugly | 51   | 72       
 22                             | 52   | 71       
@@ -72,16 +72,16 @@ Lars Vaular                | 29   | 118
 Amyl and the Sniffers      | 35   | 103      
 Parius                     | 38   | 94       
 All That Remains           | 43   | 80       
-DumDum Boys                | 44   | 77       
-Bokassa                    | 45   | 76       
-The Police                 | 46   | 74       
-Love                       | 47   | 73       
+Bokassa                    | 44   | 77       
+DumDum Boys                | 45   | 77       
+The Police                 | 46   | 75       
+Love                       | 48   | 73       
 Thulsa Doom                | 50   | 73       
 Bill Withers               | 53   | 71       
 Porcupine Tree             | 54   | 70       
 The Offspring              | 55   | 68       
 Styx                       | 56   | 67       
-Aktiv Dödshjelp            | 59   | 59       
+Aktiv Dödshjelp            | 58   | 61       
 Frank Zappa                | 61   | 57       
 Sum 41                     | 62   | 57       
 Queens of the Stone Age    | 64   | 56       
@@ -116,7 +116,7 @@ Hall & Oates                 | 36   | 97
 Led Zeppelin                 | 41   | 86       
 Creedence Clearwater Revival | 42   | 84       
 Pink Floyd                   | 57   | 66       
-Daft Punk                    | 58   | 61       
+Daft Punk                    | 59   | 61       
 The Notorious B.I.G.         | 65   | 55       
 The Who                      | 66   | 55       
 The Beatles                  | 69   | 54       
