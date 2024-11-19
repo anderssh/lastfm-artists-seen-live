@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 585      
+Dream Theater                  | 1    | 586      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 353      
 AC/DC                          | 5    | 309      
@@ -28,7 +28,7 @@ The Dogs                       | 14   | 203
 Haken                          | 15   | 197      
 Greta Van Fleet                | 16   | 191      
 Honningbarna                   | 17   | 174      
-Avenged Sevenfold              | 18   | 159      
+Avenged Sevenfold              | 18   | 161      
 Gojira                         | 22   | 127      
 Judas Priest                   | 23   | 127      
 Mastodon                       | 24   | 126      
@@ -45,7 +45,7 @@ Backstreet Girls               | 39   | 88
 Finntroll                      | 40   | 87       
 Maktkamp                       | 47   | 74       
 Oslo Ess                       | 49   | 73       
-The Good The Bad and The Zugly | 51   | 72       
+The Good The Bad and The Zugly | 50   | 73       
 22                             | 52   | 71       
 Snarky Puppy                   | 60   | 58       
 Mall Girl                      | 63   | 56       
@@ -76,12 +76,12 @@ Bokassa                    | 44   | 77
 DumDum Boys                | 45   | 77       
 The Police                 | 46   | 75       
 Love                       | 48   | 73       
-Thulsa Doom                | 50   | 73       
+Thulsa Doom                | 51   | 73       
 Bill Withers               | 53   | 71       
 Porcupine Tree             | 54   | 70       
 The Offspring              | 55   | 68       
 Styx                       | 56   | 67       
-Aktiv Dödshjelp            | 58   | 61       
+Aktiv Dödshjelp            | 58   | 62       
 Frank Zappa                | 61   | 57       
 Sum 41                     | 62   | 57       
 Queens of the Stone Age    | 64   | 56       
@@ -101,7 +101,7 @@ Adele                      | 87   | 44
 Linkin Park                | 88   | 44       
 Elton John                 | 89   | 43       
 Graveyard                  | 90   | 43       
-Stevie Wonder              | 93   | 40       
+Stevie Wonder              | 93   | 41       
 Electric Light Orchestra   | 95   | 39       
 VOLA                       | 98   | 38       
 Witchcraft                 | 99   | 38       
