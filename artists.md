@@ -16,9 +16,9 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 589      
 Spidergawd                     | 2    | 368      
-Metallica                      | 3    | 353      
+Metallica                      | 3    | 354      
 AC/DC                          | 5    | 309      
-In Flames                      | 7    | 301      
+In Flames                      | 7    | 302      
 Skálmöld                       | 8    | 278      
 Circus Maximus                 | 9    | 255      
 Seven Spires                   | 10   | 246      
@@ -37,7 +37,7 @@ Eminem                         | 26   | 125
 Ne Obliviscaris                | 27   | 120      
 Pagan's Mind                   | 30   | 118      
 Slipknot                       | 31   | 118      
-Green Day                      | 32   | 111      
+Green Day                      | 32   | 112      
 Tool                           | 33   | 107      
 blink-182                      | 34   | 105      
 Kvelertak                      | 37   | 95       
@@ -79,7 +79,7 @@ Love                       | 48   | 73
 Thulsa Doom                | 51   | 73       
 Bill Withers               | 53   | 71       
 Porcupine Tree             | 54   | 70       
-The Offspring              | 55   | 68       
+The Offspring              | 55   | 69       
 Styx                       | 56   | 67       
 Aktiv Dödshjelp            | 58   | 62       
 Frank Zappa                | 61   | 57       
@@ -103,8 +103,8 @@ Elton John                 | 89   | 43
 Graveyard                  | 90   | 43       
 Stevie Wonder              | 91   | 43       
 Electric Light Orchestra   | 95   | 39       
-VOLA                       | 99   | 38       
-Witchcraft                 | 100  | 38       
+Rise Against               | 99   | 38       
+VOLA                       | 100  | 38       
 
 ## Inactive top 100 artists not seen live (14)
 
