@@ -34,9 +34,9 @@ Judas Priest                   | 23   | 127
 Mastodon                       | 24   | 126      
 Architects                     | 25   | 125      
 Eminem                         | 26   | 125      
-Ne Obliviscaris                | 27   | 120      
-Pagan's Mind                   | 30   | 118      
-Slipknot                       | 31   | 118      
+Ne Obliviscaris                | 28   | 120      
+Pagan's Mind                   | 31   | 118      
+Slipknot                       | 32   | 118      
 Green Day                      | 33   | 112      
 Tool                           | 34   | 107      
 blink-182                      | 35   | 105      
@@ -68,9 +68,9 @@ Jean-Luc Ponty             | 13   | 217
 The Halo Effect            | 19   | 135      
 Sylosis                    | 20   | 133      
 The Night Flight Orchestra | 21   | 128      
-Animals as Leaders         | 28   | 119      
-Lars Vaular                | 29   | 118      
-Amyl and the Sniffers      | 32   | 114      
+Amyl and the Sniffers      | 27   | 124      
+Animals as Leaders         | 29   | 119      
+Lars Vaular                | 30   | 118      
 Parius                     | 38   | 94       
 All That Remains           | 43   | 80       
 Bokassa                    | 44   | 77       
