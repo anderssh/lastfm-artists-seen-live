@@ -29,11 +29,11 @@ Haken                          | 15   | 197
 Greta Van Fleet                | 16   | 191      
 Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 163      
-Gojira                         | 22   | 127      
-Judas Priest                   | 23   | 127      
-Mastodon                       | 24   | 126      
-Architects                     | 25   | 125      
-Eminem                         | 26   | 125      
+Gojira                         | 23   | 127      
+Judas Priest                   | 24   | 127      
+Mastodon                       | 25   | 126      
+Architects                     | 26   | 125      
+Eminem                         | 27   | 125      
 Ne Obliviscaris                | 28   | 120      
 Pagan's Mind                   | 31   | 118      
 Slipknot                       | 32   | 118      
@@ -67,8 +67,8 @@ Name                       | Rank | PlayCount
 Jean-Luc Ponty             | 13   | 217      
 The Halo Effect            | 19   | 135      
 Sylosis                    | 20   | 133      
-The Night Flight Orchestra | 21   | 128      
-Amyl and the Sniffers      | 27   | 124      
+Amyl and the Sniffers      | 21   | 129      
+The Night Flight Orchestra | 22   | 128      
 Animals as Leaders         | 29   | 119      
 Lars Vaular                | 30   | 118      
 Parius                     | 38   | 94       
