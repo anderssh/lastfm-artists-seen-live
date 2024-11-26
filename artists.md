@@ -52,11 +52,11 @@ Mall Girl                      | 63   | 56
 The Winery Dogs                | 67   | 55       
 Leo                            | 68   | 54       
 Lamb of God                    | 73   | 52       
-Def Leppard                    | 78   | 47       
-Opeth                          | 79   | 47       
+Opeth                          | 78   | 48       
+Def Leppard                    | 79   | 47       
 Soilwork                       | 80   | 47       
-Spiritbox                      | 86   | 45       
-Atavistia                      | 93   | 42       
+Spiritbox                      | 87   | 45       
+Atavistia                      | 94   | 42       
 The Killers                    | 96   | 40       
 Kaizers Orchestra              | 100  | 39       
 
@@ -65,9 +65,9 @@ Kaizers Orchestra              | 100  | 39
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 217      
-The Halo Effect            | 19   | 135      
-Sylosis                    | 20   | 133      
-Amyl and the Sniffers      | 21   | 129      
+The Halo Effect            | 19   | 136      
+Amyl and the Sniffers      | 20   | 133      
+Sylosis                    | 21   | 133      
 The Night Flight Orchestra | 22   | 128      
 Animals as Leaders         | 29   | 119      
 Lars Vaular                | 30   | 118      
@@ -80,7 +80,7 @@ Love                       | 48   | 73
 Thulsa Doom                | 51   | 73       
 Bill Withers               | 53   | 71       
 Porcupine Tree             | 54   | 70       
-The Offspring              | 55   | 69       
+The Offspring              | 55   | 70       
 Styx                       | 56   | 67       
 Aktiv Dödshjelp            | 58   | 62       
 Frank Zappa                | 61   | 57       
@@ -90,20 +90,20 @@ The Rolling Stones         | 70   | 54
 DJ MøMø                    | 71   | 53       
 Flying Colors              | 72   | 52       
 Toto                       | 74   | 50       
-Maraton                    | 75   | 49       
-Fit for an Autopsy         | 77   | 48       
+Fit for an Autopsy         | 75   | 49       
+Maraton                    | 76   | 49       
 The Black Keys             | 81   | 47       
 A.C.T                      | 82   | 46       
 Apollo Suns                | 83   | 46       
 Ballinciaga                | 84   | 46       
 All Them Witches           | 85   | 45       
-Van Halen                  | 87   | 45       
-Adele                      | 88   | 44       
-Linkin Park                | 89   | 44       
+Linkin Park                | 86   | 45       
+Van Halen                  | 88   | 45       
+Adele                      | 89   | 44       
 Elton John                 | 90   | 43       
 Graveyard                  | 91   | 43       
 Stevie Wonder              | 92   | 43       
-VOLA                       | 95   | 41       
+VOLA                       | 93   | 43       
 Electric Light Orchestra   | 97   | 39       
 
 ## Inactive top 100 artists not seen live (14)
@@ -120,7 +120,7 @@ Daft Punk                    | 59   | 61
 The Notorious B.I.G.         | 65   | 55       
 The Who                      | 66   | 55       
 The Beatles                  | 69   | 54       
-Dire Straits                 | 76   | 48       
-Black Sabbath                | 94   | 42       
+Dire Straits                 | 77   | 48       
+Black Sabbath                | 95   | 42       
 Jimi Hendrix                 | 98   | 39       
 Jokke & Valentinerne         | 99   | 39       
