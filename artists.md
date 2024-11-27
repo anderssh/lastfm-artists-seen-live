@@ -14,11 +14,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 592      
+Dream Theater                  | 1    | 596      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 354      
 AC/DC                          | 5    | 309      
-In Flames                      | 7    | 302      
+In Flames                      | 7    | 304      
 Skálmöld                       | 8    | 278      
 Circus Maximus                 | 9    | 255      
 Seven Spires                   | 10   | 246      
@@ -34,7 +34,7 @@ Judas Priest                   | 24   | 127
 Mastodon                       | 25   | 126      
 Architects                     | 26   | 125      
 Eminem                         | 27   | 125      
-Ne Obliviscaris                | 28   | 120      
+Ne Obliviscaris                | 29   | 120      
 Pagan's Mind                   | 31   | 118      
 Slipknot                       | 32   | 118      
 Green Day                      | 33   | 112      
@@ -49,12 +49,12 @@ The Good The Bad and The Zugly | 50   | 73
 22                             | 52   | 71       
 Snarky Puppy                   | 60   | 58       
 Mall Girl                      | 63   | 56       
-The Winery Dogs                | 67   | 55       
-Leo                            | 68   | 54       
-Lamb of God                    | 73   | 52       
-Opeth                          | 78   | 48       
-Def Leppard                    | 79   | 47       
-Soilwork                       | 80   | 47       
+Opeth                          | 65   | 55       
+The Winery Dogs                | 68   | 55       
+Leo                            | 69   | 54       
+Lamb of God                    | 74   | 52       
+Def Leppard                    | 80   | 47       
+Soilwork                       | 81   | 47       
 Spiritbox                      | 87   | 45       
 Atavistia                      | 94   | 42       
 The Killers                    | 96   | 40       
@@ -65,16 +65,16 @@ Kaizers Orchestra              | 100  | 39
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 217      
-The Halo Effect            | 19   | 136      
-Amyl and the Sniffers      | 20   | 133      
+Amyl and the Sniffers      | 19   | 157      
+The Halo Effect            | 20   | 136      
 Sylosis                    | 21   | 133      
 The Night Flight Orchestra | 22   | 128      
-Animals as Leaders         | 29   | 119      
+Animals as Leaders         | 28   | 120      
 Lars Vaular                | 30   | 118      
 Parius                     | 38   | 94       
 All That Remains           | 43   | 80       
-Bokassa                    | 44   | 77       
-DumDum Boys                | 45   | 77       
+DumDum Boys                | 44   | 78       
+Bokassa                    | 45   | 77       
 The Police                 | 46   | 75       
 Love                       | 48   | 73       
 Thulsa Doom                | 51   | 73       
@@ -86,14 +86,14 @@ Aktiv Dödshjelp            | 58   | 62
 Frank Zappa                | 61   | 57       
 Sum 41                     | 62   | 57       
 Queens of the Stone Age    | 64   | 56       
-The Rolling Stones         | 70   | 54       
-DJ MøMø                    | 71   | 53       
-Flying Colors              | 72   | 52       
-Toto                       | 74   | 50       
-Fit for an Autopsy         | 75   | 49       
-Maraton                    | 76   | 49       
-The Black Keys             | 81   | 47       
-A.C.T                      | 82   | 46       
+The Rolling Stones         | 71   | 54       
+DJ MøMø                    | 72   | 53       
+Flying Colors              | 73   | 52       
+Toto                       | 75   | 50       
+Fit for an Autopsy         | 76   | 49       
+Maraton                    | 77   | 49       
+A.C.T                      | 79   | 47       
+The Black Keys             | 82   | 47       
 Apollo Suns                | 83   | 46       
 Ballinciaga                | 84   | 46       
 All Them Witches           | 85   | 45       
@@ -117,10 +117,10 @@ Led Zeppelin                 | 41   | 86
 Creedence Clearwater Revival | 42   | 84       
 Pink Floyd                   | 57   | 66       
 Daft Punk                    | 59   | 61       
-The Notorious B.I.G.         | 65   | 55       
-The Who                      | 66   | 55       
-The Beatles                  | 69   | 54       
-Dire Straits                 | 77   | 48       
+The Notorious B.I.G.         | 66   | 55       
+The Who                      | 67   | 55       
+The Beatles                  | 70   | 54       
+Dire Straits                 | 78   | 48       
 Black Sabbath                | 95   | 42       
 Jimi Hendrix                 | 98   | 39       
 Jokke & Valentinerne         | 99   | 39       
