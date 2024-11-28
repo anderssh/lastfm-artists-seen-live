@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 596      
+Dream Theater                  | 1    | 601      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 354      
 AC/DC                          | 5    | 309      
@@ -40,9 +40,9 @@ Slipknot                       | 32   | 118
 Green Day                      | 33   | 112      
 Tool                           | 34   | 107      
 blink-182                      | 35   | 105      
-Kvelertak                      | 37   | 95       
-Backstreet Girls               | 39   | 88       
-Finntroll                      | 40   | 87       
+Finntroll                      | 36   | 102      
+Kvelertak                      | 38   | 95       
+Backstreet Girls               | 40   | 88       
 Maktkamp                       | 47   | 74       
 Oslo Ess                       | 49   | 73       
 The Good The Bad and The Zugly | 50   | 73       
@@ -57,25 +57,25 @@ Def Leppard                    | 80   | 47
 Soilwork                       | 81   | 47       
 Spiritbox                      | 87   | 45       
 Atavistia                      | 94   | 42       
-The Killers                    | 96   | 40       
+The Killers                    | 96   | 41       
 Kaizers Orchestra              | 100  | 39       
 
 ## Active top 100 artists not seen live (41)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Jean-Luc Ponty             | 13   | 217      
+Jean-Luc Ponty             | 13   | 218      
 Amyl and the Sniffers      | 19   | 157      
 The Halo Effect            | 20   | 136      
 Sylosis                    | 21   | 133      
 The Night Flight Orchestra | 22   | 128      
 Animals as Leaders         | 28   | 120      
 Lars Vaular                | 30   | 118      
-Parius                     | 38   | 94       
+Parius                     | 39   | 94       
 All That Remains           | 43   | 80       
-DumDum Boys                | 44   | 78       
+DumDum Boys                | 44   | 80       
 Bokassa                    | 45   | 77       
-The Police                 | 46   | 75       
+The Police                 | 46   | 77       
 Love                       | 48   | 73       
 Thulsa Doom                | 51   | 73       
 Bill Withers               | 53   | 71       
@@ -100,9 +100,9 @@ All Them Witches           | 85   | 45
 Linkin Park                | 86   | 45       
 Van Halen                  | 88   | 45       
 Adele                      | 89   | 44       
-Elton John                 | 90   | 43       
-Graveyard                  | 91   | 43       
-Stevie Wonder              | 92   | 43       
+Elton John                 | 90   | 44       
+Stevie Wonder              | 91   | 44       
+Graveyard                  | 92   | 43       
 VOLA                       | 93   | 43       
 Electric Light Orchestra   | 97   | 39       
 
@@ -112,7 +112,7 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 4    | 314      
 Rush                         | 6    | 309      
-Hall & Oates                 | 36   | 97       
+Hall & Oates                 | 37   | 98       
 Led Zeppelin                 | 41   | 86       
 Creedence Clearwater Revival | 42   | 84       
 Pink Floyd                   | 57   | 66       
