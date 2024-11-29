@@ -4,17 +4,17 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of artists seen live in total: 102
 
-- Number of fetched top artists: 100 (Active: 85 Inactive: 15)
+- Number of fetched top artists: 100 (Active: 86 Inactive: 14)
 
-- Number of top artists seen live: 45 (Active: 44 Inactive: 1)
+- Number of top artists seen live: 44 (Active: 44 Inactive: 0)
 
-- Number of top artists not seen live: 55 (Active: 41 Inactive: 14)
+- Number of top artists not seen live: 56 (Active: 42 Inactive: 14)
 
-## Top 100 artists seen live (45)
+## Top 100 artists seen live (44)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 601      
+Dream Theater                  | 1    | 602      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 354      
 AC/DC                          | 5    | 309      
@@ -53,14 +53,13 @@ Opeth                          | 65   | 55
 The Winery Dogs                | 68   | 55       
 Leo                            | 69   | 54       
 Lamb of God                    | 74   | 52       
-Def Leppard                    | 80   | 47       
-Soilwork                       | 81   | 47       
-Spiritbox                      | 87   | 45       
-Atavistia                      | 94   | 42       
-The Killers                    | 96   | 41       
-Kaizers Orchestra              | 100  | 39       
+Def Leppard                    | 81   | 47       
+Soilwork                       | 82   | 47       
+Spiritbox                      | 88   | 45       
+Atavistia                      | 95   | 42       
+The Killers                    | 97   | 41       
 
-## Active top 100 artists not seen live (41)
+## Active top 100 artists not seen live (42)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
@@ -89,22 +88,23 @@ Queens of the Stone Age    | 64   | 56
 The Rolling Stones         | 71   | 54       
 DJ MøMø                    | 72   | 53       
 Flying Colors              | 73   | 52       
-Toto                       | 75   | 50       
-Fit for an Autopsy         | 76   | 49       
-Maraton                    | 77   | 49       
-A.C.T                      | 79   | 47       
-The Black Keys             | 82   | 47       
-Apollo Suns                | 83   | 46       
-Ballinciaga                | 84   | 46       
-All Them Witches           | 85   | 45       
-Linkin Park                | 86   | 45       
-Van Halen                  | 88   | 45       
-Adele                      | 89   | 44       
-Elton John                 | 90   | 44       
-Stevie Wonder              | 91   | 44       
-Graveyard                  | 92   | 43       
-VOLA                       | 93   | 43       
-Electric Light Orchestra   | 97   | 39       
+Rival Sons                 | 75   | 50       
+Toto                       | 76   | 50       
+Fit for an Autopsy         | 77   | 49       
+Maraton                    | 78   | 49       
+A.C.T                      | 80   | 47       
+The Black Keys             | 83   | 47       
+Apollo Suns                | 84   | 46       
+Ballinciaga                | 85   | 46       
+All Them Witches           | 86   | 45       
+Linkin Park                | 87   | 45       
+Van Halen                  | 89   | 45       
+Adele                      | 90   | 44       
+Elton John                 | 91   | 44       
+Stevie Wonder              | 92   | 44       
+Graveyard                  | 93   | 43       
+VOLA                       | 94   | 43       
+Electric Light Orchestra   | 98   | 39       
 
 ## Inactive top 100 artists not seen live (14)
 
@@ -120,7 +120,7 @@ Daft Punk                    | 59   | 61
 The Notorious B.I.G.         | 66   | 55       
 The Who                      | 67   | 55       
 The Beatles                  | 70   | 54       
-Dire Straits                 | 78   | 48       
-Black Sabbath                | 95   | 42       
-Jimi Hendrix                 | 98   | 39       
-Jokke & Valentinerne         | 99   | 39       
+Dire Straits                 | 79   | 48       
+Black Sabbath                | 96   | 42       
+Jimi Hendrix                 | 99   | 39       
+Jokke & Valentinerne         | 100  | 39       
