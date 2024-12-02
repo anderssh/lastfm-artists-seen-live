@@ -19,7 +19,7 @@ Spidergawd                     | 2    | 368
 Metallica                      | 3    | 354      
 AC/DC                          | 5    | 309      
 In Flames                      | 7    | 305      
-Skálmöld                       | 8    | 278      
+Skálmöld                       | 8    | 281      
 Circus Maximus                 | 9    | 257      
 Seven Spires                   | 10   | 246      
 Ghost                          | 11   | 231      
@@ -40,7 +40,7 @@ Slipknot                       | 32   | 118
 Green Day                      | 33   | 112      
 Tool                           | 34   | 107      
 blink-182                      | 35   | 105      
-Finntroll                      | 36   | 102      
+Finntroll                      | 36   | 105      
 Kvelertak                      | 38   | 96       
 Backstreet Girls               | 40   | 88       
 Maktkamp                       | 45   | 78       
@@ -48,8 +48,8 @@ Oslo Ess                       | 49   | 73
 The Good The Bad and The Zugly | 50   | 73       
 22                             | 52   | 71       
 Snarky Puppy                   | 60   | 58       
-Mall Girl                      | 63   | 56       
-Opeth                          | 64   | 56       
+Opeth                          | 62   | 57       
+Mall Girl                      | 64   | 56       
 The Winery Dogs                | 68   | 55       
 Leo                            | 69   | 54       
 Lamb of God                    | 74   | 52       
@@ -83,7 +83,7 @@ The Offspring              | 55   | 70
 Styx                       | 56   | 67       
 Aktiv Dödshjelp            | 58   | 63       
 Frank Zappa                | 61   | 57       
-Sum 41                     | 62   | 57       
+Sum 41                     | 63   | 57       
 Queens of the Stone Age    | 65   | 56       
 The Rolling Stones         | 71   | 54       
 DJ MøMø                    | 72   | 53       
