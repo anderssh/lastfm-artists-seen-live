@@ -39,8 +39,8 @@ Pagan's Mind                   | 31   | 118
 Slipknot                       | 32   | 118      
 Green Day                      | 33   | 112      
 Tool                           | 34   | 107      
-blink-182                      | 35   | 105      
-Finntroll                      | 36   | 105      
+Finntroll                      | 35   | 106      
+blink-182                      | 36   | 105      
 Kvelertak                      | 38   | 96       
 Backstreet Girls               | 40   | 88       
 Maktkamp                       | 45   | 78       
@@ -71,8 +71,8 @@ The Night Flight Orchestra | 23   | 128
 Animals as Leaders         | 28   | 120      
 Lars Vaular                | 30   | 118      
 Parius                     | 39   | 94       
-All That Remains           | 43   | 80       
-DumDum Boys                | 44   | 80       
+DumDum Boys                | 43   | 81       
+All That Remains           | 44   | 80       
 Bokassa                    | 46   | 77       
 The Police                 | 47   | 77       
 Love                       | 48   | 73       
