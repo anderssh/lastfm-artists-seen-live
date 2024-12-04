@@ -6,15 +6,15 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of fetched top artists: 100 (Active: 87 Inactive: 13)
 
-- Number of top artists seen live: 44 (Active: 44 Inactive: 0)
+- Number of top artists seen live: 45 (Active: 44 Inactive: 1)
 
-- Number of top artists not seen live: 56 (Active: 43 Inactive: 13)
+- Number of top artists not seen live: 55 (Active: 43 Inactive: 12)
 
-## Top 100 artists seen live (44)
+## Top 100 artists seen live (45)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 606      
+Dream Theater                  | 1    | 607      
 Spidergawd                     | 2    | 368      
 Metallica                      | 3    | 354      
 AC/DC                          | 5    | 309      
@@ -28,7 +28,7 @@ The Dogs                       | 14   | 203
 Haken                          | 15   | 198      
 Greta Van Fleet                | 16   | 191      
 Honningbarna                   | 17   | 174      
-Avenged Sevenfold              | 18   | 163      
+Avenged Sevenfold              | 18   | 165      
 Gojira                         | 22   | 128      
 Judas Priest                   | 24   | 127      
 Mastodon                       | 25   | 126      
@@ -37,7 +37,7 @@ Eminem                         | 27   | 125
 Ne Obliviscaris                | 29   | 120      
 Pagan's Mind                   | 31   | 118      
 Slipknot                       | 32   | 118      
-Green Day                      | 33   | 112      
+Green Day                      | 33   | 114      
 Tool                           | 34   | 107      
 Finntroll                      | 35   | 106      
 blink-182                      | 36   | 105      
@@ -53,11 +53,12 @@ Mall Girl                      | 64   | 56
 The Winery Dogs                | 68   | 55       
 Leo                            | 69   | 54       
 Lamb of God                    | 74   | 52       
-Def Leppard                    | 81   | 47       
-Soilwork                       | 82   | 47       
+Def Leppard                    | 82   | 47       
+Soilwork                       | 83   | 47       
 Spiritbox                      | 88   | 45       
 Atavistia                      | 95   | 42       
 The Killers                    | 98   | 41       
+Kaizers Orchestra              | 99   | 40       
 
 ## Active top 100 artists not seen live (43)
 
@@ -93,7 +94,7 @@ Toto                       | 76   | 50
 Fit for an Autopsy         | 77   | 49       
 Maraton                    | 78   | 49       
 A.C.T                      | 79   | 48       
-The Black Keys             | 83   | 47       
+The Black Keys             | 81   | 48       
 Apollo Suns                | 84   | 46       
 Ballinciaga                | 85   | 46       
 All Them Witches           | 86   | 45       
@@ -105,9 +106,9 @@ Elton John                 | 92   | 44
 Stevie Wonder              | 93   | 44       
 Graveyard                  | 94   | 43       
 SikTh                      | 97   | 41       
-Electric Light Orchestra   | 99   | 39       
+Electric Light Orchestra   | 100  | 39       
 
-## Inactive top 100 artists not seen live (13)
+## Inactive top 100 artists not seen live (12)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
@@ -123,4 +124,3 @@ The Who                      | 67   | 55
 The Beatles                  | 70   | 54       
 Dire Straits                 | 80   | 48       
 Black Sabbath                | 96   | 42       
-Jimi Hendrix                 | 100  | 39       
