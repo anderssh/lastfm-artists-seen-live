@@ -19,7 +19,7 @@ Spidergawd                     | 2    | 371
 Metallica                      | 3    | 357      
 AC/DC                          | 6    | 313      
 In Flames                      | 7    | 309      
-Skálmöld                       | 8    | 290      
+Skálmöld                       | 8    | 291      
 Circus Maximus                 | 9    | 258      
 Seven Spires                   | 10   | 253      
 Ghost                          | 11   | 231      
@@ -43,21 +43,21 @@ Tool                           | 34   | 107
 Finntroll                      | 35   | 106      
 blink-182                      | 36   | 105      
 Kvelertak                      | 39   | 96       
-Backstreet Girls               | 40   | 90       
+Backstreet Girls               | 40   | 93       
 Maktkamp                       | 46   | 78       
 Oslo Ess                       | 49   | 73       
 The Good The Bad and The Zugly | 50   | 73       
 22                             | 53   | 71       
-Snarky Puppy                   | 60   | 58       
-Opeth                          | 62   | 57       
-Mall Girl                      | 64   | 56       
-The Winery Dogs                | 68   | 55       
-Leo                            | 69   | 54       
+Snarky Puppy                   | 61   | 58       
+Opeth                          | 63   | 57       
+Mall Girl                      | 65   | 56       
+The Winery Dogs                | 69   | 55       
+Leo                            | 70   | 54       
 Lamb of God                    | 74   | 52       
 Fit for an Autopsy             | 79   | 49       
 Def Leppard                    | 83   | 47       
 Soilwork                       | 84   | 47       
-Spiritbox                      | 88   | 45       
+Spiritbox                      | 89   | 45       
 Atavistia                      | 95   | 42       
 The Killers                    | 99   | 41       
 Kaizers Orchestra              | 100  | 40       
@@ -73,7 +73,7 @@ The Night Flight Orchestra | 23   | 128
 Animals as Leaders         | 29   | 120      
 Lars Vaular                | 30   | 118      
 Parius                     | 38   | 99       
-DumDum Boys                | 43   | 81       
+DumDum Boys                | 43   | 83       
 All That Remains           | 44   | 80       
 The Police                 | 45   | 79       
 Bokassa                    | 47   | 77       
@@ -84,11 +84,11 @@ Bill Withers               | 54   | 71
 Porcupine Tree             | 55   | 71       
 Styx                       | 56   | 67       
 Aktiv Dödshjelp            | 58   | 63       
-Frank Zappa                | 61   | 57       
-Sum 41                     | 63   | 57       
-Queens of the Stone Age    | 65   | 56       
-The Rolling Stones         | 71   | 54       
-DJ MøMø                    | 72   | 53       
+DJ MøMø                    | 60   | 58       
+Frank Zappa                | 62   | 57       
+Sum 41                     | 64   | 57       
+Queens of the Stone Age    | 66   | 56       
+The Rolling Stones         | 72   | 54       
 Flying Colors              | 73   | 52       
 Rival Sons                 | 75   | 51       
 Toto                       | 76   | 51       
@@ -96,10 +96,10 @@ A.C.T                      | 77   | 49
 Maraton                    | 80   | 49       
 The Black Keys             | 81   | 48       
 Ballinciaga                | 82   | 47       
-Apollo Suns                | 85   | 46       
-All Them Witches           | 86   | 45       
-Linkin Park                | 87   | 45       
-Stevie Wonder              | 89   | 45       
+Stevie Wonder              | 85   | 47       
+Apollo Suns                | 86   | 46       
+All Them Witches           | 87   | 45       
+Linkin Park                | 88   | 45       
 Van Halen                  | 90   | 45       
 VOLA                       | 91   | 45       
 Adele                      | 92   | 44       
@@ -118,9 +118,9 @@ Led Zeppelin                 | 41   | 86
 Creedence Clearwater Revival | 42   | 84       
 Pink Floyd                   | 57   | 66       
 Daft Punk                    | 59   | 61       
-The Notorious B.I.G.         | 66   | 55       
-The Who                      | 67   | 55       
-The Beatles                  | 70   | 54       
+The Notorious B.I.G.         | 67   | 55       
+The Who                      | 68   | 55       
+The Beatles                  | 71   | 54       
 Dire Straits                 | 78   | 49       
 Black Sabbath                | 96   | 42       
 Jokke & Valentinerne         | 97   | 41       
