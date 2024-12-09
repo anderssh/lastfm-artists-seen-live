@@ -55,8 +55,8 @@ The Winery Dogs                | 69   | 55
 Leo                            | 70   | 54       
 Lamb of God                    | 74   | 52       
 Fit for an Autopsy             | 79   | 49       
-Def Leppard                    | 83   | 47       
-Soilwork                       | 84   | 47       
+Def Leppard                    | 84   | 47       
+Soilwork                       | 85   | 47       
 Spiritbox                      | 89   | 45       
 Atavistia                      | 95   | 42       
 The Killers                    | 99   | 41       
@@ -94,9 +94,9 @@ Rival Sons                 | 75   | 51
 Toto                       | 76   | 51       
 A.C.T                      | 77   | 49       
 Maraton                    | 80   | 49       
-The Black Keys             | 81   | 48       
-Ballinciaga                | 82   | 47       
-Stevie Wonder              | 85   | 47       
+Stevie Wonder              | 81   | 48       
+The Black Keys             | 82   | 48       
+Ballinciaga                | 83   | 47       
 Apollo Suns                | 86   | 46       
 All Them Witches           | 87   | 45       
 Linkin Park                | 88   | 45       
