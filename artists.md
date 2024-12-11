@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 625      
 Spidergawd                     | 2    | 372      
 Metallica                      | 3    | 357      
-AC/DC                          | 6    | 313      
+AC/DC                          | 6    | 314      
 In Flames                      | 7    | 309      
 Skálmöld                       | 8    | 291      
 Circus Maximus                 | 9    | 258      
@@ -29,7 +29,7 @@ The Dogs                       | 15   | 203
 Greta Van Fleet                | 16   | 193      
 Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 168      
-Amyl and the Sniffers          | 19   | 158      
+Amyl and the Sniffers          | 19   | 159      
 Gojira                         | 22   | 129      
 Judas Priest                   | 24   | 127      
 Eminem                         | 25   | 126      
@@ -43,7 +43,7 @@ Tool                           | 34   | 108
 Finntroll                      | 35   | 106      
 blink-182                      | 36   | 105      
 Kvelertak                      | 39   | 96       
-Backstreet Girls               | 40   | 94       
+Backstreet Girls               | 40   | 95       
 Maktkamp                       | 46   | 78       
 The Good The Bad and The Zugly | 48   | 74       
 Oslo Ess                       | 50   | 73       
@@ -51,15 +51,15 @@ Oslo Ess                       | 50   | 73
 Snarky Puppy                   | 62   | 58       
 Opeth                          | 64   | 57       
 Mall Girl                      | 66   | 56       
-The Winery Dogs                | 70   | 55       
-Leo                            | 71   | 54       
-Lamb of God                    | 75   | 52       
-Fit for an Autopsy             | 80   | 49       
-Def Leppard                    | 85   | 47       
-Soilwork                       | 86   | 47       
-Spiritbox                      | 90   | 45       
-Atavistia                      | 96   | 42       
-The Killers                    | 98   | 42       
+The Winery Dogs                | 71   | 55       
+Leo                            | 72   | 54       
+Lamb of God                    | 76   | 52       
+Fit for an Autopsy             | 82   | 49       
+Def Leppard                    | 86   | 47       
+Soilwork                       | 87   | 47       
+Spiritbox                      | 92   | 45       
+Atavistia                      | 97   | 42       
+The Killers                    | 99   | 42       
 
 ## Active top 100 artists not seen live (41)
 
@@ -88,24 +88,24 @@ DJ MøMø                    | 61   | 58
 Frank Zappa                | 63   | 57       
 Sum 41                     | 65   | 57       
 Queens of the Stone Age    | 67   | 56       
-The Rolling Stones         | 73   | 54       
-Flying Colors              | 74   | 52       
-Rival Sons                 | 76   | 51       
-Toto                       | 77   | 51       
-A.C.T                      | 78   | 49       
-Maraton                    | 81   | 49       
-Stevie Wonder              | 82   | 48       
-The Black Keys             | 83   | 48       
-Ballinciaga                | 84   | 47       
-Apollo Suns                | 87   | 46       
-Linkin Park                | 88   | 46       
-All Them Witches           | 89   | 45       
-Van Halen                  | 91   | 45       
-VOLA                       | 92   | 45       
-Adele                      | 93   | 44       
-Elton John                 | 94   | 44       
-Graveyard                  | 95   | 43       
-SikTh                      | 100  | 41       
+Testament                  | 68   | 56       
+The Rolling Stones         | 74   | 54       
+Flying Colors              | 75   | 52       
+Rival Sons                 | 77   | 51       
+Toto                       | 78   | 51       
+Stevie Wonder              | 80   | 50       
+A.C.T                      | 81   | 49       
+Maraton                    | 83   | 49       
+The Black Keys             | 84   | 48       
+Ballinciaga                | 85   | 47       
+Apollo Suns                | 88   | 46       
+Linkin Park                | 89   | 46       
+All Them Witches           | 90   | 45       
+Elton John                 | 91   | 45       
+Van Halen                  | 93   | 45       
+VOLA                       | 94   | 45       
+Adele                      | 95   | 44       
+Graveyard                  | 96   | 43       
 
 ## Inactive top 100 artists not seen live (13)
 
@@ -118,9 +118,9 @@ Led Zeppelin                 | 41   | 86
 Creedence Clearwater Revival | 42   | 84       
 Pink Floyd                   | 57   | 66       
 Daft Punk                    | 60   | 61       
-The Notorious B.I.G.         | 68   | 55       
-The Who                      | 69   | 55       
-The Beatles                  | 72   | 54       
-Dire Straits                 | 79   | 49       
-Black Sabbath                | 97   | 42       
-Jokke & Valentinerne         | 99   | 41       
+The Notorious B.I.G.         | 69   | 55       
+The Who                      | 70   | 55       
+The Beatles                  | 73   | 54       
+Dire Straits                 | 79   | 50       
+Black Sabbath                | 98   | 42       
+Jokke & Valentinerne         | 100  | 41       
