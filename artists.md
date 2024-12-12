@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 625      
+Dream Theater                  | 1    | 626      
 Spidergawd                     | 2    | 372      
 Metallica                      | 3    | 357      
 AC/DC                          | 6    | 314      
@@ -30,12 +30,12 @@ Greta Van Fleet                | 16   | 193
 Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 168      
 Amyl and the Sniffers          | 19   | 159      
-Gojira                         | 22   | 129      
-Judas Priest                   | 24   | 127      
-Eminem                         | 25   | 126      
-Mastodon                       | 26   | 126      
-Architects                     | 27   | 125      
-Ne Obliviscaris                | 28   | 125      
+Gojira                         | 23   | 129      
+Judas Priest                   | 25   | 127      
+Eminem                         | 26   | 126      
+Mastodon                       | 27   | 126      
+Architects                     | 28   | 125      
+Ne Obliviscaris                | 29   | 125      
 Pagan's Mind                   | 31   | 118      
 Slipknot                       | 32   | 118      
 Green Day                      | 33   | 115      
@@ -57,7 +57,7 @@ Lamb of God                    | 76   | 52
 Fit for an Autopsy             | 82   | 49       
 Def Leppard                    | 86   | 47       
 Soilwork                       | 87   | 47       
-Spiritbox                      | 92   | 45       
+Spiritbox                      | 93   | 45       
 Atavistia                      | 97   | 42       
 The Killers                    | 99   | 42       
 
@@ -68,8 +68,8 @@ Name                       | Rank | PlayCount
 Jean-Luc Ponty             | 13   | 219      
 The Halo Effect            | 20   | 138      
 Sylosis                    | 21   | 133      
-The Night Flight Orchestra | 23   | 128      
-Animals as Leaders         | 29   | 120      
+Animals as Leaders         | 22   | 129      
+The Night Flight Orchestra | 24   | 128      
 Lars Vaular                | 30   | 118      
 Parius                     | 38   | 99       
 DumDum Boys                | 43   | 83       
@@ -96,14 +96,14 @@ Toto                       | 78   | 51
 Stevie Wonder              | 80   | 50       
 A.C.T                      | 81   | 49       
 Maraton                    | 83   | 49       
-The Black Keys             | 84   | 48       
+The Black Keys             | 84   | 49       
 Ballinciaga                | 85   | 47       
-Apollo Suns                | 88   | 46       
-Linkin Park                | 89   | 46       
-All Them Witches           | 90   | 45       
-Elton John                 | 91   | 45       
-Van Halen                  | 93   | 45       
-VOLA                       | 94   | 45       
+VOLA                       | 88   | 47       
+Apollo Suns                | 89   | 46       
+Linkin Park                | 90   | 46       
+All Them Witches           | 91   | 45       
+Elton John                 | 92   | 45       
+Van Halen                  | 94   | 45       
 Adele                      | 95   | 44       
 Graveyard                  | 96   | 43       
 
