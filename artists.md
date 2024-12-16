@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 630      
+Dream Theater                  | 1    | 631      
 Spidergawd                     | 2    | 372      
 Metallica                      | 3    | 357      
 AC/DC                          | 5    | 316      
@@ -30,9 +30,9 @@ Greta Van Fleet                | 16   | 193
 Honningbarna                   | 17   | 174      
 Avenged Sevenfold              | 18   | 168      
 Amyl and the Sniffers          | 19   | 159      
-Gojira                         | 23   | 129      
+Gojira                         | 23   | 130      
 Eminem                         | 24   | 128      
-Judas Priest                   | 26   | 127      
+Judas Priest                   | 25   | 128      
 Mastodon                       | 27   | 126      
 Architects                     | 28   | 125      
 Ne Obliviscaris                | 29   | 125      
@@ -53,7 +53,7 @@ Opeth                          | 64   | 57
 Mall Girl                      | 67   | 56       
 The Winery Dogs                | 72   | 55       
 Leo                            | 73   | 54       
-Lamb of God                    | 76   | 52       
+Lamb of God                    | 75   | 53       
 Fit for an Autopsy             | 83   | 49       
 Def Leppard                    | 88   | 47       
 Soilwork                       | 89   | 47       
@@ -70,7 +70,7 @@ Jean-Luc Ponty             | 13   | 219
 The Halo Effect            | 20   | 140      
 Sylosis                    | 21   | 133      
 Animals as Leaders         | 22   | 130      
-The Night Flight Orchestra | 25   | 128      
+The Night Flight Orchestra | 26   | 128      
 Lars Vaular                | 30   | 118      
 Parius                     | 38   | 99       
 DumDum Boys                | 43   | 84       
@@ -91,7 +91,7 @@ Sum 41                     | 65   | 57
 Testament                  | 66   | 57       
 Queens of the Stone Age    | 68   | 56       
 The Rolling Stones         | 69   | 56       
-Flying Colors              | 75   | 52       
+Flying Colors              | 76   | 52       
 The Black Keys             | 77   | 52       
 A.C.T                      | 78   | 51       
 Rival Sons                 | 80   | 51       
