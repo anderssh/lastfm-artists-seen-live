@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 631      
-Spidergawd                     | 2    | 372      
+Spidergawd                     | 2    | 373      
 Metallica                      | 3    | 357      
 AC/DC                          | 5    | 316      
 In Flames                      | 7    | 312      
@@ -31,8 +31,8 @@ Honningbarna                   | 17   | 174
 Avenged Sevenfold              | 18   | 168      
 Amyl and the Sniffers          | 19   | 159      
 Gojira                         | 23   | 130      
-Eminem                         | 24   | 128      
-Judas Priest                   | 25   | 128      
+Eminem                         | 25   | 128      
+Judas Priest                   | 26   | 128      
 Mastodon                       | 27   | 126      
 Architects                     | 28   | 125      
 Ne Obliviscaris                | 29   | 125      
@@ -45,8 +45,8 @@ blink-182                      | 36   | 105
 Kvelertak                      | 39   | 96       
 Backstreet Girls               | 40   | 95       
 Maktkamp                       | 46   | 78       
-The Good The Bad and The Zugly | 49   | 75       
-Oslo Ess                       | 51   | 73       
+The Good The Bad and The Zugly | 49   | 76       
+Oslo Ess                       | 50   | 75       
 22                             | 55   | 71       
 Snarky Puppy                   | 62   | 58       
 Opeth                          | 64   | 57       
@@ -54,7 +54,7 @@ Mall Girl                      | 67   | 56
 The Winery Dogs                | 72   | 55       
 Leo                            | 73   | 54       
 Lamb of God                    | 75   | 53       
-Fit for an Autopsy             | 83   | 49       
+Fit for an Autopsy             | 83   | 50       
 Def Leppard                    | 88   | 47       
 Soilwork                       | 89   | 47       
 Spiritbox                      | 93   | 45       
@@ -70,20 +70,20 @@ Jean-Luc Ponty             | 13   | 219
 The Halo Effect            | 20   | 140      
 Sylosis                    | 21   | 133      
 Animals as Leaders         | 22   | 130      
-The Night Flight Orchestra | 26   | 128      
+The Night Flight Orchestra | 24   | 129      
 Lars Vaular                | 30   | 118      
 Parius                     | 38   | 99       
 DumDum Boys                | 43   | 84       
 All That Remains           | 44   | 80       
 The Police                 | 45   | 79       
 Bokassa                    | 47   | 77       
-Death by Unga Bunga        | 48   | 75       
-Love                       | 50   | 73       
-Thulsa Doom                | 52   | 73       
+Death by Unga Bunga        | 48   | 76       
+Thulsa Doom                | 51   | 74       
+Love                       | 52   | 73       
 Bill Withers               | 53   | 72       
 The Offspring              | 54   | 72       
 Porcupine Tree             | 56   | 71       
-Aktiv Dödshjelp            | 57   | 67       
+Aktiv Dödshjelp            | 57   | 68       
 Styx                       | 58   | 67       
 DJ MøMø                    | 61   | 58       
 Frank Zappa                | 63   | 57       
@@ -112,7 +112,7 @@ Graveyard                  | 96   | 43
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Rush                         | 4    | 317      
+Rush                         | 4    | 319      
 Fleetwood Mac                | 6    | 316      
 Hall & Oates                 | 37   | 102      
 Led Zeppelin                 | 41   | 86       
