@@ -42,7 +42,7 @@ Green Day                      | 33   | 115
 Tool                           | 34   | 111      
 Finntroll                      | 35   | 108      
 blink-182                      | 36   | 105      
-Kvelertak                      | 39   | 96       
+Kvelertak                      | 39   | 97       
 Backstreet Girls               | 40   | 95       
 Maktkamp                       | 46   | 78       
 The Good The Bad and The Zugly | 49   | 76       
@@ -58,7 +58,7 @@ Fit for an Autopsy             | 83   | 50
 Def Leppard                    | 88   | 47       
 Soilwork                       | 89   | 47       
 Spiritbox                      | 93   | 45       
-The Killers                    | 97   | 43       
+The Killers                    | 96   | 44       
 Vazelina Bilopphøggers         | 98   | 43       
 Atavistia                      | 99   | 42       
 
@@ -73,8 +73,8 @@ Animals as Leaders         | 22   | 130
 The Night Flight Orchestra | 24   | 129      
 Lars Vaular                | 30   | 118      
 Parius                     | 38   | 99       
-DumDum Boys                | 43   | 84       
-All That Remains           | 44   | 80       
+All That Remains           | 41   | 86       
+DumDum Boys                | 44   | 84       
 The Police                 | 45   | 79       
 Bokassa                    | 47   | 77       
 Death by Unga Bunga        | 48   | 76       
@@ -106,7 +106,7 @@ Elton John                 | 91   | 46
 All Them Witches           | 92   | 45       
 Van Halen                  | 94   | 45       
 Adele                      | 95   | 44       
-Graveyard                  | 96   | 43       
+Graveyard                  | 97   | 43       
 
 ## Inactive top 100 artists not seen live (12)
 
@@ -115,8 +115,8 @@ Name                         | Rank | PlayCount
 Rush                         | 4    | 319      
 Fleetwood Mac                | 6    | 316      
 Hall & Oates                 | 37   | 102      
-Led Zeppelin                 | 41   | 86       
-Creedence Clearwater Revival | 42   | 84       
+Led Zeppelin                 | 42   | 86       
+Creedence Clearwater Revival | 43   | 84       
 Pink Floyd                   | 59   | 66       
 Daft Punk                    | 60   | 61       
 The Notorious B.I.G.         | 70   | 55       
