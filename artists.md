@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 631      
+Dream Theater                  | 1    | 634      
 Spidergawd                     | 2    | 373      
 Metallica                      | 3    | 357      
 AC/DC                          | 5    | 316      
@@ -24,7 +24,7 @@ Circus Maximus                 | 9    | 259
 Seven Spires                   | 10   | 253      
 Ghost                          | 11   | 233      
 Foo Fighters                   | 12   | 224      
-Haken                          | 14   | 204      
+Haken                          | 14   | 205      
 The Dogs                       | 15   | 203      
 Greta Van Fleet                | 16   | 193      
 Honningbarna                   | 17   | 174      
@@ -47,7 +47,7 @@ Backstreet Girls               | 40   | 95
 Maktkamp                       | 46   | 78       
 The Good The Bad and The Zugly | 49   | 76       
 Oslo Ess                       | 50   | 75       
-22                             | 55   | 71       
+22                             | 56   | 71       
 Snarky Puppy                   | 62   | 58       
 Opeth                          | 64   | 57       
 Mall Girl                      | 67   | 56       
@@ -66,23 +66,23 @@ Atavistia                      | 99   | 42
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Jean-Luc Ponty             | 13   | 219      
+Jean-Luc Ponty             | 13   | 224      
 The Halo Effect            | 20   | 140      
-Sylosis                    | 21   | 133      
-Animals as Leaders         | 22   | 130      
+Animals as Leaders         | 21   | 134      
+Sylosis                    | 22   | 133      
 The Night Flight Orchestra | 24   | 129      
 Lars Vaular                | 30   | 118      
 Parius                     | 38   | 99       
-All That Remains           | 41   | 86       
+All That Remains           | 41   | 88       
 DumDum Boys                | 44   | 84       
 The Police                 | 45   | 79       
 Bokassa                    | 47   | 77       
 Death by Unga Bunga        | 48   | 76       
 Thulsa Doom                | 51   | 74       
 Love                       | 52   | 73       
-Bill Withers               | 53   | 72       
-The Offspring              | 54   | 72       
-Porcupine Tree             | 56   | 71       
+Porcupine Tree             | 53   | 73       
+Bill Withers               | 54   | 72       
+The Offspring              | 55   | 72       
 Aktiv Dödshjelp            | 57   | 68       
 Styx                       | 58   | 67       
 DJ MøMø                    | 61   | 58       
@@ -112,7 +112,7 @@ Graveyard                  | 97   | 43
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Rush                         | 4    | 319      
+Rush                         | 4    | 320      
 Fleetwood Mac                | 6    | 316      
 Hall & Oates                 | 37   | 102      
 Led Zeppelin                 | 42   | 86       
