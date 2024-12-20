@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 634      
+Dream Theater                  | 1    | 635      
 Spidergawd                     | 2    | 373      
 Metallica                      | 3    | 357      
 AC/DC                          | 5    | 316      
@@ -28,7 +28,7 @@ Haken                          | 14   | 205
 The Dogs                       | 15   | 203      
 Greta Van Fleet                | 16   | 193      
 Honningbarna                   | 17   | 174      
-Avenged Sevenfold              | 18   | 168      
+Avenged Sevenfold              | 18   | 169      
 Amyl and the Sniffers          | 19   | 159      
 Gojira                         | 23   | 130      
 Eminem                         | 25   | 128      
@@ -38,9 +38,9 @@ Architects                     | 28   | 125
 Ne Obliviscaris                | 29   | 125      
 Pagan's Mind                   | 31   | 118      
 Slipknot                       | 32   | 118      
-Green Day                      | 33   | 115      
+Green Day                      | 33   | 116      
 Tool                           | 34   | 111      
-Finntroll                      | 35   | 108      
+Finntroll                      | 35   | 109      
 blink-182                      | 36   | 105      
 Kvelertak                      | 39   | 97       
 Backstreet Girls               | 40   | 95       
