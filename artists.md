@@ -26,9 +26,9 @@ Ghost                          | 11   | 233
 Foo Fighters                   | 12   | 224      
 Haken                          | 14   | 205      
 The Dogs                       | 15   | 203      
-Greta Van Fleet                | 16   | 193      
-Honningbarna                   | 17   | 174      
-Avenged Sevenfold              | 18   | 169      
+Avenged Sevenfold              | 16   | 202      
+Greta Van Fleet                | 17   | 193      
+Honningbarna                   | 18   | 174      
 Amyl and the Sniffers          | 19   | 159      
 Gojira                         | 23   | 130      
 Eminem                         | 25   | 128      
@@ -112,7 +112,7 @@ Graveyard                  | 97   | 43
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Rush                         | 4    | 320      
+Rush                         | 4    | 322      
 Fleetwood Mac                | 6    | 316      
 Hall & Oates                 | 37   | 102      
 Led Zeppelin                 | 42   | 86       
