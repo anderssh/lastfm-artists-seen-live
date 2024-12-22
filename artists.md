@@ -112,7 +112,7 @@ Graveyard                  | 97   | 43
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Rush                         | 4    | 322      
+Rush                         | 4    | 323      
 Fleetwood Mac                | 6    | 316      
 Hall & Oates                 | 37   | 102      
 Led Zeppelin                 | 42   | 86       
