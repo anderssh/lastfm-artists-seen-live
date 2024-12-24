@@ -20,8 +20,8 @@ Metallica                      | 3    | 357
 AC/DC                          | 5    | 316      
 In Flames                      | 7    | 312      
 Skálmöld                       | 8    | 292      
-Circus Maximus                 | 9    | 259      
-Seven Spires                   | 10   | 253      
+Seven Spires                   | 9    | 278      
+Circus Maximus                 | 10   | 259      
 Ghost                          | 11   | 233      
 Foo Fighters                   | 12   | 224      
 Haken                          | 14   | 205      
@@ -91,12 +91,12 @@ Sum 41                     | 65   | 57
 Testament                  | 66   | 57       
 Queens of the Stone Age    | 68   | 56       
 The Rolling Stones         | 69   | 56       
-Flying Colors              | 76   | 52       
-The Black Keys             | 77   | 52       
-A.C.T                      | 78   | 51       
-Rival Sons                 | 80   | 51       
-Stevie Wonder              | 81   | 51       
-Toto                       | 82   | 51       
+Toto                       | 76   | 53       
+Flying Colors              | 77   | 52       
+The Black Keys             | 78   | 52       
+A.C.T                      | 79   | 51       
+Rival Sons                 | 81   | 51       
+Stevie Wonder              | 82   | 51       
 Linkin Park                | 84   | 49       
 Maraton                    | 85   | 49       
 VOLA                       | 86   | 48       
@@ -112,7 +112,7 @@ Graveyard                  | 97   | 43
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Rush                         | 4    | 323      
+Rush                         | 4    | 324      
 Fleetwood Mac                | 6    | 316      
 Hall & Oates                 | 37   | 102      
 Led Zeppelin                 | 42   | 86       
@@ -122,5 +122,5 @@ Daft Punk                    | 60   | 61
 The Notorious B.I.G.         | 70   | 55       
 The Who                      | 71   | 55       
 The Beatles                  | 74   | 54       
-Dire Straits                 | 79   | 51       
+Dire Straits                 | 80   | 51       
 Black Sabbath                | 100  | 42       
