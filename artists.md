@@ -20,7 +20,7 @@ Metallica                      | 3    | 357
 AC/DC                          | 5    | 316      
 In Flames                      | 7    | 312      
 Skálmöld                       | 8    | 292      
-Seven Spires                   | 9    | 278      
+Seven Spires                   | 9    | 279      
 Circus Maximus                 | 10   | 259      
 Ghost                          | 11   | 233      
 Foo Fighters                   | 12   | 224      
@@ -53,12 +53,12 @@ Opeth                          | 64   | 57
 Mall Girl                      | 67   | 56       
 The Winery Dogs                | 72   | 55       
 Leo                            | 73   | 54       
-Lamb of God                    | 75   | 53       
+Lamb of God                    | 76   | 53       
 Fit for an Autopsy             | 83   | 50       
 Def Leppard                    | 88   | 47       
 Soilwork                       | 89   | 47       
 Spiritbox                      | 93   | 45       
-The Killers                    | 96   | 44       
+The Killers                    | 94   | 45       
 Vazelina Bilopphøggers         | 98   | 43       
 Atavistia                      | 99   | 42       
 
@@ -75,9 +75,9 @@ Lars Vaular                | 30   | 118
 Parius                     | 38   | 99       
 All That Remains           | 41   | 88       
 DumDum Boys                | 44   | 84       
-The Police                 | 45   | 79       
+The Police                 | 45   | 80       
 Bokassa                    | 47   | 77       
-Death by Unga Bunga        | 48   | 76       
+Death by Unga Bunga        | 48   | 77       
 Thulsa Doom                | 51   | 74       
 Love                       | 52   | 73       
 Porcupine Tree             | 53   | 73       
@@ -91,9 +91,9 @@ Sum 41                     | 65   | 57
 Testament                  | 66   | 57       
 Queens of the Stone Age    | 68   | 56       
 The Rolling Stones         | 69   | 56       
-Toto                       | 76   | 53       
-Flying Colors              | 77   | 52       
-The Black Keys             | 78   | 52       
+Toto                       | 75   | 54       
+The Black Keys             | 77   | 53       
+Flying Colors              | 78   | 52       
 A.C.T                      | 79   | 51       
 Rival Sons                 | 81   | 51       
 Stevie Wonder              | 82   | 51       
@@ -104,8 +104,8 @@ Ballinciaga                | 87   | 47
 Apollo Suns                | 90   | 46       
 Elton John                 | 91   | 46       
 All Them Witches           | 92   | 45       
-Van Halen                  | 94   | 45       
-Adele                      | 95   | 44       
+Van Halen                  | 95   | 45       
+Adele                      | 96   | 44       
 Graveyard                  | 97   | 43       
 
 ## Inactive top 100 artists not seen live (12)
