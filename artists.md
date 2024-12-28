@@ -45,15 +45,15 @@ blink-182                      | 36   | 105
 Kvelertak                      | 39   | 97       
 Backstreet Girls               | 40   | 95       
 Maktkamp                       | 46   | 78       
-The Good The Bad and The Zugly | 49   | 76       
-Oslo Ess                       | 50   | 75       
-22                             | 56   | 71       
-Snarky Puppy                   | 62   | 58       
-Opeth                          | 64   | 57       
-Mall Girl                      | 67   | 56       
-The Winery Dogs                | 72   | 55       
-Leo                            | 73   | 54       
-Lamb of God                    | 76   | 53       
+The Good The Bad and The Zugly | 50   | 76       
+Oslo Ess                       | 51   | 75       
+22                             | 57   | 71       
+Snarky Puppy                   | 63   | 58       
+Opeth                          | 65   | 57       
+Mall Girl                      | 68   | 56       
+The Winery Dogs                | 73   | 55       
+Leo                            | 74   | 54       
+Lamb of God                    | 77   | 53       
 Fit for an Autopsy             | 83   | 50       
 Def Leppard                    | 88   | 47       
 Soilwork                       | 89   | 47       
@@ -78,24 +78,24 @@ DumDum Boys                | 44   | 84
 The Police                 | 45   | 80       
 Bokassa                    | 47   | 77       
 Death by Unga Bunga        | 48   | 77       
-Thulsa Doom                | 51   | 74       
-Love                       | 52   | 73       
-Porcupine Tree             | 53   | 73       
-Bill Withers               | 54   | 72       
-The Offspring              | 55   | 72       
-Aktiv Dödshjelp            | 57   | 68       
-Styx                       | 58   | 67       
-DJ MøMø                    | 61   | 58       
-Frank Zappa                | 63   | 57       
-Sum 41                     | 65   | 57       
-Testament                  | 66   | 57       
-Queens of the Stone Age    | 68   | 56       
-The Rolling Stones         | 69   | 56       
-Toto                       | 75   | 54       
-The Black Keys             | 77   | 53       
-Flying Colors              | 78   | 52       
-A.C.T                      | 79   | 51       
-Rival Sons                 | 81   | 51       
+Rival Sons                 | 49   | 76       
+Thulsa Doom                | 52   | 74       
+Love                       | 53   | 73       
+Porcupine Tree             | 54   | 73       
+Bill Withers               | 55   | 72       
+The Offspring              | 56   | 72       
+Aktiv Dödshjelp            | 58   | 68       
+Styx                       | 59   | 67       
+DJ MøMø                    | 62   | 58       
+Frank Zappa                | 64   | 57       
+Sum 41                     | 66   | 57       
+Testament                  | 67   | 57       
+Queens of the Stone Age    | 69   | 56       
+The Rolling Stones         | 70   | 56       
+Toto                       | 76   | 54       
+The Black Keys             | 78   | 53       
+Flying Colors              | 79   | 52       
+A.C.T                      | 80   | 51       
 Stevie Wonder              | 82   | 51       
 Linkin Park                | 84   | 49       
 Maraton                    | 85   | 49       
@@ -117,10 +117,10 @@ Fleetwood Mac                | 6    | 316
 Hall & Oates                 | 37   | 102      
 Led Zeppelin                 | 42   | 86       
 Creedence Clearwater Revival | 43   | 84       
-Pink Floyd                   | 59   | 66       
-Daft Punk                    | 60   | 61       
-The Notorious B.I.G.         | 70   | 55       
-The Who                      | 71   | 55       
-The Beatles                  | 74   | 54       
-Dire Straits                 | 80   | 51       
+Pink Floyd                   | 60   | 66       
+Daft Punk                    | 61   | 61       
+The Notorious B.I.G.         | 71   | 55       
+The Who                      | 72   | 55       
+The Beatles                  | 75   | 54       
+Dire Straits                 | 81   | 51       
 Black Sabbath                | 100  | 42       
