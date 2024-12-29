@@ -19,8 +19,8 @@ Spidergawd                     | 2    | 373
 Metallica                      | 3    | 357      
 AC/DC                          | 5    | 316      
 In Flames                      | 7    | 312      
-Skálmöld                       | 8    | 292      
-Seven Spires                   | 9    | 279      
+Seven Spires                   | 8    | 292      
+Skálmöld                       | 9    | 292      
 Circus Maximus                 | 10   | 259      
 Ghost                          | 11   | 233      
 Foo Fighters                   | 12   | 224      
@@ -99,8 +99,8 @@ A.C.T                      | 80   | 51
 Stevie Wonder              | 82   | 51       
 Linkin Park                | 84   | 49       
 Maraton                    | 85   | 49       
-VOLA                       | 86   | 48       
-Ballinciaga                | 87   | 47       
+Ballinciaga                | 86   | 48       
+VOLA                       | 87   | 48       
 Apollo Suns                | 90   | 46       
 Elton John                 | 91   | 46       
 All Them Witches           | 92   | 45       
