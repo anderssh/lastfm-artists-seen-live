@@ -16,9 +16,9 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 635      
 Spidergawd                     | 2    | 373      
-Metallica                      | 3    | 357      
+Metallica                      | 3    | 358      
 AC/DC                          | 4    | 331      
-In Flames                      | 7    | 312      
+In Flames                      | 7    | 313      
 Seven Spires                   | 8    | 292      
 Skálmöld                       | 9    | 292      
 Circus Maximus                 | 10   | 259      
@@ -42,7 +42,7 @@ Green Day                      | 33   | 116
 Tool                           | 34   | 111      
 Finntroll                      | 35   | 109      
 blink-182                      | 36   | 105      
-Kvelertak                      | 39   | 97       
+Kvelertak                      | 39   | 98       
 Backstreet Girls               | 40   | 95       
 Maktkamp                       | 46   | 78       
 The Good The Bad and The Zugly | 50   | 76       
@@ -75,7 +75,7 @@ Lars Vaular                | 30   | 118
 Parius                     | 38   | 99       
 All That Remains           | 41   | 88       
 DumDum Boys                | 44   | 84       
-The Police                 | 45   | 80       
+The Police                 | 45   | 81       
 Bokassa                    | 47   | 77       
 Death by Unga Bunga        | 48   | 77       
 Rival Sons                 | 49   | 76       
