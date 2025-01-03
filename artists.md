@@ -14,20 +14,20 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 635      
+Dream Theater                  | 1    | 636      
 Spidergawd                     | 2    | 373      
 Metallica                      | 3    | 358      
-AC/DC                          | 4    | 331      
+AC/DC                          | 4    | 334      
 In Flames                      | 7    | 313      
-Seven Spires                   | 8    | 292      
-Skálmöld                       | 9    | 292      
+Seven Spires                   | 8    | 299      
+Skálmöld                       | 9    | 295      
 Circus Maximus                 | 10   | 259      
 Ghost                          | 11   | 233      
 Foo Fighters                   | 12   | 224      
 Haken                          | 14   | 205      
 The Dogs                       | 15   | 203      
 Avenged Sevenfold              | 16   | 202      
-Greta Van Fleet                | 17   | 193      
+Greta Van Fleet                | 17   | 194      
 Honningbarna                   | 18   | 174      
 Amyl and the Sniffers          | 19   | 159      
 Gojira                         | 23   | 130      
@@ -36,9 +36,9 @@ Judas Priest                   | 26   | 128
 Mastodon                       | 27   | 126      
 Architects                     | 28   | 125      
 Ne Obliviscaris                | 29   | 125      
-Pagan's Mind                   | 31   | 118      
-Slipknot                       | 32   | 118      
-Green Day                      | 33   | 116      
+Green Day                      | 30   | 121      
+Pagan's Mind                   | 32   | 118      
+Slipknot                       | 33   | 118      
 Tool                           | 34   | 111      
 Finntroll                      | 35   | 109      
 blink-182                      | 36   | 105      
@@ -55,12 +55,12 @@ The Winery Dogs                | 73   | 55
 Leo                            | 74   | 54       
 Lamb of God                    | 77   | 53       
 Fit for an Autopsy             | 84   | 50       
-Def Leppard                    | 88   | 47       
-Soilwork                       | 89   | 47       
+Def Leppard                    | 89   | 47       
+Soilwork                       | 90   | 47       
 Spiritbox                      | 93   | 45       
 The Killers                    | 94   | 45       
-Vazelina Bilopphøggers         | 98   | 43       
-Atavistia                      | 99   | 42       
+Atavistia                      | 97   | 44       
+Vazelina Bilopphøggers         | 99   | 43       
 
 ## Active top 100 artists not seen live (41)
 
@@ -71,7 +71,7 @@ The Halo Effect            | 20   | 140
 Animals as Leaders         | 21   | 134      
 Sylosis                    | 22   | 133      
 The Night Flight Orchestra | 24   | 129      
-Lars Vaular                | 30   | 118      
+Lars Vaular                | 31   | 118      
 Parius                     | 38   | 99       
 All That Remains           | 41   | 88       
 DumDum Boys                | 44   | 84       
@@ -86,7 +86,7 @@ Bill Withers               | 55   | 72
 The Offspring              | 56   | 72       
 Aktiv Dödshjelp            | 58   | 68       
 Styx                       | 59   | 67       
-DJ MøMø                    | 61   | 62       
+DJ MøMø                    | 61   | 65       
 Frank Zappa                | 64   | 57       
 Sum 41                     | 66   | 57       
 Testament                  | 67   | 57       
@@ -94,19 +94,19 @@ Queens of the Stone Age    | 69   | 56
 The Rolling Stones         | 70   | 56       
 Toto                       | 76   | 54       
 The Black Keys             | 78   | 53       
-Flying Colors              | 79   | 52       
-A.C.T                      | 80   | 51       
-Stevie Wonder              | 82   | 51       
-Ballinciaga                | 83   | 50       
+Flying Colors              | 80   | 52       
+A.C.T                      | 81   | 51       
+Ballinciaga                | 82   | 51       
+Stevie Wonder              | 83   | 51       
 Linkin Park                | 85   | 49       
 Maraton                    | 86   | 49       
-VOLA                       | 87   | 48       
-Apollo Suns                | 90   | 46       
-Elton John                 | 91   | 46       
+Elton John                 | 87   | 48       
+VOLA                       | 88   | 48       
+Apollo Suns                | 91   | 46       
 All Them Witches           | 92   | 45       
 Van Halen                  | 95   | 45       
 Adele                      | 96   | 44       
-Graveyard                  | 97   | 43       
+Graveyard                  | 98   | 43       
 
 ## Inactive top 100 artists not seen live (12)
 
@@ -122,5 +122,5 @@ Daft Punk                    | 62   | 61
 The Notorious B.I.G.         | 71   | 55       
 The Who                      | 72   | 55       
 The Beatles                  | 75   | 54       
-Dire Straits                 | 81   | 51       
+Dire Straits                 | 79   | 52       
 Black Sabbath                | 100  | 42       
