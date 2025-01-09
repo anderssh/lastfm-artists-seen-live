@@ -30,17 +30,17 @@ The Dogs                       | 16   | 203
 Greta Van Fleet                | 17   | 194      
 Honningbarna                   | 18   | 174      
 Amyl and the Sniffers          | 19   | 159      
-Gojira                         | 23   | 130      
-Eminem                         | 25   | 128      
-Judas Priest                   | 26   | 128      
-Mastodon                       | 27   | 126      
-Architects                     | 28   | 125      
-Ne Obliviscaris                | 29   | 125      
-Green Day                      | 30   | 123      
-Pagan's Mind                   | 32   | 118      
-Slipknot                       | 33   | 118      
-Tool                           | 34   | 111      
-Finntroll                      | 35   | 109      
+Finntroll                      | 22   | 134      
+Gojira                         | 24   | 130      
+Eminem                         | 26   | 128      
+Judas Priest                   | 27   | 128      
+Mastodon                       | 28   | 126      
+Architects                     | 29   | 125      
+Ne Obliviscaris                | 30   | 125      
+Green Day                      | 31   | 123      
+Pagan's Mind                   | 33   | 118      
+Slipknot                       | 34   | 118      
+Tool                           | 35   | 111      
 blink-182                      | 36   | 105      
 Kvelertak                      | 39   | 98       
 Backstreet Girls               | 40   | 95       
@@ -69,9 +69,9 @@ Name                       | Rank | PlayCount
 Jean-Luc Ponty             | 13   | 224      
 The Halo Effect            | 20   | 140      
 Animals as Leaders         | 21   | 134      
-Sylosis                    | 22   | 133      
-The Night Flight Orchestra | 24   | 129      
-Lars Vaular                | 31   | 118      
+Sylosis                    | 23   | 133      
+The Night Flight Orchestra | 25   | 129      
+Lars Vaular                | 32   | 118      
 Parius                     | 38   | 99       
 All That Remains           | 41   | 88       
 DumDum Boys                | 44   | 84       
