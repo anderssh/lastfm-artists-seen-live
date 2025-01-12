@@ -49,7 +49,7 @@ The Good The Bad and The Zugly | 49   | 77
 Oslo Ess                       | 51   | 75       
 22                             | 57   | 71       
 Snarky Puppy                   | 65   | 58       
-Opeth                          | 67   | 57       
+Opeth                          | 68   | 57       
 Mall Girl                      | 72   | 56       
 The Winery Dogs                | 76   | 55       
 Leo                            | 77   | 54       
@@ -88,10 +88,10 @@ Styx                       | 60   | 67
 DJ MøMø                    | 61   | 65       
 Ludo                       | 62   | 63       
 A.C.T                      | 63   | 62       
-Frank Zappa                | 66   | 57       
-Sum 41                     | 68   | 57       
-Testament                  | 69   | 57       
-The Rolling Stones         | 70   | 57       
+Frank Zappa                | 67   | 57       
+Sum 41                     | 69   | 57       
+Testament                  | 70   | 57       
+The Rolling Stones         | 71   | 57       
 Queens of the Stone Age    | 73   | 56       
 The Black Keys             | 79   | 54       
 Toto                       | 80   | 54       
@@ -120,7 +120,7 @@ Led Zeppelin                 | 42   | 86
 Creedence Clearwater Revival | 43   | 84       
 Pink Floyd                   | 59   | 67       
 Daft Punk                    | 64   | 61       
-Dire Straits                 | 71   | 56       
+Dire Straits                 | 66   | 57       
 The Notorious B.I.G.         | 74   | 55       
 The Who                      | 75   | 55       
 The Beatles                  | 78   | 54       
