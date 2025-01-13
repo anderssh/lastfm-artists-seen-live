@@ -115,7 +115,7 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Rush                         | 5    | 324      
 Fleetwood Mac                | 6    | 316      
-Hall & Oates                 | 37   | 103      
+Hall & Oates                 | 37   | 104      
 Led Zeppelin                 | 42   | 86       
 Creedence Clearwater Revival | 43   | 84       
 Pink Floyd                   | 59   | 67       
