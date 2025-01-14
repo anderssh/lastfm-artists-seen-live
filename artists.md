@@ -6,15 +6,15 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of fetched top artists: 100 (Active: 89 Inactive: 11)
 
-- Number of top artists seen live: 46 (Active: 46 Inactive: 0)
+- Number of top artists seen live: 47 (Active: 47 Inactive: 0)
 
-- Number of top artists not seen live: 54 (Active: 43 Inactive: 11)
+- Number of top artists not seen live: 53 (Active: 42 Inactive: 11)
 
-## Top 100 artists seen live (46)
+## Top 100 artists seen live (47)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 639      
+Dream Theater                  | 1    | 640      
 Spidergawd                     | 2    | 373      
 Metallica                      | 3    | 359      
 AC/DC                          | 4    | 337      
@@ -42,12 +42,12 @@ Pagan's Mind                   | 33   | 118
 Slipknot                       | 34   | 118      
 Tool                           | 35   | 113      
 blink-182                      | 36   | 105      
-Kvelertak                      | 39   | 98       
+Kvelertak                      | 38   | 99       
 Backstreet Girls               | 40   | 95       
-Maktkamp                       | 46   | 78       
-The Good The Bad and The Zugly | 49   | 77       
+Maktkamp                       | 43   | 85       
+The Good The Bad and The Zugly | 47   | 78       
 Oslo Ess                       | 51   | 75       
-22                             | 57   | 71       
+22                             | 58   | 71       
 Snarky Puppy                   | 65   | 58       
 Opeth                          | 68   | 57       
 Mall Girl                      | 72   | 56       
@@ -60,8 +60,9 @@ Soilwork                       | 91   | 47
 Spiritbox                      | 96   | 45       
 The Killers                    | 97   | 45       
 Atavistia                      | 99   | 44       
+Eluveitie                      | 100  | 44       
 
-## Active top 100 artists not seen live (43)
+## Active top 100 artists not seen live (42)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
@@ -71,19 +72,19 @@ Animals as Leaders         | 21   | 134
 Sylosis                    | 23   | 133      
 The Night Flight Orchestra | 26   | 129      
 Lars Vaular                | 32   | 118      
-Parius                     | 38   | 99       
+Parius                     | 39   | 99       
 All That Remains           | 41   | 88       
-DumDum Boys                | 44   | 84       
-The Police                 | 45   | 82       
-Bokassa                    | 47   | 77       
-Death by Unga Bunga        | 48   | 77       
+DumDum Boys                | 45   | 84       
+The Police                 | 46   | 82       
+Bokassa                    | 48   | 77       
+Death by Unga Bunga        | 49   | 77       
 Rival Sons                 | 50   | 76       
 Thulsa Doom                | 52   | 74       
 Love                       | 53   | 73       
 Porcupine Tree             | 54   | 73       
-Bill Withers               | 55   | 72       
-The Offspring              | 56   | 72       
-Aktiv Dödshjelp            | 58   | 68       
+Aktiv Dödshjelp            | 55   | 72       
+Bill Withers               | 56   | 72       
+The Offspring              | 57   | 72       
 Styx                       | 60   | 67       
 DJ MøMø                    | 61   | 65       
 Ludo                       | 62   | 63       
@@ -107,7 +108,6 @@ Van Halen                  | 93   | 46
 All Them Witches           | 94   | 45       
 Megadeth                   | 95   | 45       
 Adele                      | 98   | 44       
-Graveyard                  | 100  | 43       
 
 ## Inactive top 100 artists not seen live (11)
 
@@ -117,7 +117,7 @@ Rush                         | 5    | 324
 Fleetwood Mac                | 6    | 316      
 Hall & Oates                 | 37   | 104      
 Led Zeppelin                 | 42   | 86       
-Creedence Clearwater Revival | 43   | 84       
+Creedence Clearwater Revival | 44   | 84       
 Pink Floyd                   | 59   | 67       
 Daft Punk                    | 64   | 61       
 Dire Straits                 | 66   | 57       
