@@ -40,15 +40,15 @@ Green Day                      | 30   | 125
 Ne Obliviscaris                | 31   | 125      
 Pagan's Mind                   | 33   | 118      
 Slipknot                       | 34   | 118      
-Tool                           | 35   | 113      
-blink-182                      | 36   | 105      
-Kvelertak                      | 38   | 99       
-Backstreet Girls               | 40   | 95       
-Maktkamp                       | 43   | 85       
-The Good The Bad and The Zugly | 47   | 78       
-Oslo Ess                       | 51   | 75       
-22                             | 58   | 71       
-Eluveitie                      | 59   | 71       
+Eluveitie                      | 35   | 115      
+Tool                           | 36   | 113      
+blink-182                      | 37   | 105      
+Kvelertak                      | 39   | 99       
+Backstreet Girls               | 41   | 95       
+Maktkamp                       | 44   | 85       
+The Good The Bad and The Zugly | 48   | 78       
+Oslo Ess                       | 52   | 75       
+22                             | 59   | 71       
 Snarky Puppy                   | 66   | 58       
 Opeth                          | 69   | 57       
 Mall Girl                      | 73   | 56       
@@ -56,9 +56,9 @@ The Winery Dogs                | 78   | 55
 Leo                            | 79   | 54       
 Lamb of God                    | 82   | 53       
 Fit for an Autopsy             | 86   | 51       
-Def Leppard                    | 91   | 47       
-Soilwork                       | 92   | 47       
-The Killers                    | 93   | 47       
+The Killers                    | 90   | 48       
+Def Leppard                    | 92   | 47       
+Soilwork                       | 93   | 47       
 Spiritbox                      | 98   | 45       
 Atavistia                      | 100  | 44       
 
@@ -72,19 +72,19 @@ Animals as Leaders         | 21   | 134
 Sylosis                    | 23   | 133      
 The Night Flight Orchestra | 26   | 129      
 Lars Vaular                | 32   | 118      
-Parius                     | 39   | 99       
-All That Remains           | 41   | 88       
-DumDum Boys                | 45   | 84       
-The Police                 | 46   | 82       
-Bokassa                    | 48   | 77       
-Death by Unga Bunga        | 49   | 77       
-Rival Sons                 | 50   | 76       
-Thulsa Doom                | 52   | 74       
-Love                       | 53   | 73       
-Porcupine Tree             | 54   | 73       
-Aktiv Dödshjelp            | 55   | 72       
-Bill Withers               | 56   | 72       
-The Offspring              | 57   | 72       
+Parius                     | 40   | 99       
+All That Remains           | 42   | 88       
+DumDum Boys                | 46   | 84       
+The Police                 | 47   | 82       
+Bokassa                    | 49   | 77       
+Death by Unga Bunga        | 50   | 77       
+Rival Sons                 | 51   | 76       
+Thulsa Doom                | 53   | 74       
+Love                       | 54   | 73       
+Porcupine Tree             | 55   | 73       
+Aktiv Dödshjelp            | 56   | 72       
+Bill Withers               | 57   | 72       
+The Offspring              | 58   | 72       
 Styx                       | 61   | 67       
 DJ MøMø                    | 62   | 65       
 Ludo                       | 63   | 63       
@@ -102,7 +102,7 @@ Ballinciaga                | 85   | 51
 Stevie Wonder              | 87   | 51       
 Maraton                    | 88   | 49       
 Elton John                 | 89   | 48       
-VOLA                       | 90   | 48       
+VOLA                       | 91   | 48       
 Apollo Suns                | 94   | 46       
 Van Halen                  | 95   | 46       
 All Them Witches           | 96   | 45       
@@ -115,9 +115,9 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Rush                         | 5    | 324      
 Fleetwood Mac                | 6    | 316      
-Hall & Oates                 | 37   | 104      
-Led Zeppelin                 | 42   | 86       
-Creedence Clearwater Revival | 44   | 84       
+Hall & Oates                 | 38   | 104      
+Led Zeppelin                 | 43   | 86       
+Creedence Clearwater Revival | 45   | 84       
 Pink Floyd                   | 60   | 67       
 Daft Punk                    | 65   | 61       
 Dire Straits                 | 67   | 57       
