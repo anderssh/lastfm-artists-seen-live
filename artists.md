@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 640      
 Spidergawd                     | 2    | 373      
 Metallica                      | 3    | 359      
-AC/DC                          | 4    | 337      
+AC/DC                          | 4    | 338      
 In Flames                      | 7    | 313      
 Seven Spires                   | 8    | 308      
 Skálmöld                       | 9    | 295      
@@ -33,20 +33,20 @@ Amyl and the Sniffers          | 19   | 159
 Finntroll                      | 22   | 134      
 Eminem                         | 24   | 130      
 Gojira                         | 25   | 130      
-Judas Priest                   | 27   | 128      
-Mastodon                       | 28   | 126      
-Architects                     | 29   | 125      
-Green Day                      | 30   | 125      
-Ne Obliviscaris                | 31   | 125      
-Pagan's Mind                   | 33   | 118      
-Slipknot                       | 34   | 118      
-Eluveitie                      | 35   | 115      
+Eluveitie                      | 27   | 128      
+Judas Priest                   | 28   | 128      
+Mastodon                       | 29   | 126      
+Architects                     | 30   | 125      
+Green Day                      | 31   | 125      
+Ne Obliviscaris                | 32   | 125      
+Pagan's Mind                   | 34   | 118      
+Slipknot                       | 35   | 118      
 Tool                           | 36   | 113      
 blink-182                      | 37   | 105      
 Kvelertak                      | 39   | 99       
 Backstreet Girls               | 41   | 95       
-Maktkamp                       | 44   | 85       
-The Good The Bad and The Zugly | 48   | 78       
+Maktkamp                       | 44   | 86       
+The Good The Bad and The Zugly | 49   | 78       
 Oslo Ess                       | 52   | 75       
 22                             | 59   | 71       
 Snarky Puppy                   | 66   | 58       
@@ -67,17 +67,17 @@ Atavistia                      | 100  | 44
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 224      
-The Halo Effect            | 20   | 140      
+The Halo Effect            | 20   | 141      
 Animals as Leaders         | 21   | 134      
 Sylosis                    | 23   | 133      
 The Night Flight Orchestra | 26   | 129      
-Lars Vaular                | 32   | 118      
+Lars Vaular                | 33   | 118      
 Parius                     | 40   | 99       
 All That Remains           | 42   | 88       
 DumDum Boys                | 46   | 84       
 The Police                 | 47   | 82       
-Bokassa                    | 49   | 77       
-Death by Unga Bunga        | 50   | 77       
+Death by Unga Bunga        | 48   | 78       
+Bokassa                    | 50   | 77       
 Rival Sons                 | 51   | 76       
 Thulsa Doom                | 53   | 74       
 Love                       | 54   | 73       
@@ -100,8 +100,8 @@ Flying Colors              | 83   | 52
 Linkin Park                | 84   | 52       
 Ballinciaga                | 85   | 51       
 Stevie Wonder              | 87   | 51       
-Maraton                    | 88   | 49       
-Elton John                 | 89   | 48       
+Elton John                 | 88   | 49       
+Maraton                    | 89   | 49       
 VOLA                       | 91   | 48       
 Apollo Suns                | 94   | 46       
 Van Halen                  | 95   | 46       
