@@ -30,10 +30,10 @@ The Dogs                       | 16   | 203
 Greta Van Fleet                | 17   | 195      
 Honningbarna                   | 18   | 174      
 Amyl and the Sniffers          | 19   | 159      
-Finntroll                      | 22   | 134      
-Eminem                         | 24   | 130      
-Gojira                         | 25   | 130      
-Eluveitie                      | 27   | 128      
+Eluveitie                      | 21   | 136      
+Finntroll                      | 23   | 134      
+Eminem                         | 25   | 130      
+Gojira                         | 26   | 130      
 Judas Priest                   | 28   | 128      
 Mastodon                       | 29   | 126      
 Architects                     | 30   | 125      
@@ -68,9 +68,9 @@ Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 224      
 The Halo Effect            | 20   | 141      
-Animals as Leaders         | 21   | 134      
-Sylosis                    | 23   | 133      
-The Night Flight Orchestra | 26   | 129      
+Animals as Leaders         | 22   | 134      
+Sylosis                    | 24   | 133      
+The Night Flight Orchestra | 27   | 129      
 Lars Vaular                | 33   | 118      
 Parius                     | 40   | 99       
 All That Remains           | 42   | 88       
