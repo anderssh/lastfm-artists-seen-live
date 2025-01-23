@@ -30,7 +30,7 @@ The Dogs                       | 16   | 203
 Greta Van Fleet                | 17   | 195      
 Honningbarna                   | 18   | 174      
 Amyl and the Sniffers          | 19   | 159      
-Eluveitie                      | 22   | 136      
+Eluveitie                      | 20   | 151      
 Finntroll                      | 24   | 134      
 Eminem                         | 26   | 130      
 Gojira                         | 27   | 130      
@@ -67,8 +67,8 @@ Atavistia                      | 100  | 44
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 224      
-The Halo Effect            | 20   | 141      
-The Night Flight Orchestra | 21   | 137      
+The Halo Effect            | 21   | 141      
+The Night Flight Orchestra | 22   | 137      
 Animals as Leaders         | 23   | 134      
 Sylosis                    | 25   | 133      
 Lars Vaular                | 33   | 118      
@@ -85,11 +85,11 @@ Porcupine Tree             | 55   | 73
 Aktiv Dödshjelp            | 56   | 72       
 Bill Withers               | 57   | 72       
 The Offspring              | 58   | 72       
-Styx                       | 61   | 67       
-DJ MøMø                    | 62   | 65       
+DJ MøMø                    | 60   | 68       
+Styx                       | 62   | 67       
 Ludo                       | 63   | 63       
 A.C.T                      | 64   | 62       
-The Rolling Stones         | 66   | 59       
+The Rolling Stones         | 66   | 60       
 Frank Zappa                | 69   | 57       
 Sum 41                     | 71   | 57       
 Testament                  | 72   | 57       
@@ -114,11 +114,11 @@ Adele                      | 99   | 44
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Rush                         | 5    | 324      
-Fleetwood Mac                | 6    | 321      
+Fleetwood Mac                | 6    | 323      
 Hall & Oates                 | 38   | 105      
 Led Zeppelin                 | 43   | 86       
 Creedence Clearwater Revival | 45   | 84       
-Pink Floyd                   | 60   | 67       
+Pink Floyd                   | 61   | 67       
 Daft Punk                    | 65   | 61       
 Dire Straits                 | 68   | 57       
 The Beatles                  | 75   | 56       
