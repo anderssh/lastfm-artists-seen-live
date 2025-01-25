@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 662      
+Dream Theater                  | 1    | 674      
 Spidergawd                     | 2    | 373      
 Metallica                      | 3    | 359      
 AC/DC                          | 4    | 338      
@@ -42,7 +42,7 @@ Ne Obliviscaris                | 32   | 125
 Pagan's Mind                   | 34   | 118      
 Slipknot                       | 35   | 118      
 Tool                           | 36   | 113      
-blink-182                      | 37   | 105      
+blink-182                      | 38   | 105      
 Kvelertak                      | 39   | 99       
 Backstreet Girls               | 41   | 95       
 Maktkamp                       | 44   | 86       
@@ -52,9 +52,9 @@ Oslo Ess                       | 52   | 75
 Snarky Puppy                   | 67   | 58       
 Opeth                          | 70   | 57       
 Mall Girl                      | 73   | 56       
-The Winery Dogs                | 79   | 55       
-Leo                            | 81   | 54       
-Lamb of God                    | 82   | 53       
+The Winery Dogs                | 80   | 55       
+Leo                            | 82   | 54       
+Lamb of God                    | 83   | 53       
 Fit for an Autopsy             | 87   | 51       
 The Killers                    | 90   | 48       
 Def Leppard                    | 92   | 47       
@@ -89,17 +89,17 @@ DJ MøMø                    | 60   | 68
 Styx                       | 62   | 67       
 Ludo                       | 63   | 63       
 A.C.T                      | 64   | 62       
-The Rolling Stones         | 66   | 60       
+The Rolling Stones         | 66   | 61       
 Frank Zappa                | 69   | 57       
 Sum 41                     | 71   | 57       
 Testament                  | 72   | 57       
 Queens of the Stone Age    | 74   | 56       
 The Black Keys             | 76   | 56       
-Toto                       | 80   | 55       
-Flying Colors              | 83   | 52       
-Linkin Park                | 84   | 52       
-Ballinciaga                | 85   | 51       
-Elton John                 | 86   | 51       
+Toto                       | 77   | 56       
+Elton John                 | 81   | 54       
+Flying Colors              | 84   | 52       
+Linkin Park                | 85   | 52       
+Ballinciaga                | 86   | 51       
 Stevie Wonder              | 88   | 51       
 Maraton                    | 89   | 49       
 VOLA                       | 91   | 48       
@@ -113,14 +113,14 @@ Adele                      | 99   | 44
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Rush                         | 5    | 324      
-Fleetwood Mac                | 6    | 323      
-Hall & Oates                 | 38   | 105      
-Led Zeppelin                 | 43   | 86       
+Fleetwood Mac                | 5    | 327      
+Rush                         | 6    | 324      
+Hall & Oates                 | 37   | 106      
+Led Zeppelin                 | 43   | 87       
 Creedence Clearwater Revival | 45   | 84       
 Pink Floyd                   | 61   | 67       
 Daft Punk                    | 65   | 61       
 Dire Straits                 | 68   | 57       
 The Beatles                  | 75   | 56       
-The Notorious B.I.G.         | 77   | 55       
-The Who                      | 78   | 55       
+The Notorious B.I.G.         | 78   | 55       
+The Who                      | 79   | 55       
