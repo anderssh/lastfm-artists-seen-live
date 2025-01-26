@@ -17,9 +17,9 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 674      
 Spidergawd                     | 2    | 373      
 Metallica                      | 3    | 359      
-AC/DC                          | 4    | 338      
+AC/DC                          | 4    | 344      
 In Flames                      | 7    | 313      
-Seven Spires                   | 8    | 308      
+Seven Spires                   | 8    | 310      
 Skálmöld                       | 9    | 295      
 Circus Maximus                 | 10   | 259      
 Ghost                          | 11   | 233      
@@ -85,7 +85,7 @@ Porcupine Tree             | 55   | 73
 Aktiv Dödshjelp            | 56   | 72       
 Bill Withers               | 57   | 72       
 The Offspring              | 58   | 72       
-DJ MøMø                    | 60   | 68       
+DJ MøMø                    | 60   | 70       
 Styx                       | 62   | 67       
 Ludo                       | 63   | 63       
 A.C.T                      | 64   | 62       
