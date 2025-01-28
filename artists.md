@@ -6,11 +6,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of fetched top artists: 100 (Active: 89 Inactive: 11)
 
-- Number of top artists seen live: 47 (Active: 47 Inactive: 0)
+- Number of top artists seen live: 46 (Active: 46 Inactive: 0)
 
-- Number of top artists not seen live: 53 (Active: 42 Inactive: 11)
+- Number of top artists not seen live: 54 (Active: 43 Inactive: 11)
 
-## Top 100 artists seen live (47)
+## Top 100 artists seen live (46)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -49,20 +49,19 @@ Maktkamp                       | 44   | 86
 The Good The Bad and The Zugly | 49   | 78       
 Oslo Ess                       | 52   | 75       
 22                             | 59   | 71       
-Snarky Puppy                   | 67   | 58       
-Opeth                          | 70   | 57       
-Mall Girl                      | 73   | 56       
-The Winery Dogs                | 80   | 55       
-Leo                            | 82   | 54       
-Lamb of God                    | 83   | 53       
-Fit for an Autopsy             | 87   | 51       
-The Killers                    | 90   | 48       
-Def Leppard                    | 92   | 47       
-Soilwork                       | 93   | 47       
-Spiritbox                      | 98   | 45       
-Atavistia                      | 100  | 44       
+Snarky Puppy                   | 68   | 58       
+Opeth                          | 71   | 57       
+Mall Girl                      | 74   | 56       
+The Winery Dogs                | 81   | 55       
+Leo                            | 83   | 54       
+Lamb of God                    | 84   | 53       
+Fit for an Autopsy             | 88   | 51       
+The Killers                    | 91   | 48       
+Def Leppard                    | 93   | 47       
+Soilwork                       | 94   | 47       
+Spiritbox                      | 99   | 45       
 
-## Active top 100 artists not seen live (42)
+## Active top 100 artists not seen live (43)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
@@ -89,25 +88,26 @@ DJ MøMø                    | 60   | 70
 Styx                       | 62   | 67       
 Ludo                       | 63   | 63       
 A.C.T                      | 64   | 62       
-The Rolling Stones         | 66   | 61       
-Frank Zappa                | 69   | 57       
-Sum 41                     | 71   | 57       
-Testament                  | 72   | 57       
-Queens of the Stone Age    | 74   | 56       
-The Black Keys             | 76   | 56       
-Toto                       | 77   | 56       
-Elton John                 | 81   | 54       
-Flying Colors              | 84   | 52       
-Linkin Park                | 85   | 52       
-Ballinciaga                | 86   | 51       
-Stevie Wonder              | 88   | 51       
-Maraton                    | 89   | 49       
-VOLA                       | 91   | 48       
-Apollo Suns                | 94   | 46       
-Van Halen                  | 95   | 46       
-All Them Witches           | 96   | 45       
-Megadeth                   | 97   | 45       
-Adele                      | 99   | 44       
+Nospūn                     | 66   | 61       
+The Rolling Stones         | 67   | 61       
+Frank Zappa                | 70   | 57       
+Sum 41                     | 72   | 57       
+Testament                  | 73   | 57       
+Queens of the Stone Age    | 75   | 56       
+The Black Keys             | 77   | 56       
+Toto                       | 78   | 56       
+Elton John                 | 82   | 54       
+Flying Colors              | 85   | 52       
+Linkin Park                | 86   | 52       
+Ballinciaga                | 87   | 51       
+Stevie Wonder              | 89   | 51       
+Maraton                    | 90   | 49       
+VOLA                       | 92   | 48       
+Apollo Suns                | 95   | 46       
+Van Halen                  | 96   | 46       
+All Them Witches           | 97   | 45       
+Megadeth                   | 98   | 45       
+Adele                      | 100  | 44       
 
 ## Inactive top 100 artists not seen live (11)
 
@@ -120,7 +120,7 @@ Led Zeppelin                 | 43   | 87
 Creedence Clearwater Revival | 45   | 84       
 Pink Floyd                   | 61   | 67       
 Daft Punk                    | 65   | 61       
-Dire Straits                 | 68   | 57       
-The Beatles                  | 75   | 56       
-The Notorious B.I.G.         | 78   | 55       
-The Who                      | 79   | 55       
+Dire Straits                 | 69   | 57       
+The Beatles                  | 76   | 56       
+The Notorious B.I.G.         | 79   | 55       
+The Who                      | 80   | 55       
