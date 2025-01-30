@@ -32,13 +32,13 @@ Honningbarna                   | 18   | 174
 Amyl and the Sniffers          | 19   | 159      
 Eluveitie                      | 20   | 151      
 Finntroll                      | 24   | 134      
-Eminem                         | 26   | 130      
-Gojira                         | 27   | 130      
-Judas Priest                   | 28   | 128      
-Mastodon                       | 29   | 126      
-Architects                     | 30   | 125      
-Green Day                      | 31   | 125      
-Ne Obliviscaris                | 32   | 125      
+Ne Obliviscaris                | 25   | 134      
+Eminem                         | 27   | 130      
+Gojira                         | 28   | 130      
+Judas Priest                   | 29   | 128      
+Mastodon                       | 30   | 126      
+Architects                     | 31   | 125      
+Green Day                      | 32   | 125      
 Pagan's Mind                   | 34   | 118      
 Slipknot                       | 35   | 118      
 Tool                           | 36   | 113      
@@ -48,7 +48,7 @@ Backstreet Girls               | 41   | 95
 Maktkamp                       | 44   | 86       
 The Good The Bad and The Zugly | 49   | 78       
 Oslo Ess                       | 52   | 75       
-22                             | 59   | 71       
+22                             | 60   | 71       
 Snarky Puppy                   | 68   | 58       
 Opeth                          | 71   | 57       
 Mall Girl                      | 74   | 56       
@@ -56,7 +56,7 @@ The Winery Dogs                | 81   | 55
 Leo                            | 83   | 54       
 Lamb of God                    | 84   | 53       
 Fit for an Autopsy             | 88   | 51       
-The Killers                    | 91   | 48       
+The Killers                    | 91   | 49       
 Def Leppard                    | 93   | 47       
 Soilwork                       | 94   | 47       
 Spiritbox                      | 99   | 45       
@@ -69,7 +69,7 @@ Jean-Luc Ponty             | 13   | 224
 The Halo Effect            | 21   | 141      
 The Night Flight Orchestra | 22   | 137      
 Animals as Leaders         | 23   | 134      
-Sylosis                    | 25   | 133      
+Sylosis                    | 26   | 133      
 Lars Vaular                | 33   | 118      
 Parius                     | 40   | 99       
 All That Remains           | 42   | 88       
@@ -80,15 +80,15 @@ Bokassa                    | 50   | 77
 Rival Sons                 | 51   | 77       
 Thulsa Doom                | 53   | 74       
 Love                       | 54   | 73       
-Porcupine Tree             | 55   | 73       
-Aktiv Dödshjelp            | 56   | 72       
-Bill Withers               | 57   | 72       
-The Offspring              | 58   | 72       
-DJ MøMø                    | 60   | 70       
-Styx                       | 62   | 67       
-Ludo                       | 63   | 63       
-A.C.T                      | 64   | 62       
-Nospūn                     | 66   | 61       
+Nospūn                     | 55   | 73       
+Porcupine Tree             | 56   | 73       
+Aktiv Dödshjelp            | 57   | 72       
+Bill Withers               | 58   | 72       
+The Offspring              | 59   | 72       
+DJ MøMø                    | 61   | 70       
+Styx                       | 63   | 67       
+Ludo                       | 64   | 63       
+A.C.T                      | 65   | 62       
 The Rolling Stones         | 67   | 61       
 Frank Zappa                | 70   | 57       
 Sum 41                     | 72   | 57       
@@ -118,8 +118,8 @@ Rush                         | 6    | 324
 Hall & Oates                 | 37   | 106      
 Led Zeppelin                 | 43   | 87       
 Creedence Clearwater Revival | 45   | 84       
-Pink Floyd                   | 61   | 67       
-Daft Punk                    | 65   | 61       
+Pink Floyd                   | 62   | 67       
+Daft Punk                    | 66   | 61       
 Dire Straits                 | 69   | 57       
 The Beatles                  | 76   | 56       
 The Notorious B.I.G.         | 79   | 55       
