@@ -31,8 +31,8 @@ Greta Van Fleet                | 17   | 195
 Honningbarna                   | 18   | 174      
 Amyl and the Sniffers          | 19   | 159      
 Eluveitie                      | 20   | 151      
-Finntroll                      | 24   | 134      
-Ne Obliviscaris                | 25   | 134      
+Ne Obliviscaris                | 23   | 135      
+Finntroll                      | 25   | 134      
 Eminem                         | 27   | 130      
 Gojira                         | 28   | 130      
 Judas Priest                   | 29   | 128      
@@ -55,8 +55,8 @@ Mall Girl                      | 74   | 56
 The Winery Dogs                | 81   | 55       
 Leo                            | 83   | 54       
 Lamb of God                    | 84   | 53       
-Fit for an Autopsy             | 88   | 51       
-The Killers                    | 91   | 49       
+Fit for an Autopsy             | 85   | 52       
+The Killers                    | 92   | 49       
 Def Leppard                    | 93   | 47       
 Soilwork                       | 94   | 47       
 Spiritbox                      | 99   | 45       
@@ -66,9 +66,9 @@ Spiritbox                      | 99   | 45
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 224      
-The Halo Effect            | 21   | 141      
+The Halo Effect            | 21   | 142      
 The Night Flight Orchestra | 22   | 137      
-Animals as Leaders         | 23   | 134      
+Animals as Leaders         | 24   | 134      
 Sylosis                    | 26   | 133      
 Lars Vaular                | 33   | 118      
 Parius                     | 40   | 99       
@@ -97,12 +97,12 @@ Queens of the Stone Age    | 75   | 56
 The Black Keys             | 77   | 56       
 Toto                       | 78   | 56       
 Elton John                 | 82   | 54       
-Flying Colors              | 85   | 52       
-Linkin Park                | 86   | 52       
-Ballinciaga                | 87   | 51       
+Flying Colors              | 86   | 52       
+Linkin Park                | 87   | 52       
+Ballinciaga                | 88   | 51       
 Stevie Wonder              | 89   | 51       
-Maraton                    | 90   | 49       
-VOLA                       | 92   | 48       
+VOLA                       | 90   | 50       
+Maraton                    | 91   | 49       
 Apollo Suns                | 95   | 46       
 Van Halen                  | 96   | 46       
 All Them Witches           | 97   | 45       
