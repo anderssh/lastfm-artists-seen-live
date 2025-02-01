@@ -45,10 +45,10 @@ Tool                           | 36   | 113
 blink-182                      | 38   | 105      
 Kvelertak                      | 39   | 99       
 Backstreet Girls               | 41   | 95       
-Maktkamp                       | 44   | 86       
-The Good The Bad and The Zugly | 49   | 78       
-Oslo Ess                       | 52   | 75       
-22                             | 60   | 71       
+Maktkamp                       | 45   | 86       
+The Good The Bad and The Zugly | 50   | 78       
+Oslo Ess                       | 53   | 75       
+22                             | 61   | 71       
 Snarky Puppy                   | 68   | 58       
 Opeth                          | 71   | 57       
 Mall Girl                      | 74   | 56       
@@ -66,26 +66,26 @@ Spiritbox                      | 99   | 45
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 224      
-The Halo Effect            | 21   | 142      
+The Halo Effect            | 21   | 143      
 The Night Flight Orchestra | 22   | 137      
 Animals as Leaders         | 24   | 134      
 Sylosis                    | 26   | 133      
 Lars Vaular                | 33   | 118      
 Parius                     | 40   | 99       
-All That Remains           | 42   | 88       
-DumDum Boys                | 46   | 84       
-The Police                 | 47   | 82       
-Death by Unga Bunga        | 48   | 78       
-Bokassa                    | 50   | 77       
-Rival Sons                 | 51   | 77       
-Thulsa Doom                | 53   | 74       
-Love                       | 54   | 73       
-Nospūn                     | 55   | 73       
-Porcupine Tree             | 56   | 73       
-Aktiv Dödshjelp            | 57   | 72       
-Bill Withers               | 58   | 72       
-The Offspring              | 59   | 72       
-DJ MøMø                    | 61   | 70       
+Nospūn                     | 42   | 92       
+All That Remains           | 43   | 88       
+DumDum Boys                | 47   | 84       
+The Police                 | 48   | 82       
+Death by Unga Bunga        | 49   | 78       
+Bokassa                    | 51   | 77       
+Rival Sons                 | 52   | 77       
+Thulsa Doom                | 54   | 74       
+DJ MøMø                    | 55   | 73       
+Love                       | 56   | 73       
+Porcupine Tree             | 57   | 73       
+Aktiv Dödshjelp            | 58   | 72       
+Bill Withers               | 59   | 72       
+The Offspring              | 60   | 72       
 Styx                       | 63   | 67       
 Ludo                       | 64   | 63       
 A.C.T                      | 65   | 62       
@@ -116,8 +116,8 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 5    | 327      
 Rush                         | 6    | 324      
 Hall & Oates                 | 37   | 106      
-Led Zeppelin                 | 43   | 87       
-Creedence Clearwater Revival | 45   | 84       
+Led Zeppelin                 | 44   | 87       
+Creedence Clearwater Revival | 46   | 84       
 Pink Floyd                   | 62   | 67       
 Daft Punk                    | 66   | 61       
 Dire Straits                 | 69   | 57       
