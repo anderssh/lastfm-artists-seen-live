@@ -31,14 +31,14 @@ Greta Van Fleet                | 17   | 195
 Honningbarna                   | 18   | 174      
 Amyl and the Sniffers          | 19   | 159      
 Eluveitie                      | 20   | 151      
-Ne Obliviscaris                | 23   | 135      
-Finntroll                      | 25   | 134      
-Eminem                         | 27   | 130      
+Eminem                         | 23   | 135      
+Ne Obliviscaris                | 24   | 135      
+Finntroll                      | 26   | 134      
 Gojira                         | 28   | 130      
 Judas Priest                   | 29   | 128      
-Mastodon                       | 30   | 126      
-Architects                     | 31   | 125      
-Green Day                      | 32   | 125      
+Green Day                      | 30   | 126      
+Mastodon                       | 31   | 126      
+Architects                     | 32   | 125      
 Pagan's Mind                   | 34   | 118      
 Slipknot                       | 35   | 118      
 Tool                           | 36   | 113      
@@ -52,10 +52,10 @@ Oslo Ess                       | 53   | 75
 Snarky Puppy                   | 68   | 58       
 Opeth                          | 71   | 57       
 Mall Girl                      | 74   | 56       
-The Winery Dogs                | 81   | 55       
+The Winery Dogs                | 82   | 55       
 Leo                            | 83   | 54       
 Lamb of God                    | 84   | 53       
-Fit for an Autopsy             | 85   | 52       
+Fit for an Autopsy             | 86   | 52       
 The Killers                    | 92   | 49       
 Def Leppard                    | 93   | 47       
 Soilwork                       | 94   | 47       
@@ -68,8 +68,8 @@ Name                       | Rank | PlayCount
 Jean-Luc Ponty             | 13   | 224      
 The Halo Effect            | 21   | 143      
 The Night Flight Orchestra | 22   | 137      
-Animals as Leaders         | 24   | 134      
-Sylosis                    | 26   | 133      
+Animals as Leaders         | 25   | 134      
+Sylosis                    | 27   | 133      
 Lars Vaular                | 33   | 118      
 Parius                     | 40   | 99       
 Nospūn                     | 42   | 92       
@@ -96,9 +96,9 @@ Testament                  | 73   | 57
 Queens of the Stone Age    | 75   | 56       
 The Black Keys             | 77   | 56       
 Toto                       | 78   | 56       
-Elton John                 | 82   | 54       
-Flying Colors              | 86   | 52       
-Linkin Park                | 87   | 52       
+Elton John                 | 79   | 55       
+Linkin Park                | 85   | 53       
+Flying Colors              | 87   | 52       
 Ballinciaga                | 88   | 51       
 Stevie Wonder              | 89   | 51       
 VOLA                       | 90   | 50       
@@ -119,8 +119,8 @@ Hall & Oates                 | 37   | 106
 Led Zeppelin                 | 44   | 87       
 Creedence Clearwater Revival | 46   | 84       
 Pink Floyd                   | 62   | 67       
-Daft Punk                    | 66   | 61       
+Daft Punk                    | 66   | 62       
 Dire Straits                 | 69   | 57       
 The Beatles                  | 76   | 56       
-The Notorious B.I.G.         | 79   | 55       
-The Who                      | 80   | 55       
+The Notorious B.I.G.         | 80   | 55       
+The Who                      | 81   | 55       
