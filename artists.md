@@ -43,8 +43,8 @@ Pagan's Mind                   | 34   | 118
 Slipknot                       | 35   | 118      
 Tool                           | 36   | 113      
 blink-182                      | 38   | 105      
-Kvelertak                      | 39   | 99       
-Backstreet Girls               | 41   | 95       
+Kvelertak                      | 40   | 99       
+Backstreet Girls               | 42   | 95       
 Maktkamp                       | 45   | 86       
 The Good The Bad and The Zugly | 50   | 78       
 Oslo Ess                       | 53   | 75       
@@ -71,9 +71,9 @@ The Night Flight Orchestra | 22   | 137
 Animals as Leaders         | 25   | 134      
 Sylosis                    | 27   | 133      
 Lars Vaular                | 33   | 118      
-Parius                     | 40   | 99       
-Nospūn                     | 42   | 92       
-All That Remains           | 43   | 88       
+All That Remains           | 39   | 103      
+Parius                     | 41   | 99       
+Nospūn                     | 43   | 92       
 DumDum Boys                | 47   | 84       
 The Police                 | 48   | 82       
 Death by Unga Bunga        | 49   | 78       
