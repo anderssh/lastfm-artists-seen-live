@@ -16,8 +16,8 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 674      
 Spidergawd                     | 2    | 373      
-Metallica                      | 3    | 359      
-AC/DC                          | 4    | 344      
+Metallica                      | 3    | 365      
+AC/DC                          | 4    | 356      
 In Flames                      | 7    | 313      
 Seven Spires                   | 8    | 310      
 Skálmöld                       | 9    | 295      
@@ -39,23 +39,23 @@ Judas Priest                   | 29   | 128
 Green Day                      | 30   | 126      
 Mastodon                       | 31   | 126      
 Architects                     | 32   | 125      
-Pagan's Mind                   | 34   | 118      
-Slipknot                       | 35   | 118      
-Tool                           | 36   | 113      
-blink-182                      | 38   | 105      
+Pagan's Mind                   | 35   | 118      
+Slipknot                       | 36   | 118      
+Tool                           | 37   | 113      
+blink-182                      | 39   | 105      
 Kvelertak                      | 40   | 99       
 Backstreet Girls               | 42   | 95       
 Maktkamp                       | 45   | 86       
 The Good The Bad and The Zugly | 50   | 78       
-Oslo Ess                       | 53   | 75       
+Oslo Ess                       | 54   | 75       
 22                             | 61   | 71       
-Snarky Puppy                   | 68   | 58       
-Opeth                          | 71   | 57       
-Mall Girl                      | 74   | 56       
-The Winery Dogs                | 82   | 55       
-Leo                            | 83   | 54       
-Lamb of God                    | 84   | 53       
-Fit for an Autopsy             | 86   | 52       
+Snarky Puppy                   | 69   | 58       
+Opeth                          | 72   | 57       
+Mall Girl                      | 75   | 56       
+The Winery Dogs                | 83   | 55       
+Leo                            | 84   | 54       
+Lamb of God                    | 85   | 53       
+Fit for an Autopsy             | 87   | 52       
 The Killers                    | 92   | 49       
 Def Leppard                    | 93   | 47       
 Soilwork                       | 94   | 47       
@@ -70,17 +70,17 @@ The Halo Effect            | 21   | 143
 The Night Flight Orchestra | 22   | 137      
 Animals as Leaders         | 25   | 134      
 Sylosis                    | 27   | 133      
-Lars Vaular                | 33   | 118      
-All That Remains           | 39   | 103      
+All That Remains           | 33   | 119      
+Lars Vaular                | 34   | 118      
 Parius                     | 41   | 99       
 Nospūn                     | 43   | 92       
 DumDum Boys                | 47   | 84       
 The Police                 | 48   | 82       
 Death by Unga Bunga        | 49   | 78       
 Bokassa                    | 51   | 77       
-Rival Sons                 | 52   | 77       
-Thulsa Doom                | 54   | 74       
-DJ MøMø                    | 55   | 73       
+DJ MøMø                    | 52   | 77       
+Rival Sons                 | 53   | 77       
+Thulsa Doom                | 55   | 74       
 Love                       | 56   | 73       
 Porcupine Tree             | 57   | 73       
 Aktiv Dödshjelp            | 58   | 72       
@@ -90,16 +90,16 @@ Styx                       | 63   | 67
 Ludo                       | 64   | 63       
 A.C.T                      | 65   | 62       
 The Rolling Stones         | 67   | 61       
-Frank Zappa                | 70   | 57       
-Sum 41                     | 72   | 57       
-Testament                  | 73   | 57       
-Queens of the Stone Age    | 75   | 56       
-The Black Keys             | 77   | 56       
-Toto                       | 78   | 56       
-Elton John                 | 79   | 55       
-Linkin Park                | 85   | 53       
-Flying Colors              | 87   | 52       
-Ballinciaga                | 88   | 51       
+Ballinciaga                | 68   | 58       
+Frank Zappa                | 71   | 57       
+Sum 41                     | 73   | 57       
+Testament                  | 74   | 57       
+Queens of the Stone Age    | 76   | 56       
+The Black Keys             | 78   | 56       
+Toto                       | 79   | 56       
+Elton John                 | 80   | 55       
+Linkin Park                | 86   | 53       
+Flying Colors              | 88   | 52       
 Stevie Wonder              | 89   | 51       
 VOLA                       | 90   | 50       
 Maraton                    | 91   | 49       
@@ -115,12 +115,12 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 327      
 Rush                         | 6    | 324      
-Hall & Oates                 | 37   | 106      
+Hall & Oates                 | 38   | 106      
 Led Zeppelin                 | 44   | 87       
 Creedence Clearwater Revival | 46   | 84       
 Pink Floyd                   | 62   | 67       
 Daft Punk                    | 66   | 62       
-Dire Straits                 | 69   | 57       
-The Beatles                  | 76   | 56       
-The Notorious B.I.G.         | 80   | 55       
-The Who                      | 81   | 55       
+Dire Straits                 | 70   | 57       
+The Beatles                  | 77   | 56       
+The Notorious B.I.G.         | 81   | 55       
+The Who                      | 82   | 55       
