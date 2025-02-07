@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 674      
+Dream Theater                  | 1    | 675      
 Spidergawd                     | 2    | 373      
 Metallica                      | 3    | 365      
 AC/DC                          | 4    | 356      
@@ -30,7 +30,7 @@ The Dogs                       | 16   | 203
 Greta Van Fleet                | 17   | 195      
 Honningbarna                   | 18   | 174      
 Amyl and the Sniffers          | 19   | 159      
-Eluveitie                      | 20   | 151      
+Eluveitie                      | 20   | 152      
 Eminem                         | 23   | 135      
 Ne Obliviscaris                | 24   | 135      
 Finntroll                      | 26   | 134      
@@ -43,17 +43,17 @@ Pagan's Mind                   | 35   | 118
 Slipknot                       | 36   | 118      
 Tool                           | 37   | 113      
 blink-182                      | 39   | 105      
-Kvelertak                      | 40   | 99       
-Backstreet Girls               | 42   | 95       
+Kvelertak                      | 41   | 99       
+Backstreet Girls               | 43   | 95       
 Maktkamp                       | 45   | 86       
 The Good The Bad and The Zugly | 50   | 78       
 Oslo Ess                       | 54   | 75       
 22                             | 61   | 71       
 Snarky Puppy                   | 69   | 58       
 Opeth                          | 72   | 57       
-Mall Girl                      | 75   | 56       
-The Winery Dogs                | 83   | 55       
-Leo                            | 84   | 54       
+Leo                            | 75   | 56       
+Mall Girl                      | 76   | 56       
+The Winery Dogs                | 84   | 55       
 Lamb of God                    | 85   | 53       
 Fit for an Autopsy             | 87   | 52       
 The Killers                    | 92   | 49       
@@ -66,14 +66,14 @@ Spiritbox                      | 99   | 45
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 224      
-The Halo Effect            | 21   | 143      
-The Night Flight Orchestra | 22   | 137      
+The Halo Effect            | 21   | 144      
+The Night Flight Orchestra | 22   | 138      
 Animals as Leaders         | 25   | 134      
 Sylosis                    | 27   | 133      
-All That Remains           | 33   | 119      
+All That Remains           | 33   | 120      
 Lars Vaular                | 34   | 118      
-Parius                     | 41   | 99       
-Nospūn                     | 43   | 92       
+Nospūn                     | 40   | 103      
+Parius                     | 42   | 99       
 DumDum Boys                | 47   | 84       
 The Police                 | 48   | 82       
 Death by Unga Bunga        | 49   | 78       
@@ -94,10 +94,10 @@ Ballinciaga                | 68   | 58
 Frank Zappa                | 71   | 57       
 Sum 41                     | 73   | 57       
 Testament                  | 74   | 57       
-Queens of the Stone Age    | 76   | 56       
-The Black Keys             | 78   | 56       
-Toto                       | 79   | 56       
-Elton John                 | 80   | 55       
+Queens of the Stone Age    | 77   | 56       
+The Black Keys             | 79   | 56       
+Toto                       | 80   | 56       
+Elton John                 | 81   | 55       
 Linkin Park                | 86   | 53       
 Flying Colors              | 88   | 52       
 Stevie Wonder              | 89   | 51       
@@ -121,6 +121,6 @@ Creedence Clearwater Revival | 46   | 84
 Pink Floyd                   | 62   | 67       
 Daft Punk                    | 66   | 62       
 Dire Straits                 | 70   | 57       
-The Beatles                  | 77   | 56       
-The Notorious B.I.G.         | 81   | 55       
-The Who                      | 82   | 55       
+The Beatles                  | 78   | 56       
+The Notorious B.I.G.         | 82   | 55       
+The Who                      | 83   | 55       
