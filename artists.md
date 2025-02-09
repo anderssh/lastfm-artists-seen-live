@@ -36,7 +36,7 @@ Ne Obliviscaris                | 24   | 135
 Finntroll                      | 26   | 134      
 Gojira                         | 28   | 130      
 Judas Priest                   | 29   | 128      
-Green Day                      | 30   | 126      
+Green Day                      | 30   | 127      
 Mastodon                       | 31   | 126      
 Architects                     | 32   | 125      
 Pagan's Mind                   | 35   | 118      
@@ -49,10 +49,10 @@ Maktkamp                       | 45   | 86
 The Good The Bad and The Zugly | 50   | 78       
 Oslo Ess                       | 54   | 75       
 22                             | 61   | 71       
-Snarky Puppy                   | 69   | 58       
-Opeth                          | 72   | 57       
-Leo                            | 76   | 56       
-Mall Girl                      | 77   | 56       
+Snarky Puppy                   | 70   | 58       
+Opeth                          | 73   | 57       
+Leo                            | 78   | 56       
+Mall Girl                      | 79   | 56       
 The Winery Dogs                | 84   | 55       
 Lamb of God                    | 85   | 53       
 Fit for an Autopsy             | 87   | 52       
@@ -65,9 +65,9 @@ Spiritbox                      | 99   | 45
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Jean-Luc Ponty             | 13   | 224      
+Jean-Luc Ponty             | 13   | 226      
 The Halo Effect            | 21   | 144      
-The Night Flight Orchestra | 22   | 138      
+The Night Flight Orchestra | 22   | 139      
 Animals as Leaders         | 25   | 134      
 Sylosis                    | 27   | 133      
 All That Remains           | 33   | 120      
@@ -75,7 +75,7 @@ Lars Vaular                | 34   | 118
 Nospūn                     | 40   | 103      
 Parius                     | 42   | 99       
 DumDum Boys                | 47   | 84       
-The Police                 | 48   | 82       
+The Police                 | 48   | 83       
 Death by Unga Bunga        | 49   | 78       
 Bokassa                    | 51   | 77       
 DJ MøMø                    | 52   | 77       
@@ -91,13 +91,13 @@ Ludo                       | 64   | 63
 A.C.T                      | 65   | 62       
 The Rolling Stones         | 67   | 61       
 Ballinciaga                | 68   | 58       
-Frank Zappa                | 71   | 57       
-Sum 41                     | 73   | 57       
-Testament                  | 74   | 57       
-The Black Keys             | 75   | 57       
-Queens of the Stone Age    | 78   | 56       
-Toto                       | 80   | 56       
-Elton John                 | 81   | 55       
+Elton John                 | 71   | 57       
+Frank Zappa                | 72   | 57       
+Sum 41                     | 74   | 57       
+Testament                  | 75   | 57       
+The Black Keys             | 77   | 57       
+Queens of the Stone Age    | 80   | 56       
+Toto                       | 81   | 56       
 Linkin Park                | 86   | 53       
 Flying Colors              | 88   | 52       
 Stevie Wonder              | 89   | 51       
@@ -113,14 +113,14 @@ Adele                      | 100  | 44
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 327      
+Fleetwood Mac                | 5    | 329      
 Rush                         | 6    | 324      
-Hall & Oates                 | 38   | 106      
+Hall & Oates                 | 38   | 107      
 Led Zeppelin                 | 44   | 87       
 Creedence Clearwater Revival | 46   | 84       
 Pink Floyd                   | 62   | 67       
 Daft Punk                    | 66   | 62       
-Dire Straits                 | 70   | 57       
-The Beatles                  | 79   | 56       
+Dire Straits                 | 69   | 58       
+The Beatles                  | 76   | 57       
 The Notorious B.I.G.         | 82   | 55       
 The Who                      | 83   | 55       
