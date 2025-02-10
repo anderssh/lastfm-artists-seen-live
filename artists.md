@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 696      
+Dream Theater                  | 1    | 707      
 Spidergawd                     | 2    | 373      
 Metallica                      | 3    | 365      
 AC/DC                          | 4    | 356      
@@ -30,7 +30,7 @@ The Dogs                       | 16   | 203
 Greta Van Fleet                | 17   | 195      
 Honningbarna                   | 18   | 174      
 Amyl and the Sniffers          | 19   | 159      
-Eluveitie                      | 20   | 152      
+Eluveitie                      | 20   | 153      
 Eminem                         | 23   | 135      
 Ne Obliviscaris                | 24   | 135      
 Finntroll                      | 26   | 134      
@@ -49,13 +49,13 @@ Maktkamp                       | 45   | 86
 The Good The Bad and The Zugly | 50   | 78       
 Oslo Ess                       | 54   | 75       
 22                             | 61   | 71       
-Snarky Puppy                   | 70   | 58       
-Opeth                          | 73   | 57       
+Opeth                          | 70   | 58       
+Snarky Puppy                   | 71   | 58       
 Leo                            | 78   | 56       
 Mall Girl                      | 79   | 56       
-The Winery Dogs                | 84   | 55       
-Lamb of God                    | 85   | 53       
-Fit for an Autopsy             | 87   | 52       
+The Winery Dogs                | 85   | 55       
+Lamb of God                    | 86   | 53       
+Fit for an Autopsy             | 88   | 52       
 The Killers                    | 92   | 49       
 Def Leppard                    | 93   | 47       
 Soilwork                       | 94   | 47       
@@ -66,7 +66,7 @@ Spiritbox                      | 99   | 45
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 226      
-The Halo Effect            | 21   | 144      
+The Halo Effect            | 21   | 147      
 The Night Flight Orchestra | 22   | 139      
 Animals as Leaders         | 25   | 134      
 Sylosis                    | 27   | 133      
@@ -87,21 +87,21 @@ Aktiv Dödshjelp            | 58   | 72
 Bill Withers               | 59   | 72       
 The Offspring              | 60   | 72       
 Styx                       | 63   | 67       
-Ludo                       | 64   | 63       
-A.C.T                      | 65   | 62       
+A.C.T                      | 64   | 64       
+Ludo                       | 65   | 63       
 The Rolling Stones         | 67   | 61       
 Ballinciaga                | 68   | 58       
-Elton John                 | 71   | 57       
-Frank Zappa                | 72   | 57       
+Elton John                 | 72   | 57       
+Frank Zappa                | 73   | 57       
 Sum 41                     | 74   | 57       
 Testament                  | 75   | 57       
 The Black Keys             | 77   | 57       
 Queens of the Stone Age    | 80   | 56       
 Toto                       | 81   | 56       
-Linkin Park                | 86   | 53       
-Flying Colors              | 88   | 52       
-Stevie Wonder              | 89   | 51       
-VOLA                       | 90   | 50       
+VOLA                       | 82   | 56       
+Linkin Park                | 87   | 53       
+Flying Colors              | 89   | 52       
+Stevie Wonder              | 90   | 51       
 Maraton                    | 91   | 49       
 Apollo Suns                | 95   | 46       
 Van Halen                  | 96   | 46       
@@ -122,5 +122,5 @@ Pink Floyd                   | 62   | 67
 Daft Punk                    | 66   | 62       
 Dire Straits                 | 69   | 58       
 The Beatles                  | 76   | 57       
-The Notorious B.I.G.         | 82   | 55       
-The Who                      | 83   | 55       
+The Notorious B.I.G.         | 83   | 55       
+The Who                      | 84   | 55       
