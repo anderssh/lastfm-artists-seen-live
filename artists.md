@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 707      
+Dream Theater                  | 1    | 721      
 Spidergawd                     | 2    | 373      
 Metallica                      | 3    | 365      
 AC/DC                          | 4    | 356      
@@ -30,7 +30,7 @@ The Dogs                       | 16   | 203
 Greta Van Fleet                | 17   | 195      
 Honningbarna                   | 18   | 174      
 Amyl and the Sniffers          | 19   | 159      
-Eluveitie                      | 20   | 153      
+Eluveitie                      | 20   | 154      
 Eminem                         | 23   | 135      
 Ne Obliviscaris                | 24   | 135      
 Finntroll                      | 26   | 134      
@@ -51,8 +51,8 @@ Oslo Ess                       | 54   | 75
 22                             | 61   | 71       
 Opeth                          | 70   | 58       
 Snarky Puppy                   | 71   | 58       
-Leo                            | 78   | 56       
-Mall Girl                      | 79   | 56       
+Leo                            | 79   | 56       
+Mall Girl                      | 80   | 56       
 The Winery Dogs                | 85   | 55       
 Lamb of God                    | 86   | 53       
 Fit for an Autopsy             | 88   | 52       
@@ -91,14 +91,14 @@ A.C.T                      | 64   | 64
 Ludo                       | 65   | 63       
 The Rolling Stones         | 67   | 61       
 Ballinciaga                | 68   | 58       
-Elton John                 | 72   | 57       
-Frank Zappa                | 73   | 57       
-Sum 41                     | 74   | 57       
-Testament                  | 75   | 57       
-The Black Keys             | 77   | 57       
-Queens of the Stone Age    | 80   | 56       
-Toto                       | 81   | 56       
-VOLA                       | 82   | 56       
+VOLA                       | 72   | 58       
+Elton John                 | 73   | 57       
+Frank Zappa                | 74   | 57       
+Sum 41                     | 75   | 57       
+Testament                  | 76   | 57       
+The Black Keys             | 78   | 57       
+Queens of the Stone Age    | 81   | 56       
+Toto                       | 82   | 56       
 Linkin Park                | 87   | 53       
 Flying Colors              | 89   | 52       
 Stevie Wonder              | 90   | 51       
@@ -121,6 +121,6 @@ Creedence Clearwater Revival | 46   | 84
 Pink Floyd                   | 62   | 67       
 Daft Punk                    | 66   | 62       
 Dire Straits                 | 69   | 58       
-The Beatles                  | 76   | 57       
+The Beatles                  | 77   | 57       
 The Notorious B.I.G.         | 83   | 55       
 The Who                      | 84   | 55       
