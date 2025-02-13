@@ -14,9 +14,9 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 731      
+Dream Theater                  | 1    | 733      
 Spidergawd                     | 2    | 373      
-Metallica                      | 3    | 369      
+Metallica                      | 3    | 370      
 AC/DC                          | 4    | 356      
 In Flames                      | 7    | 313      
 Seven Spires                   | 8    | 310      
@@ -46,8 +46,8 @@ blink-182                      | 39   | 105
 Kvelertak                      | 41   | 99       
 Backstreet Girls               | 43   | 95       
 Maktkamp                       | 45   | 86       
-The Good The Bad and The Zugly | 50   | 78       
-Oslo Ess                       | 54   | 75       
+The Good The Bad and The Zugly | 51   | 78       
+Oslo Ess                       | 55   | 75       
 22                             | 61   | 71       
 Opeth                          | 70   | 58       
 Snarky Puppy                   | 71   | 58       
@@ -76,16 +76,16 @@ Nospūn                     | 40   | 103
 Parius                     | 42   | 99       
 DumDum Boys                | 47   | 84       
 The Police                 | 48   | 83       
-Death by Unga Bunga        | 49   | 78       
-Bokassa                    | 51   | 77       
-DJ MøMø                    | 52   | 77       
-Rival Sons                 | 53   | 77       
-Thulsa Doom                | 55   | 74       
-Love                       | 56   | 73       
-Porcupine Tree             | 57   | 73       
-Aktiv Dödshjelp            | 58   | 72       
-Bill Withers               | 59   | 72       
-The Offspring              | 60   | 72       
+The Offspring              | 49   | 82       
+Death by Unga Bunga        | 50   | 78       
+Bokassa                    | 52   | 77       
+DJ MøMø                    | 53   | 77       
+Rival Sons                 | 54   | 77       
+Thulsa Doom                | 56   | 74       
+Love                       | 57   | 73       
+Porcupine Tree             | 58   | 73       
+Aktiv Dödshjelp            | 59   | 72       
+Bill Withers               | 60   | 72       
 Styx                       | 63   | 67       
 A.C.T                      | 64   | 64       
 Ludo                       | 65   | 63       
