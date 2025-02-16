@@ -14,17 +14,17 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 743      
+Dream Theater                  | 1    | 745      
 Spidergawd                     | 2    | 373      
 Metallica                      | 3    | 370      
 AC/DC                          | 4    | 356      
-In Flames                      | 7    | 313      
-Seven Spires                   | 8    | 310      
+Seven Spires                   | 7    | 317      
+In Flames                      | 8    | 313      
 Skálmöld                       | 9    | 295      
 Circus Maximus                 | 10   | 259      
 Ghost                          | 11   | 233      
 Foo Fighters                   | 12   | 226      
-Haken                          | 14   | 205      
+Haken                          | 14   | 206      
 Avenged Sevenfold              | 15   | 204      
 The Dogs                       | 16   | 203      
 Greta Van Fleet                | 17   | 195      
@@ -37,11 +37,11 @@ Finntroll                      | 26   | 134
 Gojira                         | 28   | 130      
 Judas Priest                   | 29   | 128      
 Green Day                      | 30   | 127      
-Mastodon                       | 31   | 126      
-Architects                     | 32   | 125      
+Architects                     | 31   | 126      
+Mastodon                       | 32   | 126      
 Pagan's Mind                   | 35   | 118      
 Slipknot                       | 36   | 118      
-Tool                           | 37   | 113      
+Tool                           | 37   | 114      
 blink-182                      | 39   | 105      
 Kvelertak                      | 41   | 99       
 Backstreet Girls               | 43   | 95       
@@ -49,8 +49,8 @@ Maktkamp                       | 45   | 86
 The Good The Bad and The Zugly | 52   | 78       
 Oslo Ess                       | 55   | 75       
 22                             | 61   | 71       
-Opeth                          | 69   | 59       
-Snarky Puppy                   | 72   | 58       
+Opeth                          | 71   | 59       
+Snarky Puppy                   | 74   | 58       
 Leo                            | 80   | 56       
 Mall Girl                      | 81   | 56       
 The Winery Dogs                | 85   | 55       
@@ -89,11 +89,11 @@ Bill Withers               | 60   | 72
 Styx                       | 63   | 67       
 A.C.T                      | 64   | 64       
 Ludo                       | 65   | 63       
-The Rolling Stones         | 67   | 61       
-VOLA                       | 68   | 60       
-Ballinciaga                | 70   | 58       
-Toto                       | 73   | 58       
-Elton John                 | 74   | 57       
+The Rolling Stones         | 68   | 61       
+VOLA                       | 69   | 61       
+Toto                       | 70   | 60       
+Ballinciaga                | 72   | 58       
+Elton John                 | 73   | 58       
 Frank Zappa                | 75   | 57       
 Sum 41                     | 76   | 57       
 Testament                  | 77   | 57       
@@ -120,7 +120,7 @@ Led Zeppelin                 | 44   | 87
 Creedence Clearwater Revival | 46   | 84       
 Pink Floyd                   | 62   | 67       
 Daft Punk                    | 66   | 62       
-Dire Straits                 | 71   | 58       
+Dire Straits                 | 67   | 61       
 The Beatles                  | 78   | 57       
 The Notorious B.I.G.         | 83   | 55       
 The Who                      | 84   | 55       
