@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 745      
+Dream Theater                  | 1    | 747      
 Spidergawd                     | 2    | 373      
 Metallica                      | 3    | 371      
 AC/DC                          | 4    | 356      
@@ -25,7 +25,7 @@ Circus Maximus                 | 10   | 259
 Ghost                          | 11   | 233      
 Foo Fighters                   | 12   | 226      
 Haken                          | 14   | 206      
-Avenged Sevenfold              | 15   | 204      
+Avenged Sevenfold              | 15   | 205      
 The Dogs                       | 16   | 203      
 Greta Van Fleet                | 17   | 195      
 Honningbarna                   | 18   | 174      
@@ -51,7 +51,7 @@ Oslo Ess                       | 55   | 75
 22                             | 61   | 71       
 Opeth                          | 71   | 59       
 Snarky Puppy                   | 74   | 58       
-Leo                            | 80   | 56       
+Leo                            | 76   | 57       
 Mall Girl                      | 81   | 56       
 The Winery Dogs                | 85   | 55       
 Lamb of God                    | 86   | 53       
@@ -95,9 +95,9 @@ Toto                       | 70   | 60
 Ballinciaga                | 72   | 58       
 Elton John                 | 73   | 58       
 Frank Zappa                | 75   | 57       
-Sum 41                     | 76   | 57       
-Testament                  | 77   | 57       
-The Black Keys             | 79   | 57       
+Sum 41                     | 77   | 57       
+Testament                  | 78   | 57       
+The Black Keys             | 80   | 57       
 Queens of the Stone Age    | 82   | 56       
 Linkin Park                | 87   | 53       
 Flying Colors              | 89   | 52       
@@ -121,6 +121,6 @@ Creedence Clearwater Revival | 46   | 84
 Pink Floyd                   | 62   | 67       
 Daft Punk                    | 66   | 62       
 Dire Straits                 | 67   | 61       
-The Beatles                  | 78   | 57       
+The Beatles                  | 79   | 57       
 The Notorious B.I.G.         | 83   | 55       
 The Who                      | 84   | 55       
