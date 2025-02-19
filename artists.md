@@ -23,7 +23,7 @@ In Flames                      | 8    | 313
 Skálmöld                       | 9    | 295      
 Circus Maximus                 | 10   | 259      
 Ghost                          | 11   | 233      
-Foo Fighters                   | 12   | 226      
+Foo Fighters                   | 12   | 227      
 Haken                          | 14   | 206      
 Avenged Sevenfold              | 15   | 205      
 The Dogs                       | 16   | 203      
@@ -49,7 +49,7 @@ Maktkamp                       | 45   | 86
 The Good The Bad and The Zugly | 52   | 78       
 Oslo Ess                       | 55   | 75       
 22                             | 61   | 71       
-Opeth                          | 71   | 59       
+Opeth                          | 72   | 59       
 Snarky Puppy                   | 74   | 58       
 Leo                            | 76   | 57       
 Mall Girl                      | 81   | 56       
@@ -67,18 +67,18 @@ Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 226      
 The Halo Effect            | 21   | 147      
-The Night Flight Orchestra | 22   | 139      
+The Night Flight Orchestra | 22   | 143      
 Animals as Leaders         | 25   | 134      
 Sylosis                    | 27   | 133      
-All That Remains           | 33   | 120      
+All That Remains           | 33   | 124      
 Lars Vaular                | 34   | 118      
 Nospūn                     | 40   | 103      
 Parius                     | 42   | 99       
 DumDum Boys                | 47   | 84       
 The Police                 | 48   | 83       
 The Offspring              | 49   | 82       
-Death by Unga Bunga        | 50   | 78       
-DJ MøMø                    | 51   | 78       
+DJ MøMø                    | 50   | 80       
+Death by Unga Bunga        | 51   | 78       
 Bokassa                    | 53   | 77       
 Rival Sons                 | 54   | 77       
 Thulsa Doom                | 56   | 74       
@@ -88,11 +88,11 @@ Aktiv Dödshjelp            | 59   | 72
 Bill Withers               | 60   | 72       
 Styx                       | 63   | 67       
 A.C.T                      | 64   | 64       
-Ludo                       | 65   | 63       
+Ludo                       | 66   | 63       
 The Rolling Stones         | 68   | 61       
 VOLA                       | 69   | 61       
 Toto                       | 70   | 60       
-Ballinciaga                | 72   | 58       
+Ballinciaga                | 71   | 59       
 Elton John                 | 73   | 58       
 Frank Zappa                | 75   | 57       
 Sum 41                     | 77   | 57       
@@ -119,7 +119,7 @@ Hall & Oates                 | 38   | 107
 Led Zeppelin                 | 44   | 87       
 Creedence Clearwater Revival | 46   | 84       
 Pink Floyd                   | 62   | 67       
-Daft Punk                    | 66   | 62       
+Daft Punk                    | 65   | 63       
 Dire Straits                 | 67   | 61       
 The Beatles                  | 79   | 57       
 The Notorious B.I.G.         | 83   | 55       
