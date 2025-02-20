@@ -14,10 +14,10 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 747      
+Dream Theater                  | 1    | 748      
 Spidergawd                     | 2    | 373      
-Metallica                      | 3    | 371      
-AC/DC                          | 4    | 356      
+Metallica                      | 3    | 372      
+AC/DC                          | 4    | 369      
 Seven Spires                   | 7    | 317      
 In Flames                      | 8    | 313      
 Skálmöld                       | 9    | 295      
@@ -44,8 +44,8 @@ Slipknot                       | 36   | 118
 Tool                           | 37   | 114      
 blink-182                      | 39   | 105      
 Kvelertak                      | 41   | 99       
-Backstreet Girls               | 43   | 95       
-Maktkamp                       | 45   | 86       
+Maktkamp                       | 43   | 98       
+Backstreet Girls               | 44   | 95       
 The Good The Bad and The Zugly | 52   | 78       
 Oslo Ess                       | 55   | 75       
 22                             | 61   | 71       
@@ -70,14 +70,14 @@ The Halo Effect            | 21   | 147
 The Night Flight Orchestra | 22   | 143      
 Animals as Leaders         | 25   | 134      
 Sylosis                    | 27   | 133      
-All That Remains           | 33   | 124      
+All That Remains           | 33   | 125      
 Lars Vaular                | 34   | 118      
 Nospūn                     | 40   | 103      
 Parius                     | 42   | 99       
 DumDum Boys                | 47   | 84       
 The Police                 | 48   | 83       
 The Offspring              | 49   | 82       
-DJ MøMø                    | 50   | 80       
+DJ MøMø                    | 50   | 81       
 Death by Unga Bunga        | 51   | 78       
 Bokassa                    | 53   | 77       
 Rival Sons                 | 54   | 77       
@@ -116,8 +116,8 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 5    | 329      
 Rush                         | 6    | 324      
 Hall & Oates                 | 38   | 107      
-Led Zeppelin                 | 44   | 87       
-Creedence Clearwater Revival | 46   | 84       
+Led Zeppelin                 | 45   | 88       
+Creedence Clearwater Revival | 46   | 86       
 Pink Floyd                   | 62   | 67       
 Daft Punk                    | 65   | 63       
 Dire Straits                 | 67   | 61       
