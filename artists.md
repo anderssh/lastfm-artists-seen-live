@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 749      
+Dream Theater                  | 1    | 750      
 AC/DC                          | 2    | 373      
 Spidergawd                     | 3    | 373      
 Metallica                      | 4    | 372      
@@ -24,7 +24,7 @@ Skálmöld                       | 9    | 295
 Circus Maximus                 | 10   | 259      
 Ghost                          | 11   | 233      
 Foo Fighters                   | 12   | 227      
-Haken                          | 14   | 206      
+Haken                          | 14   | 208      
 Avenged Sevenfold              | 15   | 205      
 The Dogs                       | 16   | 203      
 Greta Van Fleet                | 17   | 195      
@@ -39,17 +39,17 @@ Judas Priest                   | 29   | 128
 Green Day                      | 30   | 127      
 Architects                     | 31   | 126      
 Mastodon                       | 32   | 126      
-Pagan's Mind                   | 35   | 118      
-Slipknot                       | 36   | 118      
-Tool                           | 37   | 114      
-blink-182                      | 39   | 105      
+Pagan's Mind                   | 36   | 118      
+Slipknot                       | 37   | 118      
+Tool                           | 38   | 114      
+blink-182                      | 40   | 105      
 Kvelertak                      | 41   | 99       
 Maktkamp                       | 43   | 98       
 Backstreet Girls               | 44   | 95       
 The Good The Bad and The Zugly | 52   | 78       
 Oslo Ess                       | 55   | 75       
 22                             | 61   | 71       
-Opeth                          | 74   | 59       
+Opeth                          | 72   | 60       
 Snarky Puppy                   | 75   | 58       
 Leo                            | 77   | 57       
 Mall Girl                      | 81   | 56       
@@ -72,10 +72,10 @@ Animals as Leaders         | 25   | 134
 Sylosis                    | 27   | 133      
 All That Remains           | 33   | 125      
 Lars Vaular                | 34   | 118      
-Nospūn                     | 40   | 104      
+Nospūn                     | 35   | 118      
 Parius                     | 42   | 99       
 DumDum Boys                | 47   | 84       
-The Police                 | 48   | 83       
+The Police                 | 48   | 84       
 DJ MøMø                    | 49   | 82       
 The Offspring              | 50   | 82       
 Death by Unga Bunga        | 51   | 80       
@@ -87,13 +87,13 @@ Porcupine Tree             | 58   | 73
 Aktiv Dödshjelp            | 59   | 72       
 Bill Withers               | 60   | 72       
 Styx                       | 63   | 67       
-A.C.T                      | 64   | 64       
-Ludo                       | 66   | 63       
-The Rolling Stones         | 68   | 61       
-Toto                       | 69   | 61       
-VOLA                       | 70   | 61       
+VOLA                       | 64   | 65       
+A.C.T                      | 65   | 64       
+Ludo                       | 67   | 63       
+Toto                       | 68   | 62       
+The Rolling Stones         | 70   | 61       
 Elton John                 | 71   | 60       
-Ballinciaga                | 73   | 59       
+Ballinciaga                | 74   | 59       
 Frank Zappa                | 76   | 57       
 Sum 41                     | 78   | 57       
 Testament                  | 79   | 57       
@@ -115,12 +115,12 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 333      
 Rush                         | 6    | 324      
-Hall & Oates                 | 38   | 107      
+Hall & Oates                 | 39   | 107      
 Creedence Clearwater Revival | 45   | 88       
 Led Zeppelin                 | 46   | 88       
 Pink Floyd                   | 62   | 67       
-Daft Punk                    | 65   | 63       
-Dire Straits                 | 67   | 61       
-The Beatles                  | 72   | 60       
+Daft Punk                    | 66   | 63       
+Dire Straits                 | 69   | 61       
+The Beatles                  | 73   | 60       
 The Who                      | 83   | 56       
 The Notorious B.I.G.         | 84   | 55       
