@@ -25,10 +25,10 @@ Circus Maximus                 | 10   | 259
 Ghost                          | 11   | 233      
 Foo Fighters                   | 12   | 229      
 Haken                          | 14   | 208      
-Avenged Sevenfold              | 15   | 205      
-Greta Van Fleet                | 16   | 204      
+Greta Van Fleet                | 15   | 206      
+Avenged Sevenfold              | 16   | 205      
 The Dogs                       | 17   | 203      
-Honningbarna                   | 18   | 174      
+Honningbarna                   | 18   | 179      
 Amyl and the Sniffers          | 19   | 159      
 Eluveitie                      | 20   | 155      
 Eminem                         | 23   | 135      
@@ -56,7 +56,7 @@ Mall Girl                      | 82   | 56
 The Winery Dogs                | 85   | 55       
 The Killers                    | 87   | 54       
 Lamb of God                    | 88   | 53       
-Fit for an Autopsy             | 89   | 52       
+Fit for an Autopsy             | 90   | 52       
 Def Leppard                    | 95   | 47       
 Soilwork                       | 96   | 47       
 Kaizers Orchestra              | 99   | 45       
@@ -74,7 +74,7 @@ All That Remains           | 33   | 125
 Nospūn                     | 34   | 119      
 Lars Vaular                | 35   | 118      
 Parius                     | 42   | 99       
-The Offspring              | 47   | 85       
+The Offspring              | 47   | 86       
 DumDum Boys                | 48   | 84       
 The Police                 | 49   | 84       
 DJ MøMø                    | 50   | 82       
@@ -94,14 +94,14 @@ Toto                       | 68   | 62
 The Rolling Stones         | 70   | 61       
 Elton John                 | 71   | 60       
 Ballinciaga                | 74   | 59       
-Queens of the Stone Age    | 75   | 58       
+Queens of the Stone Age    | 75   | 59       
 Sum 41                     | 77   | 58       
 Frank Zappa                | 78   | 57       
 Testament                  | 80   | 57       
 The Black Keys             | 81   | 57       
 Linkin Park                | 86   | 54       
-Flying Colors              | 90   | 52       
-Red Hot Chili Peppers      | 91   | 52       
+Red Hot Chili Peppers      | 89   | 53       
+Flying Colors              | 91   | 52       
 Stevie Wonder              | 92   | 51       
 Maraton                    | 93   | 49       
 Van Halen                  | 94   | 49       
@@ -116,8 +116,8 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 5    | 333      
 Rush                         | 6    | 325      
 Hall & Oates                 | 39   | 107      
-Creedence Clearwater Revival | 45   | 89       
-Led Zeppelin                 | 46   | 89       
+Creedence Clearwater Revival | 45   | 90       
+Led Zeppelin                 | 46   | 90       
 Pink Floyd                   | 62   | 67       
 Daft Punk                    | 66   | 63       
 Dire Straits                 | 69   | 61       
