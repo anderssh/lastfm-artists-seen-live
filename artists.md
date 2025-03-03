@@ -34,11 +34,11 @@ Eluveitie                      | 20   | 155
 Eminem                         | 23   | 135      
 Ne Obliviscaris                | 24   | 135      
 Finntroll                      | 26   | 134      
-Gojira                         | 28   | 130      
-Green Day                      | 29   | 130      
-Judas Priest                   | 30   | 128      
-Architects                     | 31   | 126      
-Mastodon                       | 32   | 126      
+Gojira                         | 29   | 130      
+Green Day                      | 30   | 130      
+Judas Priest                   | 31   | 128      
+Architects                     | 32   | 126      
+Mastodon                       | 33   | 126      
 Pagan's Mind                   | 36   | 118      
 Slipknot                       | 37   | 118      
 Tool                           | 38   | 114      
@@ -70,7 +70,7 @@ The Night Flight Orchestra | 21   | 154
 The Halo Effect            | 22   | 147      
 Animals as Leaders         | 25   | 134      
 Sylosis                    | 27   | 133      
-All That Remains           | 33   | 125      
+All That Remains           | 28   | 131      
 Nospūn                     | 34   | 119      
 Lars Vaular                | 35   | 118      
 Parius                     | 42   | 99       
