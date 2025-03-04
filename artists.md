@@ -31,9 +31,9 @@ The Dogs                       | 17   | 203
 Honningbarna                   | 18   | 179      
 Amyl and the Sniffers          | 19   | 159      
 Eluveitie                      | 20   | 155      
-Eminem                         | 23   | 135      
-Ne Obliviscaris                | 24   | 135      
-Finntroll                      | 26   | 134      
+Eminem                         | 24   | 135      
+Ne Obliviscaris                | 25   | 135      
+Finntroll                      | 27   | 134      
 Gojira                         | 29   | 130      
 Green Day                      | 30   | 130      
 Judas Priest                   | 31   | 128      
@@ -68,9 +68,9 @@ Name                       | Rank | PlayCount
 Jean-Luc Ponty             | 13   | 226      
 The Night Flight Orchestra | 21   | 154      
 The Halo Effect            | 22   | 147      
-Animals as Leaders         | 25   | 134      
-Sylosis                    | 27   | 133      
-All That Remains           | 28   | 131      
+All That Remains           | 23   | 142      
+Animals as Leaders         | 26   | 134      
+Sylosis                    | 28   | 133      
 Nospūn                     | 34   | 119      
 Lars Vaular                | 35   | 118      
 Parius                     | 42   | 99       
