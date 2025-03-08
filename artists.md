@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 763      
+Dream Theater                  | 1    | 766      
 AC/DC                          | 2    | 375      
 Spidergawd                     | 3    | 373      
 Metallica                      | 4    | 372      
@@ -24,13 +24,13 @@ Skálmöld                       | 9    | 295
 Circus Maximus                 | 10   | 259      
 Ghost                          | 11   | 233      
 Foo Fighters                   | 12   | 230      
-Haken                          | 14   | 208      
+Haken                          | 14   | 217      
 Greta Van Fleet                | 15   | 206      
 Avenged Sevenfold              | 16   | 205      
 The Dogs                       | 17   | 203      
 Honningbarna                   | 18   | 179      
 Amyl and the Sniffers          | 19   | 159      
-Eluveitie                      | 20   | 155      
+Eluveitie                      | 20   | 158      
 Eminem                         | 24   | 135      
 Ne Obliviscaris                | 25   | 135      
 Finntroll                      | 27   | 134      
@@ -71,11 +71,11 @@ The Halo Effect            | 22   | 147
 All That Remains           | 23   | 143      
 Animals as Leaders         | 26   | 134      
 Sylosis                    | 28   | 133      
-Nospūn                     | 34   | 119      
+Nospūn                     | 34   | 120      
 Lars Vaular                | 35   | 118      
 Parius                     | 42   | 99       
-The Offspring              | 47   | 86       
-DumDum Boys                | 48   | 84       
+DumDum Boys                | 47   | 87       
+The Offspring              | 48   | 86       
 The Police                 | 49   | 84       
 DJ MøMø                    | 50   | 82       
 Death by Unga Bunga        | 51   | 80       
