@@ -14,9 +14,9 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 766      
+Dream Theater                  | 1    | 768      
 AC/DC                          | 2    | 379      
-Metallica                      | 3    | 373      
+Metallica                      | 3    | 376      
 Spidergawd                     | 4    | 373      
 Seven Spires                   | 7    | 317      
 In Flames                      | 8    | 313      
@@ -50,8 +50,8 @@ The Good The Bad and The Zugly | 52   | 78
 Oslo Ess                       | 55   | 75       
 22                             | 61   | 71       
 Opeth                          | 72   | 60       
-Snarky Puppy                   | 76   | 58       
-Leo                            | 79   | 57       
+Snarky Puppy                   | 77   | 58       
+Leo                            | 80   | 57       
 Mall Girl                      | 83   | 56       
 The Winery Dogs                | 87   | 55       
 The Killers                    | 89   | 54       
@@ -95,12 +95,12 @@ The Rolling Stones         | 70   | 61
 Elton John                 | 71   | 60       
 Queens of the Stone Age    | 73   | 60       
 Ballinciaga                | 75   | 59       
-Sum 41                     | 77   | 58       
-Frank Zappa                | 78   | 57       
-Testament                  | 80   | 57       
-The Black Keys             | 81   | 57       
-Heilung                    | 82   | 56       
-Red Hot Chili Peppers      | 86   | 55       
+Heilung                    | 76   | 58       
+Sum 41                     | 78   | 58       
+Frank Zappa                | 79   | 57       
+Testament                  | 81   | 57       
+The Black Keys             | 82   | 57       
+Red Hot Chili Peppers      | 84   | 56       
 Linkin Park                | 88   | 54       
 Flying Colors              | 92   | 52       
 Stevie Wonder              | 93   | 51       
@@ -117,10 +117,10 @@ Fleetwood Mac                | 5    | 333
 Rush                         | 6    | 325      
 Hall & Oates                 | 40   | 107      
 Creedence Clearwater Revival | 45   | 92       
-Led Zeppelin                 | 46   | 91       
+Led Zeppelin                 | 46   | 92       
 Pink Floyd                   | 62   | 67       
 Daft Punk                    | 66   | 63       
 Dire Straits                 | 69   | 61       
 The Beatles                  | 74   | 60       
-The Notorious B.I.G.         | 84   | 56       
-The Who                      | 85   | 56       
+The Notorious B.I.G.         | 85   | 56       
+The Who                      | 86   | 56       
