@@ -4,9 +4,9 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of artists seen live in total: 106
 
-- Number of fetched top artists: 100 (Active: 88 Inactive: 12)
+- Number of fetched top artists: 100 (Active: 89 Inactive: 11)
 
-- Number of top artists seen live: 46 (Active: 45 Inactive: 1)
+- Number of top artists seen live: 46 (Active: 46 Inactive: 0)
 
 - Number of top artists not seen live: 54 (Active: 43 Inactive: 11)
 
@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 768      
+Dream Theater                  | 1    | 769      
 AC/DC                          | 2    | 379      
 Metallica                      | 3    | 376      
 Spidergawd                     | 4    | 373      
@@ -24,7 +24,7 @@ Skálmöld                       | 9    | 295
 Circus Maximus                 | 10   | 259      
 Ghost                          | 11   | 243      
 Foo Fighters                   | 12   | 230      
-Haken                          | 14   | 217      
+Haken                          | 14   | 219      
 Greta Van Fleet                | 15   | 206      
 Avenged Sevenfold              | 16   | 205      
 The Dogs                       | 17   | 203      
@@ -57,9 +57,9 @@ The Winery Dogs                | 87   | 55
 The Killers                    | 89   | 54       
 Lamb of God                    | 90   | 53       
 Fit for an Autopsy             | 91   | 52       
-Def Leppard                    | 96   | 47       
-Soilwork                       | 97   | 47       
-Kaizers Orchestra              | 100  | 45       
+Clutch                         | 96   | 47       
+Def Leppard                    | 97   | 47       
+Soilwork                       | 98   | 47       
 
 ## Active top 100 artists not seen live (43)
 
@@ -106,8 +106,8 @@ Flying Colors              | 92   | 52
 Stevie Wonder              | 93   | 51       
 Maraton                    | 94   | 49       
 Van Halen                  | 95   | 49       
-Apollo Suns                | 98   | 46       
-All Them Witches           | 99   | 45       
+Apollo Suns                | 99   | 46       
+All Them Witches           | 100  | 45       
 
 ## Inactive top 100 artists not seen live (11)
 
