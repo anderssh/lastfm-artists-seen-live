@@ -15,12 +15,12 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 769      
-AC/DC                          | 2    | 379      
-Metallica                      | 3    | 376      
-Spidergawd                     | 4    | 373      
+AC/DC                          | 2    | 386      
+Spidergawd                     | 3    | 379      
+Metallica                      | 4    | 376      
 Seven Spires                   | 7    | 317      
 In Flames                      | 8    | 313      
-Skálmöld                       | 9    | 295      
+Skálmöld                       | 9    | 298      
 Circus Maximus                 | 10   | 259      
 Ghost                          | 11   | 243      
 Foo Fighters                   | 12   | 230      
@@ -46,10 +46,10 @@ Tool                           | 39   | 114
 blink-182                      | 41   | 106      
 Maktkamp                       | 43   | 98       
 Backstreet Girls               | 44   | 95       
-The Good The Bad and The Zugly | 52   | 78       
-Oslo Ess                       | 55   | 75       
-22                             | 61   | 71       
-Opeth                          | 72   | 60       
+The Good The Bad and The Zugly | 53   | 78       
+Oslo Ess                       | 56   | 75       
+22                             | 62   | 71       
+Opeth                          | 73   | 60       
 Snarky Puppy                   | 77   | 58       
 Leo                            | 80   | 57       
 Mall Girl                      | 83   | 56       
@@ -74,28 +74,28 @@ Sylosis                    | 28   | 133
 Nospūn                     | 34   | 120      
 Lars Vaular                | 35   | 118      
 Parius                     | 42   | 99       
-The Offspring              | 47   | 90       
-DumDum Boys                | 48   | 87       
-The Police                 | 49   | 84       
-DJ MøMø                    | 50   | 82       
-Death by Unga Bunga        | 51   | 80       
-Bokassa                    | 53   | 77       
-Rival Sons                 | 54   | 77       
-Thulsa Doom                | 56   | 74       
-Bill Withers               | 57   | 73       
-Love                       | 58   | 73       
-Porcupine Tree             | 59   | 73       
-Aktiv Dödshjelp            | 60   | 72       
-Styx                       | 63   | 67       
-VOLA                       | 64   | 67       
-A.C.T                      | 65   | 64       
-Ludo                       | 67   | 63       
-Toto                       | 68   | 62       
-The Rolling Stones         | 70   | 61       
-Elton John                 | 71   | 60       
-Queens of the Stone Age    | 73   | 60       
-Ballinciaga                | 75   | 59       
-Heilung                    | 76   | 58       
+Heilung                    | 46   | 92       
+The Offspring              | 48   | 90       
+DumDum Boys                | 49   | 87       
+The Police                 | 50   | 84       
+DJ MøMø                    | 51   | 82       
+Death by Unga Bunga        | 52   | 80       
+Bokassa                    | 54   | 77       
+Rival Sons                 | 55   | 77       
+Bill Withers               | 57   | 74       
+Thulsa Doom                | 58   | 74       
+Love                       | 59   | 73       
+Porcupine Tree             | 60   | 73       
+Aktiv Dödshjelp            | 61   | 72       
+Styx                       | 64   | 67       
+VOLA                       | 65   | 67       
+A.C.T                      | 66   | 64       
+Toto                       | 67   | 64       
+Ludo                       | 70   | 63       
+The Rolling Stones         | 71   | 61       
+Elton John                 | 72   | 60       
+Queens of the Stone Age    | 74   | 60       
+Ballinciaga                | 76   | 59       
 Sum 41                     | 78   | 58       
 Frank Zappa                | 79   | 57       
 Testament                  | 81   | 57       
@@ -113,14 +113,14 @@ All Them Witches           | 100  | 45
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 333      
+Fleetwood Mac                | 5    | 334      
 Rush                         | 6    | 325      
 Hall & Oates                 | 40   | 107      
 Creedence Clearwater Revival | 45   | 92       
-Led Zeppelin                 | 46   | 92       
-Pink Floyd                   | 62   | 67       
-Daft Punk                    | 66   | 63       
-Dire Straits                 | 69   | 61       
-The Beatles                  | 74   | 60       
+Led Zeppelin                 | 47   | 92       
+Pink Floyd                   | 63   | 67       
+Daft Punk                    | 68   | 63       
+Dire Straits                 | 69   | 63       
+The Beatles                  | 75   | 60       
 The Notorious B.I.G.         | 85   | 56       
 The Who                      | 86   | 56       
