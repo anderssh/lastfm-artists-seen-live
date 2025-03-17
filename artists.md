@@ -15,12 +15,12 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 769      
-AC/DC                          | 2    | 386      
-Spidergawd                     | 3    | 379      
+Spidergawd                     | 2    | 389      
+AC/DC                          | 3    | 386      
 Metallica                      | 4    | 376      
 Seven Spires                   | 7    | 317      
 In Flames                      | 8    | 313      
-Skálmöld                       | 9    | 298      
+Skálmöld                       | 9    | 303      
 Circus Maximus                 | 10   | 259      
 Ghost                          | 11   | 243      
 Foo Fighters                   | 12   | 230      
@@ -29,8 +29,8 @@ Greta Van Fleet                | 15   | 206
 Avenged Sevenfold              | 16   | 205      
 The Dogs                       | 17   | 203      
 Honningbarna                   | 18   | 179      
-Amyl and the Sniffers          | 19   | 159      
-Eluveitie                      | 20   | 159      
+Eluveitie                      | 19   | 160      
+Amyl and the Sniffers          | 20   | 159      
 Eminem                         | 24   | 135      
 Ne Obliviscaris                | 25   | 135      
 Finntroll                      | 27   | 134      
@@ -41,7 +41,7 @@ Architects                     | 32   | 126
 Mastodon                       | 33   | 126      
 Pagan's Mind                   | 36   | 118      
 Slipknot                       | 37   | 118      
-Kvelertak                      | 38   | 116      
+Kvelertak                      | 38   | 117      
 Tool                           | 39   | 114      
 blink-182                      | 41   | 106      
 Maktkamp                       | 43   | 98       
@@ -74,7 +74,7 @@ Sylosis                    | 28   | 133
 Nospūn                     | 34   | 120      
 Lars Vaular                | 35   | 118      
 Parius                     | 42   | 99       
-Heilung                    | 46   | 92       
+Heilung                    | 45   | 94       
 The Offspring              | 48   | 90       
 DumDum Boys                | 49   | 87       
 The Police                 | 50   | 84       
@@ -89,8 +89,8 @@ Porcupine Tree             | 60   | 73
 Aktiv Dödshjelp            | 61   | 72       
 Styx                       | 64   | 67       
 VOLA                       | 65   | 67       
-A.C.T                      | 66   | 64       
-Toto                       | 67   | 64       
+A.C.T                      | 67   | 64       
+Toto                       | 68   | 64       
 Ludo                       | 70   | 63       
 The Rolling Stones         | 71   | 61       
 Elton John                 | 72   | 60       
@@ -116,11 +116,11 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 5    | 334      
 Rush                         | 6    | 325      
 Hall & Oates                 | 40   | 107      
-Creedence Clearwater Revival | 45   | 92       
+Creedence Clearwater Revival | 46   | 92       
 Led Zeppelin                 | 47   | 92       
 Pink Floyd                   | 63   | 67       
-Daft Punk                    | 68   | 63       
-Dire Straits                 | 69   | 63       
+Dire Straits                 | 66   | 65       
+Daft Punk                    | 69   | 63       
 The Beatles                  | 75   | 60       
 The Notorious B.I.G.         | 85   | 56       
 The Who                      | 86   | 56       
