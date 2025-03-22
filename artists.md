@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 769      
+Dream Theater                  | 1    | 772      
 Spidergawd                     | 2    | 389      
 AC/DC                          | 3    | 386      
 Metallica                      | 4    | 376      
@@ -24,7 +24,7 @@ Skálmöld                       | 9    | 306
 Ghost                          | 10   | 264      
 Circus Maximus                 | 11   | 259      
 Foo Fighters                   | 12   | 230      
-Haken                          | 14   | 219      
+Haken                          | 14   | 220      
 Greta Van Fleet                | 15   | 206      
 Avenged Sevenfold              | 16   | 205      
 The Dogs                       | 17   | 203      
@@ -87,8 +87,8 @@ Thulsa Doom                | 58   | 74
 Love                       | 59   | 73       
 Porcupine Tree             | 60   | 73       
 Aktiv Dödshjelp            | 61   | 72       
-Styx                       | 64   | 67       
-VOLA                       | 65   | 67       
+VOLA                       | 63   | 68       
+Styx                       | 65   | 67       
 A.C.T                      | 67   | 64       
 Toto                       | 68   | 64       
 Ludo                       | 70   | 63       
@@ -117,7 +117,7 @@ Rush                         | 6    | 325
 Hall & Oates                 | 40   | 107      
 Creedence Clearwater Revival | 46   | 92       
 Led Zeppelin                 | 47   | 92       
-Pink Floyd                   | 63   | 67       
+Pink Floyd                   | 64   | 67       
 Dire Straits                 | 66   | 65       
 Daft Punk                    | 69   | 63       
 The Beatles                  | 76   | 60       
