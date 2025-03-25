@@ -15,12 +15,12 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 772      
-Spidergawd                     | 2    | 389      
-AC/DC                          | 3    | 386      
+AC/DC                          | 2    | 428      
+Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 376      
 Seven Spires                   | 7    | 317      
 In Flames                      | 8    | 313      
-Skálmöld                       | 9    | 306      
+Skálmöld                       | 9    | 307      
 Ghost                          | 10   | 264      
 Circus Maximus                 | 11   | 259      
 Foo Fighters                   | 12   | 230      
@@ -51,7 +51,7 @@ Oslo Ess                       | 56   | 75
 22                             | 62   | 71       
 Opeth                          | 73   | 60       
 Soilwork                       | 75   | 60       
-Snarky Puppy                   | 78   | 58       
+Snarky Puppy                   | 79   | 58       
 Leo                            | 81   | 57       
 Mall Girl                      | 84   | 56       
 The Winery Dogs                | 88   | 55       
@@ -96,7 +96,7 @@ The Rolling Stones         | 71   | 62
 Elton John                 | 72   | 60       
 Queens of the Stone Age    | 74   | 60       
 Ballinciaga                | 77   | 59       
-Sum 41                     | 79   | 58       
+Sum 41                     | 78   | 59       
 Frank Zappa                | 80   | 57       
 Testament                  | 82   | 57       
 The Black Keys             | 83   | 57       
@@ -118,7 +118,7 @@ Hall & Oates                 | 40   | 107
 Creedence Clearwater Revival | 46   | 92       
 Led Zeppelin                 | 47   | 92       
 Pink Floyd                   | 64   | 67       
-Dire Straits                 | 66   | 65       
+Dire Straits                 | 66   | 66       
 Daft Punk                    | 69   | 63       
 The Beatles                  | 76   | 60       
 The Notorious B.I.G.         | 86   | 56       
