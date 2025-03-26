@@ -14,13 +14,13 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 772      
+Dream Theater                  | 1    | 774      
 AC/DC                          | 2    | 428      
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 376      
 Seven Spires                   | 7    | 317      
 In Flames                      | 8    | 313      
-Skálmöld                       | 9    | 307      
+Skálmöld                       | 9    | 308      
 Ghost                          | 10   | 264      
 Circus Maximus                 | 11   | 259      
 Foo Fighters                   | 12   | 230      
@@ -31,11 +31,11 @@ The Dogs                       | 17   | 203
 Honningbarna                   | 18   | 179      
 Eluveitie                      | 19   | 162      
 Amyl and the Sniffers          | 20   | 159      
-Eminem                         | 24   | 135      
-Finntroll                      | 25   | 135      
+Finntroll                      | 24   | 136      
+Eminem                         | 25   | 135      
 Ne Obliviscaris                | 26   | 135      
-Gojira                         | 30   | 130      
-Green Day                      | 31   | 130      
+Green Day                      | 30   | 131      
+Gojira                         | 31   | 130      
 Judas Priest                   | 32   | 128      
 Architects                     | 33   | 126      
 Mastodon                       | 34   | 126      
@@ -113,7 +113,7 @@ Apollo Suns                | 100  | 46
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 339      
-Rush                         | 6    | 325      
+Rush                         | 6    | 326      
 Hall & Oates                 | 40   | 107      
 Creedence Clearwater Revival | 46   | 92       
 Led Zeppelin                 | 47   | 92       
