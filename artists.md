@@ -15,15 +15,15 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 774      
-AC/DC                          | 2    | 428      
+AC/DC                          | 2    | 431      
 Spidergawd                     | 3    | 389      
-Metallica                      | 4    | 376      
+Metallica                      | 4    | 377      
 Seven Spires                   | 7    | 317      
 In Flames                      | 8    | 313      
 Skálmöld                       | 9    | 308      
 Ghost                          | 10   | 264      
 Circus Maximus                 | 11   | 259      
-Foo Fighters                   | 12   | 230      
+Foo Fighters                   | 12   | 231      
 Haken                          | 14   | 220      
 Greta Van Fleet                | 15   | 206      
 Avenged Sevenfold              | 16   | 205      
@@ -47,9 +47,9 @@ blink-182                      | 41   | 106
 Maktkamp                       | 43   | 98       
 Backstreet Girls               | 45   | 95       
 The Good The Bad and The Zugly | 53   | 78       
-Oslo Ess                       | 56   | 75       
+Oslo Ess                       | 57   | 75       
 22                             | 62   | 71       
-Opeth                          | 73   | 60       
+Opeth                          | 74   | 60       
 Soilwork                       | 75   | 60       
 Snarky Puppy                   | 79   | 58       
 Leo                            | 81   | 57       
@@ -77,12 +77,12 @@ Parius                     | 42   | 99
 Heilung                    | 44   | 96       
 The Offspring              | 48   | 90       
 DumDum Boys                | 49   | 87       
-The Police                 | 50   | 84       
+The Police                 | 50   | 85       
 DJ MøMø                    | 51   | 82       
 Death by Unga Bunga        | 52   | 80       
 Bokassa                    | 54   | 77       
 Rival Sons                 | 55   | 77       
-Bill Withers               | 57   | 74       
+Bill Withers               | 56   | 75       
 Thulsa Doom                | 58   | 74       
 Love                       | 59   | 73       
 Porcupine Tree             | 60   | 73       
@@ -93,8 +93,8 @@ A.C.T                      | 67   | 64
 Toto                       | 68   | 64       
 Ludo                       | 70   | 63       
 The Rolling Stones         | 71   | 62       
-Elton John                 | 72   | 60       
-Queens of the Stone Age    | 74   | 60       
+Queens of the Stone Age    | 72   | 61       
+Elton John                 | 73   | 60       
 Ballinciaga                | 77   | 59       
 Sum 41                     | 78   | 59       
 Frank Zappa                | 80   | 57       
@@ -104,8 +104,8 @@ Red Hot Chili Peppers      | 85   | 56
 Linkin Park                | 89   | 54       
 Flying Colors              | 94   | 52       
 Stevie Wonder              | 95   | 51       
-Maraton                    | 96   | 49       
-Van Halen                  | 97   | 49       
+Van Halen                  | 96   | 50       
+Maraton                    | 97   | 49       
 Apollo Suns                | 100  | 46       
 
 ## Inactive top 100 artists not seen live (12)
@@ -113,10 +113,10 @@ Apollo Suns                | 100  | 46
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 339      
-Rush                         | 6    | 326      
+Rush                         | 6    | 327      
 Hall & Oates                 | 40   | 107      
-Creedence Clearwater Revival | 46   | 92       
-Led Zeppelin                 | 47   | 92       
+Led Zeppelin                 | 46   | 93       
+Creedence Clearwater Revival | 47   | 92       
 Pink Floyd                   | 64   | 67       
 Dire Straits                 | 66   | 66       
 Daft Punk                    | 69   | 63       
