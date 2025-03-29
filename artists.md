@@ -37,15 +37,15 @@ Ne Obliviscaris                | 26   | 135
 Green Day                      | 30   | 131      
 Gojira                         | 31   | 130      
 Judas Priest                   | 32   | 128      
-Architects                     | 33   | 126      
-Mastodon                       | 34   | 126      
-Kvelertak                      | 35   | 118      
-Pagan's Mind                   | 37   | 118      
-Slipknot                       | 38   | 118      
-Tool                           | 39   | 114      
-blink-182                      | 41   | 106      
-Maktkamp                       | 43   | 98       
-Backstreet Girls               | 45   | 95       
+Architects                     | 34   | 126      
+Mastodon                       | 35   | 126      
+Kvelertak                      | 36   | 118      
+Pagan's Mind                   | 38   | 118      
+Slipknot                       | 39   | 118      
+Tool                           | 40   | 114      
+blink-182                      | 42   | 106      
+Maktkamp                       | 44   | 98       
+Backstreet Girls               | 46   | 95       
 The Good The Bad and The Zugly | 53   | 78       
 Oslo Ess                       | 57   | 75       
 22                             | 62   | 71       
@@ -58,8 +58,8 @@ The Winery Dogs                | 88   | 55
 The Killers                    | 90   | 54       
 Lamb of God                    | 92   | 53       
 Fit for an Autopsy             | 93   | 52       
-Clutch                         | 98   | 47       
-Def Leppard                    | 99   | 47       
+Clutch                         | 99   | 47       
+Def Leppard                    | 100  | 47       
 
 ## Active top 100 artists not seen live (42)
 
@@ -72,14 +72,14 @@ All That Remains           | 23   | 143
 Animals as Leaders         | 27   | 134      
 Nospūn                     | 28   | 133      
 Sylosis                    | 29   | 133      
-Lars Vaular                | 36   | 118      
-Parius                     | 42   | 99       
-Heilung                    | 44   | 96       
-The Offspring              | 48   | 90       
-DumDum Boys                | 49   | 87       
-The Police                 | 50   | 85       
-DJ MøMø                    | 51   | 82       
-Death by Unga Bunga        | 52   | 80       
+Death by Unga Bunga        | 33   | 127      
+Lars Vaular                | 37   | 118      
+Parius                     | 43   | 99       
+Heilung                    | 45   | 96       
+The Offspring              | 49   | 90       
+DumDum Boys                | 50   | 87       
+The Police                 | 51   | 85       
+DJ MøMø                    | 52   | 82       
 Bokassa                    | 54   | 77       
 Rival Sons                 | 55   | 77       
 Bill Withers               | 56   | 75       
@@ -105,8 +105,8 @@ Linkin Park                | 89   | 54
 Flying Colors              | 94   | 52       
 Stevie Wonder              | 95   | 51       
 Van Halen                  | 96   | 50       
-Maraton                    | 97   | 49       
-Apollo Suns                | 100  | 46       
+will.i.am                  | 97   | 50       
+Maraton                    | 98   | 49       
 
 ## Inactive top 100 artists not seen live (12)
 
@@ -114,9 +114,9 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 339      
 Rush                         | 6    | 327      
-Hall & Oates                 | 40   | 107      
-Led Zeppelin                 | 46   | 93       
-Creedence Clearwater Revival | 47   | 92       
+Hall & Oates                 | 41   | 107      
+Led Zeppelin                 | 47   | 93       
+Creedence Clearwater Revival | 48   | 92       
 Pink Floyd                   | 64   | 67       
 Dire Straits                 | 66   | 66       
 Daft Punk                    | 69   | 63       
