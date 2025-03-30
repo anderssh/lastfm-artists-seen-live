@@ -31,12 +31,12 @@ The Dogs                       | 17   | 203
 Honningbarna                   | 18   | 179      
 Eluveitie                      | 19   | 162      
 Amyl and the Sniffers          | 20   | 159      
-Finntroll                      | 24   | 136      
-Eminem                         | 25   | 135      
-Ne Obliviscaris                | 26   | 135      
-Green Day                      | 30   | 131      
-Gojira                         | 31   | 130      
-Judas Priest                   | 32   | 128      
+Finntroll                      | 25   | 136      
+Eminem                         | 26   | 135      
+Ne Obliviscaris                | 27   | 135      
+Green Day                      | 31   | 131      
+Gojira                         | 32   | 130      
+Judas Priest                   | 33   | 128      
 Architects                     | 34   | 126      
 Mastodon                       | 35   | 126      
 Kvelertak                      | 36   | 118      
@@ -69,10 +69,10 @@ Jean-Luc Ponty             | 13   | 226
 The Night Flight Orchestra | 21   | 155      
 The Halo Effect            | 22   | 148      
 All That Remains           | 23   | 143      
-Animals as Leaders         | 27   | 134      
-Nospūn                     | 28   | 133      
-Sylosis                    | 29   | 133      
-Death by Unga Bunga        | 33   | 127      
+Death by Unga Bunga        | 24   | 143      
+Animals as Leaders         | 28   | 134      
+Nospūn                     | 29   | 133      
+Sylosis                    | 30   | 133      
 Lars Vaular                | 37   | 118      
 Parius                     | 43   | 99       
 Heilung                    | 45   | 96       
