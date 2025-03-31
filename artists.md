@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 774      
-AC/DC                          | 2    | 431      
+AC/DC                          | 2    | 433      
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 377      
 Seven Spires                   | 7    | 317      
@@ -76,7 +76,7 @@ Sylosis                    | 30   | 133
 Lars Vaular                | 37   | 118      
 Parius                     | 43   | 99       
 Heilung                    | 45   | 96       
-The Offspring              | 49   | 90       
+The Offspring              | 47   | 94       
 DumDum Boys                | 50   | 87       
 The Police                 | 51   | 85       
 DJ MøMø                    | 52   | 82       
@@ -92,8 +92,8 @@ Styx                       | 65   | 67
 A.C.T                      | 67   | 64       
 Toto                       | 68   | 64       
 Ludo                       | 70   | 63       
-The Rolling Stones         | 71   | 62       
-Queens of the Stone Age    | 72   | 61       
+Queens of the Stone Age    | 71   | 62       
+The Rolling Stones         | 72   | 62       
 Elton John                 | 73   | 60       
 Ballinciaga                | 77   | 59       
 Sum 41                     | 78   | 59       
@@ -115,8 +115,8 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 5    | 339      
 Rush                         | 6    | 327      
 Hall & Oates                 | 41   | 107      
-Led Zeppelin                 | 47   | 93       
-Creedence Clearwater Revival | 48   | 92       
+Led Zeppelin                 | 48   | 93       
+Creedence Clearwater Revival | 49   | 92       
 Pink Floyd                   | 64   | 67       
 Dire Straits                 | 66   | 66       
 Daft Punk                    | 69   | 63       
