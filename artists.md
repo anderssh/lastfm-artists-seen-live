@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 774      
-AC/DC                          | 2    | 433      
+AC/DC                          | 2    | 435      
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 377      
 Seven Spires                   | 7    | 317      
@@ -31,10 +31,10 @@ The Dogs                       | 17   | 203
 Honningbarna                   | 18   | 179      
 Eluveitie                      | 19   | 162      
 Amyl and the Sniffers          | 20   | 159      
-Finntroll                      | 25   | 136      
-Eminem                         | 26   | 135      
-Ne Obliviscaris                | 27   | 135      
-Green Day                      | 31   | 131      
+Finntroll                      | 26   | 136      
+Eminem                         | 27   | 135      
+Ne Obliviscaris                | 28   | 135      
+Green Day                      | 31   | 132      
 Gojira                         | 32   | 130      
 Judas Priest                   | 33   | 128      
 Architects                     | 34   | 126      
@@ -44,8 +44,8 @@ Pagan's Mind                   | 38   | 118
 Slipknot                       | 39   | 118      
 Tool                           | 40   | 114      
 blink-182                      | 42   | 106      
-Maktkamp                       | 44   | 98       
-Backstreet Girls               | 46   | 95       
+Maktkamp                       | 45   | 98       
+Backstreet Girls               | 47   | 95       
 The Good The Bad and The Zugly | 53   | 78       
 Oslo Ess                       | 57   | 75       
 22                             | 62   | 71       
@@ -53,9 +53,9 @@ Opeth                          | 74   | 60
 Soilwork                       | 75   | 60       
 Snarky Puppy                   | 79   | 58       
 Leo                            | 81   | 57       
-Mall Girl                      | 84   | 56       
-The Winery Dogs                | 88   | 55       
-The Killers                    | 90   | 54       
+Mall Girl                      | 85   | 56       
+The Killers                    | 88   | 55       
+The Winery Dogs                | 89   | 55       
 Lamb of God                    | 92   | 53       
 Fit for an Autopsy             | 93   | 52       
 Clutch                         | 99   | 47       
@@ -70,13 +70,13 @@ The Night Flight Orchestra | 21   | 155
 The Halo Effect            | 22   | 148      
 All That Remains           | 23   | 143      
 Death by Unga Bunga        | 24   | 143      
-Animals as Leaders         | 28   | 134      
-Nospūn                     | 29   | 133      
+Nospūn                     | 25   | 138      
+Animals as Leaders         | 29   | 134      
 Sylosis                    | 30   | 133      
 Lars Vaular                | 37   | 118      
-Parius                     | 43   | 99       
-Heilung                    | 45   | 96       
-The Offspring              | 47   | 94       
+The Offspring              | 43   | 103      
+Parius                     | 44   | 99       
+Heilung                    | 46   | 96       
 DumDum Boys                | 50   | 87       
 The Police                 | 51   | 85       
 DJ MøMø                    | 52   | 82       
@@ -92,19 +92,19 @@ Styx                       | 65   | 67
 A.C.T                      | 67   | 64       
 Toto                       | 68   | 64       
 Ludo                       | 70   | 63       
-Queens of the Stone Age    | 71   | 62       
+Queens of the Stone Age    | 71   | 63       
 The Rolling Stones         | 72   | 62       
 Elton John                 | 73   | 60       
 Ballinciaga                | 77   | 59       
 Sum 41                     | 78   | 59       
 Frank Zappa                | 80   | 57       
-Testament                  | 82   | 57       
-The Black Keys             | 83   | 57       
-Red Hot Chili Peppers      | 85   | 56       
-Linkin Park                | 89   | 54       
+Red Hot Chili Peppers      | 82   | 57       
+Testament                  | 83   | 57       
+The Black Keys             | 84   | 57       
+Linkin Park                | 90   | 54       
 Flying Colors              | 94   | 52       
 Stevie Wonder              | 95   | 51       
-Van Halen                  | 96   | 50       
+Van Halen                  | 96   | 51       
 will.i.am                  | 97   | 50       
 Maraton                    | 98   | 49       
 
