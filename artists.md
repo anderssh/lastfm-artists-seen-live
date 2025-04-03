@@ -15,17 +15,17 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 774      
-AC/DC                          | 2    | 435      
+AC/DC                          | 2    | 439      
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 377      
 Seven Spires                   | 7    | 317      
-Skálmöld                       | 8    | 315      
+Skálmöld                       | 8    | 316      
 In Flames                      | 9    | 313      
 Ghost                          | 10   | 264      
 Circus Maximus                 | 11   | 259      
 Foo Fighters                   | 12   | 231      
 Haken                          | 14   | 220      
-Avenged Sevenfold              | 15   | 206      
+Avenged Sevenfold              | 15   | 207      
 Greta Van Fleet                | 16   | 206      
 The Dogs                       | 17   | 203      
 Honningbarna                   | 18   | 179      
@@ -46,7 +46,7 @@ Tool                           | 40   | 114
 blink-182                      | 43   | 106      
 Maktkamp                       | 45   | 98       
 Backstreet Girls               | 47   | 95       
-The Good The Bad and The Zugly | 53   | 79       
+The Good The Bad and The Zugly | 53   | 80       
 Oslo Ess                       | 57   | 75       
 22                             | 62   | 71       
 Opeth                          | 75   | 60       
@@ -54,9 +54,9 @@ Soilwork                       | 76   | 60
 Snarky Puppy                   | 79   | 58       
 Leo                            | 81   | 57       
 Mall Girl                      | 85   | 56       
-The Killers                    | 88   | 55       
-The Winery Dogs                | 89   | 55       
-Fit for an Autopsy             | 91   | 53       
+Fit for an Autopsy             | 88   | 55       
+The Killers                    | 89   | 55       
+The Winery Dogs                | 90   | 55       
 Lamb of God                    | 93   | 53       
 Clutch                         | 99   | 47       
 Def Leppard                    | 100  | 47       
@@ -68,7 +68,7 @@ Name                       | Rank | PlayCount
 Jean-Luc Ponty             | 13   | 226      
 The Night Flight Orchestra | 21   | 155      
 The Halo Effect            | 22   | 148      
-All That Remains           | 23   | 143      
+All That Remains           | 23   | 146      
 Death by Unga Bunga        | 24   | 143      
 Nospūn                     | 25   | 138      
 Animals as Leaders         | 29   | 134      
@@ -89,8 +89,8 @@ Porcupine Tree             | 60   | 73
 Aktiv Dödshjelp            | 61   | 72       
 VOLA                       | 63   | 68       
 Styx                       | 65   | 67       
-A.C.T                      | 67   | 64       
-Toto                       | 68   | 64       
+Toto                       | 67   | 65       
+A.C.T                      | 68   | 64       
 Ludo                       | 70   | 63       
 Queens of the Stone Age    | 71   | 63       
 The Rolling Stones         | 73   | 62       
@@ -101,11 +101,11 @@ Frank Zappa                | 80   | 57
 Red Hot Chili Peppers      | 82   | 57       
 Testament                  | 83   | 57       
 The Black Keys             | 84   | 57       
-Linkin Park                | 90   | 54       
-Flying Colors              | 94   | 52       
-Stevie Wonder              | 95   | 51       
-Van Halen                  | 96   | 51       
-will.i.am                  | 97   | 50       
+Linkin Park                | 91   | 54       
+Van Halen                  | 94   | 53       
+Flying Colors              | 95   | 52       
+will.i.am                  | 96   | 52       
+Stevie Wonder              | 97   | 51       
 Maraton                    | 98   | 49       
 
 ## Inactive top 100 artists not seen live (12)
@@ -115,8 +115,8 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 5    | 339      
 Rush                         | 6    | 327      
 Hall & Oates                 | 42   | 107      
-Led Zeppelin                 | 48   | 94       
-Creedence Clearwater Revival | 49   | 93       
+Creedence Clearwater Revival | 48   | 95       
+Led Zeppelin                 | 49   | 94       
 Pink Floyd                   | 64   | 67       
 Dire Straits                 | 66   | 66       
 Daft Punk                    | 69   | 63       
