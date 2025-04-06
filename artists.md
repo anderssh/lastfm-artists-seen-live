@@ -74,11 +74,11 @@ Nospūn                     | 25   | 138
 Animals as Leaders         | 29   | 134      
 Sylosis                    | 31   | 133      
 Lars Vaular                | 37   | 118      
-The Offspring              | 41   | 111      
+The Offspring              | 41   | 112      
 Parius                     | 44   | 99       
 Heilung                    | 46   | 96       
 DumDum Boys                | 50   | 87       
-The Police                 | 51   | 85       
+The Police                 | 51   | 86       
 DJ MøMø                    | 52   | 82       
 Bokassa                    | 54   | 77       
 Rival Sons                 | 55   | 77       
