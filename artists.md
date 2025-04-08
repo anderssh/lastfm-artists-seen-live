@@ -34,14 +34,14 @@ Amyl and the Sniffers          | 20   | 159
 Finntroll                      | 26   | 137      
 Eminem                         | 27   | 135      
 Ne Obliviscaris                | 28   | 135      
-Green Day                      | 30   | 133      
+Green Day                      | 30   | 134      
 Gojira                         | 32   | 130      
 Judas Priest                   | 33   | 128      
 Architects                     | 34   | 126      
 Mastodon                       | 35   | 126      
-Kvelertak                      | 36   | 118      
-Pagan's Mind                   | 38   | 118      
-Slipknot                       | 39   | 118      
+Kvelertak                      | 37   | 118      
+Pagan's Mind                   | 39   | 118      
+Slipknot                       | 40   | 118      
 Tool                           | 41   | 114      
 blink-182                      | 43   | 106      
 Maktkamp                       | 45   | 98       
@@ -49,13 +49,13 @@ Backstreet Girls               | 47   | 95
 The Good The Bad and The Zugly | 53   | 80       
 Oslo Ess                       | 57   | 75       
 22                             | 62   | 71       
-Opeth                          | 76   | 60       
-Soilwork                       | 78   | 60       
+Soilwork                       | 74   | 61       
+Opeth                          | 77   | 60       
 Snarky Puppy                   | 81   | 58       
-Leo                            | 83   | 57       
-The Killers                    | 86   | 57       
-Mall Girl                      | 87   | 56       
-Fit for an Autopsy             | 89   | 55       
+Fit for an Autopsy             | 82   | 57       
+Leo                            | 84   | 57       
+The Killers                    | 87   | 57       
+Mall Girl                      | 88   | 56       
 The Winery Dogs                | 90   | 55       
 Lamb of God                    | 93   | 53       
 Clutch                         | 99   | 47       
@@ -66,15 +66,15 @@ Def Leppard                    | 100  | 47
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 226      
-The Night Flight Orchestra | 21   | 155      
-The Halo Effect            | 22   | 148      
-All That Remains           | 23   | 146      
+All That Remains           | 21   | 158      
+The Night Flight Orchestra | 22   | 155      
+The Halo Effect            | 23   | 148      
 Death by Unga Bunga        | 24   | 143      
 Nospūn                     | 25   | 138      
 Animals as Leaders         | 29   | 134      
 Sylosis                    | 31   | 133      
-Lars Vaular                | 37   | 118      
-The Offspring              | 40   | 117      
+The Offspring              | 36   | 119      
+Lars Vaular                | 38   | 118      
 Parius                     | 44   | 99       
 Heilung                    | 46   | 96       
 DumDum Boys                | 50   | 87       
@@ -87,20 +87,20 @@ Thulsa Doom                | 58   | 74
 Love                       | 59   | 73       
 Porcupine Tree             | 60   | 73       
 Aktiv Dödshjelp            | 61   | 72       
-VOLA                       | 63   | 68       
+VOLA                       | 63   | 69       
 Styx                       | 65   | 67       
 Queens of the Stone Age    | 67   | 66       
 Toto                       | 68   | 65       
 A.C.T                      | 69   | 64       
 Ludo                       | 71   | 63       
 The Rolling Stones         | 73   | 62       
-Elton John                 | 75   | 60       
-Red Hot Chili Peppers      | 77   | 60       
+Elton John                 | 76   | 60       
+Red Hot Chili Peppers      | 78   | 60       
 Sum 41                     | 79   | 60       
 Ballinciaga                | 80   | 59       
-Frank Zappa                | 82   | 57       
-Testament                  | 84   | 57       
-The Black Keys             | 85   | 57       
+Frank Zappa                | 83   | 57       
+Testament                  | 85   | 57       
+The Black Keys             | 86   | 57       
 Linkin Park                | 91   | 54       
 Van Halen                  | 94   | 53       
 Flying Colors              | 95   | 52       
@@ -121,6 +121,6 @@ Pink Floyd                   | 64   | 67
 Dire Straits                 | 66   | 66       
 Daft Punk                    | 70   | 63       
 The Beatles                  | 72   | 62       
-The Notorious B.I.G.         | 74   | 61       
-The Who                      | 88   | 56       
+The Notorious B.I.G.         | 75   | 61       
+The Who                      | 89   | 56       
 Jokke & Valentinerne         | 92   | 53       
