@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 775      
+Dream Theater                  | 1    | 776      
 AC/DC                          | 2    | 443      
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 377      
@@ -25,13 +25,13 @@ Ghost                          | 10   | 264
 Circus Maximus                 | 11   | 259      
 Foo Fighters                   | 12   | 231      
 Haken                          | 14   | 220      
-Avenged Sevenfold              | 15   | 207      
+Avenged Sevenfold              | 15   | 209      
 Greta Van Fleet                | 16   | 206      
 The Dogs                       | 17   | 203      
 Honningbarna                   | 18   | 179      
 Eluveitie                      | 20   | 162      
 Amyl and the Sniffers          | 21   | 159      
-Finntroll                      | 26   | 137      
+Finntroll                      | 25   | 139      
 Eminem                         | 27   | 135      
 Ne Obliviscaris                | 28   | 135      
 Green Day                      | 30   | 134      
@@ -50,7 +50,7 @@ The Good The Bad and The Zugly | 53   | 80
 Oslo Ess                       | 57   | 75       
 22                             | 62   | 71       
 Soilwork                       | 72   | 62       
-Opeth                          | 77   | 60       
+Opeth                          | 78   | 60       
 Fit for an Autopsy             | 81   | 58       
 Snarky Puppy                   | 82   | 58       
 Leo                            | 84   | 57       
@@ -70,7 +70,7 @@ All That Remains           | 19   | 169
 The Night Flight Orchestra | 22   | 155      
 The Halo Effect            | 23   | 148      
 Death by Unga Bunga        | 24   | 143      
-Nospūn                     | 25   | 138      
+Nospūn                     | 26   | 138      
 Animals as Leaders         | 29   | 134      
 Sylosis                    | 31   | 133      
 The Offspring              | 37   | 121      
@@ -94,8 +94,8 @@ Toto                       | 68   | 66
 A.C.T                      | 69   | 64       
 Ludo                       | 71   | 63       
 The Rolling Stones         | 74   | 62       
-Elton John                 | 76   | 60       
-Red Hot Chili Peppers      | 78   | 60       
+Red Hot Chili Peppers      | 75   | 61       
+Elton John                 | 77   | 60       
 Sum 41                     | 79   | 60       
 Ballinciaga                | 80   | 59       
 Frank Zappa                | 83   | 57       
@@ -114,13 +114,13 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 339      
 Rush                         | 6    | 327      
-Hall & Oates                 | 42   | 107      
+Hall & Oates                 | 42   | 108      
 Creedence Clearwater Revival | 48   | 95       
 Led Zeppelin                 | 49   | 94       
 Pink Floyd                   | 64   | 67       
 Dire Straits                 | 66   | 66       
 Daft Punk                    | 70   | 63       
 The Beatles                  | 73   | 62       
-The Notorious B.I.G.         | 75   | 61       
+The Notorious B.I.G.         | 76   | 61       
 The Who                      | 89   | 56       
 Jokke & Valentinerne         | 94   | 53       
