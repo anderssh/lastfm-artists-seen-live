@@ -37,10 +37,10 @@ Ne Obliviscaris                | 28   | 135
 Green Day                      | 30   | 134      
 Gojira                         | 32   | 130      
 Judas Priest                   | 33   | 128      
-Architects                     | 34   | 126      
-Mastodon                       | 35   | 126      
+Mastodon                       | 34   | 127      
+Architects                     | 35   | 126      
 Tool                           | 36   | 122      
-Kvelertak                      | 38   | 118      
+Kvelertak                      | 38   | 120      
 Pagan's Mind                   | 40   | 118      
 Slipknot                       | 41   | 118      
 blink-182                      | 43   | 106      
