@@ -4,9 +4,9 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of artists seen live in total: 106
 
-- Number of fetched top artists: 100 (Active: 88 Inactive: 12)
+- Number of fetched top artists: 100 (Active: 87 Inactive: 13)
 
-- Number of top artists seen live: 46 (Active: 46 Inactive: 0)
+- Number of top artists seen live: 46 (Active: 45 Inactive: 1)
 
 - Number of top artists not seen live: 54 (Active: 42 Inactive: 12)
 
@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 776      
-AC/DC                          | 2    | 446      
+AC/DC                          | 2    | 447      
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 377      
 In Flames                      | 7    | 319      
@@ -25,7 +25,7 @@ Ghost                          | 10   | 264
 Circus Maximus                 | 11   | 259      
 Foo Fighters                   | 12   | 232      
 Haken                          | 14   | 220      
-Avenged Sevenfold              | 15   | 209      
+Avenged Sevenfold              | 15   | 210      
 Greta Van Fleet                | 16   | 206      
 The Dogs                       | 17   | 203      
 Honningbarna                   | 18   | 179      
@@ -33,8 +33,8 @@ Eluveitie                      | 20   | 162
 Amyl and the Sniffers          | 21   | 159      
 Finntroll                      | 25   | 139      
 Eminem                         | 27   | 135      
-Ne Obliviscaris                | 28   | 135      
-Green Day                      | 30   | 134      
+Green Day                      | 28   | 135      
+Ne Obliviscaris                | 29   | 135      
 Gojira                         | 32   | 130      
 Judas Priest                   | 33   | 128      
 Mastodon                       | 34   | 128      
@@ -46,7 +46,7 @@ Slipknot                       | 41   | 118
 blink-182                      | 43   | 106      
 Maktkamp                       | 46   | 98       
 Backstreet Girls               | 47   | 95       
-The Good The Bad and The Zugly | 53   | 80       
+The Good The Bad and The Zugly | 53   | 81       
 Oslo Ess                       | 57   | 75       
 22                             | 62   | 71       
 Soilwork                       | 72   | 62       
@@ -59,7 +59,7 @@ Mall Girl                      | 88   | 56
 Perfekt Defekt                 | 90   | 55       
 The Winery Dogs                | 91   | 55       
 Lamb of God                    | 95   | 53       
-Machine Head                   | 100  | 48       
+Kaizers Orchestra              | 100  | 48       
 
 ## Active top 100 artists not seen live (42)
 
@@ -71,7 +71,7 @@ The Night Flight Orchestra | 22   | 155
 The Halo Effect            | 23   | 148      
 Death by Unga Bunga        | 24   | 143      
 Nospūn                     | 26   | 138      
-Animals as Leaders         | 29   | 134      
+Animals as Leaders         | 30   | 134      
 Sylosis                    | 31   | 133      
 The Offspring              | 37   | 121      
 Lars Vaular                | 39   | 118      
