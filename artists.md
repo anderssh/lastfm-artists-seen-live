@@ -19,7 +19,7 @@ AC/DC                          | 2    | 447
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 377      
 In Flames                      | 7    | 319      
-Seven Spires                   | 8    | 317      
+Seven Spires                   | 8    | 319      
 Skálmöld                       | 9    | 316      
 Ghost                          | 10   | 264      
 Circus Maximus                 | 11   | 259      
@@ -49,12 +49,12 @@ Backstreet Girls               | 47   | 95
 The Good The Bad and The Zugly | 53   | 81       
 Oslo Ess                       | 57   | 75       
 22                             | 62   | 71       
-Soilwork                       | 72   | 62       
-Opeth                          | 78   | 60       
+Soilwork                       | 73   | 62       
+Opeth                          | 79   | 60       
 Fit for an Autopsy             | 81   | 58       
 Snarky Puppy                   | 82   | 58       
-Leo                            | 84   | 57       
-The Killers                    | 87   | 57       
+The Killers                    | 83   | 58       
+Leo                            | 85   | 57       
 Mall Girl                      | 88   | 56       
 Perfekt Defekt                 | 90   | 55       
 The Winery Dogs                | 91   | 55       
@@ -75,11 +75,11 @@ Animals as Leaders         | 30   | 134
 Sylosis                    | 31   | 133      
 The Offspring              | 37   | 121      
 Lars Vaular                | 39   | 118      
-Heilung                    | 44   | 102      
+Heilung                    | 44   | 103      
 Parius                     | 45   | 99       
 DumDum Boys                | 50   | 87       
 The Police                 | 51   | 86       
-DJ MøMø                    | 52   | 82       
+DJ MøMø                    | 52   | 84       
 Bokassa                    | 54   | 77       
 Rival Sons                 | 55   | 77       
 Bill Withers               | 56   | 75       
@@ -93,14 +93,14 @@ Queens of the Stone Age    | 67   | 66
 Toto                       | 68   | 66       
 A.C.T                      | 69   | 64       
 Ludo                       | 71   | 63       
-The Rolling Stones         | 74   | 62       
-Red Hot Chili Peppers      | 75   | 61       
-Elton John                 | 77   | 60       
-Sum 41                     | 79   | 60       
-Ballinciaga                | 80   | 59       
-Frank Zappa                | 83   | 57       
-Testament                  | 85   | 57       
-The Black Keys             | 86   | 57       
+Elton John                 | 72   | 62       
+The Rolling Stones         | 75   | 62       
+Red Hot Chili Peppers      | 76   | 61       
+Ballinciaga                | 78   | 60       
+Sum 41                     | 80   | 60       
+Frank Zappa                | 84   | 57       
+Testament                  | 86   | 57       
+The Black Keys             | 87   | 57       
 Linkin Park                | 92   | 54       
 will.i.am                  | 93   | 54       
 Van Halen                  | 96   | 53       
@@ -120,7 +120,7 @@ Led Zeppelin                 | 49   | 94
 Pink Floyd                   | 64   | 67       
 Dire Straits                 | 66   | 66       
 Daft Punk                    | 70   | 63       
-The Beatles                  | 73   | 62       
-The Notorious B.I.G.         | 76   | 61       
+The Beatles                  | 74   | 62       
+The Notorious B.I.G.         | 77   | 61       
 The Who                      | 89   | 56       
 Jokke & Valentinerne         | 94   | 53       
