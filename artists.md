@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 781      
-AC/DC                          | 2    | 455      
+AC/DC                          | 2    | 456      
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 379      
 In Flames                      | 7    | 320      
@@ -52,8 +52,8 @@ Oslo Ess                       | 57   | 75
 Soilwork                       | 73   | 63       
 Opeth                          | 79   | 60       
 The Killers                    | 81   | 60       
-Fit for an Autopsy             | 82   | 58       
-Snarky Puppy                   | 83   | 58       
+Fit for an Autopsy             | 83   | 58       
+Snarky Puppy                   | 84   | 58       
 Leo                            | 86   | 57       
 Mall Girl                      | 88   | 56       
 Perfekt Defekt                 | 91   | 55       
@@ -98,7 +98,7 @@ Elton John                 | 75   | 62
 The Rolling Stones         | 77   | 62       
 Ballinciaga                | 78   | 60       
 Sum 41                     | 80   | 60       
-The Black Keys             | 84   | 58       
+The Black Keys             | 82   | 59       
 Frank Zappa                | 85   | 57       
 Testament                  | 87   | 57       
 Linkin Park                | 90   | 55       
