@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 781      
-AC/DC                          | 2    | 456      
+AC/DC                          | 2    | 457      
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 379      
 In Flames                      | 7    | 320      
@@ -32,7 +32,7 @@ Honningbarna                   | 18   | 179
 Eluveitie                      | 20   | 162      
 Amyl and the Sniffers          | 21   | 159      
 Finntroll                      | 25   | 139      
-Green Day                      | 27   | 137      
+Green Day                      | 26   | 138      
 Eminem                         | 28   | 135      
 Ne Obliviscaris                | 29   | 135      
 Gojira                         | 32   | 130      
@@ -70,10 +70,10 @@ All That Remains           | 19   | 169
 The Night Flight Orchestra | 22   | 155      
 The Halo Effect            | 23   | 148      
 Death by Unga Bunga        | 24   | 143      
-Nospūn                     | 26   | 138      
+Nospūn                     | 27   | 138      
 Animals as Leaders         | 30   | 134      
 Sylosis                    | 31   | 133      
-The Offspring              | 36   | 125      
+The Offspring              | 36   | 126      
 Lars Vaular                | 40   | 118      
 Heilung                    | 44   | 104      
 Parius                     | 45   | 99       
@@ -88,10 +88,10 @@ Love                       | 59   | 73
 Porcupine Tree             | 60   | 73       
 Aktiv Dödshjelp            | 61   | 72       
 VOLA                       | 63   | 69       
-Queens of the Stone Age    | 66   | 67       
-Red Hot Chili Peppers      | 67   | 67       
-Styx                       | 68   | 67       
-Toto                       | 69   | 66       
+Toto                       | 65   | 68       
+Queens of the Stone Age    | 67   | 67       
+Red Hot Chili Peppers      | 68   | 67       
+Styx                       | 69   | 67       
 A.C.T                      | 70   | 64       
 Ludo                       | 72   | 63       
 Elton John                 | 75   | 62       
@@ -117,8 +117,8 @@ Rush                         | 6    | 328
 Hall & Oates                 | 42   | 108      
 Creedence Clearwater Revival | 48   | 95       
 Led Zeppelin                 | 49   | 94       
-Dire Straits                 | 64   | 67       
-Pink Floyd                   | 65   | 67       
+Dire Straits                 | 64   | 68       
+Pink Floyd                   | 66   | 67       
 Daft Punk                    | 71   | 63       
 The Notorious B.I.G.         | 74   | 63       
 The Beatles                  | 76   | 62       
