@@ -68,7 +68,7 @@ Name                       | Rank | PlayCount
 Jean-Luc Ponty             | 13   | 226      
 All That Remains           | 19   | 169      
 The Night Flight Orchestra | 22   | 155      
-The Halo Effect            | 23   | 148      
+The Halo Effect            | 23   | 149      
 Death by Unga Bunga        | 24   | 143      
 Nospūn                     | 27   | 138      
 Animals as Leaders         | 30   | 134      
