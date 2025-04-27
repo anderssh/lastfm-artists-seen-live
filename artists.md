@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 785      
+Dream Theater                  | 1    | 786      
 AC/DC                          | 2    | 457      
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 379      
@@ -32,7 +32,7 @@ Honningbarna                   | 18   | 179
 Eluveitie                      | 20   | 162      
 Amyl and the Sniffers          | 21   | 159      
 Finntroll                      | 25   | 139      
-Green Day                      | 26   | 138      
+Green Day                      | 26   | 139      
 Eminem                         | 28   | 135      
 Ne Obliviscaris                | 29   | 135      
 Gojira                         | 32   | 130      
@@ -43,19 +43,19 @@ Slipknot                       | 37   | 122
 Tool                           | 38   | 122      
 Kvelertak                      | 39   | 121      
 Pagan's Mind                   | 41   | 118      
-blink-182                      | 43   | 106      
+blink-182                      | 43   | 107      
 Maktkamp                       | 46   | 98       
 Backstreet Girls               | 47   | 95       
 The Good The Bad and The Zugly | 53   | 81       
 Oslo Ess                       | 57   | 75       
 22                             | 62   | 71       
 Soilwork                       | 73   | 63       
-Opeth                          | 79   | 60       
-The Killers                    | 81   | 60       
+The Killers                    | 74   | 63       
+Opeth                          | 81   | 60       
 Fit for an Autopsy             | 83   | 58       
 Snarky Puppy                   | 84   | 58       
 Leo                            | 86   | 57       
-Mall Girl                      | 88   | 56       
+Mall Girl                      | 89   | 56       
 Perfekt Defekt                 | 91   | 55       
 The Winery Dogs                | 92   | 55       
 Lamb of God                    | 95   | 53       
@@ -88,20 +88,20 @@ Love                       | 59   | 73
 Porcupine Tree             | 60   | 73       
 Aktiv Dödshjelp            | 61   | 72       
 VOLA                       | 63   | 69       
-Toto                       | 65   | 68       
-Queens of the Stone Age    | 67   | 67       
-Red Hot Chili Peppers      | 68   | 67       
+Red Hot Chili Peppers      | 66   | 68       
+Toto                       | 67   | 68       
+Queens of the Stone Age    | 68   | 67       
 Styx                       | 69   | 67       
 A.C.T                      | 70   | 64       
 Ludo                       | 72   | 63       
-Elton John                 | 75   | 62       
-The Rolling Stones         | 77   | 62       
-Ballinciaga                | 78   | 60       
-Sum 41                     | 80   | 60       
-The Black Keys             | 82   | 59       
+Elton John                 | 76   | 62       
+The Rolling Stones         | 78   | 62       
+The Black Keys             | 79   | 61       
+Ballinciaga                | 80   | 60       
+Sum 41                     | 82   | 60       
 Frank Zappa                | 85   | 57       
 Testament                  | 87   | 57       
-Linkin Park                | 90   | 55       
+Linkin Park                | 88   | 56       
 will.i.am                  | 93   | 54       
 Van Halen                  | 96   | 53       
 Flying Colors              | 97   | 52       
@@ -113,14 +113,14 @@ Maraton                    | 99   | 50
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 339      
-Rush                         | 6    | 328      
+Rush                         | 6    | 330      
 Hall & Oates                 | 42   | 108      
 Creedence Clearwater Revival | 48   | 95       
 Led Zeppelin                 | 49   | 94       
 Dire Straits                 | 64   | 68       
-Pink Floyd                   | 66   | 67       
+Pink Floyd                   | 65   | 68       
 Daft Punk                    | 71   | 63       
-The Notorious B.I.G.         | 74   | 63       
-The Beatles                  | 76   | 62       
-The Who                      | 89   | 56       
+The Notorious B.I.G.         | 75   | 63       
+The Beatles                  | 77   | 62       
+The Who                      | 90   | 56       
 Jokke & Valentinerne         | 94   | 53       
