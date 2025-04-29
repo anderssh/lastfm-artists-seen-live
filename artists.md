@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 786      
+Dream Theater                  | 1    | 790      
 AC/DC                          | 2    | 457      
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 379      
@@ -29,7 +29,7 @@ Avenged Sevenfold              | 15   | 210
 Greta Van Fleet                | 16   | 206      
 The Dogs                       | 17   | 203      
 Honningbarna                   | 18   | 179      
-Eluveitie                      | 20   | 162      
+Eluveitie                      | 20   | 167      
 Amyl and the Sniffers          | 21   | 159      
 Finntroll                      | 25   | 139      
 Green Day                      | 26   | 139      
