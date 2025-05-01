@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 790      
-AC/DC                          | 2    | 458      
+AC/DC                          | 2    | 467      
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 379      
 In Flames                      | 7    | 320      
@@ -39,7 +39,7 @@ Gojira                         | 32   | 130
 Tool                           | 33   | 129      
 Judas Priest                   | 34   | 128      
 Mastodon                       | 35   | 128      
-Architects                     | 36   | 126      
+Architects                     | 37   | 126      
 Slipknot                       | 38   | 122      
 Kvelertak                      | 39   | 121      
 Pagan's Mind                   | 41   | 118      
@@ -49,8 +49,8 @@ Backstreet Girls               | 47   | 95
 The Good The Bad and The Zugly | 53   | 81       
 Oslo Ess                       | 57   | 75       
 22                             | 62   | 71       
-Soilwork                       | 73   | 63       
-The Killers                    | 74   | 63       
+The Killers                    | 71   | 64       
+Soilwork                       | 74   | 63       
 Opeth                          | 81   | 60       
 Fit for an Autopsy             | 83   | 58       
 Snarky Puppy                   | 84   | 58       
@@ -73,12 +73,12 @@ Death by Unga Bunga        | 24   | 143
 Nospūn                     | 27   | 138      
 Animals as Leaders         | 30   | 134      
 Sylosis                    | 31   | 133      
-The Offspring              | 37   | 126      
+The Offspring              | 36   | 127      
 Lars Vaular                | 40   | 118      
 Heilung                    | 44   | 104      
 Parius                     | 45   | 99       
-DumDum Boys                | 50   | 87       
-The Police                 | 51   | 87       
+The Police                 | 50   | 88       
+DumDum Boys                | 51   | 87       
 DJ MøMø                    | 52   | 84       
 Bokassa                    | 54   | 77       
 Rival Sons                 | 55   | 77       
@@ -87,13 +87,13 @@ Thulsa Doom                | 58   | 74
 Love                       | 59   | 73       
 Porcupine Tree             | 60   | 73       
 Aktiv Dödshjelp            | 61   | 72       
-VOLA                       | 63   | 69       
+VOLA                       | 64   | 69       
 Red Hot Chili Peppers      | 66   | 68       
 Toto                       | 67   | 68       
 Queens of the Stone Age    | 68   | 67       
 Styx                       | 69   | 67       
 A.C.T                      | 70   | 64       
-Ludo                       | 72   | 63       
+Ludo                       | 73   | 63       
 Elton John                 | 76   | 62       
 The Rolling Stones         | 78   | 62       
 The Black Keys             | 79   | 61       
@@ -112,14 +112,14 @@ Maraton                    | 99   | 50
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 339      
+Fleetwood Mac                | 5    | 340      
 Rush                         | 6    | 330      
 Hall & Oates                 | 42   | 108      
 Creedence Clearwater Revival | 48   | 95       
 Led Zeppelin                 | 49   | 94       
-Dire Straits                 | 64   | 68       
-Pink Floyd                   | 65   | 68       
-Daft Punk                    | 71   | 63       
+Pink Floyd                   | 63   | 70       
+Dire Straits                 | 65   | 68       
+Daft Punk                    | 72   | 63       
 The Notorious B.I.G.         | 75   | 63       
 The Beatles                  | 77   | 62       
 The Who                      | 90   | 56       
