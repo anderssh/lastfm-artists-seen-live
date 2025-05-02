@@ -15,13 +15,13 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 790      
-AC/DC                          | 2    | 467      
+AC/DC                          | 2    | 468      
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 379      
 In Flames                      | 7    | 320      
 Seven Spires                   | 8    | 319      
 Skálmöld                       | 9    | 316      
-Ghost                          | 10   | 286      
+Ghost                          | 10   | 291      
 Circus Maximus                 | 11   | 272      
 Foo Fighters                   | 12   | 233      
 Haken                          | 14   | 220      
@@ -51,15 +51,15 @@ Oslo Ess                       | 57   | 75
 22                             | 62   | 71       
 The Killers                    | 71   | 64       
 Soilwork                       | 74   | 63       
-Opeth                          | 81   | 60       
-Fit for an Autopsy             | 83   | 58       
-Snarky Puppy                   | 84   | 58       
-Leo                            | 86   | 57       
+Opeth                          | 82   | 60       
+Fit for an Autopsy             | 84   | 58       
+Snarky Puppy                   | 85   | 58       
+Leo                            | 87   | 57       
 Mall Girl                      | 89   | 56       
 Perfekt Defekt                 | 91   | 55       
 The Winery Dogs                | 92   | 55       
 Lamb of God                    | 95   | 53       
-Machine Head                   | 100  | 49       
+Machine Head                   | 99   | 50       
 
 ## Active top 100 artists not seen live (42)
 
@@ -98,15 +98,15 @@ Elton John                 | 76   | 62
 The Rolling Stones         | 78   | 62       
 The Black Keys             | 79   | 61       
 Ballinciaga                | 80   | 60       
-Sum 41                     | 82   | 60       
-Frank Zappa                | 85   | 57       
-Testament                  | 87   | 57       
-Linkin Park                | 88   | 56       
+Linkin Park                | 81   | 60       
+Sum 41                     | 83   | 60       
+Frank Zappa                | 86   | 57       
+Testament                  | 88   | 57       
 will.i.am                  | 93   | 54       
 Van Halen                  | 96   | 53       
 Flying Colors              | 97   | 52       
 Stevie Wonder              | 98   | 51       
-Maraton                    | 99   | 50       
+Maraton                    | 100  | 50       
 
 ## Inactive top 100 artists not seen live (12)
 
