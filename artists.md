@@ -15,13 +15,13 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 790      
-AC/DC                          | 2    | 468      
+AC/DC                          | 2    | 481      
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 379      
 In Flames                      | 7    | 320      
 Seven Spires                   | 8    | 319      
 Skálmöld                       | 9    | 316      
-Ghost                          | 10   | 291      
+Ghost                          | 10   | 292      
 Circus Maximus                 | 11   | 272      
 Foo Fighters                   | 12   | 233      
 Haken                          | 14   | 220      
@@ -31,7 +31,7 @@ The Dogs                       | 17   | 203
 Honningbarna                   | 18   | 179      
 Eluveitie                      | 20   | 167      
 Amyl and the Sniffers          | 21   | 159      
-Finntroll                      | 25   | 139      
+Finntroll                      | 25   | 140      
 Green Day                      | 26   | 139      
 Eminem                         | 28   | 135      
 Ne Obliviscaris                | 29   | 135      
@@ -52,14 +52,14 @@ Oslo Ess                       | 57   | 75
 The Killers                    | 71   | 64       
 Soilwork                       | 74   | 63       
 Opeth                          | 82   | 60       
-Fit for an Autopsy             | 84   | 58       
+Fit for an Autopsy             | 84   | 59       
 Snarky Puppy                   | 85   | 58       
 Leo                            | 87   | 57       
 Mall Girl                      | 89   | 56       
 Perfekt Defekt                 | 91   | 55       
 The Winery Dogs                | 92   | 55       
 Lamb of God                    | 95   | 53       
-Machine Head                   | 99   | 50       
+Machine Head                   | 98   | 51       
 
 ## Active top 100 artists not seen live (42)
 
@@ -105,7 +105,7 @@ Testament                  | 88   | 57
 will.i.am                  | 93   | 54       
 Van Halen                  | 96   | 53       
 Flying Colors              | 97   | 52       
-Stevie Wonder              | 98   | 51       
+Stevie Wonder              | 99   | 51       
 Maraton                    | 100  | 50       
 
 ## Inactive top 100 artists not seen live (12)
