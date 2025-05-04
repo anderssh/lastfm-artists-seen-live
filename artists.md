@@ -21,7 +21,7 @@ Metallica                      | 4    | 379
 In Flames                      | 7    | 320      
 Seven Spires                   | 8    | 319      
 Skálmöld                       | 9    | 316      
-Ghost                          | 10   | 292      
+Ghost                          | 10   | 295      
 Circus Maximus                 | 11   | 272      
 Foo Fighters                   | 12   | 233      
 Haken                          | 14   | 220      
@@ -59,14 +59,14 @@ Mall Girl                      | 89   | 56
 Perfekt Defekt                 | 91   | 55       
 The Winery Dogs                | 92   | 55       
 Lamb of God                    | 95   | 53       
-Machine Head                   | 98   | 51       
+Machine Head                   | 98   | 52       
 
 ## Active top 100 artists not seen live (42)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 226      
-All That Remains           | 19   | 169      
+All That Remains           | 19   | 170      
 The Night Flight Orchestra | 22   | 155      
 The Halo Effect            | 23   | 149      
 Death by Unga Bunga        | 24   | 143      
@@ -95,10 +95,10 @@ Styx                       | 69   | 67
 A.C.T                      | 70   | 64       
 Ludo                       | 73   | 63       
 Elton John                 | 76   | 62       
-The Rolling Stones         | 78   | 62       
-The Black Keys             | 79   | 61       
-Ballinciaga                | 80   | 60       
-Linkin Park                | 81   | 60       
+Linkin Park                | 77   | 62       
+The Rolling Stones         | 79   | 62       
+The Black Keys             | 80   | 61       
+Ballinciaga                | 81   | 60       
 Sum 41                     | 83   | 60       
 Frank Zappa                | 86   | 57       
 Testament                  | 88   | 57       
@@ -121,6 +121,6 @@ Pink Floyd                   | 63   | 70
 Dire Straits                 | 65   | 68       
 Daft Punk                    | 72   | 63       
 The Notorious B.I.G.         | 75   | 63       
-The Beatles                  | 77   | 62       
+The Beatles                  | 78   | 62       
 The Who                      | 90   | 56       
 Jokke & Valentinerne         | 94   | 53       
