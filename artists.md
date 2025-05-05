@@ -15,13 +15,13 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 790      
-AC/DC                          | 2    | 481      
+AC/DC                          | 2    | 491      
 Spidergawd                     | 3    | 389      
 Metallica                      | 4    | 379      
 In Flames                      | 7    | 320      
 Seven Spires                   | 8    | 319      
 Skálmöld                       | 9    | 316      
-Ghost                          | 10   | 295      
+Ghost                          | 10   | 296      
 Circus Maximus                 | 11   | 272      
 Foo Fighters                   | 12   | 233      
 Haken                          | 14   | 220      
@@ -31,8 +31,8 @@ The Dogs                       | 17   | 203
 Honningbarna                   | 18   | 179      
 Eluveitie                      | 20   | 167      
 Amyl and the Sniffers          | 21   | 159      
-Finntroll                      | 25   | 140      
-Green Day                      | 26   | 139      
+Finntroll                      | 26   | 140      
+Green Day                      | 27   | 139      
 Eminem                         | 28   | 135      
 Ne Obliviscaris                | 29   | 135      
 Gojira                         | 32   | 130      
@@ -68,9 +68,9 @@ Name                       | Rank | PlayCount
 Jean-Luc Ponty             | 13   | 226      
 All That Remains           | 19   | 170      
 The Night Flight Orchestra | 22   | 155      
-The Halo Effect            | 23   | 149      
-Death by Unga Bunga        | 24   | 143      
-Nospūn                     | 27   | 138      
+Nospūn                     | 23   | 151      
+The Halo Effect            | 24   | 149      
+Death by Unga Bunga        | 25   | 143      
 Animals as Leaders         | 30   | 134      
 Sylosis                    | 31   | 133      
 The Offspring              | 36   | 127      
@@ -87,17 +87,17 @@ Thulsa Doom                | 58   | 74
 Love                       | 59   | 73       
 Porcupine Tree             | 60   | 73       
 Aktiv Dödshjelp            | 61   | 72       
-VOLA                       | 64   | 69       
-Red Hot Chili Peppers      | 66   | 68       
-Toto                       | 67   | 68       
+Red Hot Chili Peppers      | 64   | 69       
+Toto                       | 65   | 69       
+VOLA                       | 66   | 69       
 Queens of the Stone Age    | 68   | 67       
 Styx                       | 69   | 67       
 A.C.T                      | 70   | 64       
 Ludo                       | 73   | 63       
 Elton John                 | 76   | 62       
 Linkin Park                | 77   | 62       
-The Rolling Stones         | 79   | 62       
-The Black Keys             | 80   | 61       
+The Black Keys             | 79   | 62       
+The Rolling Stones         | 80   | 62       
 Ballinciaga                | 81   | 60       
 Sum 41                     | 83   | 60       
 Frank Zappa                | 86   | 57       
@@ -118,7 +118,7 @@ Hall & Oates                 | 42   | 108
 Creedence Clearwater Revival | 48   | 95       
 Led Zeppelin                 | 49   | 94       
 Pink Floyd                   | 63   | 70       
-Dire Straits                 | 65   | 68       
+Dire Straits                 | 67   | 68       
 Daft Punk                    | 72   | 63       
 The Notorious B.I.G.         | 75   | 63       
 The Beatles                  | 78   | 62       
