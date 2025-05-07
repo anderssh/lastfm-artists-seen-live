@@ -22,7 +22,7 @@ In Flames                      | 7    | 320
 Seven Spires                   | 8    | 319      
 Skálmöld                       | 9    | 316      
 Ghost                          | 10   | 296      
-Circus Maximus                 | 11   | 272      
+Circus Maximus                 | 11   | 274      
 Foo Fighters                   | 12   | 233      
 Haken                          | 14   | 220      
 Avenged Sevenfold              | 15   | 211      
@@ -30,7 +30,7 @@ Greta Van Fleet                | 16   | 206
 The Dogs                       | 17   | 203      
 Honningbarna                   | 18   | 179      
 Eluveitie                      | 20   | 167      
-Amyl and the Sniffers          | 21   | 159      
+Amyl and the Sniffers          | 22   | 159      
 Green Day                      | 26   | 141      
 Finntroll                      | 27   | 140      
 Eminem                         | 28   | 135      
@@ -49,8 +49,8 @@ Backstreet Girls               | 47   | 95
 The Good The Bad and The Zugly | 53   | 82       
 Oslo Ess                       | 57   | 75       
 22                             | 63   | 71       
-The Killers                    | 72   | 64       
-Soilwork                       | 75   | 63       
+The Killers                    | 74   | 64       
+Soilwork                       | 77   | 63       
 Opeth                          | 82   | 60       
 Fit for an Autopsy             | 84   | 59       
 Snarky Puppy                   | 85   | 58       
@@ -67,18 +67,18 @@ Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 226      
 All That Remains           | 19   | 170      
-The Night Flight Orchestra | 22   | 155      
-Nospūn                     | 23   | 151      
+Nospūn                     | 21   | 164      
+The Night Flight Orchestra | 23   | 155      
 The Halo Effect            | 24   | 149      
 Death by Unga Bunga        | 25   | 143      
 Animals as Leaders         | 30   | 134      
 Sylosis                    | 31   | 133      
-The Offspring              | 36   | 127      
+The Offspring              | 36   | 128      
 Lars Vaular                | 40   | 118      
 Heilung                    | 44   | 104      
-Parius                     | 45   | 99       
+Parius                     | 45   | 100      
 DJ MøMø                    | 50   | 90       
-The Police                 | 51   | 88       
+The Police                 | 51   | 89       
 DumDum Boys                | 52   | 87       
 Bokassa                    | 54   | 77       
 Rival Sons                 | 55   | 77       
@@ -92,12 +92,12 @@ Toto                       | 65   | 69
 VOLA                       | 66   | 69       
 Queens of the Stone Age    | 68   | 67       
 Styx                       | 69   | 67       
-A.C.T                      | 70   | 64       
-Ballinciaga                | 71   | 64       
-Ludo                       | 74   | 63       
-Elton John                 | 77   | 62       
-Linkin Park                | 78   | 62       
-The Black Keys             | 80   | 62       
+The Black Keys             | 70   | 66       
+Ludo                       | 71   | 65       
+A.C.T                      | 72   | 64       
+Ballinciaga                | 73   | 64       
+Elton John                 | 76   | 63       
+Linkin Park                | 80   | 62       
 The Rolling Stones         | 81   | 62       
 Sum 41                     | 83   | 60       
 Frank Zappa                | 86   | 57       
@@ -112,15 +112,15 @@ Stevie Wonder              | 100  | 51
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 340      
+Fleetwood Mac                | 5    | 341      
 Rush                         | 6    | 330      
 Hall & Oates                 | 42   | 108      
 Creedence Clearwater Revival | 48   | 95       
 Led Zeppelin                 | 49   | 94       
 Pink Floyd                   | 60   | 73       
 Dire Straits                 | 67   | 68       
-Daft Punk                    | 73   | 63       
-The Notorious B.I.G.         | 76   | 63       
-The Beatles                  | 79   | 62       
+Daft Punk                    | 75   | 63       
+The Beatles                  | 78   | 63       
+The Notorious B.I.G.         | 79   | 63       
 The Who                      | 90   | 56       
 Jokke & Valentinerne         | 94   | 53       
