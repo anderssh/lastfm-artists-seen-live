@@ -4,11 +4,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of artists seen live in total: 106
 
-- Number of fetched top artists: 100 (Active: 88 Inactive: 12)
+- Number of fetched top artists: 100 (Active: 87 Inactive: 13)
 
 - Number of top artists seen live: 46 (Active: 46 Inactive: 0)
 
-- Number of top artists not seen live: 54 (Active: 42 Inactive: 12)
+- Number of top artists not seen live: 54 (Active: 41 Inactive: 13)
 
 ## Top 100 artists seen live (46)
 
@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 792      
 AC/DC                          | 2    | 496      
-Spidergawd                     | 3    | 389      
+Spidergawd                     | 3    | 405      
 Metallica                      | 4    | 379      
 In Flames                      | 7    | 320      
 Seven Spires                   | 8    | 319      
@@ -61,7 +61,7 @@ The Winery Dogs                | 92   | 55
 Lamb of God                    | 95   | 53       
 Machine Head                   | 96   | 53       
 
-## Active top 100 artists not seen live (42)
+## Active top 100 artists not seen live (41)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
@@ -105,10 +105,9 @@ Testament                  | 88   | 57
 will.i.am                  | 93   | 54       
 Van Halen                  | 97   | 53       
 Flying Colors              | 98   | 52       
-Megadeth                   | 99   | 51       
-Stevie Wonder              | 100  | 51       
+Megadeth                   | 100  | 51       
 
-## Inactive top 100 artists not seen live (12)
+## Inactive top 100 artists not seen live (13)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
@@ -124,3 +123,4 @@ The Beatles                  | 78   | 63
 The Notorious B.I.G.         | 79   | 63       
 The Who                      | 90   | 56       
 Jokke & Valentinerne         | 94   | 53       
+Thin Lizzy                   | 99   | 52       
