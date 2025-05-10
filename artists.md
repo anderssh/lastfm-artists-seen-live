@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 792      
 AC/DC                          | 2    | 496      
 Spidergawd                     | 3    | 405      
-Metallica                      | 4    | 379      
+Metallica                      | 4    | 381      
 In Flames                      | 7    | 320      
 Seven Spires                   | 8    | 319      
 Skálmöld                       | 9    | 316      
@@ -105,7 +105,7 @@ Testament                  | 88   | 57
 will.i.am                  | 93   | 54       
 Van Halen                  | 97   | 53       
 Flying Colors              | 98   | 52       
-Megadeth                   | 100  | 51       
+Megadeth                   | 99   | 52       
 
 ## Inactive top 100 artists not seen live (13)
 
@@ -123,4 +123,4 @@ The Beatles                  | 78   | 63
 The Notorious B.I.G.         | 79   | 63       
 The Who                      | 90   | 56       
 Jokke & Valentinerne         | 94   | 53       
-Thin Lizzy                   | 99   | 52       
+Thin Lizzy                   | 100  | 52       
