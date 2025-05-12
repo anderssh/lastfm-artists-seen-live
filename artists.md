@@ -54,7 +54,7 @@ Soilwork                       | 77   | 63
 Opeth                          | 82   | 60       
 Fit for an Autopsy             | 84   | 59       
 Snarky Puppy                   | 85   | 58       
-Leo                            | 87   | 57       
+Leo                            | 88   | 57       
 Mall Girl                      | 89   | 56       
 Perfekt Defekt                 | 91   | 55       
 The Winery Dogs                | 92   | 55       
@@ -100,8 +100,8 @@ Elton John                 | 74   | 64
 Linkin Park                | 80   | 62       
 The Rolling Stones         | 81   | 62       
 Sum 41                     | 83   | 60       
-Frank Zappa                | 86   | 57       
-Testament                  | 88   | 57       
+Testament                  | 86   | 58       
+Frank Zappa                | 87   | 57       
 will.i.am                  | 93   | 54       
 Van Halen                  | 97   | 53       
 Flying Colors              | 98   | 52       
