@@ -46,10 +46,10 @@ Pagan's Mind                   | 41   | 118
 blink-182                      | 43   | 107      
 Maktkamp                       | 46   | 98       
 Backstreet Girls               | 47   | 95       
-The Good The Bad and The Zugly | 53   | 82       
-Oslo Ess                       | 57   | 75       
-22                             | 63   | 71       
-Opeth                          | 64   | 70       
+Opeth                          | 53   | 84       
+The Good The Bad and The Zugly | 54   | 82       
+Oslo Ess                       | 58   | 75       
+22                             | 64   | 71       
 The Killers                    | 76   | 64       
 Soilwork                       | 78   | 63       
 Fit for an Autopsy             | 84   | 59       
@@ -80,19 +80,19 @@ Parius                     | 45   | 100
 DJ MøMø                    | 50   | 90       
 The Police                 | 51   | 89       
 DumDum Boys                | 52   | 87       
-Bokassa                    | 54   | 77       
-Rival Sons                 | 55   | 77       
-Bill Withers               | 56   | 75       
-Thulsa Doom                | 58   | 74       
-Love                       | 59   | 73       
-Porcupine Tree             | 61   | 73       
-Aktiv Dödshjelp            | 62   | 72       
-Red Hot Chili Peppers      | 65   | 69       
-Toto                       | 66   | 69       
+Bokassa                    | 55   | 77       
+Rival Sons                 | 56   | 77       
+Bill Withers               | 57   | 75       
+Thulsa Doom                | 59   | 74       
+Love                       | 60   | 73       
+Porcupine Tree             | 62   | 73       
+Aktiv Dödshjelp            | 63   | 72       
+Toto                       | 65   | 70       
+Red Hot Chili Peppers      | 66   | 69       
 VOLA                       | 67   | 69       
-Queens of the Stone Age    | 69   | 67       
-Styx                       | 70   | 67       
-The Black Keys             | 71   | 66       
+The Black Keys             | 69   | 68       
+Queens of the Stone Age    | 70   | 67       
+Styx                       | 71   | 67       
 Ludo                       | 72   | 65       
 A.C.T                      | 73   | 64       
 Ballinciaga                | 74   | 64       
@@ -116,7 +116,7 @@ Rush                         | 6    | 330
 Hall & Oates                 | 42   | 108      
 Creedence Clearwater Revival | 48   | 95       
 Led Zeppelin                 | 49   | 94       
-Pink Floyd                   | 60   | 73       
+Pink Floyd                   | 61   | 73       
 Dire Straits                 | 68   | 68       
 Daft Punk                    | 77   | 63       
 The Beatles                  | 79   | 63       
