@@ -20,8 +20,8 @@ Spidergawd                     | 3    | 405
 Metallica                      | 4    | 381      
 In Flames                      | 7    | 321      
 Seven Spires                   | 8    | 319      
-Skálmöld                       | 9    | 316      
-Ghost                          | 10   | 296      
+Ghost                          | 9    | 317      
+Skálmöld                       | 10   | 316      
 Circus Maximus                 | 11   | 274      
 Foo Fighters                   | 12   | 233      
 Haken                          | 14   | 220      
@@ -49,15 +49,15 @@ Backstreet Girls               | 47   | 95
 Opeth                          | 53   | 87       
 The Good The Bad and The Zugly | 54   | 83       
 Oslo Ess                       | 58   | 75       
-22                             | 64   | 71       
-The Killers                    | 72   | 66       
-Soilwork                       | 78   | 63       
+22                             | 65   | 71       
+The Killers                    | 70   | 68       
+Soilwork                       | 79   | 63       
 Fit for an Autopsy             | 84   | 59       
 Snarky Puppy                   | 85   | 58       
 Leo                            | 88   | 57       
 Mall Girl                      | 89   | 56       
-Perfekt Defekt                 | 91   | 55       
-The Winery Dogs                | 92   | 55       
+Perfekt Defekt                 | 92   | 55       
+The Winery Dogs                | 93   | 55       
 Machine Head                   | 94   | 54       
 Lamb of God                    | 97   | 53       
 
@@ -78,7 +78,7 @@ Lars Vaular                | 40   | 118
 Heilung                    | 44   | 104      
 Parius                     | 45   | 100      
 DJ MøMø                    | 50   | 90       
-The Police                 | 51   | 89       
+The Police                 | 51   | 90       
 DumDum Boys                | 52   | 87       
 Bokassa                    | 55   | 77       
 Rival Sons                 | 56   | 77       
@@ -86,23 +86,23 @@ Bill Withers               | 57   | 76
 Thulsa Doom                | 59   | 74       
 Love                       | 60   | 73       
 Porcupine Tree             | 62   | 73       
-Aktiv Dödshjelp            | 63   | 72       
-The Black Keys             | 65   | 70       
-Toto                       | 66   | 70       
-Red Hot Chili Peppers      | 67   | 69       
+The Black Keys             | 63   | 73       
+Aktiv Dödshjelp            | 64   | 72       
+Red Hot Chili Peppers      | 66   | 70       
+Toto                       | 67   | 70       
 VOLA                       | 68   | 69       
-Queens of the Stone Age    | 70   | 67       
-Styx                       | 71   | 67       
-Elton John                 | 73   | 65       
+Queens of the Stone Age    | 71   | 67       
+Styx                       | 72   | 67       
+Elton John                 | 73   | 66       
 Ludo                       | 74   | 65       
 A.C.T                      | 75   | 64       
 Ballinciaga                | 76   | 64       
-Linkin Park                | 81   | 62       
+Linkin Park                | 78   | 63       
 The Rolling Stones         | 82   | 62       
 Sum 41                     | 83   | 60       
 Testament                  | 86   | 58       
 Frank Zappa                | 87   | 57       
-will.i.am                  | 93   | 55       
+will.i.am                  | 91   | 56       
 Megadeth                   | 95   | 54       
 Van Halen                  | 98   | 53       
 Flying Colors              | 99   | 52       
@@ -113,14 +113,14 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 342      
 Rush                         | 6    | 330      
-Hall & Oates                 | 42   | 110      
+Hall & Oates                 | 42   | 111      
 Creedence Clearwater Revival | 48   | 95       
 Led Zeppelin                 | 49   | 94       
 Pink Floyd                   | 61   | 73       
 Dire Straits                 | 69   | 68       
 Daft Punk                    | 77   | 63       
-The Beatles                  | 79   | 63       
-The Notorious B.I.G.         | 80   | 63       
+The Beatles                  | 80   | 63       
+The Notorious B.I.G.         | 81   | 63       
 The Who                      | 90   | 56       
 Jokke & Valentinerne         | 96   | 53       
 Thin Lizzy                   | 100  | 52       
