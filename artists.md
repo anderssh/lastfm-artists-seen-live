@@ -14,14 +14,14 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 794      
+Dream Theater                  | 1    | 795      
 AC/DC                          | 2    | 496      
 Spidergawd                     | 3    | 405      
 Metallica                      | 4    | 381      
-In Flames                      | 7    | 321      
-Seven Spires                   | 8    | 319      
-Ghost                          | 9    | 317      
-Skálmöld                       | 10   | 316      
+Seven Spires                   | 7    | 325      
+Skálmöld                       | 8    | 324      
+In Flames                      | 9    | 321      
+Ghost                          | 10   | 317      
 Circus Maximus                 | 11   | 274      
 Foo Fighters                   | 12   | 233      
 Haken                          | 14   | 220      
