@@ -19,8 +19,8 @@ AC/DC                          | 2    | 497
 Spidergawd                     | 3    | 405      
 Metallica                      | 4    | 381      
 Ghost                          | 7    | 338      
-Seven Spires                   | 8    | 325      
-Skálmöld                       | 9    | 324      
+Skálmöld                       | 8    | 334      
+Seven Spires                   | 9    | 325      
 In Flames                      | 10   | 321      
 Circus Maximus                 | 11   | 290      
 Foo Fighters                   | 12   | 235      
@@ -90,7 +90,7 @@ Love                       | 65   | 73
 Porcupine Tree             | 66   | 73       
 Red Hot Chili Peppers      | 67   | 73       
 Aktiv Dödshjelp            | 68   | 72       
-Elton John                 | 70   | 70       
+Elton John                 | 70   | 71       
 VOLA                       | 71   | 69       
 Queens of the Stone Age    | 72   | 68       
 Styx                       | 73   | 67       
@@ -112,7 +112,7 @@ Van Halen                  | 98   | 54
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 346      
-Rush                         | 6    | 343      
+Rush                         | 6    | 344      
 Hall & Oates                 | 39   | 121      
 Creedence Clearwater Revival | 49   | 95       
 Led Zeppelin                 | 50   | 94       
