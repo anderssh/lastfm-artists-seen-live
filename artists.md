@@ -14,12 +14,12 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 795      
+Dream Theater                  | 1    | 798      
 AC/DC                          | 2    | 497      
 Spidergawd                     | 3    | 405      
 Metallica                      | 4    | 381      
 Ghost                          | 7    | 338      
-Skálmöld                       | 8    | 334      
+Skálmöld                       | 8    | 335      
 Seven Spires                   | 9    | 325      
 In Flames                      | 10   | 321      
 Circus Maximus                 | 11   | 290      
@@ -50,7 +50,7 @@ Opeth                          | 53   | 87
 The Good The Bad and The Zugly | 54   | 84       
 The Killers                    | 59   | 77       
 Oslo Ess                       | 60   | 75       
-22                             | 69   | 71       
+22                             | 70   | 71       
 Soilwork                       | 80   | 63       
 Fit for an Autopsy             | 84   | 59       
 Snarky Puppy                   | 85   | 58       
@@ -90,7 +90,7 @@ Love                       | 65   | 73
 Porcupine Tree             | 66   | 73       
 Red Hot Chili Peppers      | 67   | 73       
 Aktiv Dödshjelp            | 68   | 72       
-Elton John                 | 70   | 71       
+Elton John                 | 69   | 72       
 VOLA                       | 71   | 69       
 Queens of the Stone Age    | 72   | 68       
 Styx                       | 73   | 67       
