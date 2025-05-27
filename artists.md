@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 798      
 AC/DC                          | 2    | 497      
-Spidergawd                     | 3    | 405      
+Spidergawd                     | 3    | 408      
 Metallica                      | 4    | 381      
 Ghost                          | 7    | 338      
 Skálmöld                       | 8    | 335      
@@ -28,7 +28,7 @@ Haken                          | 14   | 220
 Avenged Sevenfold              | 15   | 214      
 Greta Van Fleet                | 16   | 206      
 The Dogs                       | 17   | 203      
-Honningbarna                   | 19   | 179      
+Honningbarna                   | 19   | 180      
 Eluveitie                      | 21   | 167      
 Amyl and the Sniffers          | 22   | 159      
 Green Day                      | 24   | 151      
@@ -47,9 +47,9 @@ blink-182                      | 43   | 108
 Maktkamp                       | 47   | 98       
 Backstreet Girls               | 48   | 95       
 Opeth                          | 53   | 87       
-The Good The Bad and The Zugly | 54   | 84       
+The Good The Bad and The Zugly | 54   | 86       
 The Killers                    | 59   | 77       
-Oslo Ess                       | 60   | 75       
+Oslo Ess                       | 60   | 76       
 22                             | 70   | 71       
 Soilwork                       | 80   | 63       
 Fit for an Autopsy             | 84   | 59       
@@ -84,8 +84,8 @@ Bill Withers               | 56   | 77
 Bokassa                    | 57   | 77       
 Rival Sons                 | 58   | 77       
 The Black Keys             | 61   | 75       
-Toto                       | 62   | 75       
-Thulsa Doom                | 64   | 74       
+Thulsa Doom                | 62   | 75       
+Toto                       | 63   | 75       
 Love                       | 65   | 73       
 Porcupine Tree             | 66   | 73       
 Red Hot Chili Peppers      | 67   | 73       
@@ -117,7 +117,7 @@ Hall & Oates                 | 39   | 121
 Creedence Clearwater Revival | 49   | 95       
 Led Zeppelin                 | 50   | 94       
 Pink Floyd                   | 55   | 78       
-Dire Straits                 | 63   | 74       
+Dire Straits                 | 64   | 74       
 The Beatles                  | 75   | 65       
 Daft Punk                    | 79   | 63       
 The Notorious B.I.G.         | 81   | 63       
