@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 798      
+Dream Theater                  | 1    | 799      
 AC/DC                          | 2    | 497      
 Spidergawd                     | 3    | 408      
 Metallica                      | 4    | 381      
@@ -28,7 +28,7 @@ Haken                          | 14   | 220
 Avenged Sevenfold              | 15   | 214      
 Greta Van Fleet                | 16   | 206      
 The Dogs                       | 17   | 203      
-Honningbarna                   | 19   | 180      
+Honningbarna                   | 19   | 181      
 Eluveitie                      | 21   | 167      
 Amyl and the Sniffers          | 22   | 159      
 Green Day                      | 24   | 151      
@@ -48,14 +48,14 @@ Maktkamp                       | 47   | 98
 Backstreet Girls               | 48   | 95       
 Opeth                          | 53   | 87       
 The Good The Bad and The Zugly | 54   | 86       
-The Killers                    | 59   | 77       
-Oslo Ess                       | 60   | 76       
+Oslo Ess                       | 58   | 77       
+The Killers                    | 60   | 77       
 22                             | 70   | 71       
 Soilwork                       | 80   | 63       
 Fit for an Autopsy             | 84   | 59       
-Snarky Puppy                   | 85   | 58       
-Leo                            | 88   | 57       
-Mall Girl                      | 89   | 56       
+Snarky Puppy                   | 86   | 58       
+Leo                            | 89   | 57       
+Mall Girl                      | 90   | 56       
 Perfekt Defekt                 | 92   | 55       
 The Winery Dogs                | 93   | 55       
 Machine Head                   | 94   | 54       
@@ -82,8 +82,8 @@ DJ MøMø                    | 51   | 90
 DumDum Boys                | 52   | 87       
 Bill Withers               | 56   | 77       
 Bokassa                    | 57   | 77       
-Rival Sons                 | 58   | 77       
-The Black Keys             | 61   | 75       
+Rival Sons                 | 59   | 77       
+The Black Keys             | 61   | 76       
 Thulsa Doom                | 62   | 75       
 Toto                       | 63   | 75       
 Love                       | 65   | 73       
@@ -94,15 +94,15 @@ Elton John                 | 69   | 72
 VOLA                       | 71   | 69       
 Queens of the Stone Age    | 72   | 68       
 Styx                       | 73   | 67       
-Ludo                       | 74   | 65       
+Ludo                       | 75   | 65       
 A.C.T                      | 76   | 64       
 Ballinciaga                | 77   | 64       
 Linkin Park                | 78   | 64       
 Sum 41                     | 82   | 62       
 The Rolling Stones         | 83   | 62       
-Testament                  | 86   | 58       
-Frank Zappa                | 87   | 57       
-will.i.am                  | 91   | 56       
+will.i.am                  | 85   | 59       
+Testament                  | 87   | 58       
+Frank Zappa                | 88   | 57       
 Megadeth                   | 95   | 54       
 Stevie Wonder              | 96   | 54       
 Van Halen                  | 98   | 54       
@@ -118,9 +118,9 @@ Creedence Clearwater Revival | 49   | 95
 Led Zeppelin                 | 50   | 94       
 Pink Floyd                   | 55   | 78       
 Dire Straits                 | 64   | 74       
-The Beatles                  | 75   | 65       
+The Beatles                  | 74   | 66       
 Daft Punk                    | 79   | 63       
 The Notorious B.I.G.         | 81   | 63       
-The Who                      | 90   | 56       
+The Who                      | 91   | 56       
 Thin Lizzy                   | 97   | 54       
 Jokke & Valentinerne         | 99   | 53       
