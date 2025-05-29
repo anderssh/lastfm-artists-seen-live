@@ -14,8 +14,8 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 799      
-AC/DC                          | 2    | 497      
+Dream Theater                  | 1    | 820      
+AC/DC                          | 2    | 503      
 Spidergawd                     | 3    | 408      
 Metallica                      | 4    | 381      
 Ghost                          | 7    | 338      
@@ -31,7 +31,7 @@ The Dogs                       | 17   | 203
 Honningbarna                   | 19   | 181      
 Eluveitie                      | 21   | 167      
 Amyl and the Sniffers          | 22   | 159      
-Green Day                      | 24   | 151      
+Green Day                      | 24   | 152      
 Finntroll                      | 27   | 140      
 Eminem                         | 28   | 138      
 Ne Obliviscaris                | 29   | 135      
@@ -48,17 +48,17 @@ Maktkamp                       | 47   | 98
 Backstreet Girls               | 48   | 95       
 Opeth                          | 53   | 87       
 The Good The Bad and The Zugly | 54   | 86       
-Oslo Ess                       | 58   | 77       
-The Killers                    | 60   | 77       
+The Killers                    | 56   | 78       
+Oslo Ess                       | 59   | 77       
 22                             | 70   | 71       
 Soilwork                       | 80   | 63       
-Fit for an Autopsy             | 84   | 59       
-Snarky Puppy                   | 86   | 58       
+Snarky Puppy                   | 84   | 60       
+Fit for an Autopsy             | 85   | 59       
 Leo                            | 89   | 57       
 Mall Girl                      | 90   | 56       
-Perfekt Defekt                 | 92   | 55       
-The Winery Dogs                | 93   | 55       
-Machine Head                   | 94   | 54       
+Perfekt Defekt                 | 93   | 55       
+The Winery Dogs                | 94   | 55       
+Machine Head                   | 95   | 54       
 Lamb of God                    | 100  | 53       
 
 ## Active top 100 artists not seen live (41)
@@ -76,23 +76,23 @@ Sylosis                    | 31   | 133
 The Offspring              | 32   | 131      
 Lars Vaular                | 41   | 118      
 Heilung                    | 44   | 104      
-The Police                 | 45   | 102      
+The Police                 | 45   | 103      
 Parius                     | 46   | 100      
 DJ MøMø                    | 51   | 90       
 DumDum Boys                | 52   | 87       
-Bill Withers               | 56   | 77       
-Bokassa                    | 57   | 77       
-Rival Sons                 | 59   | 77       
-The Black Keys             | 61   | 76       
-Thulsa Doom                | 62   | 75       
-Toto                       | 63   | 75       
+Bill Withers               | 57   | 77       
+Bokassa                    | 58   | 77       
+Rival Sons                 | 60   | 77       
+The Black Keys             | 62   | 76       
+Toto                       | 63   | 76       
+Thulsa Doom                | 64   | 75       
 Love                       | 65   | 73       
 Porcupine Tree             | 66   | 73       
 Red Hot Chili Peppers      | 67   | 73       
 Aktiv Dödshjelp            | 68   | 72       
 Elton John                 | 69   | 72       
-VOLA                       | 71   | 69       
-Queens of the Stone Age    | 72   | 68       
+Queens of the Stone Age    | 71   | 69       
+VOLA                       | 72   | 69       
 Styx                       | 73   | 67       
 Ludo                       | 75   | 65       
 A.C.T                      | 76   | 64       
@@ -100,10 +100,10 @@ Ballinciaga                | 77   | 64
 Linkin Park                | 78   | 64       
 Sum 41                     | 82   | 62       
 The Rolling Stones         | 83   | 62       
-will.i.am                  | 85   | 59       
+will.i.am                  | 86   | 59       
 Testament                  | 87   | 58       
 Frank Zappa                | 88   | 57       
-Megadeth                   | 95   | 54       
+Megadeth                   | 92   | 55       
 Stevie Wonder              | 96   | 54       
 Van Halen                  | 98   | 54       
 
@@ -117,7 +117,7 @@ Hall & Oates                 | 39   | 121
 Creedence Clearwater Revival | 49   | 95       
 Led Zeppelin                 | 50   | 94       
 Pink Floyd                   | 55   | 78       
-Dire Straits                 | 64   | 74       
+Dire Straits                 | 61   | 76       
 The Beatles                  | 74   | 66       
 Daft Punk                    | 79   | 63       
 The Notorious B.I.G.         | 81   | 63       
