@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 820      
-AC/DC                          | 2    | 503      
+AC/DC                          | 2    | 504      
 Spidergawd                     | 3    | 408      
 Metallica                      | 4    | 381      
 Ghost                          | 7    | 338      
@@ -48,12 +48,12 @@ Maktkamp                       | 47   | 98
 Backstreet Girls               | 48   | 95       
 Opeth                          | 53   | 87       
 The Good The Bad and The Zugly | 54   | 86       
-The Killers                    | 56   | 78       
-Oslo Ess                       | 59   | 77       
+The Killers                    | 58   | 78       
+Oslo Ess                       | 60   | 77       
 22                             | 70   | 71       
 Soilwork                       | 80   | 63       
-Snarky Puppy                   | 84   | 60       
-Fit for an Autopsy             | 85   | 59       
+Snarky Puppy                   | 85   | 60       
+Fit for an Autopsy             | 86   | 59       
 Leo                            | 89   | 57       
 Mall Girl                      | 90   | 56       
 Perfekt Defekt                 | 93   | 55       
@@ -80,17 +80,17 @@ The Police                 | 45   | 103
 Parius                     | 46   | 100      
 DJ MøMø                    | 51   | 90       
 DumDum Boys                | 52   | 87       
-Bill Withers               | 57   | 77       
-Bokassa                    | 58   | 77       
-Rival Sons                 | 60   | 77       
-The Black Keys             | 62   | 76       
+Bill Withers               | 55   | 78       
+The Black Keys             | 57   | 78       
+Bokassa                    | 59   | 77       
+Rival Sons                 | 61   | 77       
 Toto                       | 63   | 76       
 Thulsa Doom                | 64   | 75       
-Love                       | 65   | 73       
-Porcupine Tree             | 66   | 73       
-Red Hot Chili Peppers      | 67   | 73       
-Aktiv Dödshjelp            | 68   | 72       
-Elton John                 | 69   | 72       
+Elton John                 | 65   | 73       
+Love                       | 66   | 73       
+Porcupine Tree             | 67   | 73       
+Red Hot Chili Peppers      | 68   | 73       
+Aktiv Dödshjelp            | 69   | 72       
 Queens of the Stone Age    | 71   | 69       
 VOLA                       | 72   | 69       
 Styx                       | 73   | 67       
@@ -100,7 +100,7 @@ Ballinciaga                | 77   | 64
 Linkin Park                | 78   | 64       
 Sum 41                     | 82   | 62       
 The Rolling Stones         | 83   | 62       
-will.i.am                  | 86   | 59       
+will.i.am                  | 84   | 61       
 Testament                  | 87   | 58       
 Frank Zappa                | 88   | 57       
 Megadeth                   | 92   | 55       
@@ -111,13 +111,13 @@ Van Halen                  | 98   | 54
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 346      
+Fleetwood Mac                | 5    | 347      
 Rush                         | 6    | 344      
 Hall & Oates                 | 39   | 121      
 Creedence Clearwater Revival | 49   | 95       
 Led Zeppelin                 | 50   | 94       
-Pink Floyd                   | 55   | 78       
-Dire Straits                 | 61   | 76       
+Pink Floyd                   | 56   | 78       
+Dire Straits                 | 62   | 76       
 The Beatles                  | 74   | 66       
 Daft Punk                    | 79   | 63       
 The Notorious B.I.G.         | 81   | 63       
