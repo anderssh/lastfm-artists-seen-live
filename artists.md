@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 820      
+Dream Theater                  | 1    | 821      
 AC/DC                          | 2    | 504      
 Spidergawd                     | 3    | 408      
 Metallica                      | 4    | 381      
@@ -48,7 +48,7 @@ Maktkamp                       | 47   | 98
 Backstreet Girls               | 48   | 95       
 Opeth                          | 53   | 87       
 The Good The Bad and The Zugly | 54   | 86       
-The Killers                    | 58   | 78       
+The Killers                    | 55   | 79       
 Oslo Ess                       | 60   | 77       
 22                             | 70   | 71       
 Soilwork                       | 80   | 63       
@@ -80,8 +80,8 @@ The Police                 | 45   | 103
 Parius                     | 46   | 100      
 DJ MøMø                    | 51   | 90       
 DumDum Boys                | 52   | 87       
-Bill Withers               | 55   | 78       
-The Black Keys             | 57   | 78       
+Bill Withers               | 56   | 78       
+The Black Keys             | 58   | 78       
 Bokassa                    | 59   | 77       
 Rival Sons                 | 61   | 77       
 Toto                       | 63   | 76       
@@ -116,7 +116,7 @@ Rush                         | 6    | 344
 Hall & Oates                 | 39   | 121      
 Creedence Clearwater Revival | 49   | 95       
 Led Zeppelin                 | 50   | 94       
-Pink Floyd                   | 56   | 78       
+Pink Floyd                   | 57   | 78       
 Dire Straits                 | 62   | 76       
 The Beatles                  | 74   | 66       
 Daft Punk                    | 79   | 63       
