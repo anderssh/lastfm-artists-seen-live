@@ -31,7 +31,7 @@ The Dogs                       | 17   | 203
 Honningbarna                   | 19   | 181      
 Eluveitie                      | 21   | 167      
 Amyl and the Sniffers          | 22   | 159      
-Green Day                      | 24   | 152      
+Green Day                      | 24   | 153      
 Finntroll                      | 27   | 140      
 Eminem                         | 28   | 138      
 Ne Obliviscaris                | 29   | 135      
@@ -48,8 +48,8 @@ Maktkamp                       | 47   | 98
 Backstreet Girls               | 48   | 95       
 Opeth                          | 53   | 87       
 The Good The Bad and The Zugly | 54   | 86       
-The Killers                    | 55   | 79       
-Oslo Ess                       | 60   | 77       
+The Killers                    | 56   | 79       
+Oslo Ess                       | 61   | 77       
 22                             | 70   | 71       
 Soilwork                       | 80   | 63       
 Snarky Puppy                   | 85   | 60       
@@ -58,7 +58,7 @@ Leo                            | 89   | 57
 Mall Girl                      | 90   | 56       
 Perfekt Defekt                 | 93   | 55       
 The Winery Dogs                | 94   | 55       
-Machine Head                   | 95   | 54       
+Machine Head                   | 96   | 54       
 Lamb of God                    | 100  | 53       
 
 ## Active top 100 artists not seen live (41)
@@ -67,7 +67,7 @@ Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 13   | 226      
 Nospūn                     | 18   | 188      
-All That Remains           | 20   | 171      
+All That Remains           | 20   | 172      
 The Night Flight Orchestra | 23   | 155      
 The Halo Effect            | 25   | 149      
 Death by Unga Bunga        | 26   | 143      
@@ -76,24 +76,24 @@ Sylosis                    | 31   | 133
 The Offspring              | 32   | 131      
 Lars Vaular                | 41   | 118      
 Heilung                    | 44   | 104      
-The Police                 | 45   | 103      
+The Police                 | 45   | 104      
 Parius                     | 46   | 100      
 DJ MøMø                    | 51   | 90       
 DumDum Boys                | 52   | 87       
-Bill Withers               | 56   | 78       
-The Black Keys             | 58   | 78       
-Bokassa                    | 59   | 77       
-Rival Sons                 | 61   | 77       
-Toto                       | 63   | 76       
-Thulsa Doom                | 64   | 75       
-Elton John                 | 65   | 73       
-Love                       | 66   | 73       
-Porcupine Tree             | 67   | 73       
-Red Hot Chili Peppers      | 68   | 73       
+Red Hot Chili Peppers      | 55   | 80       
+Bill Withers               | 57   | 78       
+The Black Keys             | 59   | 78       
+Bokassa                    | 60   | 77       
+Rival Sons                 | 62   | 77       
+Toto                       | 64   | 76       
+Thulsa Doom                | 65   | 75       
+Elton John                 | 66   | 73       
+Love                       | 67   | 73       
+Porcupine Tree             | 68   | 73       
 Aktiv Dödshjelp            | 69   | 72       
-Queens of the Stone Age    | 71   | 69       
+Queens of the Stone Age    | 71   | 70       
 VOLA                       | 72   | 69       
-Styx                       | 73   | 67       
+Styx                       | 73   | 68       
 Ludo                       | 75   | 65       
 A.C.T                      | 76   | 64       
 Ballinciaga                | 77   | 64       
@@ -104,23 +104,23 @@ will.i.am                  | 84   | 61
 Testament                  | 87   | 58       
 Frank Zappa                | 88   | 57       
 Megadeth                   | 92   | 55       
-Stevie Wonder              | 96   | 54       
-Van Halen                  | 98   | 54       
+Van Halen                  | 95   | 55       
+Stevie Wonder              | 97   | 54       
 
 ## Inactive top 100 artists not seen live (13)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 347      
+Fleetwood Mac                | 5    | 349      
 Rush                         | 6    | 344      
 Hall & Oates                 | 39   | 121      
 Creedence Clearwater Revival | 49   | 95       
 Led Zeppelin                 | 50   | 94       
-Pink Floyd                   | 57   | 78       
-Dire Straits                 | 62   | 76       
-The Beatles                  | 74   | 66       
+Pink Floyd                   | 58   | 78       
+Dire Straits                 | 63   | 76       
+The Beatles                  | 74   | 67       
 Daft Punk                    | 79   | 63       
 The Notorious B.I.G.         | 81   | 63       
 The Who                      | 91   | 56       
-Thin Lizzy                   | 97   | 54       
+Thin Lizzy                   | 98   | 54       
 Jokke & Valentinerne         | 99   | 53       
