@@ -49,7 +49,7 @@ Backstreet Girls               | 48   | 95
 Opeth                          | 53   | 87       
 The Good The Bad and The Zugly | 54   | 86       
 The Killers                    | 56   | 79       
-Oslo Ess                       | 61   | 77       
+Oslo Ess                       | 58   | 78       
 22                             | 70   | 71       
 Soilwork                       | 80   | 63       
 Snarky Puppy                   | 85   | 60       
@@ -82,8 +82,8 @@ DJ MøMø                    | 51   | 90
 DumDum Boys                | 52   | 87       
 Red Hot Chili Peppers      | 55   | 80       
 Bill Withers               | 57   | 78       
-The Black Keys             | 59   | 78       
-Bokassa                    | 60   | 77       
+The Black Keys             | 60   | 78       
+Bokassa                    | 61   | 77       
 Rival Sons                 | 62   | 77       
 Toto                       | 64   | 76       
 Thulsa Doom                | 65   | 75       
@@ -116,7 +116,7 @@ Rush                         | 6    | 344
 Hall & Oates                 | 39   | 121      
 Creedence Clearwater Revival | 49   | 95       
 Led Zeppelin                 | 50   | 94       
-Pink Floyd                   | 58   | 78       
+Pink Floyd                   | 59   | 78       
 Dire Straits                 | 63   | 76       
 The Beatles                  | 74   | 67       
 Daft Punk                    | 79   | 63       
