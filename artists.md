@@ -40,7 +40,7 @@ Tool                           | 34   | 129
 Judas Priest                   | 35   | 128      
 Mastodon                       | 36   | 128      
 Architects                     | 37   | 126      
-Slipknot                       | 38   | 122      
+Slipknot                       | 39   | 122      
 Kvelertak                      | 40   | 121      
 Pagan's Mind                   | 42   | 118      
 blink-182                      | 43   | 108      
@@ -48,8 +48,8 @@ Maktkamp                       | 47   | 98
 Backstreet Girls               | 48   | 95       
 Opeth                          | 53   | 87       
 The Good The Bad and The Zugly | 54   | 86       
-The Killers                    | 56   | 79       
-Oslo Ess                       | 58   | 78       
+The Killers                    | 57   | 80       
+Oslo Ess                       | 59   | 78       
 22                             | 70   | 71       
 Soilwork                       | 80   | 63       
 Snarky Puppy                   | 85   | 60       
@@ -80,14 +80,14 @@ The Police                 | 45   | 104
 Parius                     | 46   | 100      
 DJ MøMø                    | 51   | 90       
 DumDum Boys                | 52   | 87       
-Red Hot Chili Peppers      | 55   | 80       
-Bill Withers               | 57   | 78       
-The Black Keys             | 60   | 78       
+The Black Keys             | 55   | 81       
+Red Hot Chili Peppers      | 56   | 80       
+Bill Withers               | 58   | 79       
 Bokassa                    | 61   | 77       
 Rival Sons                 | 62   | 77       
 Toto                       | 64   | 76       
 Thulsa Doom                | 65   | 75       
-Elton John                 | 66   | 73       
+Elton John                 | 66   | 74       
 Love                       | 67   | 73       
 Porcupine Tree             | 68   | 73       
 Aktiv Dödshjelp            | 69   | 72       
@@ -100,7 +100,7 @@ Ballinciaga                | 77   | 64
 Linkin Park                | 78   | 64       
 Sum 41                     | 82   | 62       
 The Rolling Stones         | 83   | 62       
-will.i.am                  | 84   | 61       
+will.i.am                  | 84   | 62       
 Testament                  | 87   | 58       
 Frank Zappa                | 88   | 57       
 Megadeth                   | 92   | 55       
@@ -111,12 +111,12 @@ Stevie Wonder              | 97   | 54
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 349      
+Fleetwood Mac                | 5    | 350      
 Rush                         | 6    | 344      
-Hall & Oates                 | 39   | 121      
+Hall & Oates                 | 38   | 122      
 Creedence Clearwater Revival | 49   | 95       
 Led Zeppelin                 | 50   | 94       
-Pink Floyd                   | 59   | 78       
+Pink Floyd                   | 60   | 78       
 Dire Straits                 | 63   | 76       
 The Beatles                  | 74   | 67       
 Daft Punk                    | 79   | 63       
