@@ -6,11 +6,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of fetched top artists: 100 (Active: 87 Inactive: 13)
 
-- Number of top artists seen live: 46 (Active: 46 Inactive: 0)
+- Number of top artists seen live: 45 (Active: 45 Inactive: 0)
 
-- Number of top artists not seen live: 54 (Active: 41 Inactive: 13)
+- Number of top artists not seen live: 55 (Active: 42 Inactive: 13)
 
-## Top 100 artists seen live (46)
+## Top 100 artists seen live (45)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -46,22 +46,21 @@ Pagan's Mind                   | 42   | 118
 blink-182                      | 43   | 108      
 Maktkamp                       | 47   | 98       
 Backstreet Girls               | 48   | 95       
-Opeth                          | 53   | 87       
+Opeth                          | 51   | 91       
 The Good The Bad and The Zugly | 54   | 86       
-The Killers                    | 57   | 80       
+The Killers                    | 56   | 81       
 Oslo Ess                       | 59   | 78       
 22                             | 70   | 71       
 Soilwork                       | 80   | 63       
-Snarky Puppy                   | 85   | 60       
+Snarky Puppy                   | 83   | 62       
 Fit for an Autopsy             | 86   | 59       
 Leo                            | 89   | 57       
 Mall Girl                      | 90   | 56       
 Perfekt Defekt                 | 93   | 55       
 The Winery Dogs                | 94   | 55       
 Machine Head                   | 96   | 54       
-Lamb of God                    | 100  | 53       
 
-## Active top 100 artists not seen live (41)
+## Active top 100 artists not seen live (42)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
@@ -75,19 +74,19 @@ Animals as Leaders         | 30   | 134
 Sylosis                    | 31   | 133      
 The Offspring              | 32   | 131      
 Lars Vaular                | 41   | 118      
-Heilung                    | 44   | 104      
-The Police                 | 45   | 104      
+The Police                 | 44   | 105      
+Heilung                    | 45   | 104      
 Parius                     | 46   | 100      
-DJ MøMø                    | 51   | 90       
-DumDum Boys                | 52   | 87       
-The Black Keys             | 55   | 81       
-Red Hot Chili Peppers      | 56   | 80       
-Bill Withers               | 58   | 79       
+DJ MøMø                    | 52   | 90       
+DumDum Boys                | 53   | 87       
+The Black Keys             | 55   | 82       
+Bill Withers               | 57   | 80       
+Red Hot Chili Peppers      | 58   | 80       
 Bokassa                    | 61   | 77       
 Rival Sons                 | 62   | 77       
-Toto                       | 64   | 76       
-Thulsa Doom                | 65   | 75       
-Elton John                 | 66   | 74       
+Elton John                 | 64   | 76       
+Toto                       | 65   | 76       
+Thulsa Doom                | 66   | 75       
 Love                       | 67   | 73       
 Porcupine Tree             | 68   | 73       
 Aktiv Dödshjelp            | 69   | 72       
@@ -98,29 +97,30 @@ Ludo                       | 75   | 65
 A.C.T                      | 76   | 64       
 Ballinciaga                | 77   | 64       
 Linkin Park                | 78   | 64       
-Sum 41                     | 82   | 62       
-The Rolling Stones         | 83   | 62       
-will.i.am                  | 84   | 62       
+will.i.am                  | 82   | 63       
+Sum 41                     | 84   | 62       
+The Rolling Stones         | 85   | 62       
 Testament                  | 87   | 58       
 Frank Zappa                | 88   | 57       
 Megadeth                   | 92   | 55       
 Van Halen                  | 95   | 55       
 Stevie Wonder              | 97   | 54       
+Electric Light Orchestra   | 99   | 53       
 
 ## Inactive top 100 artists not seen live (13)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 350      
+Fleetwood Mac                | 5    | 351      
 Rush                         | 6    | 344      
 Hall & Oates                 | 38   | 122      
 Creedence Clearwater Revival | 49   | 95       
 Led Zeppelin                 | 50   | 94       
 Pink Floyd                   | 60   | 78       
 Dire Straits                 | 63   | 76       
-The Beatles                  | 74   | 67       
+The Beatles                  | 74   | 68       
 Daft Punk                    | 79   | 63       
 The Notorious B.I.G.         | 81   | 63       
 The Who                      | 91   | 56       
 Thin Lizzy                   | 98   | 54       
-Jokke & Valentinerne         | 99   | 53       
+Jokke & Valentinerne         | 100  | 53       
