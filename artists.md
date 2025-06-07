@@ -43,13 +43,13 @@ Architects                     | 37   | 127
 Slipknot                       | 39   | 122      
 Kvelertak                      | 40   | 121      
 Pagan's Mind                   | 42   | 118      
-blink-182                      | 43   | 108      
+blink-182                      | 44   | 108      
 Maktkamp                       | 47   | 98       
 Backstreet Girls               | 48   | 95       
 Opeth                          | 51   | 91       
 The Good The Bad and The Zugly | 54   | 86       
 The Killers                    | 56   | 81       
-Oslo Ess                       | 59   | 79       
+Oslo Ess                       | 58   | 80       
 22                             | 71   | 71       
 Snarky Puppy                   | 81   | 63       
 Soilwork                       | 82   | 63       
@@ -74,14 +74,14 @@ Sylosis                    | 29   | 138
 Animals as Leaders         | 31   | 134      
 The Offspring              | 32   | 131      
 Lars Vaular                | 41   | 118      
-The Police                 | 44   | 105      
-Heilung                    | 45   | 104      
+Heilung                    | 43   | 116      
+The Police                 | 45   | 105      
 Parius                     | 46   | 100      
 DJ MøMø                    | 52   | 90       
 DumDum Boys                | 53   | 87       
 The Black Keys             | 55   | 82       
 Bill Withers               | 57   | 80       
-Red Hot Chili Peppers      | 58   | 80       
+Red Hot Chili Peppers      | 59   | 80       
 Bokassa                    | 61   | 77       
 Rival Sons                 | 62   | 77       
 Elton John                 | 64   | 76       
