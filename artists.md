@@ -48,8 +48,8 @@ Maktkamp                       | 47   | 98
 Backstreet Girls               | 48   | 95       
 Opeth                          | 51   | 91       
 The Good The Bad and The Zugly | 54   | 86       
-The Killers                    | 56   | 81       
-Oslo Ess                       | 58   | 80       
+Oslo Ess                       | 56   | 81       
+The Killers                    | 57   | 81       
 22                             | 71   | 71       
 Snarky Puppy                   | 81   | 63       
 Soilwork                       | 82   | 63       
@@ -58,8 +58,8 @@ Leo                            | 89   | 57
 Mall Girl                      | 90   | 56       
 Perfekt Defekt                 | 93   | 55       
 The Winery Dogs                | 95   | 55       
-Machine Head                   | 97   | 54       
-Volbeat                        | 99   | 54       
+Volbeat                        | 97   | 55       
+Machine Head                   | 98   | 54       
 
 ## Active top 100 artists not seen live (42)
 
@@ -81,15 +81,15 @@ Parius                     | 46   | 100
 DJ MøMø                    | 52   | 90       
 DumDum Boys                | 53   | 87       
 The Black Keys             | 55   | 82       
-Bill Withers               | 57   | 80       
-Red Hot Chili Peppers      | 59   | 80       
-Bokassa                    | 61   | 77       
-Rival Sons                 | 62   | 77       
-Elton John                 | 64   | 76       
-Toto                       | 65   | 76       
-Linkin Park                | 66   | 75       
-Thulsa Doom                | 67   | 75       
-Aktiv Dödshjelp            | 68   | 73       
+Aktiv Dödshjelp            | 58   | 80       
+Bill Withers               | 59   | 80       
+Red Hot Chili Peppers      | 60   | 80       
+Bokassa                    | 62   | 77       
+Rival Sons                 | 63   | 77       
+Elton John                 | 65   | 76       
+Toto                       | 66   | 76       
+Linkin Park                | 67   | 75       
+Thulsa Doom                | 68   | 75       
 Love                       | 69   | 73       
 Porcupine Tree             | 70   | 73       
 Queens of the Stone Age    | 72   | 70       
@@ -117,10 +117,10 @@ Rush                         | 6    | 344
 Hall & Oates                 | 38   | 122      
 Creedence Clearwater Revival | 49   | 95       
 Led Zeppelin                 | 50   | 94       
-Pink Floyd                   | 60   | 78       
-Dire Straits                 | 63   | 76       
+Pink Floyd                   | 61   | 78       
+Dire Straits                 | 64   | 76       
 The Beatles                  | 76   | 68       
 Daft Punk                    | 80   | 63       
 The Notorious B.I.G.         | 83   | 63       
 The Who                      | 91   | 56       
-Thin Lizzy                   | 98   | 54       
+Thin Lizzy                   | 99   | 54       
