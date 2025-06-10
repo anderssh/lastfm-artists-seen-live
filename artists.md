@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 823      
-AC/DC                          | 2    | 504      
+AC/DC                          | 2    | 506      
 Spidergawd                     | 3    | 408      
 Metallica                      | 4    | 381      
 Ghost                          | 7    | 338      
@@ -93,8 +93,8 @@ Thulsa Doom                | 68   | 75
 Love                       | 69   | 73       
 Porcupine Tree             | 70   | 73       
 Queens of the Stone Age    | 72   | 70       
-VOLA                       | 73   | 69       
-will.i.am                  | 74   | 69       
+will.i.am                  | 73   | 70       
+VOLA                       | 74   | 69       
 Styx                       | 75   | 68       
 Ludo                       | 77   | 65       
 A.C.T                      | 78   | 64       
