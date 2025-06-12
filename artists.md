@@ -14,17 +14,17 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 823      
+Dream Theater                  | 1    | 828      
 AC/DC                          | 2    | 507      
 Spidergawd                     | 3    | 408      
-Metallica                      | 4    | 381      
+Metallica                      | 4    | 384      
 Ghost                          | 7    | 338      
-Skálmöld                       | 8    | 335      
+Skálmöld                       | 8    | 336      
 In Flames                      | 9    | 327      
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 290      
 Foo Fighters                   | 12   | 235      
-Haken                          | 14   | 220      
+Haken                          | 14   | 222      
 Avenged Sevenfold              | 15   | 214      
 Greta Van Fleet                | 17   | 206      
 The Dogs                       | 18   | 203      
@@ -56,8 +56,8 @@ Soilwork                       | 82   | 63
 Fit for an Autopsy             | 86   | 60       
 Leo                            | 89   | 57       
 Mall Girl                      | 90   | 56       
-Perfekt Defekt                 | 94   | 55       
-The Winery Dogs                | 95   | 55       
+Perfekt Defekt                 | 95   | 55       
+The Winery Dogs                | 96   | 55       
 Volbeat                        | 97   | 55       
 Machine Head                   | 98   | 54       
 
@@ -75,7 +75,7 @@ Sylosis                    | 29   | 138
 Animals as Leaders         | 31   | 134      
 The Offspring              | 32   | 131      
 Lars Vaular                | 41   | 118      
-Heilung                    | 43   | 116      
+Heilung                    | 43   | 117      
 The Police                 | 45   | 107      
 Parius                     | 46   | 100      
 DJ MøMø                    | 52   | 90       
@@ -105,7 +105,7 @@ Testament                  | 87   | 58
 Frank Zappa                | 88   | 57       
 Megadeth                   | 91   | 56       
 Stevie Wonder              | 92   | 56       
-Van Halen                  | 96   | 55       
+Van Halen                  | 94   | 56       
 Electric Light Orchestra   | 100  | 53       
 
 ## Inactive top 100 artists not seen live (12)
