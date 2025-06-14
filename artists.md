@@ -20,11 +20,11 @@ Spidergawd                     | 3    | 408
 Metallica                      | 4    | 384      
 Ghost                          | 7    | 338      
 Skálmöld                       | 8    | 336      
-In Flames                      | 9    | 328      
+In Flames                      | 9    | 330      
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 290      
-Foo Fighters                   | 12   | 235      
-Avenged Sevenfold              | 13   | 231      
+Avenged Sevenfold              | 12   | 260      
+Foo Fighters                   | 13   | 235      
 Haken                          | 15   | 222      
 Greta Van Fleet                | 17   | 206      
 The Dogs                       | 18   | 203      
@@ -32,12 +32,12 @@ Honningbarna                   | 19   | 181
 Eluveitie                      | 21   | 167      
 Amyl and the Sniffers          | 22   | 159      
 Green Day                      | 25   | 153      
-Finntroll                      | 27   | 141      
-Eminem                         | 29   | 138      
-Mastodon                       | 30   | 138      
-Ne Obliviscaris                | 31   | 135      
-Gojira                         | 34   | 130      
-Tool                           | 35   | 129      
+Mastodon                       | 26   | 146      
+Tool                           | 28   | 142      
+Finntroll                      | 29   | 141      
+Eminem                         | 31   | 138      
+Ne Obliviscaris                | 32   | 135      
+Gojira                         | 35   | 130      
 Judas Priest                   | 36   | 128      
 Architects                     | 37   | 127      
 Slipknot                       | 39   | 122      
@@ -50,9 +50,9 @@ Opeth                          | 51   | 91
 The Good The Bad and The Zugly | 54   | 86       
 The Killers                    | 55   | 85       
 Oslo Ess                       | 57   | 81       
-22                             | 72   | 71       
-Snarky Puppy                   | 81   | 63       
-Soilwork                       | 82   | 63       
+Soilwork                       | 65   | 77       
+22                             | 73   | 71       
+Snarky Puppy                   | 82   | 63       
 Fit for an Autopsy             | 86   | 60       
 Children of Bodom              | 88   | 57       
 Leo                            | 90   | 57       
@@ -69,12 +69,12 @@ Name                       | Rank | PlayCount
 Jean-Luc Ponty             | 14   | 226      
 Nospūn                     | 16   | 207      
 All That Remains           | 20   | 172      
-The Night Flight Orchestra | 23   | 155      
+The Night Flight Orchestra | 23   | 157      
 The Halo Effect            | 24   | 154      
-Death by Unga Bunga        | 26   | 143      
-Sylosis                    | 28   | 140      
-Animals as Leaders         | 32   | 134      
-The Offspring              | 33   | 131      
+Death by Unga Bunga        | 27   | 143      
+Sylosis                    | 30   | 140      
+Animals as Leaders         | 33   | 134      
+The Offspring              | 34   | 131      
 Lars Vaular                | 41   | 118      
 Heilung                    | 43   | 117      
 The Police                 | 45   | 107      
@@ -88,18 +88,18 @@ Red Hot Chili Peppers      | 60   | 80
 Elton John                 | 61   | 79       
 Bokassa                    | 63   | 77       
 Rival Sons                 | 64   | 77       
-Toto                       | 66   | 76       
-Linkin Park                | 67   | 75       
-Thulsa Doom                | 68   | 75       
-Love                       | 69   | 73       
-Porcupine Tree             | 70   | 73       
-will.i.am                  | 71   | 72       
-Queens of the Stone Age    | 73   | 70       
-VOLA                       | 75   | 69       
-Styx                       | 76   | 68       
-Ludo                       | 77   | 65       
-A.C.T                      | 78   | 64       
-Ballinciaga                | 79   | 64       
+Toto                       | 67   | 76       
+Linkin Park                | 68   | 75       
+Thulsa Doom                | 69   | 75       
+Love                       | 70   | 73       
+Porcupine Tree             | 71   | 73       
+will.i.am                  | 72   | 72       
+Queens of the Stone Age    | 74   | 70       
+VOLA                       | 76   | 69       
+Styx                       | 77   | 68       
+Ludo                       | 78   | 65       
+A.C.T                      | 79   | 64       
+Ballinciaga                | 80   | 64       
 Sum 41                     | 84   | 62       
 The Rolling Stones         | 85   | 62       
 Testament                  | 87   | 58       
@@ -114,13 +114,13 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 352      
 Rush                         | 6    | 344      
-Hall & Oates                 | 38   | 123      
+Hall & Oates                 | 38   | 124      
 Creedence Clearwater Revival | 49   | 95       
 Led Zeppelin                 | 50   | 94       
 Pink Floyd                   | 62   | 78       
-Dire Straits                 | 65   | 76       
-The Beatles                  | 74   | 69       
-Daft Punk                    | 80   | 63       
+Dire Straits                 | 66   | 76       
+The Beatles                  | 75   | 69       
+Daft Punk                    | 81   | 63       
 The Notorious B.I.G.         | 83   | 63       
 The Who                      | 94   | 56       
 Thin Lizzy                   | 100  | 54       
