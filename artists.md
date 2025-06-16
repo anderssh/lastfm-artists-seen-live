@@ -14,18 +14,18 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 829      
+Dream Theater                  | 1    | 830      
 AC/DC                          | 2    | 507      
 Spidergawd                     | 3    | 408      
-Metallica                      | 4    | 384      
+Metallica                      | 4    | 385      
 Ghost                          | 7    | 338      
 Skálmöld                       | 8    | 336      
 In Flames                      | 9    | 330      
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 290      
 Avenged Sevenfold              | 12   | 260      
-Foo Fighters                   | 13   | 235      
-Haken                          | 15   | 222      
+Foo Fighters                   | 13   | 236      
+Haken                          | 15   | 224      
 Greta Van Fleet                | 17   | 206      
 The Dogs                       | 18   | 203      
 Honningbarna                   | 19   | 181      
@@ -112,7 +112,7 @@ Stevie Wonder              | 94   | 56
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 354      
+Fleetwood Mac                | 5    | 355      
 Rush                         | 6    | 346      
 Hall & Oates                 | 38   | 124      
 Creedence Clearwater Revival | 49   | 95       
