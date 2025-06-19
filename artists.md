@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 835      
+Dream Theater                  | 1    | 836      
 AC/DC                          | 2    | 507      
 Spidergawd                     | 3    | 410      
 Metallica                      | 4    | 386      
@@ -48,15 +48,15 @@ Maktkamp                       | 47   | 98
 Backstreet Girls               | 48   | 95       
 Opeth                          | 51   | 92       
 The Good The Bad and The Zugly | 54   | 87       
-The Killers                    | 57   | 85       
+The Killers                    | 56   | 86       
 Oslo Ess                       | 60   | 82       
 Soilwork                       | 64   | 78       
-22                             | 73   | 71       
-Snarky Puppy                   | 81   | 64       
-Fit for an Autopsy             | 86   | 61       
-Leo                            | 87   | 58       
-Children of Bodom              | 89   | 57       
-Lamb of God                    | 92   | 56       
+Lamb of God                    | 67   | 76       
+22                             | 74   | 71       
+Snarky Puppy                   | 82   | 64       
+Fit for an Autopsy             | 87   | 61       
+Leo                            | 88   | 58       
+Children of Bodom              | 90   | 57       
 Mall Girl                      | 93   | 56       
 Parkway Drive                  | 95   | 56       
 Perfekt Defekt                 | 98   | 55       
@@ -82,30 +82,30 @@ The Police                 | 44   | 110
 Parius                     | 46   | 100      
 DJ MøMø                    | 52   | 90       
 DumDum Boys                | 53   | 87       
-Aktiv Dödshjelp            | 56   | 85       
+Aktiv Dödshjelp            | 57   | 85       
 The Black Keys             | 58   | 84       
 Bill Withers               | 61   | 80       
 Red Hot Chili Peppers      | 62   | 80       
 Elton John                 | 63   | 79       
 Bokassa                    | 65   | 77       
 Rival Sons                 | 66   | 77       
-Thulsa Doom                | 67   | 76       
-Toto                       | 68   | 76       
-Linkin Park                | 69   | 75       
-Love                       | 70   | 73       
-Porcupine Tree             | 71   | 73       
-will.i.am                  | 72   | 72       
-Queens of the Stone Age    | 74   | 70       
-VOLA                       | 76   | 69       
-Styx                       | 77   | 68       
-Ludo                       | 78   | 65       
-A.C.T                      | 79   | 64       
-Ballinciaga                | 80   | 64       
-Sum 41                     | 84   | 62       
-The Rolling Stones         | 85   | 62       
-Testament                  | 88   | 58       
-Frank Zappa                | 90   | 57       
-Van Halen                  | 91   | 57       
+Thulsa Doom                | 68   | 76       
+Toto                       | 69   | 76       
+Linkin Park                | 70   | 75       
+Love                       | 71   | 73       
+Porcupine Tree             | 72   | 73       
+will.i.am                  | 73   | 72       
+Queens of the Stone Age    | 75   | 70       
+VOLA                       | 77   | 69       
+Styx                       | 78   | 68       
+Ludo                       | 79   | 65       
+A.C.T                      | 80   | 64       
+Ballinciaga                | 81   | 64       
+Sum 41                     | 85   | 62       
+The Rolling Stones         | 86   | 62       
+Testament                  | 89   | 58       
+Frank Zappa                | 91   | 57       
+Van Halen                  | 92   | 57       
 Megadeth                   | 94   | 56       
 Stevie Wonder              | 96   | 56       
 
@@ -120,7 +120,7 @@ Creedence Clearwater Revival | 49   | 95
 Led Zeppelin                 | 50   | 94       
 Pink Floyd                   | 55   | 86       
 Dire Straits                 | 59   | 82       
-The Beatles                  | 75   | 69       
-Daft Punk                    | 82   | 63       
-The Notorious B.I.G.         | 83   | 63       
+The Beatles                  | 76   | 69       
+Daft Punk                    | 83   | 63       
+The Notorious B.I.G.         | 84   | 63       
 The Who                      | 97   | 56       
