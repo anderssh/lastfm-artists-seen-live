@@ -14,16 +14,16 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 836      
+Dream Theater                  | 1    | 838      
 AC/DC                          | 2    | 507      
 Spidergawd                     | 3    | 410      
-Metallica                      | 4    | 386      
+Metallica                      | 4    | 393      
 Ghost                          | 7    | 338      
-Skálmöld                       | 8    | 336      
-In Flames                      | 9    | 333      
+In Flames                      | 8    | 337      
+Skálmöld                       | 9    | 336      
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 290      
-Avenged Sevenfold              | 12   | 260      
+Avenged Sevenfold              | 12   | 261      
 Foo Fighters                   | 13   | 237      
 Haken                          | 14   | 227      
 Greta Van Fleet                | 17   | 206      
@@ -32,7 +32,7 @@ Honningbarna                   | 19   | 181
 Eluveitie                      | 21   | 167      
 Amyl and the Sniffers          | 23   | 159      
 Green Day                      | 25   | 153      
-Mastodon                       | 26   | 147      
+Mastodon                       | 26   | 149      
 Tool                           | 29   | 142      
 Finntroll                      | 30   | 141      
 Eminem                         | 31   | 138      
@@ -50,15 +50,15 @@ Opeth                          | 51   | 92
 The Good The Bad and The Zugly | 54   | 87       
 The Killers                    | 56   | 86       
 Oslo Ess                       | 60   | 82       
-Soilwork                       | 64   | 78       
-Lamb of God                    | 67   | 76       
+Lamb of God                    | 64   | 78       
+Soilwork                       | 65   | 78       
 22                             | 74   | 71       
 Snarky Puppy                   | 82   | 64       
 Fit for an Autopsy             | 87   | 61       
-Leo                            | 88   | 58       
-Children of Bodom              | 90   | 57       
-Mall Girl                      | 93   | 56       
-Parkway Drive                  | 95   | 56       
+Parkway Drive                  | 88   | 59       
+Leo                            | 90   | 58       
+Children of Bodom              | 92   | 57       
+Mall Girl                      | 94   | 56       
 Perfekt Defekt                 | 98   | 55       
 The Winery Dogs                | 99   | 55       
 Volbeat                        | 100  | 55       
@@ -87,15 +87,15 @@ The Black Keys             | 58   | 84
 Bill Withers               | 61   | 80       
 Red Hot Chili Peppers      | 62   | 80       
 Elton John                 | 63   | 79       
-Bokassa                    | 65   | 77       
-Rival Sons                 | 66   | 77       
+Bokassa                    | 66   | 77       
+Rival Sons                 | 67   | 77       
 Thulsa Doom                | 68   | 76       
 Toto                       | 69   | 76       
 Linkin Park                | 70   | 75       
 Love                       | 71   | 73       
 Porcupine Tree             | 72   | 73       
 will.i.am                  | 73   | 72       
-Queens of the Stone Age    | 75   | 70       
+Queens of the Stone Age    | 75   | 71       
 VOLA                       | 77   | 69       
 Styx                       | 78   | 68       
 Ludo                       | 79   | 65       
@@ -103,10 +103,10 @@ A.C.T                      | 80   | 64
 Ballinciaga                | 81   | 64       
 Sum 41                     | 85   | 62       
 The Rolling Stones         | 86   | 62       
-Testament                  | 89   | 58       
-Frank Zappa                | 91   | 57       
-Van Halen                  | 92   | 57       
-Megadeth                   | 94   | 56       
+Van Halen                  | 89   | 59       
+Testament                  | 91   | 58       
+Frank Zappa                | 93   | 57       
+Megadeth                   | 95   | 56       
 Stevie Wonder              | 96   | 56       
 
 ## Inactive top 100 artists not seen live (11)
