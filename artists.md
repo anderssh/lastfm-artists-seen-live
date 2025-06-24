@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 842      
+Dream Theater                  | 1    | 844      
 AC/DC                          | 2    | 507      
 Spidergawd                     | 3    | 410      
 Metallica                      | 4    | 393      
@@ -23,7 +23,7 @@ In Flames                      | 8    | 337
 Skálmöld                       | 9    | 336      
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 291      
-Avenged Sevenfold              | 12   | 261      
+Avenged Sevenfold              | 12   | 262      
 Foo Fighters                   | 13   | 237      
 Haken                          | 14   | 230      
 Greta Van Fleet                | 17   | 206      
@@ -32,7 +32,7 @@ Honningbarna                   | 19   | 181
 Eluveitie                      | 21   | 167      
 Amyl and the Sniffers          | 23   | 159      
 Green Day                      | 24   | 154      
-Mastodon                       | 26   | 152      
+Mastodon                       | 25   | 154      
 Tool                           | 29   | 143      
 Finntroll                      | 30   | 141      
 Eminem                         | 31   | 138      
@@ -47,17 +47,17 @@ blink-182                      | 45   | 108
 Maktkamp                       | 47   | 98       
 Backstreet Girls               | 48   | 95       
 Opeth                          | 51   | 93       
-The Good The Bad and The Zugly | 53   | 88       
-The Killers                    | 56   | 86       
-Oslo Ess                       | 60   | 82       
-Lamb of God                    | 64   | 78       
+Lamb of God                    | 53   | 90       
+The Good The Bad and The Zugly | 54   | 88       
+The Killers                    | 57   | 86       
+Oslo Ess                       | 61   | 82       
 Soilwork                       | 65   | 78       
 22                             | 74   | 71       
 Snarky Puppy                   | 82   | 64       
 Fit for an Autopsy             | 85   | 62       
-Parkway Drive                  | 89   | 59       
-Leo                            | 90   | 58       
-Children of Bodom              | 92   | 57       
+Parkway Drive                  | 90   | 59       
+Leo                            | 91   | 58       
+Children of Bodom              | 93   | 57       
 Mall Girl                      | 95   | 56       
 Perfekt Defekt                 | 99   | 55       
 The Winery Dogs                | 100  | 55       
@@ -70,7 +70,7 @@ Jean-Luc Ponty             | 15   | 226
 Nospūn                     | 16   | 208      
 All That Remains           | 20   | 172      
 The Night Flight Orchestra | 22   | 165      
-The Halo Effect            | 25   | 154      
+The Halo Effect            | 26   | 154      
 Death by Unga Bunga        | 27   | 144      
 Sylosis                    | 28   | 143      
 Animals as Leaders         | 33   | 134      
@@ -80,12 +80,12 @@ Heilung                    | 43   | 117
 The Police                 | 44   | 110      
 Parius                     | 46   | 100      
 DJ MøMø                    | 52   | 90       
-DumDum Boys                | 54   | 87       
-Aktiv Dödshjelp            | 57   | 85       
-The Black Keys             | 58   | 84       
-Bill Withers               | 61   | 80       
-Red Hot Chili Peppers      | 62   | 80       
-Elton John                 | 63   | 79       
+DumDum Boys                | 55   | 87       
+Aktiv Dödshjelp            | 58   | 85       
+The Black Keys             | 59   | 84       
+Bill Withers               | 62   | 80       
+Red Hot Chili Peppers      | 63   | 80       
+Elton John                 | 64   | 79       
 Bokassa                    | 66   | 77       
 Rival Sons                 | 67   | 77       
 Thulsa Doom                | 68   | 76       
@@ -100,12 +100,12 @@ Styx                       | 78   | 68
 Ludo                       | 79   | 65       
 A.C.T                      | 80   | 64       
 Ballinciaga                | 81   | 64       
-Sum 41                     | 86   | 62       
-The Rolling Stones         | 87   | 62       
-Van Halen                  | 88   | 60       
-Testament                  | 91   | 58       
-Frank Zappa                | 93   | 57       
-Megadeth                   | 94   | 57       
+Megadeth                   | 86   | 62       
+Sum 41                     | 87   | 62       
+The Rolling Stones         | 88   | 62       
+Van Halen                  | 89   | 60       
+Testament                  | 92   | 58       
+Frank Zappa                | 94   | 57       
 Stevie Wonder              | 96   | 56       
 Flying Colors              | 98   | 55       
 
@@ -118,8 +118,8 @@ Rush                         | 6    | 350
 Hall & Oates                 | 38   | 124      
 Creedence Clearwater Revival | 49   | 95       
 Led Zeppelin                 | 50   | 94       
-Pink Floyd                   | 55   | 86       
-Dire Straits                 | 59   | 82       
+Pink Floyd                   | 56   | 86       
+Dire Straits                 | 60   | 82       
 The Beatles                  | 76   | 69       
 Daft Punk                    | 83   | 63       
 The Notorious B.I.G.         | 84   | 63       
