@@ -58,8 +58,8 @@ Snarky Puppy                   | 83   | 64
 Parkway Drive                  | 91   | 59       
 Leo                            | 92   | 58       
 Children of Bodom              | 94   | 57       
-Mall Girl                      | 96   | 56       
-Perfekt Defekt                 | 100  | 55       
+Turbonegro                     | 96   | 57       
+Mall Girl                      | 97   | 56       
 
 ## Active top 100 artists not seen live (43)
 
@@ -76,14 +76,14 @@ Animals as Leaders         | 33   | 134
 The Offspring              | 34   | 131      
 Lars Vaular                | 41   | 118      
 Heilung                    | 43   | 117      
-The Police                 | 44   | 110      
+The Police                 | 44   | 112      
 Parius                     | 46   | 100      
 DJ MøMø                    | 52   | 90       
 DumDum Boys                | 55   | 87       
 Aktiv Dödshjelp            | 58   | 85       
-The Black Keys             | 59   | 84       
-Elton John                 | 62   | 81       
-Bill Withers               | 63   | 80       
+The Black Keys             | 59   | 85       
+Bill Withers               | 62   | 81       
+Elton John                 | 63   | 81       
 Red Hot Chili Peppers      | 65   | 80       
 Bokassa                    | 67   | 77       
 Rival Sons                 | 68   | 77       
@@ -106,14 +106,14 @@ Van Halen                  | 89   | 60
 Meshuggah                  | 90   | 59       
 Testament                  | 93   | 58       
 Frank Zappa                | 95   | 57       
-Stevie Wonder              | 97   | 56       
-Flying Colors              | 99   | 55       
+Stevie Wonder              | 98   | 56       
+Electric Light Orchestra   | 100  | 55       
 
 ## Inactive top 100 artists not seen live (11)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 355      
+Fleetwood Mac                | 5    | 356      
 Rush                         | 6    | 350      
 Hall & Oates                 | 38   | 124      
 Creedence Clearwater Revival | 49   | 95       
@@ -123,4 +123,4 @@ Dire Straits                 | 60   | 82
 The Beatles                  | 77   | 69       
 Daft Punk                    | 84   | 63       
 The Notorious B.I.G.         | 85   | 63       
-The Who                      | 98   | 56       
+The Who                      | 99   | 56       
