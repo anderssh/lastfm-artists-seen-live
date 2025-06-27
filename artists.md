@@ -54,11 +54,11 @@ Oslo Ess                       | 61   | 82
 Fit for an Autopsy             | 64   | 80       
 Soilwork                       | 66   | 78       
 22                             | 75   | 71       
-Snarky Puppy                   | 83   | 64       
-Parkway Drive                  | 91   | 59       
-Leo                            | 92   | 58       
-Children of Bodom              | 94   | 57       
-Turbonegro                     | 96   | 57       
+Turbonegro                     | 77   | 70       
+Snarky Puppy                   | 84   | 64       
+Parkway Drive                  | 92   | 59       
+Leo                            | 93   | 58       
+Children of Bodom              | 95   | 57       
 Mall Girl                      | 97   | 56       
 
 ## Active top 100 artists not seen live (43)
@@ -94,18 +94,18 @@ Love                       | 72   | 73
 Porcupine Tree             | 73   | 73       
 will.i.am                  | 74   | 72       
 Queens of the Stone Age    | 76   | 71       
-VOLA                       | 78   | 69       
-Styx                       | 79   | 68       
-Ludo                       | 80   | 65       
-A.C.T                      | 81   | 64       
-Ballinciaga                | 82   | 64       
-Megadeth                   | 86   | 62       
-Sum 41                     | 87   | 62       
-The Rolling Stones         | 88   | 62       
-Van Halen                  | 89   | 60       
-Meshuggah                  | 90   | 59       
-Testament                  | 93   | 58       
-Frank Zappa                | 95   | 57       
+VOLA                       | 79   | 69       
+Styx                       | 80   | 68       
+Ludo                       | 81   | 65       
+A.C.T                      | 82   | 64       
+Ballinciaga                | 83   | 64       
+Megadeth                   | 87   | 62       
+Sum 41                     | 88   | 62       
+The Rolling Stones         | 89   | 62       
+Van Halen                  | 90   | 60       
+Meshuggah                  | 91   | 59       
+Testament                  | 94   | 58       
+Frank Zappa                | 96   | 57       
 Stevie Wonder              | 98   | 56       
 Electric Light Orchestra   | 100  | 55       
 
@@ -120,7 +120,7 @@ Creedence Clearwater Revival | 49   | 95
 Led Zeppelin                 | 50   | 94       
 Pink Floyd                   | 56   | 86       
 Dire Straits                 | 60   | 82       
-The Beatles                  | 77   | 69       
-Daft Punk                    | 84   | 63       
-The Notorious B.I.G.         | 85   | 63       
+The Beatles                  | 78   | 69       
+Daft Punk                    | 85   | 63       
+The Notorious B.I.G.         | 86   | 63       
 The Who                      | 99   | 56       
