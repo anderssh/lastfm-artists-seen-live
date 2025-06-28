@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 844      
 AC/DC                          | 2    | 507      
-Spidergawd                     | 3    | 410      
+Spidergawd                     | 3    | 413      
 Metallica                      | 4    | 393      
 Ghost                          | 7    | 338      
 In Flames                      | 8    | 337      
@@ -28,7 +28,7 @@ Foo Fighters                   | 13   | 237
 Haken                          | 14   | 230      
 Greta Van Fleet                | 17   | 206      
 The Dogs                       | 18   | 203      
-Honningbarna                   | 19   | 181      
+Honningbarna                   | 19   | 182      
 Eluveitie                      | 21   | 167      
 Amyl and the Sniffers          | 23   | 159      
 Green Day                      | 24   | 154      
@@ -48,13 +48,13 @@ Maktkamp                       | 47   | 98
 Backstreet Girls               | 48   | 95       
 Opeth                          | 51   | 93       
 Lamb of God                    | 53   | 90       
-The Good The Bad and The Zugly | 54   | 88       
+The Good The Bad and The Zugly | 54   | 90       
 The Killers                    | 57   | 86       
-Oslo Ess                       | 61   | 82       
+Oslo Ess                       | 60   | 83       
 Fit for an Autopsy             | 64   | 80       
 Soilwork                       | 66   | 78       
-22                             | 75   | 71       
-Turbonegro                     | 77   | 70       
+Turbonegro                     | 72   | 74       
+22                             | 76   | 71       
 Snarky Puppy                   | 84   | 64       
 Parkway Drive                  | 92   | 59       
 Leo                            | 93   | 58       
@@ -87,13 +87,13 @@ Elton John                 | 63   | 81
 Red Hot Chili Peppers      | 65   | 80       
 Bokassa                    | 67   | 77       
 Rival Sons                 | 68   | 77       
-Thulsa Doom                | 69   | 76       
+Thulsa Doom                | 69   | 77       
 Toto                       | 70   | 76       
 Linkin Park                | 71   | 75       
-Love                       | 72   | 73       
-Porcupine Tree             | 73   | 73       
-will.i.am                  | 74   | 72       
-Queens of the Stone Age    | 76   | 71       
+Love                       | 73   | 73       
+Porcupine Tree             | 74   | 73       
+will.i.am                  | 75   | 72       
+Queens of the Stone Age    | 77   | 71       
 VOLA                       | 79   | 69       
 Styx                       | 80   | 68       
 Ludo                       | 81   | 65       
@@ -115,11 +115,11 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 356      
 Rush                         | 6    | 350      
-Hall & Oates                 | 38   | 124      
+Hall & Oates                 | 38   | 125      
 Creedence Clearwater Revival | 49   | 95       
 Led Zeppelin                 | 50   | 94       
 Pink Floyd                   | 56   | 86       
-Dire Straits                 | 60   | 82       
+Dire Straits                 | 61   | 82       
 The Beatles                  | 78   | 69       
 Daft Punk                    | 85   | 63       
 The Notorious B.I.G.         | 86   | 63       
