@@ -23,7 +23,7 @@ In Flames                      | 8    | 337
 Skálmöld                       | 9    | 336      
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 291      
-Avenged Sevenfold              | 12   | 263      
+Avenged Sevenfold              | 12   | 265      
 Foo Fighters                   | 13   | 237      
 Haken                          | 14   | 230      
 Greta Van Fleet                | 17   | 206      
@@ -53,7 +53,7 @@ The Killers                    | 57   | 86
 Oslo Ess                       | 60   | 83       
 Fit for an Autopsy             | 64   | 80       
 Soilwork                       | 66   | 78       
-Turbonegro                     | 72   | 74       
+Turbonegro                     | 72   | 75       
 22                             | 76   | 71       
 Snarky Puppy                   | 84   | 64       
 Parkway Drive                  | 92   | 59       
@@ -99,7 +99,7 @@ Styx                       | 80   | 68
 Ludo                       | 81   | 65       
 A.C.T                      | 82   | 64       
 Ballinciaga                | 83   | 64       
-Megadeth                   | 87   | 62       
+Megadeth                   | 86   | 63       
 Sum 41                     | 88   | 62       
 The Rolling Stones         | 89   | 62       
 Van Halen                  | 90   | 60       
@@ -122,5 +122,5 @@ Pink Floyd                   | 56   | 86
 Dire Straits                 | 61   | 82       
 The Beatles                  | 78   | 69       
 Daft Punk                    | 85   | 63       
-The Notorious B.I.G.         | 86   | 63       
+The Notorious B.I.G.         | 87   | 63       
 The Who                      | 99   | 56       
