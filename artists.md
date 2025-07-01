@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 844      
+Dream Theater                  | 1    | 845      
 AC/DC                          | 2    | 507      
 Spidergawd                     | 3    | 413      
 Metallica                      | 4    | 393      
