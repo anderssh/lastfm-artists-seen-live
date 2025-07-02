@@ -24,7 +24,7 @@ Skálmöld                       | 9    | 336
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 291      
 Avenged Sevenfold              | 12   | 265      
-Foo Fighters                   | 13   | 237      
+Foo Fighters                   | 13   | 238      
 Haken                          | 14   | 230      
 Greta Van Fleet                | 17   | 206      
 The Dogs                       | 18   | 203      
@@ -36,7 +36,7 @@ Mastodon                       | 25   | 154
 Tool                           | 29   | 143      
 Finntroll                      | 30   | 141      
 Eminem                         | 31   | 138      
-Ne Obliviscaris                | 32   | 135      
+Ne Obliviscaris                | 33   | 135      
 Gojira                         | 35   | 130      
 Judas Priest                   | 36   | 128      
 Architects                     | 37   | 127      
@@ -70,9 +70,9 @@ Nospūn                     | 16   | 208
 All That Remains           | 20   | 172      
 The Night Flight Orchestra | 22   | 165      
 The Halo Effect            | 26   | 154      
-Death by Unga Bunga        | 27   | 144      
+Death by Unga Bunga        | 27   | 147      
 Sylosis                    | 28   | 143      
-Animals as Leaders         | 33   | 134      
+Animals as Leaders         | 32   | 136      
 The Offspring              | 34   | 131      
 Lars Vaular                | 41   | 118      
 Heilung                    | 43   | 117      
@@ -102,8 +102,8 @@ Ballinciaga                | 83   | 64
 Megadeth                   | 86   | 63       
 Sum 41                     | 88   | 62       
 The Rolling Stones         | 89   | 62       
-Van Halen                  | 90   | 60       
-Meshuggah                  | 91   | 59       
+Meshuggah                  | 90   | 60       
+Van Halen                  | 91   | 60       
 Testament                  | 94   | 58       
 Frank Zappa                | 96   | 57       
 Stevie Wonder              | 98   | 56       
