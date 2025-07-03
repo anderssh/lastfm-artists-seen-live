@@ -56,9 +56,9 @@ Soilwork                       | 66   | 78
 Turbonegro                     | 72   | 75       
 22                             | 76   | 71       
 Snarky Puppy                   | 84   | 64       
-Parkway Drive                  | 92   | 59       
-Leo                            | 93   | 58       
-Children of Bodom              | 95   | 57       
+Children of Bodom              | 85   | 63       
+Parkway Drive                  | 93   | 59       
+Leo                            | 94   | 58       
 Mall Girl                      | 97   | 56       
 
 ## Active top 100 artists not seen live (43)
@@ -99,12 +99,12 @@ Styx                       | 80   | 68
 Ludo                       | 81   | 65       
 A.C.T                      | 82   | 64       
 Ballinciaga                | 83   | 64       
-Megadeth                   | 86   | 63       
-Sum 41                     | 88   | 62       
-The Rolling Stones         | 89   | 62       
-Meshuggah                  | 90   | 60       
-Van Halen                  | 91   | 60       
-Testament                  | 94   | 58       
+Megadeth                   | 87   | 63       
+Sum 41                     | 89   | 62       
+The Rolling Stones         | 90   | 62       
+Meshuggah                  | 91   | 60       
+Van Halen                  | 92   | 60       
+Testament                  | 95   | 58       
 Frank Zappa                | 96   | 57       
 Stevie Wonder              | 98   | 56       
 Electric Light Orchestra   | 100  | 55       
@@ -121,6 +121,6 @@ Led Zeppelin                 | 50   | 94
 Pink Floyd                   | 56   | 86       
 Dire Straits                 | 61   | 82       
 The Beatles                  | 78   | 69       
-Daft Punk                    | 85   | 63       
-The Notorious B.I.G.         | 87   | 63       
+Daft Punk                    | 86   | 63       
+The Notorious B.I.G.         | 88   | 63       
 The Who                      | 99   | 56       
