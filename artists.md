@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 845      
+Dream Theater                  | 1    | 848      
 AC/DC                          | 2    | 507      
 Spidergawd                     | 3    | 413      
 Metallica                      | 4    | 393      
@@ -25,7 +25,7 @@ Seven Spires                   | 10   | 325
 Circus Maximus                 | 11   | 291      
 Avenged Sevenfold              | 12   | 265      
 Foo Fighters                   | 13   | 238      
-Haken                          | 14   | 230      
+Haken                          | 14   | 231      
 Greta Van Fleet                | 17   | 206      
 The Dogs                       | 18   | 203      
 Honningbarna                   | 19   | 182      
@@ -33,7 +33,7 @@ Eluveitie                      | 21   | 167
 Amyl and the Sniffers          | 23   | 159      
 Green Day                      | 24   | 154      
 Mastodon                       | 25   | 154      
-Tool                           | 29   | 143      
+Tool                           | 28   | 144      
 Finntroll                      | 30   | 141      
 Eminem                         | 31   | 138      
 Ne Obliviscaris                | 33   | 135      
@@ -46,17 +46,17 @@ Pagan's Mind                   | 42   | 118
 blink-182                      | 45   | 108      
 Maktkamp                       | 47   | 98       
 Backstreet Girls               | 48   | 95       
-Opeth                          | 51   | 93       
+Opeth                          | 50   | 95       
 Lamb of God                    | 53   | 90       
 The Good The Bad and The Zugly | 54   | 90       
 The Killers                    | 57   | 86       
 Oslo Ess                       | 60   | 83       
 Fit for an Autopsy             | 64   | 80       
-Soilwork                       | 66   | 78       
+Soilwork                       | 66   | 79       
 Turbonegro                     | 72   | 75       
 22                             | 76   | 71       
-Snarky Puppy                   | 84   | 64       
-Children of Bodom              | 85   | 63       
+Children of Bodom              | 81   | 66       
+Snarky Puppy                   | 85   | 64       
 Parkway Drive                  | 93   | 59       
 Leo                            | 94   | 58       
 Mall Girl                      | 97   | 56       
@@ -71,8 +71,8 @@ All That Remains           | 20   | 172
 The Night Flight Orchestra | 22   | 165      
 The Halo Effect            | 26   | 154      
 Death by Unga Bunga        | 27   | 147      
-Sylosis                    | 28   | 143      
-Animals as Leaders         | 32   | 136      
+Sylosis                    | 29   | 143      
+Animals as Leaders         | 32   | 137      
 The Offspring              | 34   | 131      
 Lars Vaular                | 41   | 118      
 Heilung                    | 43   | 117      
@@ -96,9 +96,9 @@ will.i.am                  | 75   | 72
 Queens of the Stone Age    | 77   | 71       
 VOLA                       | 79   | 69       
 Styx                       | 80   | 68       
-Ludo                       | 81   | 65       
-A.C.T                      | 82   | 64       
-Ballinciaga                | 83   | 64       
+Ludo                       | 82   | 65       
+A.C.T                      | 83   | 64       
+Ballinciaga                | 84   | 64       
 Megadeth                   | 87   | 63       
 Sum 41                     | 89   | 62       
 The Rolling Stones         | 90   | 62       
@@ -117,7 +117,7 @@ Fleetwood Mac                | 5    | 356
 Rush                         | 6    | 350      
 Hall & Oates                 | 38   | 125      
 Creedence Clearwater Revival | 49   | 95       
-Led Zeppelin                 | 50   | 94       
+Led Zeppelin                 | 51   | 94       
 Pink Floyd                   | 56   | 86       
 Dire Straits                 | 61   | 82       
 The Beatles                  | 78   | 69       
