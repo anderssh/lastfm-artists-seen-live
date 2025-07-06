@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 848      
-AC/DC                          | 2    | 507      
+AC/DC                          | 2    | 508      
 Spidergawd                     | 3    | 413      
 Metallica                      | 4    | 393      
 Ghost                          | 7    | 338      
@@ -31,7 +31,7 @@ The Dogs                       | 18   | 203
 Honningbarna                   | 19   | 182      
 Eluveitie                      | 21   | 167      
 Amyl and the Sniffers          | 23   | 159      
-Slipknot                       | 24   | 157      
+Slipknot                       | 24   | 158      
 Green Day                      | 25   | 154      
 Mastodon                       | 26   | 154      
 Tool                           | 29   | 144      
@@ -50,16 +50,16 @@ Opeth                          | 50   | 95
 Lamb of God                    | 53   | 90       
 The Good The Bad and The Zugly | 54   | 90       
 The Killers                    | 55   | 88       
-Oslo Ess                       | 60   | 83       
+Oslo Ess                       | 61   | 83       
 Fit for an Autopsy             | 64   | 80       
 Soilwork                       | 66   | 79       
 Turbonegro                     | 72   | 75       
 22                             | 76   | 71       
 Children of Bodom              | 81   | 67       
 Snarky Puppy                   | 85   | 64       
-Parkway Drive                  | 93   | 59       
-Leo                            | 94   | 58       
-Mall Girl                      | 98   | 56       
+Parkway Drive                  | 94   | 59       
+Leo                            | 96   | 58       
+Mall Girl                      | 99   | 56       
 
 ## Active top 100 artists not seen live (43)
 
@@ -76,13 +76,13 @@ Animals as Leaders         | 33   | 137
 The Offspring              | 35   | 131      
 Lars Vaular                | 41   | 118      
 Heilung                    | 43   | 117      
-The Police                 | 44   | 113      
+The Police                 | 44   | 114      
 Parius                     | 46   | 100      
 DJ MøMø                    | 52   | 90       
 DumDum Boys                | 56   | 87       
 The Black Keys             | 58   | 86       
 Aktiv Dödshjelp            | 59   | 85       
-Bill Withers               | 61   | 82       
+Bill Withers               | 62   | 82       
 Elton John                 | 63   | 81       
 Red Hot Chili Peppers      | 65   | 80       
 Bokassa                    | 67   | 77       
@@ -104,22 +104,22 @@ Sum 41                     | 89   | 62
 The Rolling Stones         | 90   | 62       
 Meshuggah                  | 91   | 60       
 Van Halen                  | 92   | 60       
-Testament                  | 95   | 58       
-Frank Zappa                | 96   | 57       
-Electric Light Orchestra   | 97   | 56       
-Stevie Wonder              | 99   | 56       
+Electric Light Orchestra   | 93   | 59       
+Stevie Wonder              | 95   | 59       
+Testament                  | 97   | 58       
+Frank Zappa                | 98   | 57       
 
 ## Inactive top 100 artists not seen live (11)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 357      
+Fleetwood Mac                | 5    | 361      
 Rush                         | 6    | 350      
-Hall & Oates                 | 39   | 126      
+Hall & Oates                 | 39   | 127      
 Creedence Clearwater Revival | 49   | 95       
 Led Zeppelin                 | 51   | 94       
 Pink Floyd                   | 57   | 86       
-Dire Straits                 | 62   | 82       
+Dire Straits                 | 60   | 84       
 The Beatles                  | 78   | 71       
 Daft Punk                    | 86   | 63       
 The Notorious B.I.G.         | 88   | 63       
