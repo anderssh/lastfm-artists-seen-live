@@ -4,11 +4,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of artists seen live in total: 106
 
-- Number of fetched top artists: 100 (Active: 89 Inactive: 11)
+- Number of fetched top artists: 100 (Active: 90 Inactive: 10)
 
 - Number of top artists seen live: 46 (Active: 46 Inactive: 0)
 
-- Number of top artists not seen live: 54 (Active: 43 Inactive: 11)
+- Number of top artists not seen live: 54 (Active: 44 Inactive: 10)
 
 ## Top 100 artists seen live (46)
 
@@ -56,18 +56,18 @@ Soilwork                       | 66   | 79
 Turbonegro                     | 72   | 75       
 22                             | 76   | 71       
 Children of Bodom              | 81   | 67       
-Snarky Puppy                   | 85   | 64       
-Parkway Drive                  | 94   | 59       
-Leo                            | 96   | 58       
-Mall Girl                      | 99   | 56       
+Snarky Puppy                   | 86   | 64       
+Parkway Drive                  | 95   | 59       
+Leo                            | 97   | 58       
+Mall Girl                      | 100  | 56       
 
-## Active top 100 artists not seen live (43)
+## Active top 100 artists not seen live (44)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 15   | 226      
 Nospūn                     | 16   | 208      
-All That Remains           | 20   | 172      
+All That Remains           | 20   | 177      
 The Night Flight Orchestra | 22   | 165      
 The Halo Effect            | 27   | 154      
 Death by Unga Bunga        | 28   | 147      
@@ -78,7 +78,7 @@ Lars Vaular                | 41   | 118
 Heilung                    | 43   | 117      
 The Police                 | 44   | 114      
 Parius                     | 46   | 100      
-DJ MøMø                    | 52   | 90       
+DJ MøMø                    | 52   | 93       
 DumDum Boys                | 56   | 87       
 The Black Keys             | 58   | 86       
 Aktiv Dödshjelp            | 59   | 85       
@@ -99,17 +99,18 @@ Styx                       | 80   | 68
 Ludo                       | 82   | 65       
 A.C.T                      | 83   | 64       
 Ballinciaga                | 84   | 64       
-Megadeth                   | 87   | 63       
-Sum 41                     | 89   | 62       
-The Rolling Stones         | 90   | 62       
-Meshuggah                  | 91   | 60       
-Van Halen                  | 92   | 60       
-Electric Light Orchestra   | 93   | 59       
-Stevie Wonder              | 95   | 59       
-Testament                  | 97   | 58       
-Frank Zappa                | 98   | 57       
+Jinjer                     | 85   | 64       
+Megadeth                   | 88   | 63       
+Sum 41                     | 90   | 62       
+The Rolling Stones         | 91   | 62       
+Meshuggah                  | 92   | 60       
+Van Halen                  | 93   | 60       
+Electric Light Orchestra   | 94   | 59       
+Stevie Wonder              | 96   | 59       
+Testament                  | 98   | 58       
+Frank Zappa                | 99   | 57       
 
-## Inactive top 100 artists not seen live (11)
+## Inactive top 100 artists not seen live (10)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
@@ -121,6 +122,5 @@ Led Zeppelin                 | 51   | 94
 Pink Floyd                   | 57   | 86       
 Dire Straits                 | 60   | 84       
 The Beatles                  | 78   | 71       
-Daft Punk                    | 86   | 63       
-The Notorious B.I.G.         | 88   | 63       
-The Who                      | 100  | 56       
+Daft Punk                    | 87   | 63       
+The Notorious B.I.G.         | 89   | 63       
