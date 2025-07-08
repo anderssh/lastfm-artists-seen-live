@@ -45,8 +45,8 @@ Kvelertak                      | 40   | 121
 Pagan's Mind                   | 42   | 118      
 blink-182                      | 45   | 108      
 Maktkamp                       | 47   | 98       
-Backstreet Girls               | 48   | 95       
-Opeth                          | 50   | 95       
+Backstreet Girls               | 49   | 95       
+Opeth                          | 51   | 95       
 Lamb of God                    | 53   | 90       
 The Good The Bad and The Zugly | 54   | 90       
 The Killers                    | 55   | 88       
@@ -55,7 +55,7 @@ Fit for an Autopsy             | 64   | 80
 Soilwork                       | 66   | 79       
 Turbonegro                     | 72   | 75       
 22                             | 76   | 71       
-Children of Bodom              | 81   | 67       
+Children of Bodom              | 82   | 67       
 Snarky Puppy                   | 86   | 64       
 Parkway Drive                  | 95   | 59       
 Leo                            | 97   | 58       
@@ -78,7 +78,7 @@ Lars Vaular                | 41   | 118
 Heilung                    | 43   | 117      
 The Police                 | 44   | 114      
 Parius                     | 46   | 100      
-DJ MøMø                    | 52   | 93       
+DJ MøMø                    | 48   | 97       
 DumDum Boys                | 56   | 87       
 The Black Keys             | 58   | 86       
 Aktiv Dödshjelp            | 59   | 85       
@@ -94,12 +94,12 @@ Love                       | 73   | 73
 Porcupine Tree             | 74   | 73       
 will.i.am                  | 75   | 72       
 Queens of the Stone Age    | 77   | 71       
-VOLA                       | 79   | 69       
-Styx                       | 80   | 68       
-Ludo                       | 82   | 65       
-A.C.T                      | 83   | 64       
-Ballinciaga                | 84   | 64       
-Jinjer                     | 85   | 64       
+Jinjer                     | 79   | 70       
+VOLA                       | 80   | 69       
+Styx                       | 81   | 68       
+Ludo                       | 83   | 65       
+A.C.T                      | 84   | 64       
+Ballinciaga                | 85   | 64       
 Megadeth                   | 88   | 63       
 Sum 41                     | 90   | 62       
 The Rolling Stones         | 91   | 62       
@@ -117,8 +117,8 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 5    | 361      
 Rush                         | 6    | 350      
 Hall & Oates                 | 39   | 127      
-Creedence Clearwater Revival | 49   | 95       
-Led Zeppelin                 | 51   | 94       
+Creedence Clearwater Revival | 50   | 95       
+Led Zeppelin                 | 52   | 94       
 Pink Floyd                   | 57   | 86       
 Dire Straits                 | 60   | 84       
 The Beatles                  | 78   | 71       
