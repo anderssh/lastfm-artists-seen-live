@@ -4,9 +4,9 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of artists seen live in total: 106
 
-- Number of fetched top artists: 100 (Active: 90 Inactive: 10)
+- Number of fetched top artists: 100 (Active: 89 Inactive: 11)
 
-- Number of top artists seen live: 46 (Active: 46 Inactive: 0)
+- Number of top artists seen live: 46 (Active: 45 Inactive: 1)
 
 - Number of top artists not seen live: 54 (Active: 44 Inactive: 10)
 
@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 848      
+Dream Theater                  | 1    | 851      
 AC/DC                          | 2    | 508      
 Spidergawd                     | 3    | 413      
 Metallica                      | 4    | 393      
@@ -23,16 +23,16 @@ In Flames                      | 8    | 337
 Skálmöld                       | 9    | 336      
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 291      
-Avenged Sevenfold              | 12   | 265      
-Foo Fighters                   | 13   | 238      
+Avenged Sevenfold              | 12   | 266      
+Foo Fighters                   | 13   | 241      
 Haken                          | 14   | 231      
 Greta Van Fleet                | 17   | 206      
 The Dogs                       | 18   | 203      
 Honningbarna                   | 19   | 182      
 Eluveitie                      | 21   | 167      
 Amyl and the Sniffers          | 23   | 159      
-Slipknot                       | 24   | 158      
-Green Day                      | 25   | 154      
+Slipknot                       | 24   | 159      
+Green Day                      | 25   | 155      
 Mastodon                       | 26   | 154      
 Tool                           | 29   | 144      
 Finntroll                      | 31   | 141      
@@ -42,8 +42,8 @@ Gojira                         | 36   | 130
 Judas Priest                   | 37   | 128      
 Architects                     | 38   | 127      
 Kvelertak                      | 40   | 121      
-Pagan's Mind                   | 42   | 118      
-blink-182                      | 45   | 108      
+Pagan's Mind                   | 41   | 119      
+blink-182                      | 45   | 109      
 Maktkamp                       | 47   | 98       
 Backstreet Girls               | 49   | 95       
 Opeth                          | 51   | 95       
@@ -58,8 +58,8 @@ Turbonegro                     | 72   | 75
 Children of Bodom              | 82   | 67       
 Snarky Puppy                   | 86   | 64       
 Parkway Drive                  | 95   | 59       
-Leo                            | 97   | 58       
-Mall Girl                      | 100  | 56       
+Kaizers Orchestra              | 97   | 58       
+Leo                            | 98   | 58       
 
 ## Active top 100 artists not seen live (44)
 
@@ -73,8 +73,8 @@ The Halo Effect            | 27   | 154
 Death by Unga Bunga        | 28   | 147      
 Sylosis                    | 30   | 143      
 Animals as Leaders         | 33   | 137      
-The Offspring              | 35   | 131      
-Lars Vaular                | 41   | 118      
+The Offspring              | 35   | 132      
+Lars Vaular                | 42   | 118      
 Heilung                    | 43   | 117      
 The Police                 | 44   | 114      
 Parius                     | 46   | 100      
@@ -88,8 +88,8 @@ Red Hot Chili Peppers      | 65   | 80
 Bokassa                    | 67   | 77       
 Rival Sons                 | 68   | 77       
 Thulsa Doom                | 69   | 77       
-Toto                       | 70   | 76       
-Linkin Park                | 71   | 75       
+Linkin Park                | 70   | 76       
+Toto                       | 71   | 76       
 Love                       | 73   | 73       
 Porcupine Tree             | 74   | 73       
 will.i.am                  | 75   | 72       
@@ -107,8 +107,8 @@ Meshuggah                  | 92   | 60
 Van Halen                  | 93   | 60       
 Electric Light Orchestra   | 94   | 59       
 Stevie Wonder              | 96   | 59       
-Testament                  | 98   | 58       
-Frank Zappa                | 99   | 57       
+Testament                  | 99   | 58       
+The Aristocrats            | 100  | 58       
 
 ## Inactive top 100 artists not seen live (10)
 
