@@ -57,8 +57,8 @@ Turbonegro                     | 72   | 75
 22                             | 76   | 71       
 Children of Bodom              | 82   | 67       
 Snarky Puppy                   | 86   | 64       
-Parkway Drive                  | 95   | 59       
-Kaizers Orchestra              | 97   | 58       
+Kaizers Orchestra              | 92   | 60       
+Parkway Drive                  | 96   | 59       
 Leo                            | 98   | 58       
 
 ## Active top 100 artists not seen live (44)
@@ -103,10 +103,10 @@ Ballinciaga                | 85   | 64
 Megadeth                   | 88   | 63       
 Sum 41                     | 90   | 62       
 The Rolling Stones         | 91   | 62       
-Meshuggah                  | 92   | 60       
-Van Halen                  | 93   | 60       
-Electric Light Orchestra   | 94   | 59       
-Stevie Wonder              | 96   | 59       
+Meshuggah                  | 93   | 60       
+Van Halen                  | 94   | 60       
+Electric Light Orchestra   | 95   | 59       
+Stevie Wonder              | 97   | 59       
 Testament                  | 99   | 58       
 The Aristocrats            | 100  | 58       
 
