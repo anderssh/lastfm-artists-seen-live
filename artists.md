@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 851      
-AC/DC                          | 2    | 508      
+AC/DC                          | 2    | 509      
 Spidergawd                     | 3    | 413      
 Metallica                      | 4    | 393      
 Ghost                          | 7    | 338      
@@ -57,7 +57,7 @@ Turbonegro                     | 72   | 75
 22                             | 76   | 71       
 Children of Bodom              | 82   | 67       
 Snarky Puppy                   | 86   | 64       
-Kaizers Orchestra              | 92   | 60       
+Kaizers Orchestra              | 92   | 61       
 Parkway Drive                  | 96   | 59       
 Leo                            | 98   | 58       
 
