@@ -44,13 +44,13 @@ Architects                     | 38   | 127
 Kvelertak                      | 40   | 121      
 Pagan's Mind                   | 41   | 119      
 blink-182                      | 45   | 109      
-Maktkamp                       | 47   | 98       
+Maktkamp                       | 48   | 98       
 Backstreet Girls               | 49   | 95       
 Opeth                          | 51   | 95       
 Lamb of God                    | 53   | 90       
 The Good The Bad and The Zugly | 54   | 90       
-The Killers                    | 55   | 88       
-Oslo Ess                       | 61   | 83       
+The Killers                    | 55   | 89       
+Oslo Ess                       | 62   | 83       
 Fit for an Autopsy             | 64   | 80       
 Soilwork                       | 66   | 79       
 Turbonegro                     | 72   | 75       
@@ -78,11 +78,11 @@ Lars Vaular                | 42   | 118
 Heilung                    | 43   | 117      
 The Police                 | 44   | 114      
 Parius                     | 46   | 100      
-DJ MøMø                    | 48   | 97       
-DumDum Boys                | 56   | 87       
-The Black Keys             | 58   | 86       
+DJ MøMø                    | 47   | 98       
+The Black Keys             | 56   | 88       
+DumDum Boys                | 57   | 87       
 Aktiv Dödshjelp            | 59   | 85       
-Bill Withers               | 62   | 82       
+Bill Withers               | 61   | 83       
 Elton John                 | 63   | 81       
 Red Hot Chili Peppers      | 65   | 80       
 Bokassa                    | 67   | 77       
@@ -92,7 +92,7 @@ Linkin Park                | 70   | 76
 Toto                       | 71   | 76       
 Love                       | 73   | 73       
 Porcupine Tree             | 74   | 73       
-will.i.am                  | 75   | 72       
+will.i.am                  | 75   | 73       
 Queens of the Stone Age    | 77   | 71       
 Jinjer                     | 79   | 70       
 VOLA                       | 80   | 69       
@@ -114,12 +114,12 @@ The Aristocrats            | 100  | 58
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 361      
+Fleetwood Mac                | 5    | 362      
 Rush                         | 6    | 350      
 Hall & Oates                 | 39   | 127      
 Creedence Clearwater Revival | 50   | 95       
 Led Zeppelin                 | 52   | 94       
-Pink Floyd                   | 57   | 86       
+Pink Floyd                   | 58   | 86       
 Dire Straits                 | 60   | 84       
 The Beatles                  | 78   | 71       
 Daft Punk                    | 87   | 63       
