@@ -49,7 +49,7 @@ Backstreet Girls               | 49   | 95
 Opeth                          | 51   | 95       
 Lamb of God                    | 53   | 90       
 The Good The Bad and The Zugly | 54   | 90       
-The Killers                    | 55   | 89       
+The Killers                    | 55   | 90       
 Oslo Ess                       | 62   | 83       
 Fit for an Autopsy             | 64   | 80       
 Soilwork                       | 66   | 79       
