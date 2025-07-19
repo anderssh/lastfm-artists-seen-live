@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 851      
-AC/DC                          | 2    | 510      
+AC/DC                          | 2    | 511      
 Spidergawd                     | 3    | 413      
 Metallica                      | 4    | 393      
 Ghost                          | 7    | 338      
@@ -48,8 +48,8 @@ Maktkamp                       | 48   | 98
 Backstreet Girls               | 49   | 95       
 Opeth                          | 51   | 95       
 Lamb of God                    | 53   | 90       
-The Good The Bad and The Zugly | 54   | 90       
-The Killers                    | 55   | 90       
+The Good The Bad and The Zugly | 55   | 90       
+The Killers                    | 56   | 90       
 Oslo Ess                       | 62   | 83       
 Fit for an Autopsy             | 64   | 80       
 Soilwork                       | 66   | 79       
@@ -76,10 +76,10 @@ Animals as Leaders         | 33   | 137
 The Offspring              | 35   | 132      
 Lars Vaular                | 42   | 118      
 Heilung                    | 43   | 117      
-The Police                 | 44   | 114      
+The Police                 | 44   | 115      
 DJ MøMø                    | 46   | 102      
 Parius                     | 47   | 100      
-The Black Keys             | 56   | 88       
+The Black Keys             | 54   | 90       
 DumDum Boys                | 57   | 87       
 Aktiv Dödshjelp            | 59   | 85       
 Bill Withers               | 61   | 83       
