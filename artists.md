@@ -50,7 +50,7 @@ Opeth                          | 51   | 95
 Lamb of God                    | 54   | 90       
 The Good The Bad and The Zugly | 55   | 90       
 The Killers                    | 56   | 90       
-Oslo Ess                       | 62   | 83       
+Oslo Ess                       | 63   | 83       
 Fit for an Autopsy             | 64   | 80       
 Soilwork                       | 66   | 79       
 Turbonegro                     | 72   | 75       
@@ -83,7 +83,7 @@ The Black Keys             | 53   | 91
 DumDum Boys                | 57   | 87       
 Aktiv Dödshjelp            | 59   | 85       
 Bill Withers               | 61   | 83       
-Elton John                 | 63   | 82       
+Elton John                 | 62   | 83       
 Red Hot Chili Peppers      | 65   | 80       
 Bokassa                    | 67   | 77       
 Rival Sons                 | 68   | 77       
