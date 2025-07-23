@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 855      
-AC/DC                          | 2    | 511      
+AC/DC                          | 2    | 514      
 Spidergawd                     | 3    | 413      
 Metallica                      | 4    | 393      
 Ghost                          | 7    | 338      
@@ -23,7 +23,7 @@ In Flames                      | 8    | 337
 Skálmöld                       | 9    | 336      
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 291      
-Avenged Sevenfold              | 12   | 266      
+Avenged Sevenfold              | 12   | 267      
 Foo Fighters                   | 13   | 241      
 Haken                          | 14   | 231      
 Greta Van Fleet                | 17   | 206      
@@ -53,7 +53,7 @@ The Killers                    | 56   | 90
 Oslo Ess                       | 63   | 83       
 Fit for an Autopsy             | 64   | 80       
 Soilwork                       | 66   | 79       
-Turbonegro                     | 72   | 75       
+Turbonegro                     | 73   | 75       
 22                             | 76   | 71       
 Children of Bodom              | 82   | 67       
 Snarky Puppy                   | 86   | 64       
@@ -85,12 +85,12 @@ Aktiv Dödshjelp            | 59   | 85
 Bill Withers               | 61   | 83       
 Elton John                 | 62   | 83       
 Red Hot Chili Peppers      | 65   | 80       
-Bokassa                    | 67   | 77       
-Rival Sons                 | 68   | 77       
-Thulsa Doom                | 69   | 77       
-Linkin Park                | 70   | 76       
-Toto                       | 71   | 76       
-will.i.am                  | 73   | 74       
+will.i.am                  | 67   | 78       
+Bokassa                    | 68   | 77       
+Linkin Park                | 69   | 77       
+Rival Sons                 | 70   | 77       
+Thulsa Doom                | 71   | 77       
+Toto                       | 72   | 76       
 Love                       | 74   | 73       
 Porcupine Tree             | 75   | 73       
 Queens of the Stone Age    | 77   | 71       
@@ -103,9 +103,9 @@ Ballinciaga                | 85   | 64
 Megadeth                   | 88   | 63       
 Sum 41                     | 91   | 62       
 The Rolling Stones         | 92   | 62       
-Meshuggah                  | 93   | 60       
-Van Halen                  | 94   | 60       
-Electric Light Orchestra   | 95   | 59       
+Electric Light Orchestra   | 93   | 61       
+Meshuggah                  | 94   | 60       
+Van Halen                  | 95   | 60       
 Stevie Wonder              | 97   | 59       
 Testament                  | 99   | 58       
 The Aristocrats            | 100  | 58       
@@ -114,7 +114,7 @@ The Aristocrats            | 100  | 58
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 362      
+Fleetwood Mac                | 5    | 364      
 Rush                         | 6    | 350      
 Hall & Oates                 | 39   | 127      
 Creedence Clearwater Revival | 50   | 95       
