@@ -35,14 +35,14 @@ Slipknot                       | 24   | 159
 Green Day                      | 25   | 155      
 Mastodon                       | 26   | 154      
 Tool                           | 29   | 145      
-Finntroll                      | 31   | 141      
-Eminem                         | 32   | 138      
-Ne Obliviscaris                | 34   | 135      
-Gojira                         | 36   | 130      
-Judas Priest                   | 37   | 128      
-Architects                     | 38   | 127      
-Kvelertak                      | 40   | 121      
-Pagan's Mind                   | 41   | 120      
+Finntroll                      | 32   | 141      
+Eminem                         | 33   | 138      
+Ne Obliviscaris                | 35   | 135      
+Gojira                         | 37   | 130      
+Judas Priest                   | 38   | 128      
+Architects                     | 39   | 127      
+Kvelertak                      | 41   | 121      
+Pagan's Mind                   | 42   | 120      
 blink-182                      | 45   | 109      
 Maktkamp                       | 48   | 98       
 Backstreet Girls               | 49   | 95       
@@ -50,14 +50,14 @@ Opeth                          | 51   | 95
 Lamb of God                    | 54   | 90       
 The Good The Bad and The Zugly | 55   | 90       
 The Killers                    | 56   | 90       
-Oslo Ess                       | 63   | 83       
+Oslo Ess                       | 60   | 85       
 Fit for an Autopsy             | 64   | 80       
 Soilwork                       | 66   | 79       
 Turbonegro                     | 73   | 75       
 22                             | 76   | 71       
 Children of Bodom              | 82   | 67       
 Snarky Puppy                   | 86   | 64       
-Kaizers Orchestra              | 90   | 62       
+Kaizers Orchestra              | 88   | 63       
 Parkway Drive                  | 96   | 59       
 Leo                            | 98   | 58       
 
@@ -70,11 +70,11 @@ Nospūn                     | 16   | 208
 All That Remains           | 20   | 178      
 The Night Flight Orchestra | 22   | 165      
 The Halo Effect            | 27   | 154      
-Death by Unga Bunga        | 28   | 147      
+Death by Unga Bunga        | 28   | 148      
 Sylosis                    | 30   | 143      
-Animals as Leaders         | 33   | 137      
-The Offspring              | 35   | 132      
-Lars Vaular                | 42   | 118      
+Lars Vaular                | 31   | 142      
+Animals as Leaders         | 34   | 137      
+The Offspring              | 36   | 132      
 Heilung                    | 43   | 117      
 The Police                 | 44   | 115      
 DJ MøMø                    | 46   | 102      
@@ -82,8 +82,8 @@ Parius                     | 47   | 100
 The Black Keys             | 53   | 91       
 DumDum Boys                | 57   | 87       
 Aktiv Dödshjelp            | 59   | 85       
-Bill Withers               | 61   | 83       
-Elton John                 | 62   | 83       
+Bill Withers               | 62   | 83       
+Elton John                 | 63   | 83       
 Red Hot Chili Peppers      | 65   | 80       
 will.i.am                  | 67   | 78       
 Bokassa                    | 68   | 77       
@@ -100,7 +100,7 @@ Styx                       | 81   | 68
 Ludo                       | 83   | 65       
 A.C.T                      | 84   | 64       
 Ballinciaga                | 85   | 64       
-Megadeth                   | 88   | 63       
+Megadeth                   | 89   | 63       
 Sum 41                     | 91   | 62       
 The Rolling Stones         | 92   | 62       
 Electric Light Orchestra   | 93   | 61       
@@ -116,11 +116,11 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 364      
 Rush                         | 6    | 350      
-Hall & Oates                 | 39   | 127      
+Hall & Oates                 | 40   | 127      
 Creedence Clearwater Revival | 50   | 95       
 Led Zeppelin                 | 52   | 94       
 Pink Floyd                   | 58   | 86       
-Dire Straits                 | 60   | 84       
+Dire Straits                 | 61   | 84       
 The Beatles                  | 78   | 71       
 Daft Punk                    | 87   | 63       
-The Notorious B.I.G.         | 89   | 63       
+The Notorious B.I.G.         | 90   | 63       
