@@ -77,7 +77,7 @@ Animals as Leaders         | 34   | 137
 The Offspring              | 36   | 132      
 Heilung                    | 43   | 117      
 The Police                 | 44   | 115      
-DJ MøMø                    | 46   | 102      
+DJ MøMø                    | 46   | 104      
 Parius                     | 47   | 100      
 The Black Keys             | 53   | 91       
 DumDum Boys                | 57   | 87       
