@@ -28,7 +28,7 @@ Foo Fighters                   | 13   | 241
 Haken                          | 14   | 231      
 Greta Van Fleet                | 17   | 206      
 The Dogs                       | 18   | 203      
-Honningbarna                   | 19   | 182      
+Honningbarna                   | 19   | 196      
 Eluveitie                      | 21   | 167      
 Amyl and the Sniffers          | 23   | 159      
 Slipknot                       | 24   | 159      
@@ -50,9 +50,9 @@ Opeth                          | 51   | 95
 Lamb of God                    | 54   | 90       
 The Good The Bad and The Zugly | 55   | 90       
 The Killers                    | 56   | 90       
-Oslo Ess                       | 60   | 85       
-Fit for an Autopsy             | 64   | 80       
-Soilwork                       | 66   | 79       
+Oslo Ess                       | 61   | 85       
+Fit for an Autopsy             | 65   | 80       
+Soilwork                       | 67   | 79       
 Turbonegro                     | 73   | 75       
 22                             | 76   | 71       
 Children of Bodom              | 82   | 67       
@@ -71,8 +71,8 @@ All That Remains           | 20   | 178
 The Night Flight Orchestra | 22   | 165      
 The Halo Effect            | 27   | 154      
 Death by Unga Bunga        | 28   | 148      
-Sylosis                    | 30   | 143      
-Lars Vaular                | 31   | 142      
+Lars Vaular                | 30   | 143      
+Sylosis                    | 31   | 143      
 Animals as Leaders         | 34   | 137      
 The Offspring              | 36   | 132      
 Heilung                    | 43   | 117      
@@ -81,13 +81,13 @@ DJ MøMø                    | 46   | 104
 Parius                     | 47   | 100      
 The Black Keys             | 53   | 91       
 DumDum Boys                | 57   | 87       
-Aktiv Dödshjelp            | 59   | 85       
-Bill Withers               | 62   | 83       
-Elton John                 | 63   | 83       
-Red Hot Chili Peppers      | 65   | 80       
-will.i.am                  | 67   | 78       
-Bokassa                    | 68   | 77       
-Linkin Park                | 69   | 77       
+Linkin Park                | 58   | 87       
+Aktiv Dödshjelp            | 60   | 85       
+Bill Withers               | 63   | 83       
+Elton John                 | 64   | 83       
+Red Hot Chili Peppers      | 66   | 80       
+will.i.am                  | 68   | 78       
+Bokassa                    | 69   | 77       
 Rival Sons                 | 70   | 77       
 Thulsa Doom                | 71   | 77       
 Toto                       | 72   | 76       
@@ -119,8 +119,8 @@ Rush                         | 6    | 350
 Hall & Oates                 | 40   | 127      
 Creedence Clearwater Revival | 50   | 95       
 Led Zeppelin                 | 52   | 94       
-Pink Floyd                   | 58   | 86       
-Dire Straits                 | 61   | 84       
+Pink Floyd                   | 59   | 86       
+Dire Straits                 | 62   | 84       
 The Beatles                  | 78   | 71       
 Daft Punk                    | 87   | 63       
 The Notorious B.I.G.         | 90   | 63       
