@@ -47,9 +47,9 @@ blink-182                      | 45   | 109
 Maktkamp                       | 48   | 98       
 Backstreet Girls               | 49   | 95       
 Opeth                          | 51   | 95       
-Lamb of God                    | 54   | 90       
-The Good The Bad and The Zugly | 55   | 90       
-The Killers                    | 56   | 90       
+The Killers                    | 54   | 91       
+Lamb of God                    | 55   | 90       
+The Good The Bad and The Zugly | 57   | 90       
 Oslo Ess                       | 61   | 85       
 Fit for an Autopsy             | 65   | 80       
 Soilwork                       | 67   | 79       
@@ -80,8 +80,8 @@ The Police                 | 44   | 115
 DJ MøMø                    | 46   | 104      
 Parius                     | 47   | 100      
 The Black Keys             | 53   | 91       
-DumDum Boys                | 57   | 87       
-Linkin Park                | 58   | 87       
+Linkin Park                | 56   | 90       
+DumDum Boys                | 58   | 87       
 Aktiv Dödshjelp            | 60   | 85       
 Bill Withers               | 63   | 83       
 Elton John                 | 64   | 83       
