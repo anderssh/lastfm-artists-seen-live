@@ -41,8 +41,8 @@ Ne Obliviscaris                | 35   | 135
 Gojira                         | 37   | 130      
 Judas Priest                   | 38   | 128      
 Architects                     | 39   | 127      
-Kvelertak                      | 41   | 121      
-Pagan's Mind                   | 42   | 120      
+Kvelertak                      | 42   | 121      
+Pagan's Mind                   | 43   | 120      
 blink-182                      | 45   | 109      
 Maktkamp                       | 48   | 98       
 Backstreet Girls               | 49   | 95       
@@ -58,8 +58,8 @@ Turbonegro                     | 73   | 75
 Children of Bodom              | 82   | 67       
 Snarky Puppy                   | 86   | 64       
 Kaizers Orchestra              | 88   | 63       
-Parkway Drive                  | 96   | 59       
-Leo                            | 98   | 58       
+Parkway Drive                  | 97   | 59       
+Leo                            | 99   | 58       
 
 ## Active top 100 artists not seen live (44)
 
@@ -75,7 +75,7 @@ Lars Vaular                | 30   | 143
 Sylosis                    | 31   | 143      
 Animals as Leaders         | 34   | 137      
 The Offspring              | 36   | 132      
-Heilung                    | 43   | 117      
+Heilung                    | 41   | 122      
 The Police                 | 44   | 115      
 DJ MøMø                    | 46   | 104      
 Parius                     | 47   | 100      
@@ -104,11 +104,11 @@ Megadeth                   | 89   | 63
 Sum 41                     | 91   | 62       
 The Rolling Stones         | 92   | 62       
 Electric Light Orchestra   | 93   | 61       
-Meshuggah                  | 94   | 60       
-Van Halen                  | 95   | 60       
-Stevie Wonder              | 97   | 59       
-Testament                  | 99   | 58       
-The Aristocrats            | 100  | 58       
+The Aristocrats            | 94   | 61       
+Meshuggah                  | 95   | 60       
+Van Halen                  | 96   | 60       
+Stevie Wonder              | 98   | 59       
+Testament                  | 100  | 58       
 
 ## Inactive top 100 artists not seen live (10)
 
