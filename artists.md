@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 855      
-AC/DC                          | 2    | 514      
+AC/DC                          | 2    | 515      
 Spidergawd                     | 3    | 413      
 Metallica                      | 4    | 393      
 Ghost                          | 7    | 338      
@@ -54,7 +54,7 @@ Oslo Ess                       | 61   | 85
 Fit for an Autopsy             | 65   | 80       
 Soilwork                       | 67   | 79       
 Turbonegro                     | 73   | 75       
-22                             | 76   | 71       
+22                             | 78   | 71       
 Children of Bodom              | 82   | 67       
 Snarky Puppy                   | 86   | 64       
 Kaizers Orchestra              | 88   | 63       
@@ -75,7 +75,7 @@ Lars Vaular                | 30   | 143
 Sylosis                    | 31   | 143      
 Animals as Leaders         | 34   | 137      
 The Offspring              | 36   | 132      
-Heilung                    | 41   | 122      
+Heilung                    | 41   | 123      
 The Police                 | 44   | 115      
 DJ MøMø                    | 46   | 104      
 Parius                     | 47   | 100      
@@ -93,7 +93,7 @@ Thulsa Doom                | 71   | 77
 Toto                       | 72   | 76       
 Love                       | 74   | 73       
 Porcupine Tree             | 75   | 73       
-Queens of the Stone Age    | 77   | 71       
+Queens of the Stone Age    | 76   | 72       
 Jinjer                     | 79   | 70       
 VOLA                       | 80   | 69       
 Styx                       | 81   | 68       
@@ -114,13 +114,13 @@ Testament                  | 100  | 58
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 364      
+Fleetwood Mac                | 5    | 365      
 Rush                         | 6    | 350      
 Hall & Oates                 | 40   | 127      
 Creedence Clearwater Revival | 50   | 95       
 Led Zeppelin                 | 52   | 94       
 Pink Floyd                   | 59   | 86       
 Dire Straits                 | 62   | 84       
-The Beatles                  | 78   | 71       
+The Beatles                  | 77   | 72       
 Daft Punk                    | 87   | 63       
 The Notorious B.I.G.         | 90   | 63       
