@@ -46,12 +46,12 @@ Pagan's Mind                   | 43   | 120
 blink-182                      | 45   | 109      
 Maktkamp                       | 48   | 98       
 Backstreet Girls               | 49   | 95       
-Opeth                          | 51   | 95       
-The Killers                    | 54   | 91       
-Lamb of God                    | 55   | 90       
+Opeth                          | 52   | 95       
+Lamb of God                    | 53   | 92       
+The Killers                    | 55   | 91       
 The Good The Bad and The Zugly | 57   | 90       
 Oslo Ess                       | 61   | 85       
-Fit for an Autopsy             | 65   | 80       
+Fit for an Autopsy             | 66   | 81       
 Soilwork                       | 67   | 79       
 Turbonegro                     | 73   | 75       
 22                             | 78   | 71       
@@ -71,21 +71,21 @@ All That Remains           | 20   | 178
 The Night Flight Orchestra | 22   | 165      
 The Halo Effect            | 27   | 154      
 Death by Unga Bunga        | 28   | 148      
-Lars Vaular                | 30   | 143      
-Sylosis                    | 31   | 143      
+Sylosis                    | 30   | 144      
+Lars Vaular                | 31   | 143      
 Animals as Leaders         | 34   | 137      
 The Offspring              | 36   | 132      
 Heilung                    | 41   | 123      
 The Police                 | 44   | 115      
 DJ MøMø                    | 46   | 104      
 Parius                     | 47   | 100      
-The Black Keys             | 53   | 91       
+The Black Keys             | 54   | 91       
 Linkin Park                | 56   | 90       
 DumDum Boys                | 58   | 87       
 Aktiv Dödshjelp            | 60   | 85       
 Bill Withers               | 63   | 83       
 Elton John                 | 64   | 83       
-Red Hot Chili Peppers      | 66   | 80       
+Red Hot Chili Peppers      | 65   | 82       
 will.i.am                  | 68   | 78       
 Bokassa                    | 69   | 77       
 Rival Sons                 | 70   | 77       
@@ -93,8 +93,8 @@ Thulsa Doom                | 71   | 77
 Toto                       | 72   | 76       
 Love                       | 74   | 73       
 Porcupine Tree             | 75   | 73       
-Queens of the Stone Age    | 76   | 72       
-Jinjer                     | 79   | 70       
+Queens of the Stone Age    | 76   | 73       
+Jinjer                     | 79   | 71       
 VOLA                       | 80   | 69       
 Styx                       | 81   | 68       
 Ludo                       | 83   | 65       
@@ -118,7 +118,7 @@ Fleetwood Mac                | 5    | 365
 Rush                         | 6    | 350      
 Hall & Oates                 | 40   | 127      
 Creedence Clearwater Revival | 50   | 95       
-Led Zeppelin                 | 52   | 94       
+Led Zeppelin                 | 51   | 95       
 Pink Floyd                   | 59   | 86       
 Dire Straits                 | 62   | 84       
 The Beatles                  | 77   | 72       
