@@ -34,7 +34,7 @@ Amyl and the Sniffers          | 23   | 159
 Slipknot                       | 24   | 159      
 Green Day                      | 25   | 155      
 Mastodon                       | 26   | 154      
-Tool                           | 29   | 145      
+Tool                           | 30   | 145      
 Finntroll                      | 32   | 141      
 Eminem                         | 33   | 138      
 Ne Obliviscaris                | 35   | 135      
@@ -52,14 +52,14 @@ The Killers                    | 55   | 91
 The Good The Bad and The Zugly | 57   | 90       
 Oslo Ess                       | 61   | 85       
 Fit for an Autopsy             | 66   | 81       
-Soilwork                       | 67   | 79       
+Soilwork                       | 68   | 79       
 Turbonegro                     | 73   | 75       
 22                             | 78   | 71       
 Children of Bodom              | 82   | 67       
-Snarky Puppy                   | 86   | 64       
-Kaizers Orchestra              | 88   | 63       
-Parkway Drive                  | 97   | 59       
-Leo                            | 99   | 58       
+Snarky Puppy                   | 87   | 64       
+Kaizers Orchestra              | 89   | 63       
+Parkway Drive                  | 98   | 59       
+Leo                            | 100  | 58       
 
 ## Active top 100 artists not seen live (44)
 
@@ -70,9 +70,9 @@ Nospūn                     | 16   | 208
 All That Remains           | 20   | 178      
 The Night Flight Orchestra | 22   | 165      
 The Halo Effect            | 27   | 154      
-Death by Unga Bunga        | 28   | 148      
-Sylosis                    | 30   | 144      
-Lars Vaular                | 31   | 143      
+Lars Vaular                | 28   | 150      
+Death by Unga Bunga        | 29   | 148      
+Sylosis                    | 31   | 144      
 Animals as Leaders         | 34   | 137      
 The Offspring              | 36   | 132      
 Heilung                    | 41   | 123      
@@ -86,11 +86,11 @@ Aktiv Dödshjelp            | 60   | 85
 Bill Withers               | 63   | 83       
 Elton John                 | 64   | 83       
 Red Hot Chili Peppers      | 65   | 82       
-will.i.am                  | 68   | 78       
-Bokassa                    | 69   | 77       
-Rival Sons                 | 70   | 77       
-Thulsa Doom                | 71   | 77       
-Toto                       | 72   | 76       
+Toto                       | 67   | 80       
+will.i.am                  | 69   | 78       
+Bokassa                    | 70   | 77       
+Rival Sons                 | 71   | 77       
+Thulsa Doom                | 72   | 77       
 Love                       | 74   | 73       
 Porcupine Tree             | 75   | 73       
 Queens of the Stone Age    | 76   | 73       
@@ -100,15 +100,15 @@ Styx                       | 81   | 68
 Ludo                       | 83   | 65       
 A.C.T                      | 84   | 64       
 Ballinciaga                | 85   | 64       
-Megadeth                   | 89   | 63       
-Sum 41                     | 91   | 62       
-The Rolling Stones         | 92   | 62       
-Electric Light Orchestra   | 93   | 61       
-The Aristocrats            | 94   | 61       
-Meshuggah                  | 95   | 60       
-Van Halen                  | 96   | 60       
-Stevie Wonder              | 98   | 59       
-Testament                  | 100  | 58       
+Maraton                    | 86   | 64       
+Megadeth                   | 90   | 63       
+Sum 41                     | 92   | 62       
+The Rolling Stones         | 93   | 62       
+Electric Light Orchestra   | 94   | 61       
+The Aristocrats            | 95   | 61       
+Meshuggah                  | 96   | 60       
+Van Halen                  | 97   | 60       
+Stevie Wonder              | 99   | 59       
 
 ## Inactive top 100 artists not seen live (10)
 
@@ -122,5 +122,5 @@ Led Zeppelin                 | 51   | 95
 Pink Floyd                   | 59   | 86       
 Dire Straits                 | 62   | 84       
 The Beatles                  | 77   | 72       
-Daft Punk                    | 87   | 63       
-The Notorious B.I.G.         | 90   | 63       
+Daft Punk                    | 88   | 63       
+The Notorious B.I.G.         | 91   | 63       
