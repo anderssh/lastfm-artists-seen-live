@@ -70,7 +70,7 @@ Nospūn                     | 16   | 208
 All That Remains           | 20   | 178      
 The Night Flight Orchestra | 22   | 165      
 The Halo Effect            | 27   | 154      
-Lars Vaular                | 28   | 150      
+Lars Vaular                | 28   | 151      
 Death by Unga Bunga        | 29   | 148      
 Sylosis                    | 31   | 144      
 Animals as Leaders         | 34   | 137      
