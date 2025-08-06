@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 857      
-AC/DC                          | 2    | 541      
+AC/DC                          | 2    | 570      
 Spidergawd                     | 3    | 413      
 Metallica                      | 4    | 393      
 Ghost                          | 7    | 338      
@@ -114,7 +114,7 @@ Stevie Wonder              | 99   | 59
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 5    | 365      
+Fleetwood Mac                | 5    | 366      
 Rush                         | 6    | 352      
 Hall & Oates                 | 40   | 127      
 Led Zeppelin                 | 49   | 96       
