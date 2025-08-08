@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 857      
-AC/DC                          | 2    | 572      
+AC/DC                          | 2    | 574      
 Spidergawd                     | 3    | 413      
 Metallica                      | 4    | 394      
 Ghost                          | 7    | 338      
@@ -44,16 +44,16 @@ Architects                     | 39   | 127
 Kvelertak                      | 42   | 121      
 Pagan's Mind                   | 43   | 120      
 blink-182                      | 45   | 109      
-Maktkamp                       | 49   | 98       
+Maktkamp                       | 50   | 98       
 Backstreet Girls               | 51   | 95       
 Opeth                          | 53   | 95       
 Lamb of God                    | 54   | 92       
-The Killers                    | 56   | 91       
+The Killers                    | 55   | 92       
 The Good The Bad and The Zugly | 58   | 90       
 Oslo Ess                       | 63   | 85       
 Fit for an Autopsy             | 67   | 81       
-Soilwork                       | 68   | 79       
-Turbonegro                     | 73   | 75       
+Soilwork                       | 68   | 80       
+Turbonegro                     | 74   | 75       
 22                             | 78   | 71       
 Children of Bodom              | 82   | 67       
 Snarky Puppy                   | 87   | 64       
@@ -80,7 +80,7 @@ The Police                 | 44   | 115
 DJ MøMø                    | 46   | 104      
 Toto                       | 47   | 104      
 Parius                     | 48   | 100      
-The Black Keys             | 55   | 91       
+The Black Keys             | 56   | 91       
 Linkin Park                | 57   | 90       
 DumDum Boys                | 60   | 87       
 Aktiv Dödshjelp            | 62   | 85       
@@ -89,9 +89,9 @@ Elton John                 | 65   | 83
 Red Hot Chili Peppers      | 66   | 82       
 will.i.am                  | 69   | 78       
 Bokassa                    | 70   | 77       
-Rival Sons                 | 71   | 77       
-Thulsa Doom                | 72   | 77       
-Queens of the Stone Age    | 74   | 74       
+Queens of the Stone Age    | 71   | 77       
+Rival Sons                 | 72   | 77       
+Thulsa Doom                | 73   | 77       
 Love                       | 76   | 73       
 Porcupine Tree             | 77   | 73       
 Jinjer                     | 79   | 71       
@@ -117,7 +117,7 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 5    | 366      
 Rush                         | 6    | 353      
 Hall & Oates                 | 40   | 127      
-Led Zeppelin                 | 50   | 97       
+Led Zeppelin                 | 49   | 98       
 Creedence Clearwater Revival | 52   | 95       
 Dire Straits                 | 59   | 87       
 Pink Floyd                   | 61   | 86       
