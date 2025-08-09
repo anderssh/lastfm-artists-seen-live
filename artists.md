@@ -52,7 +52,7 @@ The Killers                    | 55   | 92
 The Good The Bad and The Zugly | 58   | 90       
 Oslo Ess                       | 63   | 85       
 Fit for an Autopsy             | 67   | 81       
-Soilwork                       | 68   | 80       
+Soilwork                       | 68   | 81       
 Turbonegro                     | 74   | 75       
 22                             | 78   | 71       
 Children of Bodom              | 82   | 67       
@@ -92,8 +92,8 @@ Bokassa                    | 70   | 77
 Queens of the Stone Age    | 71   | 77       
 Rival Sons                 | 72   | 77       
 Thulsa Doom                | 73   | 77       
-Love                       | 76   | 73       
-Porcupine Tree             | 77   | 73       
+Porcupine Tree             | 75   | 74       
+Love                       | 77   | 73       
 Jinjer                     | 79   | 71       
 VOLA                       | 80   | 69       
 Styx                       | 81   | 68       
@@ -121,6 +121,6 @@ Led Zeppelin                 | 49   | 98
 Creedence Clearwater Revival | 52   | 95       
 Dire Straits                 | 59   | 87       
 Pink Floyd                   | 61   | 86       
-The Beatles                  | 75   | 74       
+The Beatles                  | 76   | 74       
 Daft Punk                    | 88   | 63       
 The Notorious B.I.G.         | 91   | 63       
