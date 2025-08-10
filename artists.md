@@ -24,7 +24,7 @@ Skálmöld                       | 9    | 336
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 291      
 Avenged Sevenfold              | 12   | 267      
-Foo Fighters                   | 13   | 242      
+Foo Fighters                   | 13   | 243      
 Haken                          | 14   | 231      
 Greta Van Fleet                | 17   | 206      
 The Dogs                       | 18   | 203      
@@ -32,7 +32,7 @@ Honningbarna                   | 19   | 196
 Eluveitie                      | 21   | 167      
 Amyl and the Sniffers          | 23   | 159      
 Slipknot                       | 24   | 159      
-Green Day                      | 25   | 156      
+Green Day                      | 25   | 157      
 Mastodon                       | 26   | 154      
 Tool                           | 30   | 145      
 Finntroll                      | 32   | 141      
@@ -43,16 +43,16 @@ Judas Priest                   | 38   | 128
 Architects                     | 39   | 127      
 Kvelertak                      | 42   | 121      
 Pagan's Mind                   | 43   | 120      
-blink-182                      | 45   | 109      
+blink-182                      | 45   | 110      
 Maktkamp                       | 50   | 98       
 Backstreet Girls               | 51   | 95       
 Opeth                          | 53   | 95       
-Lamb of God                    | 54   | 92       
-The Killers                    | 55   | 92       
+The Killers                    | 54   | 95       
+Lamb of God                    | 55   | 92       
 The Good The Bad and The Zugly | 58   | 90       
 Oslo Ess                       | 63   | 85       
-Fit for an Autopsy             | 67   | 81       
-Soilwork                       | 68   | 81       
+Soilwork                       | 67   | 82       
+Fit for an Autopsy             | 68   | 81       
 Turbonegro                     | 74   | 75       
 22                             | 78   | 71       
 Children of Bodom              | 82   | 67       
@@ -80,13 +80,13 @@ The Police                 | 44   | 115
 DJ MøMø                    | 46   | 104      
 Toto                       | 47   | 104      
 Parius                     | 48   | 100      
-The Black Keys             | 56   | 91       
-Linkin Park                | 57   | 90       
+The Black Keys             | 56   | 92       
+Linkin Park                | 57   | 91       
 DumDum Boys                | 60   | 87       
 Aktiv Dödshjelp            | 62   | 85       
 Bill Withers               | 64   | 83       
 Elton John                 | 65   | 83       
-Red Hot Chili Peppers      | 66   | 82       
+Red Hot Chili Peppers      | 66   | 83       
 will.i.am                  | 69   | 78       
 Bokassa                    | 70   | 77       
 Queens of the Stone Age    | 71   | 77       
@@ -115,12 +115,12 @@ Stevie Wonder              | 99   | 59
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 366      
-Rush                         | 6    | 353      
+Rush                         | 6    | 357      
 Hall & Oates                 | 40   | 127      
 Led Zeppelin                 | 49   | 98       
 Creedence Clearwater Revival | 52   | 95       
 Dire Straits                 | 59   | 87       
-Pink Floyd                   | 61   | 86       
+Pink Floyd                   | 61   | 87       
 The Beatles                  | 76   | 74       
 Daft Punk                    | 88   | 63       
 The Notorious B.I.G.         | 91   | 63       
