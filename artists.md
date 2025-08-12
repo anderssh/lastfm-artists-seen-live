@@ -24,15 +24,15 @@ Skálmöld                       | 9    | 336
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 291      
 Avenged Sevenfold              | 12   | 267      
-Foo Fighters                   | 13   | 243      
-Haken                          | 14   | 231      
+Haken                          | 13   | 253      
+Foo Fighters                   | 14   | 243      
 Greta Van Fleet                | 17   | 206      
 The Dogs                       | 18   | 203      
 Honningbarna                   | 19   | 196      
 Eluveitie                      | 21   | 167      
 Amyl and the Sniffers          | 23   | 159      
 Slipknot                       | 24   | 159      
-Green Day                      | 25   | 157      
+Green Day                      | 25   | 158      
 Mastodon                       | 26   | 154      
 Tool                           | 30   | 145      
 Finntroll                      | 32   | 141      
