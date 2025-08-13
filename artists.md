@@ -24,8 +24,8 @@ Skálmöld                       | 9    | 336
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 291      
 Avenged Sevenfold              | 12   | 267      
-Haken                          | 13   | 253      
-Foo Fighters                   | 14   | 243      
+Haken                          | 13   | 254      
+Foo Fighters                   | 14   | 245      
 Greta Van Fleet                | 17   | 206      
 The Dogs                       | 18   | 203      
 Honningbarna                   | 19   | 196      
@@ -54,10 +54,10 @@ Oslo Ess                       | 63   | 85
 Soilwork                       | 67   | 82       
 Fit for an Autopsy             | 68   | 81       
 Turbonegro                     | 74   | 75       
-22                             | 78   | 71       
-Children of Bodom              | 82   | 67       
-Snarky Puppy                   | 87   | 64       
-Kaizers Orchestra              | 89   | 63       
+22                             | 79   | 71       
+Children of Bodom              | 83   | 67       
+Snarky Puppy                   | 88   | 64       
+Kaizers Orchestra              | 90   | 63       
 Parkway Drive                  | 98   | 59       
 Leo                            | 100  | 58       
 
@@ -92,21 +92,21 @@ Bokassa                    | 70   | 77
 Queens of the Stone Age    | 71   | 77       
 Rival Sons                 | 72   | 77       
 Thulsa Doom                | 73   | 77       
-Porcupine Tree             | 75   | 74       
-Love                       | 77   | 73       
-Jinjer                     | 79   | 71       
-VOLA                       | 80   | 69       
-Styx                       | 81   | 68       
-Ludo                       | 83   | 65       
-Maraton                    | 84   | 65       
-A.C.T                      | 85   | 64       
-Ballinciaga                | 86   | 64       
-Megadeth                   | 90   | 63       
-The Rolling Stones         | 92   | 63       
-Sum 41                     | 93   | 62       
-Electric Light Orchestra   | 94   | 61       
-The Aristocrats            | 95   | 61       
-Meshuggah                  | 96   | 60       
+Meshuggah                  | 75   | 74       
+Porcupine Tree             | 76   | 74       
+Love                       | 78   | 73       
+Jinjer                     | 80   | 71       
+VOLA                       | 81   | 69       
+Styx                       | 82   | 68       
+Ludo                       | 84   | 65       
+Maraton                    | 85   | 65       
+A.C.T                      | 86   | 64       
+Ballinciaga                | 87   | 64       
+Megadeth                   | 91   | 63       
+The Rolling Stones         | 93   | 63       
+Sum 41                     | 94   | 62       
+Electric Light Orchestra   | 95   | 61       
+The Aristocrats            | 96   | 61       
 Van Halen                  | 97   | 60       
 Stevie Wonder              | 99   | 59       
 
@@ -121,6 +121,6 @@ Led Zeppelin                 | 49   | 98
 Creedence Clearwater Revival | 52   | 95       
 Dire Straits                 | 59   | 87       
 Pink Floyd                   | 61   | 87       
-The Beatles                  | 76   | 74       
-Daft Punk                    | 88   | 63       
-The Notorious B.I.G.         | 91   | 63       
+The Beatles                  | 77   | 74       
+Daft Punk                    | 89   | 63       
+The Notorious B.I.G.         | 92   | 63       
