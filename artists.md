@@ -25,7 +25,7 @@ Seven Spires                   | 10   | 325
 Circus Maximus                 | 11   | 291      
 Avenged Sevenfold              | 12   | 267      
 Haken                          | 13   | 254      
-Foo Fighters                   | 14   | 245      
+Foo Fighters                   | 14   | 248      
 Greta Van Fleet                | 17   | 206      
 The Dogs                       | 18   | 203      
 Honningbarna                   | 19   | 196      
@@ -44,22 +44,22 @@ Architects                     | 39   | 127
 Kvelertak                      | 42   | 121      
 Pagan's Mind                   | 43   | 120      
 blink-182                      | 45   | 110      
-Maktkamp                       | 50   | 98       
-Backstreet Girls               | 51   | 95       
-Opeth                          | 53   | 95       
-The Killers                    | 54   | 95       
-Lamb of God                    | 55   | 92       
-The Good The Bad and The Zugly | 58   | 90       
+The Good The Bad and The Zugly | 46   | 106      
+Maktkamp                       | 51   | 98       
+Backstreet Girls               | 52   | 95       
+Opeth                          | 54   | 95       
+The Killers                    | 55   | 95       
+Lamb of God                    | 57   | 92       
 Oslo Ess                       | 63   | 85       
 Soilwork                       | 67   | 82       
 Fit for an Autopsy             | 68   | 81       
-Turbonegro                     | 74   | 75       
+Turbonegro                     | 75   | 75       
 22                             | 79   | 71       
 Children of Bodom              | 83   | 67       
 Snarky Puppy                   | 88   | 64       
 Kaizers Orchestra              | 90   | 63       
-Parkway Drive                  | 98   | 59       
-Leo                            | 100  | 58       
+Volbeat                        | 98   | 60       
+Parkway Drive                  | 99   | 59       
 
 ## Active top 100 artists not seen live (44)
 
@@ -77,11 +77,11 @@ Animals as Leaders         | 34   | 137
 The Offspring              | 36   | 133      
 Heilung                    | 41   | 123      
 The Police                 | 44   | 115      
-DJ MøMø                    | 46   | 104      
-Toto                       | 47   | 104      
-Parius                     | 48   | 100      
-The Black Keys             | 56   | 92       
-Linkin Park                | 57   | 91       
+DJ MøMø                    | 47   | 104      
+Toto                       | 48   | 104      
+Parius                     | 49   | 100      
+The Black Keys             | 56   | 93       
+Linkin Park                | 58   | 92       
 DumDum Boys                | 60   | 87       
 Aktiv Dödshjelp            | 62   | 85       
 Bill Withers               | 64   | 83       
@@ -92,7 +92,7 @@ Bokassa                    | 70   | 77
 Queens of the Stone Age    | 71   | 77       
 Rival Sons                 | 72   | 77       
 Thulsa Doom                | 73   | 77       
-Meshuggah                  | 75   | 74       
+Meshuggah                  | 74   | 75       
 Porcupine Tree             | 76   | 74       
 Love                       | 78   | 73       
 Jinjer                     | 80   | 71       
@@ -108,7 +108,7 @@ Sum 41                     | 94   | 62
 Electric Light Orchestra   | 95   | 61       
 The Aristocrats            | 96   | 61       
 Van Halen                  | 97   | 60       
-Stevie Wonder              | 99   | 59       
+Stevie Wonder              | 100  | 59       
 
 ## Inactive top 100 artists not seen live (10)
 
@@ -117,8 +117,8 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 5    | 366      
 Rush                         | 6    | 357      
 Hall & Oates                 | 40   | 127      
-Led Zeppelin                 | 49   | 98       
-Creedence Clearwater Revival | 52   | 95       
+Led Zeppelin                 | 50   | 98       
+Creedence Clearwater Revival | 53   | 95       
 Dire Straits                 | 59   | 87       
 Pink Floyd                   | 61   | 87       
 The Beatles                  | 77   | 74       
