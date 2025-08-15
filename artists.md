@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 857      
 AC/DC                          | 2    | 574      
-Spidergawd                     | 3    | 413      
+Spidergawd                     | 3    | 419      
 Metallica                      | 4    | 394      
 Ghost                          | 7    | 338      
 In Flames                      | 8    | 337      
@@ -43,8 +43,8 @@ Judas Priest                   | 38   | 128
 Architects                     | 39   | 127      
 Kvelertak                      | 42   | 121      
 Pagan's Mind                   | 43   | 120      
-blink-182                      | 45   | 110      
-The Good The Bad and The Zugly | 46   | 106      
+blink-182                      | 46   | 110      
+The Good The Bad and The Zugly | 47   | 107      
 Maktkamp                       | 51   | 98       
 Backstreet Girls               | 52   | 95       
 Opeth                          | 54   | 95       
@@ -53,13 +53,13 @@ Lamb of God                    | 57   | 92
 Oslo Ess                       | 63   | 85       
 Soilwork                       | 67   | 82       
 Fit for an Autopsy             | 68   | 81       
-Turbonegro                     | 75   | 75       
-22                             | 79   | 71       
-Children of Bodom              | 83   | 67       
-Snarky Puppy                   | 88   | 64       
-Kaizers Orchestra              | 90   | 63       
-Volbeat                        | 98   | 60       
-Parkway Drive                  | 99   | 59       
+Turbonegro                     | 74   | 76       
+22                             | 80   | 71       
+Children of Bodom              | 84   | 67       
+Snarky Puppy                   | 89   | 64       
+Kaizers Orchestra              | 91   | 63       
+Volbeat                        | 99   | 60       
+Parkway Drive                  | 100  | 59       
 
 ## Active top 100 artists not seen live (44)
 
@@ -77,7 +77,7 @@ Animals as Leaders         | 34   | 137
 The Offspring              | 36   | 133      
 Heilung                    | 41   | 123      
 The Police                 | 44   | 115      
-DJ MøMø                    | 47   | 104      
+DJ MøMø                    | 45   | 113      
 Toto                       | 48   | 104      
 Parius                     | 49   | 100      
 The Black Keys             | 56   | 93       
@@ -87,28 +87,28 @@ Aktiv Dödshjelp            | 62   | 85
 Bill Withers               | 64   | 83       
 Elton John                 | 65   | 83       
 Red Hot Chili Peppers      | 66   | 83       
-will.i.am                  | 69   | 78       
-Bokassa                    | 70   | 77       
-Queens of the Stone Age    | 71   | 77       
-Rival Sons                 | 72   | 77       
-Thulsa Doom                | 73   | 77       
-Meshuggah                  | 74   | 75       
-Porcupine Tree             | 76   | 74       
-Love                       | 78   | 73       
-Jinjer                     | 80   | 71       
-VOLA                       | 81   | 69       
-Styx                       | 82   | 68       
-Ludo                       | 84   | 65       
-Maraton                    | 85   | 65       
-A.C.T                      | 86   | 64       
-Ballinciaga                | 87   | 64       
-Megadeth                   | 91   | 63       
-The Rolling Stones         | 93   | 63       
-Sum 41                     | 94   | 62       
-Electric Light Orchestra   | 95   | 61       
-The Aristocrats            | 96   | 61       
-Van Halen                  | 97   | 60       
-Stevie Wonder              | 100  | 59       
+Thulsa Doom                | 69   | 81       
+Bokassa                    | 70   | 79       
+will.i.am                  | 71   | 78       
+Queens of the Stone Age    | 72   | 77       
+Rival Sons                 | 73   | 77       
+Meshuggah                  | 75   | 75       
+Thorbjørn Egner            | 76   | 75       
+Porcupine Tree             | 77   | 74       
+Love                       | 79   | 73       
+Jinjer                     | 81   | 71       
+VOLA                       | 82   | 69       
+Styx                       | 83   | 68       
+Ludo                       | 85   | 65       
+Maraton                    | 86   | 65       
+A.C.T                      | 87   | 64       
+Ballinciaga                | 88   | 64       
+Megadeth                   | 92   | 63       
+The Rolling Stones         | 94   | 63       
+Sum 41                     | 95   | 62       
+Electric Light Orchestra   | 96   | 61       
+The Aristocrats            | 97   | 61       
+Van Halen                  | 98   | 60       
 
 ## Inactive top 100 artists not seen live (10)
 
@@ -121,6 +121,6 @@ Led Zeppelin                 | 50   | 98
 Creedence Clearwater Revival | 53   | 95       
 Dire Straits                 | 59   | 87       
 Pink Floyd                   | 61   | 87       
-The Beatles                  | 77   | 74       
-Daft Punk                    | 89   | 63       
-The Notorious B.I.G.         | 92   | 63       
+The Beatles                  | 78   | 74       
+Daft Punk                    | 90   | 63       
+The Notorious B.I.G.         | 93   | 63       
