@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 857      
+Dream Theater                  | 1    | 868      
 AC/DC                          | 2    | 574      
 Spidergawd                     | 3    | 419      
 Metallica                      | 4    | 394      
@@ -34,28 +34,28 @@ Amyl and the Sniffers          | 23   | 159
 Slipknot                       | 24   | 159      
 Green Day                      | 25   | 158      
 Mastodon                       | 26   | 154      
-Tool                           | 30   | 145      
+Tool                           | 30   | 146      
 Finntroll                      | 32   | 141      
 Eminem                         | 33   | 138      
-Ne Obliviscaris                | 35   | 135      
-Gojira                         | 37   | 130      
-Judas Priest                   | 38   | 128      
-Architects                     | 39   | 127      
-Kvelertak                      | 42   | 121      
-Pagan's Mind                   | 43   | 120      
-blink-182                      | 46   | 110      
-The Good The Bad and The Zugly | 47   | 107      
-Maktkamp                       | 51   | 98       
-Backstreet Girls               | 52   | 95       
-Opeth                          | 54   | 95       
-The Killers                    | 55   | 95       
-Lamb of God                    | 57   | 92       
-Oslo Ess                       | 63   | 85       
-Soilwork                       | 67   | 82       
-Fit for an Autopsy             | 68   | 81       
-Turbonegro                     | 74   | 76       
+Ne Obliviscaris                | 36   | 136      
+Gojira                         | 38   | 130      
+Judas Priest                   | 39   | 128      
+Architects                     | 40   | 127      
+Kvelertak                      | 43   | 121      
+Pagan's Mind                   | 44   | 120      
+blink-182                      | 47   | 110      
+The Good The Bad and The Zugly | 48   | 107      
+Maktkamp                       | 52   | 98       
+Backstreet Girls               | 53   | 95       
+Opeth                          | 55   | 95       
+The Killers                    | 56   | 95       
+Lamb of God                    | 57   | 93       
+Oslo Ess                       | 64   | 85       
+Fit for an Autopsy             | 68   | 82       
+Soilwork                       | 69   | 82       
+Turbonegro                     | 76   | 76       
 22                             | 80   | 71       
-Children of Bodom              | 84   | 67       
+Children of Bodom              | 83   | 68       
 Snarky Puppy                   | 89   | 64       
 Kaizers Orchestra              | 91   | 63       
 Volbeat                        | 99   | 60       
@@ -74,31 +74,31 @@ Lars Vaular                | 28   | 151
 Death by Unga Bunga        | 29   | 148      
 Sylosis                    | 31   | 144      
 Animals as Leaders         | 34   | 137      
-The Offspring              | 36   | 133      
-Heilung                    | 41   | 123      
-The Police                 | 44   | 115      
-DJ MøMø                    | 45   | 113      
-Toto                       | 48   | 104      
-Parius                     | 49   | 100      
-The Black Keys             | 56   | 93       
-Linkin Park                | 58   | 92       
-DumDum Boys                | 60   | 87       
-Aktiv Dödshjelp            | 62   | 85       
-Bill Withers               | 64   | 83       
-Elton John                 | 65   | 83       
-Red Hot Chili Peppers      | 66   | 83       
-Thulsa Doom                | 69   | 81       
-Bokassa                    | 70   | 79       
-will.i.am                  | 71   | 78       
-Queens of the Stone Age    | 72   | 77       
-Rival Sons                 | 73   | 77       
-Meshuggah                  | 75   | 75       
-Thorbjørn Egner            | 76   | 75       
+Thorbjørn Egner            | 35   | 137      
+The Offspring              | 37   | 133      
+Heilung                    | 42   | 123      
+The Police                 | 45   | 115      
+DJ MøMø                    | 46   | 113      
+Toto                       | 49   | 104      
+Parius                     | 50   | 100      
+The Black Keys             | 58   | 93       
+Linkin Park                | 59   | 92       
+DumDum Boys                | 61   | 87       
+Aktiv Dödshjelp            | 63   | 85       
+Bill Withers               | 65   | 83       
+Elton John                 | 66   | 83       
+Red Hot Chili Peppers      | 67   | 83       
+Thulsa Doom                | 70   | 81       
+Bokassa                    | 71   | 79       
+will.i.am                  | 72   | 78       
+Queens of the Stone Age    | 73   | 77       
+Rival Sons                 | 74   | 77       
+Meshuggah                  | 75   | 76       
 Porcupine Tree             | 77   | 74       
 Love                       | 79   | 73       
 Jinjer                     | 81   | 71       
 VOLA                       | 82   | 69       
-Styx                       | 83   | 68       
+Styx                       | 84   | 68       
 Ludo                       | 85   | 65       
 Maraton                    | 86   | 65       
 A.C.T                      | 87   | 64       
@@ -116,11 +116,11 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 366      
 Rush                         | 6    | 357      
-Hall & Oates                 | 40   | 127      
-Led Zeppelin                 | 50   | 98       
-Creedence Clearwater Revival | 53   | 95       
-Dire Straits                 | 59   | 87       
-Pink Floyd                   | 61   | 87       
+Hall & Oates                 | 41   | 127      
+Led Zeppelin                 | 51   | 98       
+Creedence Clearwater Revival | 54   | 95       
+Dire Straits                 | 60   | 87       
+Pink Floyd                   | 62   | 87       
 The Beatles                  | 78   | 74       
 Daft Punk                    | 90   | 63       
 The Notorious B.I.G.         | 93   | 63       
