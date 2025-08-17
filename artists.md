@@ -14,8 +14,8 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 868      
-AC/DC                          | 2    | 574      
+Dream Theater                  | 1    | 870      
+AC/DC                          | 2    | 583      
 Spidergawd                     | 3    | 419      
 Metallica                      | 4    | 394      
 Ghost                          | 7    | 338      
@@ -23,30 +23,30 @@ In Flames                      | 8    | 337
 Skálmöld                       | 9    | 336      
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 291      
-Avenged Sevenfold              | 12   | 267      
+Avenged Sevenfold              | 12   | 268      
 Haken                          | 13   | 254      
-Foo Fighters                   | 14   | 248      
+Foo Fighters                   | 14   | 249      
 Greta Van Fleet                | 17   | 206      
 The Dogs                       | 18   | 203      
 Honningbarna                   | 19   | 196      
 Eluveitie                      | 21   | 167      
 Amyl and the Sniffers          | 23   | 159      
-Slipknot                       | 24   | 159      
-Green Day                      | 25   | 158      
+Green Day                      | 24   | 159      
+Slipknot                       | 25   | 159      
 Mastodon                       | 26   | 154      
 Tool                           | 30   | 146      
-Finntroll                      | 32   | 141      
-Eminem                         | 33   | 138      
+Finntroll                      | 33   | 141      
+Eminem                         | 34   | 138      
 Ne Obliviscaris                | 36   | 136      
 Gojira                         | 38   | 130      
 Judas Priest                   | 39   | 128      
 Architects                     | 40   | 127      
 Kvelertak                      | 43   | 121      
-Pagan's Mind                   | 44   | 120      
-blink-182                      | 47   | 110      
+Pagan's Mind                   | 44   | 121      
+blink-182                      | 47   | 111      
 The Good The Bad and The Zugly | 48   | 107      
 Maktkamp                       | 52   | 98       
-Backstreet Girls               | 53   | 95       
+Backstreet Girls               | 54   | 95       
 Opeth                          | 55   | 95       
 The Killers                    | 56   | 95       
 Lamb of God                    | 57   | 93       
@@ -72,17 +72,17 @@ The Night Flight Orchestra | 22   | 165
 The Halo Effect            | 27   | 154      
 Lars Vaular                | 28   | 151      
 Death by Unga Bunga        | 29   | 148      
-Sylosis                    | 31   | 144      
-Animals as Leaders         | 34   | 137      
-Thorbjørn Egner            | 35   | 137      
+Thorbjørn Egner            | 31   | 145      
+Sylosis                    | 32   | 144      
+Animals as Leaders         | 35   | 137      
 The Offspring              | 37   | 133      
 Heilung                    | 42   | 123      
 The Police                 | 45   | 115      
-DJ MøMø                    | 46   | 113      
+DJ MøMø                    | 46   | 114      
 Toto                       | 49   | 104      
 Parius                     | 50   | 100      
-The Black Keys             | 58   | 93       
-Linkin Park                | 59   | 92       
+Linkin Park                | 58   | 93       
+The Black Keys             | 59   | 93       
 DumDum Boys                | 61   | 87       
 Aktiv Dödshjelp            | 63   | 85       
 Bill Withers               | 65   | 83       
@@ -118,7 +118,7 @@ Fleetwood Mac                | 5    | 366
 Rush                         | 6    | 357      
 Hall & Oates                 | 41   | 127      
 Led Zeppelin                 | 51   | 98       
-Creedence Clearwater Revival | 54   | 95       
+Creedence Clearwater Revival | 53   | 96       
 Dire Straits                 | 60   | 87       
 Pink Floyd                   | 62   | 87       
 The Beatles                  | 78   | 74       
