@@ -6,15 +6,15 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of fetched top artists: 100 (Active: 89 Inactive: 11)
 
-- Number of top artists seen live: 46 (Active: 45 Inactive: 1)
+- Number of top artists seen live: 45 (Active: 44 Inactive: 1)
 
-- Number of top artists not seen live: 54 (Active: 44 Inactive: 10)
+- Number of top artists not seen live: 55 (Active: 45 Inactive: 10)
 
-## Top 100 artists seen live (46)
+## Top 100 artists seen live (45)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 870      
+Dream Theater                  | 1    | 871      
 AC/DC                          | 2    | 583      
 Spidergawd                     | 3    | 419      
 Metallica                      | 4    | 394      
@@ -23,18 +23,18 @@ In Flames                      | 8    | 337
 Skálmöld                       | 9    | 336      
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 291      
-Avenged Sevenfold              | 12   | 268      
+Avenged Sevenfold              | 12   | 269      
 Haken                          | 13   | 254      
-Foo Fighters                   | 14   | 249      
+Foo Fighters                   | 14   | 251      
 Greta Van Fleet                | 17   | 206      
 The Dogs                       | 18   | 203      
 Honningbarna                   | 19   | 196      
-Eluveitie                      | 21   | 167      
-Amyl and the Sniffers          | 23   | 159      
-Green Day                      | 24   | 159      
-Slipknot                       | 25   | 159      
-Mastodon                       | 26   | 154      
-Tool                           | 30   | 146      
+Eluveitie                      | 22   | 167      
+Slipknot                       | 24   | 161      
+Green Day                      | 25   | 160      
+Amyl and the Sniffers          | 26   | 159      
+Mastodon                       | 27   | 154      
+Tool                           | 31   | 146      
 Finntroll                      | 33   | 141      
 Eminem                         | 34   | 138      
 Ne Obliviscaris                | 36   | 136      
@@ -45,43 +45,42 @@ Kvelertak                      | 43   | 121
 Pagan's Mind                   | 44   | 121      
 blink-182                      | 47   | 111      
 The Good The Bad and The Zugly | 48   | 107      
-Maktkamp                       | 52   | 98       
+Maktkamp                       | 53   | 98       
 Backstreet Girls               | 54   | 95       
-Opeth                          | 55   | 95       
-The Killers                    | 56   | 95       
-Lamb of God                    | 57   | 93       
+Opeth                          | 56   | 95       
+The Killers                    | 57   | 95       
+Lamb of God                    | 58   | 93       
 Oslo Ess                       | 64   | 85       
 Fit for an Autopsy             | 68   | 82       
 Soilwork                       | 69   | 82       
 Turbonegro                     | 76   | 76       
 22                             | 80   | 71       
 Children of Bodom              | 83   | 68       
-Snarky Puppy                   | 89   | 64       
-Kaizers Orchestra              | 91   | 63       
-Volbeat                        | 99   | 60       
-Parkway Drive                  | 100  | 59       
+Kaizers Orchestra              | 89   | 64       
+Snarky Puppy                   | 90   | 64       
+Volbeat                        | 96   | 62       
 
-## Active top 100 artists not seen live (44)
+## Active top 100 artists not seen live (45)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Jean-Luc Ponty             | 15   | 226      
 Nospūn                     | 16   | 208      
 All That Remains           | 20   | 178      
-The Night Flight Orchestra | 22   | 165      
-The Halo Effect            | 27   | 154      
-Lars Vaular                | 28   | 151      
-Death by Unga Bunga        | 29   | 148      
-Thorbjørn Egner            | 31   | 145      
+Thorbjørn Egner            | 21   | 169      
+The Night Flight Orchestra | 23   | 165      
+The Halo Effect            | 28   | 154      
+Lars Vaular                | 29   | 151      
+Death by Unga Bunga        | 30   | 148      
 Sylosis                    | 32   | 144      
 Animals as Leaders         | 35   | 137      
-The Offspring              | 37   | 133      
+The Offspring              | 37   | 135      
 Heilung                    | 42   | 123      
 The Police                 | 45   | 115      
 DJ MøMø                    | 46   | 114      
 Toto                       | 49   | 104      
 Parius                     | 50   | 100      
-Linkin Park                | 58   | 93       
+Linkin Park                | 55   | 95       
 The Black Keys             | 59   | 93       
 DumDum Boys                | 61   | 87       
 Aktiv Dödshjelp            | 63   | 85       
@@ -106,9 +105,10 @@ Ballinciaga                | 88   | 64
 Megadeth                   | 92   | 63       
 The Rolling Stones         | 94   | 63       
 Sum 41                     | 95   | 62       
-Electric Light Orchestra   | 96   | 61       
-The Aristocrats            | 97   | 61       
-Van Halen                  | 98   | 60       
+Electric Light Orchestra   | 97   | 61       
+The Aristocrats            | 98   | 61       
+Rise Against               | 99   | 60       
+Van Halen                  | 100  | 60       
 
 ## Inactive top 100 artists not seen live (10)
 
@@ -117,10 +117,10 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 5    | 366      
 Rush                         | 6    | 357      
 Hall & Oates                 | 41   | 127      
-Led Zeppelin                 | 51   | 98       
-Creedence Clearwater Revival | 53   | 96       
+Creedence Clearwater Revival | 51   | 99       
+Led Zeppelin                 | 52   | 98       
 Dire Straits                 | 60   | 87       
 Pink Floyd                   | 62   | 87       
 The Beatles                  | 78   | 74       
-Daft Punk                    | 90   | 63       
+Daft Punk                    | 91   | 63       
 The Notorious B.I.G.         | 93   | 63       
