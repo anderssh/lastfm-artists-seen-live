@@ -24,11 +24,11 @@ Skálmöld                       | 9    | 336
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 11   | 291      
 Avenged Sevenfold              | 12   | 269      
-Haken                          | 13   | 254      
+Haken                          | 13   | 256      
 Foo Fighters                   | 14   | 251      
-Greta Van Fleet                | 17   | 206      
-The Dogs                       | 18   | 203      
-Honningbarna                   | 19   | 196      
+Greta Van Fleet                | 18   | 206      
+The Dogs                       | 19   | 203      
+Honningbarna                   | 20   | 196      
 Eluveitie                      | 22   | 167      
 Slipknot                       | 24   | 161      
 Green Day                      | 25   | 160      
@@ -64,10 +64,10 @@ Volbeat                        | 96   | 62
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Jean-Luc Ponty             | 15   | 226      
-Nospūn                     | 16   | 208      
-All That Remains           | 20   | 178      
-Thorbjørn Egner            | 21   | 169      
+Thorbjørn Egner            | 15   | 233      
+Jean-Luc Ponty             | 16   | 226      
+Nospūn                     | 17   | 210      
+All That Remains           | 21   | 178      
 The Night Flight Orchestra | 23   | 165      
 The Halo Effect            | 28   | 154      
 Lars Vaular                | 29   | 151      
@@ -93,7 +93,7 @@ will.i.am                  | 72   | 78
 Queens of the Stone Age    | 73   | 77       
 Rival Sons                 | 74   | 77       
 Meshuggah                  | 75   | 76       
-Porcupine Tree             | 77   | 74       
+Porcupine Tree             | 77   | 75       
 Love                       | 79   | 73       
 Jinjer                     | 81   | 71       
 VOLA                       | 82   | 69       
