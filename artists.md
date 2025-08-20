@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 871      
+Dream Theater                  | 1    | 882      
 AC/DC                          | 2    | 583      
 Spidergawd                     | 3    | 419      
 Metallica                      | 4    | 394      
@@ -22,10 +22,10 @@ Ghost                          | 7    | 338
 In Flames                      | 8    | 337      
 Skálmöld                       | 9    | 336      
 Seven Spires                   | 10   | 325      
-Circus Maximus                 | 11   | 291      
-Avenged Sevenfold              | 12   | 269      
-Haken                          | 13   | 256      
-Foo Fighters                   | 14   | 251      
+Circus Maximus                 | 12   | 291      
+Avenged Sevenfold              | 13   | 269      
+Haken                          | 14   | 257      
+Foo Fighters                   | 15   | 251      
 Greta Van Fleet                | 18   | 206      
 The Dogs                       | 19   | 203      
 Honningbarna                   | 20   | 196      
@@ -53,7 +53,7 @@ Lamb of God                    | 58   | 93
 Oslo Ess                       | 64   | 85       
 Fit for an Autopsy             | 68   | 82       
 Soilwork                       | 69   | 82       
-Turbonegro                     | 76   | 76       
+Turbonegro                     | 77   | 76       
 22                             | 80   | 71       
 Children of Bodom              | 83   | 68       
 Kaizers Orchestra              | 89   | 64       
@@ -64,7 +64,7 @@ Volbeat                        | 96   | 62
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 15   | 233      
+Thorbjørn Egner            | 11   | 311      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 210      
 All That Remains           | 21   | 178      
@@ -93,7 +93,7 @@ will.i.am                  | 72   | 78
 Queens of the Stone Age    | 73   | 77       
 Rival Sons                 | 74   | 77       
 Meshuggah                  | 75   | 76       
-Porcupine Tree             | 77   | 75       
+Porcupine Tree             | 76   | 76       
 Love                       | 79   | 73       
 Jinjer                     | 81   | 71       
 VOLA                       | 82   | 69       
