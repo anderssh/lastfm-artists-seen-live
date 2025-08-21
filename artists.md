@@ -15,8 +15,8 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 882      
-AC/DC                          | 2    | 583      
-Spidergawd                     | 3    | 419      
+AC/DC                          | 2    | 587      
+Spidergawd                     | 3    | 420      
 Metallica                      | 4    | 394      
 Ghost                          | 7    | 338      
 In Flames                      | 8    | 337      
@@ -24,15 +24,15 @@ Skálmöld                       | 9    | 336
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 12   | 291      
 Avenged Sevenfold              | 13   | 269      
-Haken                          | 14   | 257      
-Foo Fighters                   | 15   | 251      
+Haken                          | 14   | 260      
+Foo Fighters                   | 15   | 254      
 Greta Van Fleet                | 18   | 206      
 The Dogs                       | 19   | 203      
 Honningbarna                   | 20   | 196      
 Eluveitie                      | 22   | 167      
 Slipknot                       | 24   | 161      
-Green Day                      | 25   | 160      
-Amyl and the Sniffers          | 26   | 159      
+Amyl and the Sniffers          | 25   | 160      
+Green Day                      | 26   | 160      
 Mastodon                       | 27   | 154      
 Tool                           | 31   | 146      
 Finntroll                      | 33   | 141      
@@ -46,9 +46,9 @@ Pagan's Mind                   | 44   | 121
 blink-182                      | 47   | 111      
 The Good The Bad and The Zugly | 48   | 107      
 Maktkamp                       | 53   | 98       
-Backstreet Girls               | 54   | 95       
-Opeth                          | 56   | 95       
-The Killers                    | 57   | 95       
+The Killers                    | 54   | 96       
+Backstreet Girls               | 55   | 95       
+Opeth                          | 57   | 95       
 Lamb of God                    | 58   | 93       
 Oslo Ess                       | 64   | 85       
 Fit for an Autopsy             | 68   | 82       
@@ -64,9 +64,9 @@ Volbeat                        | 96   | 62
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 11   | 311      
+Thorbjørn Egner            | 11   | 312      
 Jean-Luc Ponty             | 16   | 226      
-Nospūn                     | 17   | 210      
+Nospūn                     | 17   | 214      
 All That Remains           | 21   | 178      
 The Night Flight Orchestra | 23   | 165      
 The Halo Effect            | 28   | 154      
@@ -79,8 +79,8 @@ Heilung                    | 42   | 123
 The Police                 | 45   | 115      
 DJ MøMø                    | 46   | 114      
 Toto                       | 49   | 104      
-Parius                     | 50   | 100      
-Linkin Park                | 55   | 95       
+Parius                     | 51   | 100      
+Linkin Park                | 56   | 95       
 The Black Keys             | 59   | 93       
 DumDum Boys                | 61   | 87       
 Aktiv Dödshjelp            | 63   | 85       
@@ -117,9 +117,9 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 5    | 366      
 Rush                         | 6    | 357      
 Hall & Oates                 | 41   | 127      
-Creedence Clearwater Revival | 51   | 99       
+Creedence Clearwater Revival | 50   | 102      
 Led Zeppelin                 | 52   | 98       
-Dire Straits                 | 60   | 87       
+Dire Straits                 | 60   | 89       
 Pink Floyd                   | 62   | 87       
 The Beatles                  | 78   | 74       
 Daft Punk                    | 91   | 63       
