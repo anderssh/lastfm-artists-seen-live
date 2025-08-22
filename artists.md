@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 882      
+Dream Theater                  | 1    | 884      
 AC/DC                          | 2    | 587      
 Spidergawd                     | 3    | 420      
 Metallica                      | 4    | 394      
@@ -22,9 +22,9 @@ Ghost                          | 7    | 338
 In Flames                      | 8    | 337      
 Skálmöld                       | 9    | 336      
 Seven Spires                   | 10   | 325      
-Circus Maximus                 | 12   | 291      
+Circus Maximus                 | 12   | 292      
 Avenged Sevenfold              | 13   | 269      
-Haken                          | 14   | 260      
+Haken                          | 14   | 263      
 Foo Fighters                   | 15   | 254      
 Greta Van Fleet                | 18   | 206      
 The Dogs                       | 19   | 203      
@@ -34,7 +34,7 @@ Slipknot                       | 24   | 161
 Amyl and the Sniffers          | 25   | 160      
 Green Day                      | 26   | 160      
 Mastodon                       | 27   | 154      
-Tool                           | 31   | 146      
+Tool                           | 31   | 147      
 Finntroll                      | 33   | 141      
 Eminem                         | 34   | 138      
 Ne Obliviscaris                | 36   | 136      
@@ -88,11 +88,11 @@ Bill Withers               | 65   | 83
 Elton John                 | 66   | 83       
 Red Hot Chili Peppers      | 67   | 83       
 Thulsa Doom                | 70   | 81       
-Bokassa                    | 71   | 79       
-will.i.am                  | 72   | 78       
-Queens of the Stone Age    | 73   | 77       
-Rival Sons                 | 74   | 77       
-Meshuggah                  | 75   | 76       
+Meshuggah                  | 71   | 80       
+Bokassa                    | 72   | 79       
+will.i.am                  | 73   | 78       
+Queens of the Stone Age    | 74   | 77       
+Rival Sons                 | 75   | 77       
 Porcupine Tree             | 76   | 76       
 Love                       | 79   | 73       
 Jinjer                     | 81   | 71       
@@ -115,7 +115,7 @@ Van Halen                  | 100  | 60
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 366      
-Rush                         | 6    | 357      
+Rush                         | 6    | 360      
 Hall & Oates                 | 41   | 127      
 Creedence Clearwater Revival | 50   | 102      
 Led Zeppelin                 | 52   | 98       
