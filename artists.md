@@ -14,17 +14,17 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 884      
+Dream Theater                  | 1    | 885      
 AC/DC                          | 2    | 587      
 Spidergawd                     | 3    | 420      
-Metallica                      | 4    | 394      
+Metallica                      | 4    | 395      
 Ghost                          | 7    | 338      
 In Flames                      | 8    | 337      
 Skálmöld                       | 9    | 336      
 Seven Spires                   | 10   | 325      
 Circus Maximus                 | 12   | 292      
-Avenged Sevenfold              | 13   | 269      
-Haken                          | 14   | 263      
+Haken                          | 13   | 277      
+Avenged Sevenfold              | 14   | 269      
 Foo Fighters                   | 15   | 254      
 Greta Van Fleet                | 18   | 206      
 The Dogs                       | 19   | 203      
@@ -33,11 +33,11 @@ Eluveitie                      | 22   | 167
 Slipknot                       | 24   | 161      
 Amyl and the Sniffers          | 25   | 160      
 Green Day                      | 26   | 160      
-Mastodon                       | 27   | 154      
+Mastodon                       | 27   | 156      
 Tool                           | 31   | 147      
-Finntroll                      | 33   | 141      
-Eminem                         | 34   | 138      
-Ne Obliviscaris                | 36   | 136      
+Finntroll                      | 34   | 141      
+Eminem                         | 35   | 138      
+Ne Obliviscaris                | 37   | 136      
 Gojira                         | 38   | 130      
 Judas Priest                   | 39   | 128      
 Architects                     | 40   | 127      
@@ -58,7 +58,7 @@ Turbonegro                     | 77   | 76
 Children of Bodom              | 83   | 68       
 Kaizers Orchestra              | 89   | 64       
 Snarky Puppy                   | 90   | 64       
-Volbeat                        | 96   | 62       
+Volbeat                        | 97   | 62       
 
 ## Active top 100 artists not seen live (45)
 
@@ -73,8 +73,8 @@ The Halo Effect            | 28   | 154
 Lars Vaular                | 29   | 151      
 Death by Unga Bunga        | 30   | 148      
 Sylosis                    | 32   | 144      
-Animals as Leaders         | 35   | 137      
-The Offspring              | 37   | 135      
+The Offspring              | 33   | 144      
+Animals as Leaders         | 36   | 137      
 Heilung                    | 42   | 123      
 The Police                 | 45   | 115      
 DJ MøMø                    | 46   | 114      
@@ -105,8 +105,8 @@ Ballinciaga                | 88   | 64
 Megadeth                   | 92   | 63       
 The Rolling Stones         | 94   | 63       
 Sum 41                     | 95   | 62       
-Electric Light Orchestra   | 97   | 61       
-The Aristocrats            | 98   | 61       
+The Aristocrats            | 96   | 62       
+Electric Light Orchestra   | 98   | 61       
 Rise Against               | 99   | 60       
 Van Halen                  | 100  | 60       
 
