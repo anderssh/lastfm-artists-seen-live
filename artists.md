@@ -17,11 +17,11 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 885      
 AC/DC                          | 2    | 587      
 Spidergawd                     | 3    | 420      
-Metallica                      | 4    | 395      
-Ghost                          | 7    | 338      
-In Flames                      | 8    | 337      
-Skálmöld                       | 9    | 336      
-Seven Spires                   | 10   | 325      
+Metallica                      | 4    | 397      
+Ghost                          | 8    | 338      
+In Flames                      | 9    | 337      
+Skálmöld                       | 10   | 336      
+Seven Spires                   | 11   | 325      
 Circus Maximus                 | 12   | 292      
 Haken                          | 13   | 277      
 Avenged Sevenfold              | 14   | 269      
@@ -64,7 +64,7 @@ Volbeat                        | 97   | 62
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 11   | 312      
+Thorbjørn Egner            | 7    | 341      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 214      
 All That Remains           | 21   | 178      
