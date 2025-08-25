@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 885      
-AC/DC                          | 2    | 587      
+AC/DC                          | 2    | 592      
 Spidergawd                     | 3    | 420      
 Metallica                      | 4    | 397      
 Ghost                          | 8    | 338      
@@ -64,7 +64,7 @@ Volbeat                        | 97   | 62
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 7    | 341      
+Thorbjørn Egner            | 6    | 365      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 214      
 All That Remains           | 21   | 178      
@@ -115,7 +115,7 @@ Van Halen                  | 100  | 60
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 5    | 366      
-Rush                         | 6    | 360      
+Rush                         | 7    | 360      
 Hall & Oates                 | 41   | 127      
 Creedence Clearwater Revival | 50   | 102      
 Led Zeppelin                 | 52   | 98       
