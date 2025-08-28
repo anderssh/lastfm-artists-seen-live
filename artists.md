@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 893      
+Dream Theater                  | 1    | 895      
 AC/DC                          | 2    | 592      
 Spidergawd                     | 3    | 420      
 Metallica                      | 4    | 397      
@@ -77,7 +77,7 @@ The Offspring              | 33   | 144
 Animals as Leaders         | 36   | 137      
 Heilung                    | 42   | 123      
 The Police                 | 45   | 115      
-DJ MøMø                    | 46   | 114      
+DJ MøMø                    | 46   | 113      
 Toto                       | 49   | 104      
 Parius                     | 51   | 100      
 Linkin Park                | 56   | 95       
@@ -119,7 +119,7 @@ Rush                         | 7    | 360
 Hall & Oates                 | 41   | 127      
 Creedence Clearwater Revival | 50   | 102      
 Led Zeppelin                 | 52   | 98       
-Dire Straits                 | 60   | 89       
+Dire Straits                 | 60   | 90       
 Pink Floyd                   | 63   | 87       
 The Beatles                  | 79   | 74       
 Daft Punk                    | 91   | 63       
