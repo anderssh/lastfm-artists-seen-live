@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 895      
-AC/DC                          | 2    | 592      
+AC/DC                          | 2    | 617      
 Spidergawd                     | 3    | 423      
 Metallica                      | 4    | 397      
 Ghost                          | 8    | 338      
@@ -23,7 +23,7 @@ In Flames                      | 9    | 337
 Skálmöld                       | 10   | 336      
 Seven Spires                   | 11   | 325      
 Circus Maximus                 | 12   | 292      
-Haken                          | 13   | 282      
+Haken                          | 13   | 283      
 Avenged Sevenfold              | 14   | 269      
 Foo Fighters                   | 15   | 254      
 Greta Van Fleet                | 18   | 206      
@@ -34,9 +34,9 @@ Slipknot                       | 25   | 161
 Amyl and the Sniffers          | 26   | 160      
 Green Day                      | 27   | 160      
 Mastodon                       | 28   | 156      
-Tool                           | 31   | 147      
-Finntroll                      | 34   | 141      
-Eminem                         | 35   | 138      
+Tool                           | 32   | 147      
+Finntroll                      | 35   | 141      
+Eminem                         | 36   | 138      
 Ne Obliviscaris                | 37   | 136      
 Gojira                         | 38   | 130      
 Judas Priest                   | 39   | 128      
@@ -66,15 +66,15 @@ Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Thorbjørn Egner            | 5    | 389      
 Jean-Luc Ponty             | 16   | 226      
-Nospūn                     | 17   | 214      
+Nospūn                     | 17   | 215      
 All That Remains           | 21   | 178      
 The Night Flight Orchestra | 23   | 165      
 Lars Vaular                | 24   | 161      
 The Halo Effect            | 29   | 154      
-Death by Unga Bunga        | 30   | 148      
-Sylosis                    | 32   | 144      
-The Offspring              | 33   | 144      
-Animals as Leaders         | 36   | 137      
+Animals as Leaders         | 30   | 153      
+Death by Unga Bunga        | 31   | 148      
+The Offspring              | 33   | 145      
+Sylosis                    | 34   | 144      
 Heilung                    | 42   | 123      
 The Police                 | 45   | 115      
 DJ MøMø                    | 46   | 113      
