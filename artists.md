@@ -17,9 +17,9 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 895      
 AC/DC                          | 2    | 628      
 Spidergawd                     | 3    | 423      
-Metallica                      | 4    | 397      
-Ghost                          | 8    | 338      
-In Flames                      | 9    | 337      
+Metallica                      | 5    | 397      
+In Flames                      | 6    | 372      
+Ghost                          | 9    | 338      
 Skálmöld                       | 10   | 336      
 Seven Spires                   | 11   | 325      
 Circus Maximus                 | 12   | 292      
@@ -38,9 +38,9 @@ Tool                           | 32   | 147
 Finntroll                      | 35   | 141      
 Eminem                         | 36   | 138      
 Ne Obliviscaris                | 37   | 136      
-Gojira                         | 38   | 130      
-Judas Priest                   | 39   | 128      
-Architects                     | 40   | 127      
+Gojira                         | 39   | 130      
+Judas Priest                   | 40   | 128      
+Architects                     | 41   | 127      
 Kvelertak                      | 43   | 121      
 Pagan's Mind                   | 44   | 121      
 blink-182                      | 47   | 111      
@@ -64,7 +64,7 @@ Volbeat                        | 97   | 62
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 5    | 389      
+Thorbjørn Egner            | 4    | 414      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 21   | 178      
@@ -75,7 +75,7 @@ Animals as Leaders         | 30   | 153
 Death by Unga Bunga        | 31   | 148      
 The Offspring              | 33   | 145      
 Sylosis                    | 34   | 144      
-Heilung                    | 42   | 123      
+Heilung                    | 38   | 131      
 The Police                 | 45   | 115      
 DJ MøMø                    | 46   | 113      
 Toto                       | 49   | 104      
@@ -93,9 +93,9 @@ Bokassa                    | 73   | 79
 will.i.am                  | 74   | 78       
 Queens of the Stone Age    | 75   | 77       
 Rival Sons                 | 76   | 77       
-Porcupine Tree             | 78   | 76       
-Love                       | 80   | 73       
-Jinjer                     | 81   | 71       
+Jinjer                     | 78   | 76       
+Porcupine Tree             | 79   | 76       
+Love                       | 81   | 73       
 Maraton                    | 82   | 69       
 VOLA                       | 83   | 69       
 Styx                       | 85   | 68       
@@ -114,13 +114,13 @@ Van Halen                  | 100  | 60
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 6    | 366      
-Rush                         | 7    | 360      
-Hall & Oates                 | 41   | 127      
+Fleetwood Mac                | 7    | 366      
+Rush                         | 8    | 360      
+Hall & Oates                 | 42   | 127      
 Creedence Clearwater Revival | 50   | 102      
 Led Zeppelin                 | 52   | 98       
 Dire Straits                 | 60   | 90       
 Pink Floyd                   | 63   | 87       
-The Beatles                  | 79   | 74       
+The Beatles                  | 80   | 74       
 Daft Punk                    | 91   | 63       
 The Notorious B.I.G.         | 93   | 63       
