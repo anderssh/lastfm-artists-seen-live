@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 895      
 AC/DC                          | 2    | 628      
-Spidergawd                     | 3    | 423      
+Spidergawd                     | 4    | 423      
 Metallica                      | 5    | 397      
 In Flames                      | 6    | 372      
 Ghost                          | 9    | 338      
@@ -58,19 +58,19 @@ Turbonegro                     | 77   | 77
 Children of Bodom              | 84   | 68       
 Kaizers Orchestra              | 86   | 66       
 Snarky Puppy                   | 90   | 64       
-Volbeat                        | 97   | 62       
+Volbeat                        | 91   | 64       
 
 ## Active top 100 artists not seen live (45)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 4    | 414      
+Thorbjørn Egner            | 3    | 427      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 21   | 178      
 The Night Flight Orchestra | 23   | 165      
 Lars Vaular                | 24   | 161      
-The Halo Effect            | 29   | 154      
+The Halo Effect            | 29   | 155      
 Animals as Leaders         | 30   | 153      
 Death by Unga Bunga        | 31   | 148      
 The Offspring              | 33   | 145      
@@ -102,10 +102,10 @@ Styx                       | 85   | 68
 Ludo                       | 87   | 65       
 A.C.T                      | 88   | 64       
 Ballinciaga                | 89   | 64       
-Megadeth                   | 92   | 63       
-The Rolling Stones         | 94   | 63       
-Sum 41                     | 95   | 62       
-The Aristocrats            | 96   | 62       
+Megadeth                   | 93   | 63       
+The Rolling Stones         | 95   | 63       
+Sum 41                     | 96   | 62       
+The Aristocrats            | 97   | 62       
 Electric Light Orchestra   | 98   | 61       
 Rise Against               | 99   | 60       
 Van Halen                  | 100  | 60       
@@ -122,5 +122,5 @@ Led Zeppelin                 | 52   | 98
 Dire Straits                 | 60   | 90       
 Pink Floyd                   | 63   | 87       
 The Beatles                  | 80   | 74       
-Daft Punk                    | 91   | 63       
-The Notorious B.I.G.         | 93   | 63       
+Daft Punk                    | 92   | 63       
+The Notorious B.I.G.         | 94   | 63       
