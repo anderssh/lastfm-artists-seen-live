@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 897      
+Dream Theater                  | 1    | 901      
 AC/DC                          | 2    | 634      
 Spidergawd                     | 4    | 423      
 Metallica                      | 5    | 397      
@@ -29,15 +29,15 @@ Foo Fighters                   | 15   | 257
 Greta Van Fleet                | 18   | 206      
 The Dogs                       | 19   | 203      
 Honningbarna                   | 20   | 196      
-Eluveitie                      | 22   | 167      
-Green Day                      | 23   | 167      
+Eluveitie                      | 22   | 168      
+Green Day                      | 23   | 168      
 Slipknot                       | 25   | 164      
 Amyl and the Sniffers          | 27   | 160      
 Mastodon                       | 28   | 156      
 Tool                           | 33   | 147      
 Finntroll                      | 35   | 141      
 Eminem                         | 36   | 138      
-Ne Obliviscaris                | 37   | 136      
+Ne Obliviscaris                | 37   | 138      
 Gojira                         | 39   | 130      
 Judas Priest                   | 40   | 128      
 Architects                     | 41   | 127      
@@ -49,15 +49,15 @@ Maktkamp                       | 54   | 98
 The Killers                    | 55   | 96       
 Backstreet Girls               | 56   | 95       
 Opeth                          | 57   | 95       
-Lamb of God                    | 58   | 93       
+Lamb of God                    | 59   | 93       
 22                             | 61   | 88       
-Oslo Ess                       | 65   | 85       
+Oslo Ess                       | 65   | 86       
 Fit for an Autopsy             | 69   | 82       
 Soilwork                       | 70   | 82       
 Turbonegro                     | 78   | 77       
 Kaizers Orchestra              | 81   | 74       
 Children of Bodom              | 85   | 68       
-Volbeat                        | 87   | 66       
+Volbeat                        | 87   | 67       
 Snarky Puppy                   | 92   | 64       
 
 ## Active top 100 artists not seen live (45)
@@ -78,12 +78,12 @@ Sylosis                    | 34   | 144
 Heilung                    | 38   | 131      
 The Police                 | 45   | 115      
 DJ MøMø                    | 46   | 114      
-Toto                       | 50   | 104      
+Toto                       | 50   | 105      
 Parius                     | 51   | 100      
 Linkin Park                | 53   | 98       
-The Black Keys             | 59   | 93       
+The Black Keys             | 60   | 93       
 DumDum Boys                | 62   | 87       
-Aktiv Dödshjelp            | 64   | 85       
+Aktiv Dödshjelp            | 64   | 86       
 Red Hot Chili Peppers      | 66   | 84       
 Bill Withers               | 67   | 83       
 Elton John                 | 68   | 83       
@@ -91,13 +91,13 @@ Thulsa Doom                | 71   | 82
 Jinjer                     | 72   | 80       
 Meshuggah                  | 73   | 80       
 Bokassa                    | 74   | 79       
-will.i.am                  | 75   | 78       
-Queens of the Stone Age    | 76   | 77       
+Queens of the Stone Age    | 75   | 78       
+will.i.am                  | 76   | 78       
 Rival Sons                 | 77   | 77       
 Porcupine Tree             | 79   | 76       
 Love                       | 82   | 73       
-Maraton                    | 83   | 69       
-VOLA                       | 84   | 69       
+VOLA                       | 83   | 70       
+Maraton                    | 84   | 69       
 Styx                       | 86   | 68       
 Ludo                       | 88   | 65       
 The Rolling Stones         | 89   | 65       
@@ -119,7 +119,7 @@ Rush                         | 8    | 361
 Hall & Oates                 | 42   | 127      
 Creedence Clearwater Revival | 48   | 108      
 Led Zeppelin                 | 52   | 98       
-Dire Straits                 | 60   | 92       
+Dire Straits                 | 58   | 93       
 Pink Floyd                   | 63   | 87       
 The Beatles                  | 80   | 75       
 Daft Punk                    | 93   | 63       
