@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 901      
-AC/DC                          | 2    | 634      
+AC/DC                          | 2    | 640      
 Spidergawd                     | 4    | 423      
 Metallica                      | 5    | 397      
 In Flames                      | 6    | 372      
@@ -64,7 +64,7 @@ Snarky Puppy                   | 92   | 64
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 3    | 429      
+Thorbjørn Egner            | 3    | 431      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 21   | 178      
@@ -76,8 +76,8 @@ The Offspring              | 31   | 151
 Death by Unga Bunga        | 32   | 148      
 Sylosis                    | 34   | 144      
 Heilung                    | 38   | 131      
-The Police                 | 45   | 115      
-DJ MøMø                    | 46   | 114      
+DJ MøMø                    | 45   | 115      
+The Police                 | 46   | 115      
 Toto                       | 50   | 105      
 Parius                     | 51   | 100      
 Linkin Park                | 53   | 98       
