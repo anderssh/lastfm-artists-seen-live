@@ -57,14 +57,14 @@ Soilwork                       | 70   | 82
 Turbonegro                     | 78   | 77       
 Kaizers Orchestra              | 81   | 74       
 Children of Bodom              | 85   | 68       
-Volbeat                        | 87   | 67       
+Volbeat                        | 88   | 67       
 Snarky Puppy                   | 92   | 64       
 
 ## Active top 100 artists not seen live (45)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 3    | 431      
+Thorbjørn Egner            | 3    | 432      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 21   | 178      
@@ -78,7 +78,7 @@ Sylosis                    | 34   | 144
 Heilung                    | 38   | 131      
 DJ MøMø                    | 45   | 115      
 The Police                 | 46   | 115      
-Toto                       | 50   | 105      
+Toto                       | 50   | 108      
 Parius                     | 51   | 100      
 Linkin Park                | 53   | 98       
 The Black Keys             | 60   | 93       
@@ -99,8 +99,8 @@ Love                       | 82   | 73
 VOLA                       | 83   | 70       
 Maraton                    | 84   | 69       
 Styx                       | 86   | 68       
-Ludo                       | 88   | 65       
-The Rolling Stones         | 89   | 65       
+The Rolling Stones         | 87   | 67       
+Ludo                       | 89   | 65       
 A.C.T                      | 90   | 64       
 Ballinciaga                | 91   | 64       
 Megadeth                   | 94   | 63       
@@ -117,7 +117,7 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 7    | 366      
 Rush                         | 8    | 361      
 Hall & Oates                 | 42   | 127      
-Creedence Clearwater Revival | 48   | 108      
+Creedence Clearwater Revival | 48   | 111      
 Led Zeppelin                 | 52   | 98       
 Dire Straits                 | 58   | 93       
 Pink Floyd                   | 63   | 87       
