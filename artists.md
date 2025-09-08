@@ -44,7 +44,7 @@ Architects                     | 41   | 127
 Pagan's Mind                   | 43   | 122      
 Kvelertak                      | 44   | 121      
 blink-182                      | 47   | 113      
-The Good The Bad and The Zugly | 49   | 108      
+The Good The Bad and The Zugly | 50   | 108      
 Maktkamp                       | 54   | 98       
 The Killers                    | 55   | 96       
 Backstreet Girls               | 56   | 95       
@@ -64,7 +64,7 @@ Snarky Puppy                   | 92   | 64
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 3    | 432      
+Thorbjørn Egner            | 3    | 498      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 21   | 178      
@@ -76,9 +76,9 @@ The Offspring              | 31   | 151
 Death by Unga Bunga        | 32   | 148      
 Sylosis                    | 34   | 144      
 Heilung                    | 38   | 131      
-DJ MøMø                    | 45   | 115      
+DJ MøMø                    | 45   | 116      
 The Police                 | 46   | 115      
-Toto                       | 50   | 108      
+Toto                       | 49   | 109      
 Parius                     | 51   | 100      
 Linkin Park                | 53   | 98       
 The Black Keys             | 60   | 93       
