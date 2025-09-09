@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 901      
+Dream Theater                  | 1    | 902      
 AC/DC                          | 2    | 640      
 Spidergawd                     | 4    | 423      
 Metallica                      | 5    | 397      
@@ -29,9 +29,9 @@ Foo Fighters                   | 15   | 257
 Greta Van Fleet                | 18   | 206      
 The Dogs                       | 19   | 203      
 Honningbarna                   | 20   | 196      
-Eluveitie                      | 22   | 168      
-Green Day                      | 23   | 168      
-Slipknot                       | 25   | 164      
+Slipknot                       | 22   | 170      
+Eluveitie                      | 23   | 168      
+Green Day                      | 24   | 168      
 Amyl and the Sniffers          | 27   | 160      
 Mastodon                       | 28   | 156      
 Tool                           | 33   | 147      
@@ -64,11 +64,11 @@ Snarky Puppy                   | 92   | 64
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 3    | 498      
+Thorbjørn Egner            | 3    | 499      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 21   | 178      
-The Night Flight Orchestra | 24   | 165      
+The Night Flight Orchestra | 25   | 165      
 Lars Vaular                | 26   | 161      
 The Halo Effect            | 29   | 155      
 Animals as Leaders         | 30   | 153      
@@ -96,7 +96,7 @@ will.i.am                  | 76   | 78
 Rival Sons                 | 77   | 77       
 Porcupine Tree             | 79   | 76       
 Love                       | 82   | 73       
-VOLA                       | 83   | 70       
+VOLA                       | 83   | 71       
 Maraton                    | 84   | 69       
 Styx                       | 86   | 68       
 The Rolling Stones         | 87   | 67       
