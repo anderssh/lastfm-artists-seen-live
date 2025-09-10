@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 902      
 AC/DC                          | 2    | 640      
-Spidergawd                     | 4    | 423      
+Spidergawd                     | 4    | 426      
 Metallica                      | 5    | 397      
 In Flames                      | 6    | 372      
 Ghost                          | 9    | 339      
@@ -64,7 +64,7 @@ Snarky Puppy                   | 92   | 64
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 3    | 499      
+Thorbjørn Egner            | 3    | 507      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 21   | 178      
