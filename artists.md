@@ -55,16 +55,16 @@ Oslo Ess                       | 65   | 86
 Fit for an Autopsy             | 69   | 83       
 Soilwork                       | 70   | 82       
 Turbonegro                     | 78   | 77       
-Kaizers Orchestra              | 81   | 74       
-Children of Bodom              | 85   | 68       
-Volbeat                        | 89   | 67       
+Volbeat                        | 80   | 76       
+Kaizers Orchestra              | 82   | 74       
+Children of Bodom              | 86   | 68       
 Snarky Puppy                   | 93   | 64       
 
 ## Active top 100 artists not seen live (45)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 3    | 507      
+Thorbjørn Egner            | 3    | 548      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 21   | 178      
@@ -95,12 +95,12 @@ Bokassa                    | 75   | 79
 will.i.am                  | 76   | 78       
 Rival Sons                 | 77   | 77       
 Porcupine Tree             | 79   | 76       
-Love                       | 82   | 73       
-VOLA                       | 83   | 71       
-Maraton                    | 84   | 69       
-Styx                       | 86   | 68       
-The Rolling Stones         | 87   | 68       
-Rise Against               | 88   | 67       
+Love                       | 83   | 73       
+VOLA                       | 84   | 71       
+Maraton                    | 85   | 69       
+Styx                       | 87   | 68       
+The Rolling Stones         | 88   | 68       
+Rise Against               | 89   | 67       
 Ludo                       | 90   | 65       
 A.C.T                      | 91   | 64       
 Ballinciaga                | 92   | 64       
@@ -121,6 +121,6 @@ Creedence Clearwater Revival | 48   | 111
 Led Zeppelin                 | 53   | 98       
 Dire Straits                 | 59   | 94       
 Pink Floyd                   | 63   | 88       
-The Beatles                  | 80   | 75       
+The Beatles                  | 81   | 75       
 Daft Punk                    | 94   | 63       
 The Notorious B.I.G.         | 96   | 63       
