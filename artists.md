@@ -15,8 +15,8 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 902      
-AC/DC                          | 2    | 640      
-Spidergawd                     | 4    | 426      
+AC/DC                          | 2    | 641      
+Spidergawd                     | 4    | 434      
 Metallica                      | 5    | 397      
 In Flames                      | 6    | 372      
 Ghost                          | 9    | 339      
@@ -29,8 +29,8 @@ Foo Fighters                   | 15   | 268
 Greta Van Fleet                | 18   | 208      
 The Dogs                       | 19   | 203      
 Honningbarna                   | 20   | 196      
-Slipknot                       | 22   | 170      
-Green Day                      | 23   | 169      
+Green Day                      | 22   | 170      
+Slipknot                       | 23   | 170      
 Eluveitie                      | 24   | 168      
 Amyl and the Sniffers          | 27   | 160      
 Mastodon                       | 28   | 156      
@@ -43,17 +43,17 @@ Judas Priest                   | 40   | 128
 Architects                     | 41   | 127      
 Pagan's Mind                   | 43   | 122      
 Kvelertak                      | 44   | 121      
-blink-182                      | 47   | 113      
+blink-182                      | 45   | 117      
 The Good The Bad and The Zugly | 49   | 111      
-Maktkamp                       | 55   | 98       
-The Killers                    | 56   | 96       
-Backstreet Girls               | 57   | 95       
-Opeth                          | 58   | 95       
-Lamb of God                    | 60   | 93       
-22                             | 62   | 88       
-Oslo Ess                       | 65   | 86       
-Fit for an Autopsy             | 69   | 83       
-Soilwork                       | 70   | 82       
+Maktkamp                       | 56   | 98       
+The Killers                    | 57   | 96       
+Backstreet Girls               | 58   | 95       
+Opeth                          | 59   | 95       
+Lamb of God                    | 61   | 93       
+22                             | 63   | 88       
+Oslo Ess                       | 66   | 86       
+Fit for an Autopsy             | 70   | 83       
+Soilwork                       | 71   | 82       
 Turbonegro                     | 78   | 77       
 Volbeat                        | 80   | 76       
 Kaizers Orchestra              | 82   | 74       
@@ -64,32 +64,32 @@ Snarky Puppy                   | 93   | 64
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 3    | 548      
+Thorbjørn Egner            | 3    | 571      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 21   | 178      
 The Night Flight Orchestra | 25   | 165      
 Lars Vaular                | 26   | 161      
 The Halo Effect            | 29   | 155      
-The Offspring              | 30   | 154      
+The Offspring              | 30   | 155      
 Animals as Leaders         | 31   | 153      
 Death by Unga Bunga        | 32   | 148      
 Sylosis                    | 34   | 144      
 Heilung                    | 38   | 131      
-DJ MøMø                    | 45   | 116      
-The Police                 | 46   | 115      
+DJ MøMø                    | 46   | 117      
+The Police                 | 47   | 115      
 Toto                       | 50   | 109      
 Aktiv Dödshjelp            | 51   | 105      
-Parius                     | 52   | 100      
-Linkin Park                | 54   | 98       
-The Black Keys             | 61   | 93       
-DumDum Boys                | 64   | 87       
-Red Hot Chili Peppers      | 66   | 84       
-Bill Withers               | 67   | 83       
-Elton John                 | 68   | 83       
-Thulsa Doom                | 71   | 82       
-Queens of the Stone Age    | 72   | 81       
-Jinjer                     | 73   | 80       
+Jinjer                     | 52   | 104      
+Linkin Park                | 53   | 100      
+Parius                     | 54   | 100      
+The Black Keys             | 62   | 93       
+DumDum Boys                | 65   | 87       
+Red Hot Chili Peppers      | 67   | 85       
+Bill Withers               | 68   | 83       
+Elton John                 | 69   | 83       
+Thulsa Doom                | 72   | 82       
+Queens of the Stone Age    | 73   | 81       
 Meshuggah                  | 74   | 80       
 Bokassa                    | 75   | 79       
 will.i.am                  | 76   | 78       
@@ -118,9 +118,9 @@ Fleetwood Mac                | 7    | 367
 Rush                         | 8    | 361      
 Hall & Oates                 | 42   | 127      
 Creedence Clearwater Revival | 48   | 111      
-Led Zeppelin                 | 53   | 98       
-Dire Straits                 | 59   | 94       
-Pink Floyd                   | 63   | 88       
+Led Zeppelin                 | 55   | 98       
+Dire Straits                 | 60   | 94       
+Pink Floyd                   | 64   | 88       
 The Beatles                  | 81   | 75       
 Daft Punk                    | 94   | 63       
 The Notorious B.I.G.         | 96   | 63       
