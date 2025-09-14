@@ -43,7 +43,7 @@ Judas Priest                   | 40   | 128
 Architects                     | 41   | 127      
 Pagan's Mind                   | 43   | 122      
 Kvelertak                      | 44   | 121      
-blink-182                      | 45   | 117      
+blink-182                      | 45   | 118      
 The Good The Bad and The Zugly | 49   | 111      
 Maktkamp                       | 56   | 98       
 The Killers                    | 57   | 96       
@@ -64,7 +64,7 @@ Snarky Puppy                   | 93   | 64
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 3    | 571      
+Thorbjørn Egner            | 3    | 592      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 21   | 178      
@@ -80,8 +80,8 @@ DJ MøMø                    | 46   | 117
 The Police                 | 47   | 115      
 Toto                       | 50   | 109      
 Aktiv Dödshjelp            | 51   | 105      
-Jinjer                     | 52   | 104      
-Linkin Park                | 53   | 100      
+Jinjer                     | 52   | 105      
+Linkin Park                | 53   | 101      
 Parius                     | 54   | 100      
 The Black Keys             | 62   | 93       
 DumDum Boys                | 65   | 87       
