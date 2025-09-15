@@ -64,7 +64,7 @@ Snarky Puppy                   | 93   | 64
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 3    | 592      
+Thorbjørn Egner            | 3    | 598      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 21   | 178      
@@ -76,7 +76,7 @@ Animals as Leaders         | 31   | 153
 Death by Unga Bunga        | 32   | 148      
 Sylosis                    | 34   | 144      
 Heilung                    | 38   | 131      
-DJ MøMø                    | 46   | 117      
+DJ MøMø                    | 46   | 118      
 The Police                 | 47   | 115      
 Toto                       | 50   | 109      
 Aktiv Dödshjelp            | 51   | 105      
