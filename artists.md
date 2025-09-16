@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 902      
-AC/DC                          | 2    | 641      
+AC/DC                          | 2    | 663      
 Spidergawd                     | 4    | 434      
 Metallica                      | 5    | 397      
 In Flames                      | 6    | 372      
@@ -41,9 +41,9 @@ Ne Obliviscaris                | 37   | 138
 Gojira                         | 39   | 130      
 Judas Priest                   | 40   | 128      
 Architects                     | 41   | 127      
-Pagan's Mind                   | 43   | 122      
-Kvelertak                      | 44   | 121      
-blink-182                      | 45   | 118      
+Pagan's Mind                   | 44   | 122      
+Kvelertak                      | 45   | 121      
+blink-182                      | 46   | 118      
 The Good The Bad and The Zugly | 49   | 111      
 Maktkamp                       | 56   | 98       
 The Killers                    | 57   | 96       
@@ -76,7 +76,7 @@ Animals as Leaders         | 31   | 153
 Death by Unga Bunga        | 32   | 148      
 Sylosis                    | 34   | 144      
 Heilung                    | 38   | 131      
-DJ MøMø                    | 46   | 118      
+DJ MøMø                    | 43   | 125      
 The Police                 | 47   | 115      
 Toto                       | 50   | 109      
 Aktiv Dödshjelp            | 51   | 105      
