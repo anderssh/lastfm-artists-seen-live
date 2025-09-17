@@ -58,7 +58,7 @@ Turbonegro                     | 78   | 77
 Volbeat                        | 80   | 76       
 Kaizers Orchestra              | 82   | 74       
 Children of Bodom              | 86   | 68       
-Snarky Puppy                   | 93   | 64       
+Snarky Puppy                   | 94   | 64       
 
 ## Active top 100 artists not seen live (45)
 
@@ -96,14 +96,14 @@ will.i.am                  | 76   | 78
 Rival Sons                 | 77   | 77       
 Porcupine Tree             | 79   | 76       
 Love                       | 83   | 73       
-VOLA                       | 84   | 71       
+VOLA                       | 84   | 73       
 Maraton                    | 85   | 69       
 Styx                       | 87   | 68       
 The Rolling Stones         | 88   | 68       
 Rise Against               | 89   | 67       
-Ludo                       | 90   | 65       
-A.C.T                      | 91   | 64       
-Ballinciaga                | 92   | 64       
+Ludo                       | 91   | 65       
+A.C.T                      | 92   | 64       
+Ballinciaga                | 93   | 64       
 Megadeth                   | 95   | 63       
 Sum 41                     | 97   | 62       
 The Aristocrats            | 98   | 62       
@@ -122,5 +122,5 @@ Led Zeppelin                 | 55   | 98
 Dire Straits                 | 60   | 94       
 Pink Floyd                   | 64   | 88       
 The Beatles                  | 81   | 75       
-Daft Punk                    | 94   | 63       
+Daft Punk                    | 90   | 65       
 The Notorious B.I.G.         | 96   | 63       
