@@ -29,7 +29,7 @@ Foo Fighters                   | 15   | 269
 Greta Van Fleet                | 18   | 208      
 The Dogs                       | 19   | 203      
 Honningbarna                   | 20   | 196      
-Slipknot                       | 22   | 171      
+Slipknot                       | 21   | 179      
 Green Day                      | 23   | 170      
 Eluveitie                      | 24   | 168      
 Amyl and the Sniffers          | 27   | 160      
@@ -67,7 +67,7 @@ Name                       | Rank | PlayCount
 Thorbjørn Egner            | 3    | 598      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
-All That Remains           | 21   | 178      
+All That Remains           | 22   | 178      
 The Night Flight Orchestra | 25   | 165      
 Lars Vaular                | 26   | 161      
 The Halo Effect            | 29   | 155      
@@ -107,8 +107,8 @@ Ballinciaga                | 93   | 64
 Megadeth                   | 95   | 63       
 Sum 41                     | 97   | 62       
 The Aristocrats            | 98   | 62       
-Electric Light Orchestra   | 99   | 61       
-Van Halen                  | 100  | 61       
+Barnesprell                | 99   | 61       
+Electric Light Orchestra   | 100  | 61       
 
 ## Inactive top 100 artists not seen live (10)
 
