@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 905      
 AC/DC                          | 2    | 672      
-Spidergawd                     | 4    | 434      
+Spidergawd                     | 4    | 435      
 Metallica                      | 5    | 397      
 In Flames                      | 6    | 373      
 Ghost                          | 9    | 340      
@@ -30,7 +30,7 @@ Greta Van Fleet                | 18   | 208
 The Dogs                       | 19   | 203      
 Honningbarna                   | 20   | 196      
 Slipknot                       | 21   | 181      
-Green Day                      | 23   | 170      
+Green Day                      | 24   | 170      
 Eluveitie                      | 25   | 168      
 Amyl and the Sniffers          | 27   | 160      
 Mastodon                       | 28   | 156      
@@ -68,7 +68,7 @@ Thorbjørn Egner            | 3    | 598
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 22   | 178      
-Lars Vaular                | 24   | 170      
+Lars Vaular                | 23   | 171      
 The Night Flight Orchestra | 26   | 165      
 The Halo Effect            | 29   | 155      
 The Offspring              | 30   | 155      
