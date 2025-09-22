@@ -26,12 +26,12 @@ Circus Maximus                 | 12   | 292
 Haken                          | 13   | 284      
 Avenged Sevenfold              | 14   | 272      
 Foo Fighters                   | 15   | 269      
-Greta Van Fleet                | 18   | 208      
+Greta Van Fleet                | 18   | 209      
 The Dogs                       | 19   | 203      
 Honningbarna                   | 20   | 196      
 Slipknot                       | 21   | 181      
 Green Day                      | 24   | 170      
-Eluveitie                      | 25   | 168      
+Eluveitie                      | 25   | 169      
 Amyl and the Sniffers          | 27   | 160      
 Mastodon                       | 28   | 156      
 Tool                           | 33   | 147      
@@ -39,7 +39,7 @@ Finntroll                      | 35   | 141
 Eminem                         | 36   | 138      
 Ne Obliviscaris                | 37   | 138      
 Gojira                         | 39   | 130      
-Judas Priest                   | 40   | 128      
+Judas Priest                   | 40   | 129      
 Architects                     | 41   | 127      
 Pagan's Mind                   | 44   | 122      
 Kvelertak                      | 45   | 121      
@@ -50,14 +50,14 @@ The Killers                    | 57   | 96
 Backstreet Girls               | 58   | 95       
 Opeth                          | 59   | 95       
 Lamb of God                    | 61   | 93       
-22                             | 63   | 88       
-Oslo Ess                       | 64   | 88       
-Fit for an Autopsy             | 70   | 83       
-Soilwork                       | 73   | 82       
-Kaizers Orchestra              | 76   | 78       
-Turbonegro                     | 79   | 77       
-Volbeat                        | 81   | 76       
-Children of Bodom              | 86   | 68       
+22                             | 64   | 88       
+Oslo Ess                       | 65   | 88       
+Volbeat                        | 66   | 88       
+Fit for an Autopsy             | 71   | 83       
+Soilwork                       | 74   | 82       
+Kaizers Orchestra              | 77   | 78       
+Turbonegro                     | 80   | 77       
+Children of Bodom              | 87   | 68       
 Snarky Puppy                   | 94   | 64       
 
 ## Active top 100 artists not seen live (45)
@@ -78,28 +78,28 @@ Sylosis                    | 34   | 144
 Heilung                    | 38   | 131      
 DJ MøMø                    | 43   | 125      
 The Police                 | 47   | 115      
-Toto                       | 50   | 109      
+Toto                       | 50   | 110      
 Aktiv Dödshjelp            | 51   | 105      
 Jinjer                     | 52   | 105      
 Linkin Park                | 53   | 101      
 Parius                     | 54   | 100      
 The Black Keys             | 62   | 93       
-DumDum Boys                | 66   | 87       
-Red Hot Chili Peppers      | 67   | 85       
-Bill Withers               | 68   | 83       
-Elton John                 | 69   | 83       
-Thulsa Doom                | 71   | 83       
-Queens of the Stone Age    | 72   | 82       
-Meshuggah                  | 74   | 80       
-Bokassa                    | 75   | 79       
-will.i.am                  | 77   | 78       
-Rival Sons                 | 78   | 77       
-Porcupine Tree             | 80   | 76       
+DumDum Boys                | 67   | 87       
+Red Hot Chili Peppers      | 68   | 85       
+Bill Withers               | 69   | 83       
+Elton John                 | 70   | 83       
+Thulsa Doom                | 72   | 83       
+Queens of the Stone Age    | 73   | 82       
+Meshuggah                  | 75   | 80       
+Bokassa                    | 76   | 79       
+will.i.am                  | 78   | 78       
+Rival Sons                 | 79   | 77       
+Porcupine Tree             | 81   | 76       
 Love                       | 83   | 73       
 VOLA                       | 84   | 73       
 Maraton                    | 85   | 69       
-Styx                       | 87   | 68       
-The Rolling Stones         | 88   | 68       
+The Rolling Stones         | 86   | 69       
+Styx                       | 88   | 68       
 Rise Against               | 90   | 67       
 Ludo                       | 91   | 65       
 A.C.T                      | 92   | 64       
@@ -108,7 +108,7 @@ Megadeth                   | 95   | 63
 Barnesprell                | 97   | 62       
 Sum 41                     | 98   | 62       
 The Aristocrats            | 99   | 62       
-Electric Light Orchestra   | 100  | 61       
+Van Halen                  | 100  | 62       
 
 ## Inactive top 100 artists not seen live (10)
 
@@ -120,7 +120,7 @@ Hall & Oates                 | 42   | 127
 Creedence Clearwater Revival | 48   | 114      
 Led Zeppelin                 | 55   | 98       
 Dire Straits                 | 60   | 94       
-Pink Floyd                   | 65   | 88       
+Pink Floyd                   | 63   | 91       
 The Beatles                  | 82   | 75       
 Daft Punk                    | 89   | 67       
 The Notorious B.I.G.         | 96   | 63       
