@@ -50,12 +50,12 @@ The Killers                    | 57   | 96
 Backstreet Girls               | 58   | 95       
 Opeth                          | 59   | 95       
 Lamb of God                    | 61   | 93       
-22                             | 64   | 88       
-Oslo Ess                       | 65   | 88       
+Oslo Ess                       | 64   | 90       
+22                             | 65   | 88       
 Volbeat                        | 66   | 88       
 Fit for an Autopsy             | 71   | 83       
 Soilwork                       | 74   | 82       
-Kaizers Orchestra              | 77   | 78       
+Kaizers Orchestra              | 77   | 79       
 Turbonegro                     | 80   | 77       
 Children of Bodom              | 87   | 68       
 Snarky Puppy                   | 95   | 64       
