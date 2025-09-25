@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 905      
-AC/DC                          | 2    | 675      
+AC/DC                          | 2    | 678      
 Spidergawd                     | 4    | 435      
 Metallica                      | 5    | 397      
 In Flames                      | 6    | 385      
@@ -26,14 +26,14 @@ Circus Maximus                 | 12   | 292
 Haken                          | 13   | 284      
 Avenged Sevenfold              | 14   | 273      
 Foo Fighters                   | 15   | 269      
-Greta Van Fleet                | 18   | 210      
+Greta Van Fleet                | 18   | 211      
 The Dogs                       | 19   | 203      
 Honningbarna                   | 20   | 196      
 Slipknot                       | 21   | 181      
 Green Day                      | 23   | 171      
 Eluveitie                      | 25   | 169      
 Amyl and the Sniffers          | 27   | 160      
-Mastodon                       | 29   | 156      
+Mastodon                       | 30   | 156      
 Tool                           | 32   | 150      
 Finntroll                      | 35   | 141      
 Eminem                         | 36   | 138      
@@ -57,7 +57,7 @@ Fit for an Autopsy             | 71   | 83
 Soilwork                       | 74   | 82       
 Kaizers Orchestra              | 77   | 79       
 Turbonegro                     | 80   | 77       
-Children of Bodom              | 87   | 68       
+Children of Bodom              | 88   | 68       
 Snarky Puppy                   | 95   | 64       
 
 ## Active top 100 artists not seen live (45)
@@ -71,7 +71,7 @@ All That Remains           | 22   | 178
 Lars Vaular                | 24   | 171      
 The Night Flight Orchestra | 26   | 165      
 The Halo Effect            | 28   | 159      
-The Offspring              | 30   | 155      
+The Offspring              | 29   | 157      
 Animals as Leaders         | 31   | 153      
 Death by Unga Bunga        | 33   | 148      
 Sylosis                    | 34   | 144      
@@ -97,9 +97,9 @@ Rival Sons                 | 79   | 77
 Porcupine Tree             | 81   | 76       
 Love                       | 83   | 73       
 VOLA                       | 84   | 73       
-Maraton                    | 85   | 69       
-The Rolling Stones         | 86   | 69       
-Styx                       | 88   | 68       
+Maraton                    | 86   | 69       
+The Rolling Stones         | 87   | 69       
+Styx                       | 89   | 68       
 Rise Against               | 90   | 67       
 Barnesprell                | 91   | 65       
 Ludo                       | 92   | 65       
@@ -122,5 +122,5 @@ Led Zeppelin                 | 55   | 98
 Dire Straits                 | 60   | 94       
 Pink Floyd                   | 63   | 91       
 The Beatles                  | 82   | 75       
-Daft Punk                    | 89   | 67       
+Daft Punk                    | 85   | 70       
 The Notorious B.I.G.         | 97   | 63       
