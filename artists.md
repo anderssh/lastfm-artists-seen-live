@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 905      
-AC/DC                          | 2    | 678      
+AC/DC                          | 2    | 684      
 Spidergawd                     | 4    | 435      
 Metallica                      | 5    | 397      
 In Flames                      | 6    | 385      
@@ -57,7 +57,7 @@ Fit for an Autopsy             | 71   | 83
 Soilwork                       | 74   | 82       
 Kaizers Orchestra              | 77   | 79       
 Turbonegro                     | 80   | 77       
-Children of Bodom              | 88   | 68       
+Children of Bodom              | 89   | 68       
 Snarky Puppy                   | 95   | 64       
 
 ## Active top 100 artists not seen live (45)
@@ -97,11 +97,11 @@ Rival Sons                 | 79   | 77
 Porcupine Tree             | 81   | 76       
 Love                       | 83   | 73       
 VOLA                       | 84   | 73       
-Maraton                    | 86   | 69       
-The Rolling Stones         | 87   | 69       
-Styx                       | 89   | 68       
-Rise Against               | 90   | 67       
-Barnesprell                | 91   | 65       
+Barnesprell                | 86   | 69       
+Maraton                    | 87   | 69       
+The Rolling Stones         | 88   | 69       
+Styx                       | 90   | 68       
+Rise Against               | 91   | 67       
 Ludo                       | 92   | 65       
 A.C.T                      | 93   | 64       
 Ballinciaga                | 94   | 64       
