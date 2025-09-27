@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 905      
+Dream Theater                  | 1    | 911      
 AC/DC                          | 2    | 684      
 Spidergawd                     | 4    | 435      
 Metallica                      | 5    | 397      
@@ -25,11 +25,11 @@ Seven Spires                   | 11   | 325
 Circus Maximus                 | 12   | 292      
 Haken                          | 13   | 284      
 Avenged Sevenfold              | 14   | 273      
-Foo Fighters                   | 15   | 269      
+Foo Fighters                   | 15   | 270      
 Greta Van Fleet                | 18   | 211      
 The Dogs                       | 19   | 203      
 Honningbarna                   | 20   | 196      
-Slipknot                       | 21   | 181      
+Slipknot                       | 21   | 183      
 Green Day                      | 23   | 171      
 Eluveitie                      | 25   | 169      
 Amyl and the Sniffers          | 27   | 160      
@@ -46,7 +46,7 @@ Kvelertak                      | 45   | 121
 blink-182                      | 46   | 118      
 The Good The Bad and The Zugly | 49   | 111      
 Maktkamp                       | 56   | 98       
-The Killers                    | 57   | 96       
+The Killers                    | 57   | 97       
 Backstreet Girls               | 58   | 95       
 Opeth                          | 59   | 95       
 Lamb of God                    | 61   | 93       
@@ -71,16 +71,16 @@ All That Remains           | 22   | 178
 Lars Vaular                | 24   | 171      
 The Night Flight Orchestra | 26   | 165      
 The Halo Effect            | 28   | 159      
-The Offspring              | 29   | 157      
-Animals as Leaders         | 31   | 153      
+The Offspring              | 29   | 158      
+Animals as Leaders         | 31   | 154      
 Death by Unga Bunga        | 33   | 148      
 Sylosis                    | 34   | 144      
 Heilung                    | 38   | 131      
 DJ MøMø                    | 43   | 125      
 The Police                 | 47   | 115      
 Toto                       | 50   | 110      
-Aktiv Dödshjelp            | 51   | 105      
-Jinjer                     | 52   | 105      
+Jinjer                     | 51   | 108      
+Aktiv Dödshjelp            | 52   | 105      
 Linkin Park                | 53   | 103      
 Parius                     | 54   | 100      
 The Black Keys             | 62   | 93       
@@ -115,7 +115,7 @@ Van Halen                  | 100  | 62
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 367      
-Rush                         | 8    | 361      
+Rush                         | 8    | 362      
 Hall & Oates                 | 42   | 127      
 Creedence Clearwater Revival | 48   | 114      
 Led Zeppelin                 | 55   | 98       
