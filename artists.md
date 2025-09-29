@@ -97,7 +97,7 @@ Rival Sons                 | 79   | 77
 Porcupine Tree             | 81   | 76       
 Love                       | 83   | 73       
 VOLA                       | 84   | 73       
-Barnesprell                | 86   | 69       
+Barnesprell                | 85   | 70       
 Maraton                    | 87   | 69       
 The Rolling Stones         | 88   | 69       
 Styx                       | 90   | 68       
@@ -122,5 +122,5 @@ Led Zeppelin                 | 55   | 98
 Dire Straits                 | 60   | 94       
 Pink Floyd                   | 63   | 91       
 The Beatles                  | 82   | 75       
-Daft Punk                    | 85   | 70       
+Daft Punk                    | 86   | 70       
 The Notorious B.I.G.         | 97   | 63       
