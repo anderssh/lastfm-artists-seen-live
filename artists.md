@@ -64,7 +64,7 @@ Snarky Puppy                   | 95   | 64
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 3    | 598      
+Thorbjørn Egner            | 3    | 622      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 22   | 178      
@@ -97,7 +97,7 @@ Rival Sons                 | 79   | 77
 Porcupine Tree             | 81   | 76       
 Love                       | 83   | 73       
 VOLA                       | 84   | 73       
-Barnesprell                | 85   | 70       
+Barnesprell                | 85   | 71       
 Maraton                    | 87   | 69       
 The Rolling Stones         | 88   | 69       
 Styx                       | 90   | 68       
