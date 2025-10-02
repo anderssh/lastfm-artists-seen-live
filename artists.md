@@ -64,7 +64,7 @@ Snarky Puppy                   | 95   | 64
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 3    | 622      
+Thorbjørn Egner            | 3    | 663      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 22   | 179      
