@@ -58,7 +58,7 @@ Soilwork                       | 73   | 83
 Kaizers Orchestra              | 77   | 79       
 Turbonegro                     | 80   | 77       
 Children of Bodom              | 89   | 68       
-Snarky Puppy                   | 95   | 64       
+Snarky Puppy                   | 96   | 64       
 
 ## Active top 100 artists not seen live (45)
 
@@ -101,14 +101,14 @@ Barnesprell                | 85   | 71
 Maraton                    | 87   | 69       
 The Rolling Stones         | 88   | 69       
 Styx                       | 90   | 68       
-Rise Against               | 91   | 67       
-Ludo                       | 92   | 65       
-A.C.T                      | 93   | 64       
-Ballinciaga                | 94   | 64       
-Megadeth                   | 96   | 63       
-Sum 41                     | 98   | 62       
-The Aristocrats            | 99   | 62       
-Van Halen                  | 100  | 62       
+Kaptein Sabeltann          | 91   | 67       
+Rise Against               | 92   | 67       
+Ludo                       | 93   | 65       
+A.C.T                      | 94   | 64       
+Ballinciaga                | 95   | 64       
+Megadeth                   | 97   | 63       
+Sum 41                     | 99   | 62       
+The Aristocrats            | 100  | 62       
 
 ## Inactive top 100 artists not seen live (10)
 
@@ -123,4 +123,4 @@ Dire Straits                 | 60   | 94
 Pink Floyd                   | 63   | 91       
 The Beatles                  | 82   | 75       
 Daft Punk                    | 86   | 70       
-The Notorious B.I.G.         | 97   | 63       
+The Notorious B.I.G.         | 98   | 63       
