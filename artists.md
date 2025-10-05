@@ -18,7 +18,7 @@ Dream Theater                  | 1    | 913
 AC/DC                          | 2    | 684      
 Spidergawd                     | 4    | 437      
 Metallica                      | 5    | 398      
-In Flames                      | 6    | 385      
+In Flames                      | 6    | 386      
 Ghost                          | 9    | 340      
 Skálmöld                       | 10   | 336      
 Seven Spires                   | 11   | 325      
@@ -33,7 +33,7 @@ Slipknot                       | 21   | 183
 Green Day                      | 23   | 173      
 Eluveitie                      | 25   | 169      
 Amyl and the Sniffers          | 27   | 160      
-Mastodon                       | 30   | 156      
+Mastodon                       | 30   | 157      
 Tool                           | 32   | 150      
 Finntroll                      | 35   | 141      
 Eminem                         | 36   | 138      
@@ -46,10 +46,10 @@ Pagan's Mind                   | 45   | 122
 blink-182                      | 46   | 118      
 The Good The Bad and The Zugly | 49   | 111      
 Maktkamp                       | 56   | 98       
-The Killers                    | 57   | 97       
-Backstreet Girls               | 58   | 95       
-Opeth                          | 59   | 95       
-Lamb of God                    | 61   | 93       
+Lamb of God                    | 57   | 97       
+The Killers                    | 58   | 97       
+Backstreet Girls               | 59   | 95       
+Opeth                          | 60   | 95       
 Oslo Ess                       | 64   | 90       
 Volbeat                        | 65   | 90       
 22                             | 66   | 88       
@@ -57,14 +57,14 @@ Fit for an Autopsy             | 71   | 83
 Soilwork                       | 73   | 83       
 Kaizers Orchestra              | 77   | 79       
 Turbonegro                     | 80   | 77       
-Children of Bodom              | 89   | 68       
+Children of Bodom              | 90   | 68       
 Snarky Puppy                   | 96   | 64       
 
 ## Active top 100 artists not seen live (45)
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 3    | 663      
+Thorbjørn Egner            | 3    | 681      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 22   | 179      
@@ -78,8 +78,8 @@ Sylosis                    | 34   | 144
 Heilung                    | 38   | 131      
 DJ MøMø                    | 43   | 125      
 The Police                 | 47   | 116      
-Toto                       | 50   | 110      
-Jinjer                     | 51   | 109      
+Jinjer                     | 50   | 110      
+Toto                       | 51   | 110      
 Aktiv Dödshjelp            | 52   | 105      
 Linkin Park                | 53   | 103      
 Parius                     | 54   | 100      
@@ -95,13 +95,13 @@ Bokassa                    | 76   | 79
 will.i.am                  | 78   | 78       
 Rival Sons                 | 79   | 77       
 Porcupine Tree             | 81   | 76       
-Love                       | 83   | 73       
-VOLA                       | 84   | 73       
-Barnesprell                | 85   | 71       
-Maraton                    | 87   | 69       
-The Rolling Stones         | 88   | 69       
-Styx                       | 90   | 68       
-Kaptein Sabeltann          | 91   | 67       
+Kaptein Sabeltann          | 83   | 73       
+Love                       | 84   | 73       
+VOLA                       | 85   | 73       
+Barnesprell                | 86   | 71       
+Maraton                    | 88   | 69       
+The Rolling Stones         | 89   | 69       
+Styx                       | 91   | 68       
 Rise Against               | 92   | 67       
 Ludo                       | 93   | 65       
 A.C.T                      | 94   | 64       
@@ -119,8 +119,8 @@ Rush                         | 8    | 363
 Hall & Oates                 | 42   | 127      
 Creedence Clearwater Revival | 48   | 114      
 Led Zeppelin                 | 55   | 98       
-Dire Straits                 | 60   | 94       
+Dire Straits                 | 61   | 94       
 Pink Floyd                   | 63   | 91       
 The Beatles                  | 82   | 75       
-Daft Punk                    | 86   | 70       
+Daft Punk                    | 87   | 70       
 The Notorious B.I.G.         | 98   | 63       
