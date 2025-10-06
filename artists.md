@@ -44,9 +44,9 @@ Architects                     | 41   | 127
 Kvelertak                      | 44   | 122      
 Pagan's Mind                   | 45   | 122      
 blink-182                      | 46   | 118      
-The Good The Bad and The Zugly | 49   | 111      
-Maktkamp                       | 56   | 98       
-Lamb of God                    | 57   | 97       
+The Good The Bad and The Zugly | 50   | 111      
+Lamb of God                    | 54   | 100      
+Maktkamp                       | 57   | 98       
 The Killers                    | 58   | 97       
 Backstreet Girls               | 59   | 95       
 Opeth                          | 60   | 95       
@@ -58,7 +58,7 @@ Soilwork                       | 73   | 83
 Kaizers Orchestra              | 77   | 79       
 Turbonegro                     | 80   | 77       
 Children of Bodom              | 90   | 68       
-Snarky Puppy                   | 96   | 64       
+Snarky Puppy                   | 97   | 64       
 
 ## Active top 100 artists not seen live (45)
 
@@ -78,11 +78,11 @@ Sylosis                    | 34   | 144
 Heilung                    | 38   | 131      
 DJ MøMø                    | 43   | 125      
 The Police                 | 47   | 116      
-Jinjer                     | 50   | 110      
+Jinjer                     | 49   | 111      
 Toto                       | 51   | 110      
 Aktiv Dödshjelp            | 52   | 105      
 Linkin Park                | 53   | 103      
-Parius                     | 54   | 100      
+Parius                     | 55   | 100      
 The Black Keys             | 62   | 93       
 Red Hot Chili Peppers      | 67   | 88       
 DumDum Boys                | 68   | 87       
@@ -106,7 +106,7 @@ Rise Against               | 92   | 67
 Ludo                       | 93   | 65       
 A.C.T                      | 94   | 64       
 Ballinciaga                | 95   | 64       
-Megadeth                   | 97   | 63       
+Megadeth                   | 96   | 64       
 Sum 41                     | 99   | 62       
 The Aristocrats            | 100  | 62       
 
@@ -118,7 +118,7 @@ Fleetwood Mac                | 7    | 367
 Rush                         | 8    | 363      
 Hall & Oates                 | 42   | 127      
 Creedence Clearwater Revival | 48   | 114      
-Led Zeppelin                 | 55   | 98       
+Led Zeppelin                 | 56   | 98       
 Dire Straits                 | 61   | 94       
 Pink Floyd                   | 63   | 91       
 The Beatles                  | 82   | 75       
