@@ -15,10 +15,10 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 913      
-AC/DC                          | 2    | 684      
+AC/DC                          | 3    | 684      
 Spidergawd                     | 4    | 437      
 Metallica                      | 5    | 398      
-In Flames                      | 6    | 386      
+In Flames                      | 6    | 389      
 Ghost                          | 9    | 340      
 Skálmöld                       | 10   | 336      
 Seven Spires                   | 11   | 325      
@@ -33,7 +33,7 @@ Slipknot                       | 21   | 183
 Green Day                      | 23   | 173      
 Eluveitie                      | 25   | 169      
 Amyl and the Sniffers          | 27   | 160      
-Mastodon                       | 30   | 157      
+Mastodon                       | 28   | 159      
 Tool                           | 32   | 150      
 Finntroll                      | 35   | 141      
 Eminem                         | 36   | 138      
@@ -45,7 +45,7 @@ Kvelertak                      | 44   | 122
 Pagan's Mind                   | 45   | 122      
 blink-182                      | 46   | 118      
 The Good The Bad and The Zugly | 50   | 111      
-Lamb of God                    | 54   | 100      
+Lamb of God                    | 52   | 106      
 Maktkamp                       | 57   | 98       
 The Killers                    | 58   | 97       
 Backstreet Girls               | 59   | 95       
@@ -64,24 +64,24 @@ Snarky Puppy                   | 97   | 64
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 3    | 681      
+Thorbjørn Egner            | 2    | 689      
 Jean-Luc Ponty             | 16   | 226      
 Nospūn                     | 17   | 215      
 All That Remains           | 22   | 179      
 Lars Vaular                | 24   | 171      
 The Night Flight Orchestra | 26   | 165      
-The Halo Effect            | 28   | 159      
-The Offspring              | 29   | 158      
+The Halo Effect            | 29   | 159      
+The Offspring              | 30   | 158      
 Animals as Leaders         | 31   | 155      
 Death by Unga Bunga        | 33   | 148      
 Sylosis                    | 34   | 144      
 Heilung                    | 38   | 131      
 DJ MøMø                    | 43   | 125      
 The Police                 | 47   | 116      
-Jinjer                     | 49   | 111      
+Jinjer                     | 49   | 112      
 Toto                       | 51   | 110      
-Aktiv Dödshjelp            | 52   | 105      
-Linkin Park                | 53   | 103      
+Aktiv Dödshjelp            | 53   | 105      
+Linkin Park                | 54   | 103      
 Parius                     | 55   | 100      
 The Black Keys             | 62   | 93       
 Red Hot Chili Peppers      | 67   | 88       
@@ -104,9 +104,9 @@ The Rolling Stones         | 89   | 69
 Styx                       | 91   | 68       
 Rise Against               | 92   | 67       
 Ludo                       | 93   | 65       
-A.C.T                      | 94   | 64       
-Ballinciaga                | 95   | 64       
-Megadeth                   | 96   | 64       
+Megadeth                   | 94   | 65       
+A.C.T                      | 95   | 64       
+Ballinciaga                | 96   | 64       
 Sum 41                     | 99   | 62       
 The Aristocrats            | 100  | 62       
 
