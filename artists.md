@@ -51,8 +51,8 @@ The Killers                    | 58   | 97
 Backstreet Girls               | 59   | 95       
 Opeth                          | 60   | 95       
 Oslo Ess                       | 62   | 93       
-Volbeat                        | 65   | 90       
-22                             | 66   | 88       
+Volbeat                        | 66   | 90       
+22                             | 67   | 88       
 Soilwork                       | 70   | 85       
 Fit for an Autopsy             | 73   | 83       
 Kaizers Orchestra              | 77   | 79       
@@ -84,7 +84,7 @@ Aktiv Dödshjelp                | 53   | 105
 Linkin Park                    | 54   | 103      
 Parius                         | 55   | 100      
 The Black Keys                 | 64   | 93       
-Red Hot Chili Peppers          | 67   | 88       
+Red Hot Chili Peppers          | 65   | 90       
 DumDum Boys                    | 68   | 87       
 Thulsa Doom                    | 69   | 86       
 Bill Withers                   | 71   | 83       
