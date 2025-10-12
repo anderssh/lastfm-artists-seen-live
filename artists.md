@@ -15,9 +15,9 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 913      
-AC/DC                          | 3    | 700      
+AC/DC                          | 3    | 701      
 Spidergawd                     | 4    | 440      
-Metallica                      | 5    | 398      
+Metallica                      | 5    | 399      
 In Flames                      | 6    | 391      
 Ghost                          | 9    | 340      
 Skálmöld                       | 10   | 336      
@@ -29,8 +29,8 @@ Foo Fighters                   | 15   | 271
 Greta Van Fleet                | 18   | 211      
 Honningbarna                   | 19   | 203      
 The Dogs                       | 20   | 203      
-Slipknot                       | 21   | 183      
-Green Day                      | 23   | 173      
+Slipknot                       | 21   | 184      
+Green Day                      | 24   | 173      
 Eluveitie                      | 25   | 169      
 Amyl and the Sniffers          | 27   | 160      
 Mastodon                       | 28   | 160      
@@ -45,7 +45,7 @@ Architects                     | 42   | 127
 Pagan's Mind                   | 45   | 122      
 blink-182                      | 46   | 118      
 The Good The Bad and The Zugly | 50   | 112      
-Lamb of God                    | 52   | 106      
+Lamb of God                    | 52   | 108      
 Maktkamp                       | 57   | 98       
 The Killers                    | 58   | 97       
 Backstreet Girls               | 59   | 95       
@@ -67,8 +67,8 @@ Name                           | Rank | PlayCount
 Thorbjørn Egner                | 2    | 732      
 Jean-Luc Ponty                 | 16   | 226      
 Nospūn                         | 17   | 215      
-All That Remains               | 22   | 179      
-Lars Vaular                    | 24   | 171      
+All That Remains               | 22   | 180      
+Lars Vaular                    | 23   | 180      
 The Night Flight Orchestra     | 26   | 165      
 The Halo Effect                | 29   | 159      
 The Offspring                  | 30   | 158      
@@ -122,5 +122,5 @@ Led Zeppelin                 | 56   | 98
 Dire Straits                 | 61   | 94       
 Pink Floyd                   | 63   | 93       
 The Beatles                  | 82   | 75       
-Daft Punk                    | 87   | 70       
+Daft Punk                    | 87   | 71       
 The Notorious B.I.G.         | 99   | 63       
