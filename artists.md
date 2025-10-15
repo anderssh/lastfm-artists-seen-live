@@ -25,15 +25,15 @@ Seven Spires                   | 11   | 325
 Circus Maximus                 | 12   | 292      
 Haken                          | 13   | 284      
 Avenged Sevenfold              | 14   | 274      
-Foo Fighters                   | 15   | 271      
+Foo Fighters                   | 15   | 272      
 Greta Van Fleet                | 18   | 211      
 Honningbarna                   | 19   | 203      
 The Dogs                       | 20   | 203      
 Slipknot                       | 21   | 186      
-Green Day                      | 24   | 175      
+Green Day                      | 24   | 176      
 Eluveitie                      | 25   | 169      
-Amyl and the Sniffers          | 27   | 160      
-Mastodon                       | 28   | 160      
+Amyl and the Sniffers          | 28   | 160      
+Mastodon                       | 29   | 160      
 Tool                           | 32   | 150      
 Finntroll                      | 35   | 141      
 Eminem                         | 36   | 138      
@@ -70,18 +70,18 @@ Nospūn                         | 17   | 215
 All That Remains               | 22   | 180      
 Lars Vaular                    | 23   | 180      
 The Night Flight Orchestra     | 26   | 165      
-The Halo Effect                | 29   | 160      
-The Offspring                  | 30   | 160      
+The Offspring                  | 27   | 163      
+The Halo Effect                | 30   | 160      
 Animals as Leaders             | 31   | 155      
 Death by Unga Bunga            | 33   | 148      
 Sylosis                        | 34   | 144      
 Heilung                        | 40   | 131      
 DJ MøMø                        | 44   | 125      
-The Police                     | 47   | 116      
+The Police                     | 48   | 116      
 Jinjer                         | 49   | 112      
 Toto                           | 51   | 110      
 Aktiv Dödshjelp                | 53   | 105      
-Linkin Park                    | 54   | 104      
+Linkin Park                    | 54   | 105      
 Parius                         | 55   | 100      
 The Black Keys                 | 64   | 93       
 Red Hot Chili Peppers          | 65   | 90       
@@ -108,7 +108,7 @@ Ludo                           | 94   | 65
 A.C.T                          | 95   | 64       
 Ballinciaga                    | 96   | 64       
 OnklP & De Fjerne Slektningene | 97   | 64       
-Sum 41                         | 100  | 62       
+The Aristocrats                | 99   | 63       
 
 ## Inactive top 100 artists not seen live (10)
 
@@ -117,10 +117,10 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 7    | 367      
 Rush                         | 8    | 366      
 Hall & Oates                 | 43   | 127      
-Creedence Clearwater Revival | 48   | 115      
+Creedence Clearwater Revival | 47   | 116      
 Led Zeppelin                 | 56   | 98       
 Dire Straits                 | 61   | 94       
 Pink Floyd                   | 63   | 93       
 The Beatles                  | 82   | 75       
 Daft Punk                    | 87   | 71       
-The Notorious B.I.G.         | 99   | 63       
+The Notorious B.I.G.         | 100  | 63       
