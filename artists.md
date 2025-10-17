@@ -32,8 +32,8 @@ The Dogs                       | 20   | 203
 Slipknot                       | 21   | 186      
 Green Day                      | 24   | 176      
 Eluveitie                      | 25   | 169      
-Amyl and the Sniffers          | 28   | 160      
-Mastodon                       | 29   | 160      
+Amyl and the Sniffers          | 29   | 160      
+Mastodon                       | 30   | 160      
 Tool                           | 32   | 150      
 Finntroll                      | 35   | 141      
 Eminem                         | 36   | 138      
@@ -71,7 +71,7 @@ All That Remains               | 22   | 180
 Lars Vaular                    | 23   | 180      
 The Night Flight Orchestra     | 26   | 165      
 The Offspring                  | 27   | 164      
-The Halo Effect                | 30   | 160      
+The Halo Effect                | 28   | 161      
 Animals as Leaders             | 31   | 155      
 Death by Unga Bunga            | 33   | 148      
 Sylosis                        | 34   | 144      
