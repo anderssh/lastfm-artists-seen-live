@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 916      
-AC/DC                          | 3    | 702      
+AC/DC                          | 3    | 719      
 Spidergawd                     | 4    | 440      
 Metallica                      | 5    | 402      
 In Flames                      | 6    | 391      
@@ -39,7 +39,7 @@ Finntroll                      | 35   | 141
 Eminem                         | 36   | 138      
 Ne Obliviscaris                | 37   | 138      
 Gojira                         | 38   | 137      
-Kvelertak                      | 39   | 133      
+Kvelertak                      | 39   | 134      
 Judas Priest                   | 41   | 130      
 Architects                     | 42   | 127      
 Pagan's Mind                   | 45   | 123      
@@ -53,7 +53,7 @@ Opeth                          | 60   | 95
 Oslo Ess                       | 62   | 93       
 Volbeat                        | 66   | 90       
 22                             | 67   | 88       
-Soilwork                       | 70   | 85       
+Soilwork                       | 69   | 86       
 Fit for an Autopsy             | 73   | 83       
 Kaizers Orchestra              | 74   | 83       
 Turbonegro                     | 81   | 77       
@@ -64,7 +64,7 @@ Snarky Puppy                   | 99   | 64
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Thorbjørn Egner                | 2    | 732      
+Thorbjørn Egner                | 2    | 733      
 Jean-Luc Ponty                 | 16   | 226      
 Nospūn                         | 17   | 215      
 All That Remains               | 22   | 180      
@@ -86,7 +86,7 @@ Parius                         | 55   | 100
 Red Hot Chili Peppers          | 64   | 93       
 The Black Keys                 | 65   | 93       
 DumDum Boys                    | 68   | 87       
-Thulsa Doom                    | 69   | 86       
+Thulsa Doom                    | 70   | 86       
 Bill Withers                   | 71   | 83       
 Elton John                     | 72   | 83       
 Queens of the Stone Age        | 75   | 83       
