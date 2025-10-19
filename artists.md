@@ -95,8 +95,8 @@ Meshuggah                      | 77   | 80
 Porcupine Tree                 | 78   | 78       
 will.i.am                      | 79   | 78       
 Rival Sons                     | 80   | 77       
-Kaptein Sabeltann              | 83   | 74       
-Barnesprell                    | 84   | 73       
+Barnesprell                    | 83   | 74       
+Kaptein Sabeltann              | 84   | 74       
 Love                           | 85   | 73       
 VOLA                           | 86   | 73       
 Maraton                        | 88   | 70       
