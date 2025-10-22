@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 920      
+Dream Theater                  | 1    | 934      
 AC/DC                          | 3    | 719      
 Spidergawd                     | 4    | 440      
 Metallica                      | 5    | 402      
@@ -32,13 +32,13 @@ The Dogs                       | 20   | 203
 Slipknot                       | 21   | 186      
 Green Day                      | 24   | 176      
 Eluveitie                      | 25   | 169      
-Amyl and the Sniffers          | 29   | 160      
-Mastodon                       | 30   | 160      
+Mastodon                       | 28   | 162      
+Amyl and the Sniffers          | 30   | 160      
 Tool                           | 32   | 150      
 Finntroll                      | 35   | 141      
 Eminem                         | 36   | 138      
-Ne Obliviscaris                | 37   | 138      
-Gojira                         | 38   | 137      
+Gojira                         | 37   | 138      
+Ne Obliviscaris                | 38   | 138      
 Kvelertak                      | 39   | 134      
 Judas Priest                   | 41   | 130      
 Architects                     | 42   | 127      
@@ -71,7 +71,7 @@ All That Remains               | 22   | 180
 Lars Vaular                    | 23   | 180      
 The Night Flight Orchestra     | 26   | 165      
 The Offspring                  | 27   | 164      
-The Halo Effect                | 28   | 161      
+The Halo Effect                | 29   | 161      
 Animals as Leaders             | 31   | 155      
 Death by Unga Bunga            | 33   | 148      
 Sylosis                        | 34   | 144      
@@ -97,8 +97,8 @@ will.i.am                      | 79   | 78
 Rival Sons                     | 80   | 77       
 Barnesprell                    | 83   | 74       
 Kaptein Sabeltann              | 84   | 74       
-Love                           | 85   | 73       
-VOLA                           | 86   | 73       
+VOLA                           | 85   | 74       
+Love                           | 86   | 73       
 Maraton                        | 88   | 70       
 The Rolling Stones             | 89   | 69       
 Styx                           | 91   | 68       
