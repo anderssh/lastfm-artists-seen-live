@@ -54,7 +54,7 @@ Oslo Ess                       | 63   | 93
 Volbeat                        | 66   | 90       
 22                             | 67   | 88       
 Soilwork                       | 69   | 86       
-Kaizers Orchestra              | 71   | 84       
+Kaizers Orchestra              | 71   | 85       
 Fit for an Autopsy             | 74   | 83       
 Turbonegro                     | 81   | 77       
 Children of Bodom              | 90   | 68       
