@@ -49,14 +49,14 @@ Lamb of God                    | 52   | 108
 Maktkamp                       | 57   | 98       
 The Killers                    | 58   | 98       
 Backstreet Girls               | 60   | 95       
-Opeth                          | 61   | 95       
+Opeth                          | 62   | 95       
 Oslo Ess                       | 63   | 93       
-Volbeat                        | 66   | 90       
+Volbeat                        | 66   | 92       
 22                             | 67   | 88       
 Soilwork                       | 69   | 86       
 Kaizers Orchestra              | 71   | 85       
 Fit for an Autopsy             | 74   | 83       
-Turbonegro                     | 81   | 77       
+Turbonegro                     | 82   | 77       
 Children of Bodom              | 90   | 68       
 Snarky Puppy                   | 99   | 64       
 
@@ -64,11 +64,11 @@ Snarky Puppy                   | 99   | 64
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Thorbjørn Egner                | 2    | 733      
+Thorbjørn Egner                | 2    | 760      
 Jean-Luc Ponty                 | 16   | 226      
 Nospūn                         | 17   | 215      
-All That Remains               | 22   | 180      
-Lars Vaular                    | 23   | 180      
+Lars Vaular                    | 22   | 181      
+All That Remains               | 23   | 180      
 The Night Flight Orchestra     | 26   | 165      
 The Offspring                  | 27   | 164      
 The Halo Effect                | 29   | 161      
@@ -92,23 +92,23 @@ Elton John                     | 73   | 83
 Queens of the Stone Age        | 75   | 83       
 Bokassa                        | 76   | 82       
 Meshuggah                      | 77   | 80       
-Porcupine Tree                 | 78   | 78       
-will.i.am                      | 79   | 78       
-Rival Sons                     | 80   | 77       
-Barnesprell                    | 83   | 74       
-Kaptein Sabeltann              | 84   | 74       
-VOLA                           | 85   | 74       
-Love                           | 86   | 73       
-The Rolling Stones             | 87   | 72       
+Porcupine Tree                 | 79   | 78       
+will.i.am                      | 80   | 78       
+Rival Sons                     | 81   | 77       
+Barnesprell                    | 83   | 76       
+Kaptein Sabeltann              | 84   | 76       
+VOLA                           | 86   | 74       
+Love                           | 87   | 73       
+The Rolling Stones             | 88   | 72       
 Maraton                        | 89   | 70       
 Styx                           | 91   | 68       
 Megadeth                       | 92   | 67       
 Rise Against                   | 93   | 67       
-Kings of Leon                  | 94   | 65       
-Ludo                           | 95   | 65       
-A.C.T                          | 96   | 64       
-Ballinciaga                    | 97   | 64       
-OnklP & De Fjerne Slektningene | 98   | 64       
+OnklP & De Fjerne Slektningene | 94   | 66       
+Kings of Leon                  | 95   | 65       
+Ludo                           | 96   | 65       
+A.C.T                          | 97   | 64       
+Ballinciaga                    | 98   | 64       
 The Aristocrats                | 100  | 63       
 
 ## Inactive top 100 artists not seen live (9)
@@ -120,7 +120,7 @@ Rush                         | 8    | 366
 Hall & Oates                 | 43   | 127      
 Creedence Clearwater Revival | 47   | 118      
 Led Zeppelin                 | 55   | 103      
-Dire Straits                 | 62   | 94       
+Dire Straits                 | 61   | 95       
 Pink Floyd                   | 64   | 93       
-The Beatles                  | 82   | 75       
-Daft Punk                    | 88   | 71       
+Daft Punk                    | 78   | 78       
+The Beatles                  | 85   | 75       
