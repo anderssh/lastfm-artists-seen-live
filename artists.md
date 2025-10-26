@@ -56,7 +56,7 @@ Volbeat                        | 66   | 92
 Soilwork                       | 69   | 86       
 Kaizers Orchestra              | 71   | 85       
 Fit for an Autopsy             | 74   | 83       
-Turbonegro                     | 82   | 77       
+Turbonegro                     | 83   | 77       
 Children of Bodom              | 90   | 68       
 Snarky Puppy                   | 99   | 64       
 
@@ -64,7 +64,7 @@ Snarky Puppy                   | 99   | 64
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Thorbjørn Egner                | 2    | 760      
+Thorbjørn Egner                | 2    | 762      
 Jean-Luc Ponty                 | 16   | 226      
 Nospūn                         | 17   | 215      
 Lars Vaular                    | 22   | 181      
@@ -94,9 +94,9 @@ Bokassa                        | 76   | 82
 Meshuggah                      | 77   | 80       
 Porcupine Tree                 | 79   | 78       
 will.i.am                      | 80   | 78       
-Rival Sons                     | 81   | 77       
-Barnesprell                    | 83   | 76       
-Kaptein Sabeltann              | 84   | 76       
+Kaptein Sabeltann              | 81   | 77       
+Rival Sons                     | 82   | 77       
+Barnesprell                    | 84   | 76       
 VOLA                           | 86   | 74       
 Love                           | 87   | 73       
 The Rolling Stones             | 88   | 72       
