@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 935      
+Dream Theater                  | 1    | 937      
 AC/DC                          | 3    | 720      
 Spidergawd                     | 4    | 440      
 Metallica                      | 5    | 402      
@@ -66,7 +66,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Thorbjørn Egner                | 2    | 762      
 Jean-Luc Ponty                 | 16   | 226      
-Nospūn                         | 17   | 215      
+Nospūn                         | 17   | 217      
 Lars Vaular                    | 22   | 181      
 All That Remains               | 23   | 180      
 The Night Flight Orchestra     | 26   | 165      
@@ -97,19 +97,19 @@ will.i.am                      | 80   | 78
 Kaptein Sabeltann              | 81   | 77       
 Rival Sons                     | 82   | 77       
 Barnesprell                    | 84   | 76       
-VOLA                           | 86   | 74       
+VOLA                           | 85   | 76       
 Love                           | 87   | 73       
 The Rolling Stones             | 88   | 72       
 Maraton                        | 89   | 70       
 Styx                           | 91   | 68       
 Megadeth                       | 92   | 67       
-Rise Against                   | 93   | 67       
-OnklP & De Fjerne Slektningene | 94   | 66       
+OnklP & De Fjerne Slektningene | 93   | 67       
+Rise Against                   | 94   | 67       
 Kings of Leon                  | 95   | 65       
 Ludo                           | 96   | 65       
 A.C.T                          | 97   | 64       
 Ballinciaga                    | 98   | 64       
-The Aristocrats                | 100  | 63       
+Leprous                        | 100  | 63       
 
 ## Inactive top 100 artists not seen live (9)
 
@@ -123,4 +123,4 @@ Led Zeppelin                 | 55   | 103
 Dire Straits                 | 61   | 95       
 Pink Floyd                   | 64   | 93       
 Daft Punk                    | 78   | 78       
-The Beatles                  | 85   | 75       
+The Beatles                  | 86   | 75       
