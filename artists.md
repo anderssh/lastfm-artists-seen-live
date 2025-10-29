@@ -34,7 +34,7 @@ Green Day                      | 24   | 178
 Eluveitie                      | 25   | 169      
 Mastodon                       | 28   | 162      
 Amyl and the Sniffers          | 30   | 160      
-Tool                           | 32   | 150      
+Tool                           | 32   | 153      
 Finntroll                      | 35   | 141      
 Eminem                         | 36   | 138      
 Gojira                         | 37   | 138      
@@ -56,7 +56,7 @@ Volbeat                        | 66   | 92
 Soilwork                       | 69   | 86       
 Kaizers Orchestra              | 71   | 85       
 Fit for an Autopsy             | 74   | 83       
-Turbonegro                     | 83   | 77       
+Turbonegro                     | 84   | 77       
 Children of Bodom              | 90   | 68       
 Snarky Puppy                   | 99   | 64       
 
@@ -92,11 +92,11 @@ Elton John                     | 73   | 83
 Queens of the Stone Age        | 75   | 83       
 Bokassa                        | 76   | 82       
 Meshuggah                      | 77   | 80       
-Porcupine Tree                 | 79   | 78       
-will.i.am                      | 80   | 78       
-Kaptein Sabeltann              | 81   | 77       
-Rival Sons                     | 82   | 77       
-Barnesprell                    | 84   | 76       
+Barnesprell                    | 78   | 78       
+Porcupine Tree                 | 80   | 78       
+will.i.am                      | 81   | 78       
+Kaptein Sabeltann              | 82   | 77       
+Rival Sons                     | 83   | 77       
 VOLA                           | 85   | 76       
 Love                           | 87   | 73       
 The Rolling Stones             | 88   | 72       
@@ -122,5 +122,5 @@ Creedence Clearwater Revival | 47   | 118
 Led Zeppelin                 | 55   | 103      
 Dire Straits                 | 61   | 95       
 Pink Floyd                   | 64   | 93       
-Daft Punk                    | 78   | 78       
+Daft Punk                    | 79   | 78       
 The Beatles                  | 86   | 75       
