@@ -42,12 +42,12 @@ Ne Obliviscaris                | 38   | 138
 Kvelertak                      | 39   | 134      
 Judas Priest                   | 41   | 130      
 Architects                     | 42   | 127      
-Pagan's Mind                   | 45   | 123      
-blink-182                      | 46   | 119      
+Pagan's Mind                   | 46   | 123      
+blink-182                      | 47   | 119      
 The Good The Bad and The Zugly | 50   | 112      
 Lamb of God                    | 52   | 108      
-Maktkamp                       | 57   | 98       
-The Killers                    | 58   | 98       
+Maktkamp                       | 58   | 98       
+The Killers                    | 59   | 98       
 Backstreet Girls               | 60   | 95       
 Opeth                          | 62   | 95       
 Oslo Ess                       | 63   | 93       
@@ -77,13 +77,13 @@ Death by Unga Bunga            | 33   | 148
 Sylosis                        | 34   | 144      
 Heilung                        | 40   | 131      
 DJ MøMø                        | 44   | 125      
-The Police                     | 48   | 117      
+The Police                     | 45   | 125      
 Jinjer                         | 49   | 112      
 Toto                           | 51   | 110      
 Linkin Park                    | 53   | 107      
 Aktiv Dödshjelp                | 54   | 105      
-Parius                         | 56   | 100      
-Red Hot Chili Peppers          | 59   | 96       
+Red Hot Chili Peppers          | 56   | 102      
+Parius                         | 57   | 100      
 The Black Keys                 | 65   | 93       
 DumDum Boys                    | 68   | 87       
 Thulsa Doom                    | 70   | 86       
@@ -115,10 +115,10 @@ Leprous                        | 100  | 63
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 7    | 367      
-Rush                         | 8    | 366      
+Fleetwood Mac                | 7    | 370      
+Rush                         | 8    | 368      
 Hall & Oates                 | 43   | 127      
-Creedence Clearwater Revival | 47   | 118      
+Creedence Clearwater Revival | 48   | 118      
 Led Zeppelin                 | 55   | 103      
 Dire Straits                 | 61   | 95       
 Pink Floyd                   | 64   | 93       
