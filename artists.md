@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 937      
 AC/DC                          | 3    | 720      
 Spidergawd                     | 4    | 440      
-Metallica                      | 5    | 402      
+Metallica                      | 5    | 406      
 In Flames                      | 6    | 392      
 Ghost                          | 9    | 342      
 Skálmöld                       | 10   | 336      
