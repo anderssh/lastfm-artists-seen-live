@@ -64,7 +64,7 @@ Snarky Puppy                   | 99   | 64
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Thorbjørn Egner                | 2    | 762      
+Thorbjørn Egner                | 2    | 776      
 Jean-Luc Ponty                 | 16   | 226      
 Nospūn                         | 17   | 217      
 Lars Vaular                    | 22   | 181      
@@ -115,7 +115,7 @@ Leprous                        | 100  | 63
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 7    | 370      
+Fleetwood Mac                | 7    | 371      
 Rush                         | 8    | 368      
 Hall & Oates                 | 43   | 127      
 Creedence Clearwater Revival | 48   | 118      
