@@ -15,17 +15,17 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 937      
-AC/DC                          | 3    | 720      
+AC/DC                          | 3    | 721      
 Spidergawd                     | 4    | 440      
-Metallica                      | 5    | 406      
+Metallica                      | 5    | 407      
 In Flames                      | 6    | 392      
 Ghost                          | 9    | 342      
 Skálmöld                       | 10   | 336      
 Seven Spires                   | 11   | 325      
 Circus Maximus                 | 12   | 292      
-Haken                          | 13   | 284      
-Avenged Sevenfold              | 14   | 274      
-Foo Fighters                   | 15   | 274      
+Avenged Sevenfold              | 13   | 284      
+Haken                          | 14   | 284      
+Foo Fighters                   | 15   | 275      
 Greta Van Fleet                | 18   | 211      
 Honningbarna                   | 19   | 203      
 The Dogs                       | 20   | 203      
@@ -91,8 +91,8 @@ Bill Withers                   | 72   | 83
 Elton John                     | 73   | 83       
 Queens of the Stone Age        | 75   | 83       
 Bokassa                        | 76   | 82       
-Meshuggah                      | 77   | 80       
-Barnesprell                    | 78   | 78       
+Barnesprell                    | 77   | 80       
+Meshuggah                      | 78   | 80       
 Porcupine Tree                 | 80   | 78       
 will.i.am                      | 81   | 78       
 Kaptein Sabeltann              | 82   | 77       
