@@ -23,7 +23,7 @@ Ghost                          | 9    | 342
 Skálmöld                       | 10   | 336      
 Seven Spires                   | 11   | 325      
 Circus Maximus                 | 12   | 292      
-Avenged Sevenfold              | 13   | 284      
+Avenged Sevenfold              | 13   | 287      
 Haken                          | 14   | 284      
 Foo Fighters                   | 15   | 275      
 Greta Van Fleet                | 18   | 211      
