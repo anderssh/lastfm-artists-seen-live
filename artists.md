@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 937      
 AC/DC                          | 3    | 721      
 Spidergawd                     | 4    | 440      
-Metallica                      | 5    | 407      
+Metallica                      | 5    | 408      
 In Flames                      | 6    | 392      
 Ghost                          | 9    | 342      
 Skálmöld                       | 10   | 336      
@@ -26,7 +26,7 @@ Circus Maximus                 | 12   | 292
 Avenged Sevenfold              | 13   | 288      
 Haken                          | 14   | 284      
 Foo Fighters                   | 15   | 276      
-Greta Van Fleet                | 18   | 211      
+Greta Van Fleet                | 17   | 223      
 Honningbarna                   | 19   | 203      
 The Dogs                       | 20   | 203      
 Slipknot                       | 21   | 186      
@@ -56,7 +56,7 @@ Volbeat                        | 66   | 92
 Kaizers Orchestra              | 68   | 88       
 Soilwork                       | 70   | 86       
 Fit for an Autopsy             | 74   | 83       
-Turbonegro                     | 84   | 77       
+Turbonegro                     | 85   | 77       
 Children of Bodom              | 91   | 68       
 Snarky Puppy                   | 100  | 64       
 
@@ -66,7 +66,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Thorbjørn Egner                | 2    | 776      
 Jean-Luc Ponty                 | 16   | 226      
-Nospūn                         | 17   | 217      
+Nospūn                         | 18   | 217      
 Lars Vaular                    | 22   | 181      
 All That Remains               | 23   | 180      
 The Night Flight Orchestra     | 26   | 165      
@@ -93,13 +93,13 @@ Queens of the Stone Age        | 75   | 83
 Bokassa                        | 76   | 82       
 Barnesprell                    | 77   | 80       
 Meshuggah                      | 78   | 80       
-Porcupine Tree                 | 80   | 78       
-will.i.am                      | 81   | 78       
-Kaptein Sabeltann              | 82   | 77       
-Rival Sons                     | 83   | 77       
-VOLA                           | 85   | 76       
-Love                           | 87   | 73       
-D-A-D                          | 88   | 72       
+D-A-D                          | 79   | 78       
+Porcupine Tree                 | 81   | 78       
+will.i.am                      | 82   | 78       
+Kaptein Sabeltann              | 83   | 77       
+Rival Sons                     | 84   | 77       
+VOLA                           | 86   | 76       
+Love                           | 88   | 73       
 The Rolling Stones             | 89   | 72       
 Maraton                        | 90   | 70       
 Styx                           | 92   | 68       
@@ -122,5 +122,5 @@ Creedence Clearwater Revival | 48   | 119
 Led Zeppelin                 | 55   | 103      
 Dire Straits                 | 62   | 95       
 Pink Floyd                   | 64   | 93       
-Daft Punk                    | 79   | 78       
-The Beatles                  | 86   | 75       
+Daft Punk                    | 80   | 78       
+The Beatles                  | 87   | 75       
