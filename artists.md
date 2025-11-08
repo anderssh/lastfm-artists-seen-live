@@ -14,10 +14,10 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 937      
+Dream Theater                  | 1    | 938      
 AC/DC                          | 3    | 721      
 Spidergawd                     | 4    | 440      
-Metallica                      | 5    | 408      
+Metallica                      | 5    | 415      
 In Flames                      | 6    | 392      
 Ghost                          | 9    | 342      
 Skálmöld                       | 10   | 336      
@@ -48,9 +48,9 @@ The Good The Bad and The Zugly | 50   | 112
 Lamb of God                    | 52   | 108      
 Maktkamp                       | 58   | 98       
 The Killers                    | 59   | 98       
-Opeth                          | 60   | 96       
-Backstreet Girls               | 61   | 95       
-Oslo Ess                       | 63   | 93       
+Opeth                          | 61   | 96       
+Backstreet Girls               | 62   | 95       
+Oslo Ess                       | 64   | 93       
 Volbeat                        | 66   | 92       
 22                             | 67   | 88       
 Kaizers Orchestra              | 68   | 88       
@@ -120,7 +120,7 @@ Rush                         | 8    | 368
 Hall & Oates                 | 43   | 127      
 Creedence Clearwater Revival | 48   | 119      
 Led Zeppelin                 | 55   | 103      
-Dire Straits                 | 62   | 95       
-Pink Floyd                   | 64   | 93       
+Pink Floyd                   | 60   | 97       
+Dire Straits                 | 63   | 95       
 Daft Punk                    | 80   | 78       
 The Beatles                  | 87   | 75       
