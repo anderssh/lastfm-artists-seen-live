@@ -26,7 +26,7 @@ Circus Maximus                 | 12   | 292
 Avenged Sevenfold              | 13   | 288      
 Haken                          | 14   | 284      
 Foo Fighters                   | 15   | 276      
-Greta Van Fleet                | 17   | 223      
+Greta Van Fleet                | 17   | 225      
 Honningbarna                   | 19   | 203      
 The Dogs                       | 20   | 203      
 Slipknot                       | 21   | 186      
