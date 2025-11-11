@@ -6,11 +6,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of fetched top artists: 100 (Active: 90 Inactive: 10)
 
-- Number of top artists seen live: 45 (Active: 44 Inactive: 1)
+- Number of top artists seen live: 44 (Active: 43 Inactive: 1)
 
-- Number of top artists not seen live: 55 (Active: 46 Inactive: 9)
+- Number of top artists not seen live: 56 (Active: 47 Inactive: 9)
 
-## Top 100 artists seen live (45)
+## Top 100 artists seen live (44)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -24,7 +24,7 @@ Skálmöld                       | 10   | 336
 Seven Spires                   | 11   | 325      
 Circus Maximus                 | 12   | 292      
 Avenged Sevenfold              | 13   | 288      
-Haken                          | 14   | 284      
+Haken                          | 14   | 285      
 Foo Fighters                   | 15   | 276      
 Greta Van Fleet                | 17   | 225      
 Honningbarna                   | 19   | 203      
@@ -43,7 +43,7 @@ Kvelertak                      | 39   | 134
 Judas Priest                   | 41   | 130      
 Architects                     | 42   | 127      
 Pagan's Mind                   | 46   | 123      
-blink-182                      | 47   | 119      
+blink-182                      | 48   | 119      
 The Good The Bad and The Zugly | 50   | 112      
 Lamb of God                    | 52   | 108      
 Maktkamp                       | 58   | 98       
@@ -58,9 +58,8 @@ Soilwork                       | 70   | 86
 Fit for an Autopsy             | 74   | 83       
 Turbonegro                     | 85   | 77       
 Children of Bodom              | 91   | 68       
-Snarky Puppy                   | 100  | 64       
 
-## Active top 100 artists not seen live (46)
+## Active top 100 artists not seen live (47)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -78,7 +77,7 @@ Sylosis                        | 34   | 144
 Heilung                        | 40   | 131      
 DJ MøMø                        | 44   | 125      
 The Police                     | 45   | 125      
-Jinjer                         | 49   | 112      
+Jinjer                         | 47   | 121      
 Toto                           | 51   | 110      
 Linkin Park                    | 53   | 107      
 Aktiv Dödshjelp                | 54   | 105      
@@ -110,6 +109,7 @@ Kings of Leon                  | 96   | 65
 Ludo                           | 97   | 65       
 A.C.T                          | 98   | 64       
 Ballinciaga                    | 99   | 64       
+Leprous                        | 100  | 64       
 
 ## Inactive top 100 artists not seen live (9)
 
@@ -118,7 +118,7 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 7    | 371      
 Rush                         | 8    | 368      
 Hall & Oates                 | 43   | 127      
-Creedence Clearwater Revival | 48   | 119      
+Creedence Clearwater Revival | 49   | 119      
 Led Zeppelin                 | 55   | 103      
 Pink Floyd                   | 60   | 97       
 Dire Straits                 | 63   | 95       
