@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 938      
-AC/DC                          | 3    | 721      
+AC/DC                          | 3    | 741      
 Spidergawd                     | 4    | 440      
 Metallica                      | 5    | 415      
 In Flames                      | 6    | 392      
@@ -115,7 +115,7 @@ Leprous                        | 100  | 64
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 7    | 371      
+Fleetwood Mac                | 7    | 384      
 Rush                         | 8    | 368      
 Hall & Oates                 | 43   | 127      
 Creedence Clearwater Revival | 49   | 119      
