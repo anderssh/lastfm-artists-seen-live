@@ -23,9 +23,9 @@ Ghost                          | 9    | 342
 Skálmöld                       | 10   | 336      
 Seven Spires                   | 11   | 325      
 Circus Maximus                 | 12   | 292      
-Avenged Sevenfold              | 13   | 288      
-Haken                          | 14   | 285      
-Foo Fighters                   | 15   | 276      
+Foo Fighters                   | 13   | 290      
+Avenged Sevenfold              | 14   | 288      
+Haken                          | 15   | 285      
 Greta Van Fleet                | 17   | 225      
 Honningbarna                   | 19   | 203      
 The Dogs                       | 20   | 203      
@@ -56,8 +56,8 @@ Volbeat                        | 66   | 92
 Kaizers Orchestra              | 68   | 88       
 Soilwork                       | 70   | 86       
 Fit for an Autopsy             | 74   | 83       
-Turbonegro                     | 85   | 77       
-Children of Bodom              | 91   | 68       
+Turbonegro                     | 86   | 77       
+Children of Bodom              | 92   | 68       
 
 ## Active top 100 artists not seen live (47)
 
@@ -93,29 +93,29 @@ Bokassa                        | 76   | 82
 Barnesprell                    | 77   | 80       
 Meshuggah                      | 78   | 80       
 D-A-D                          | 79   | 78       
-Porcupine Tree                 | 81   | 78       
-will.i.am                      | 82   | 78       
-Kaptein Sabeltann              | 83   | 77       
-Rival Sons                     | 84   | 77       
-VOLA                           | 86   | 76       
-Love                           | 88   | 73       
-The Rolling Stones             | 89   | 72       
-Maraton                        | 90   | 70       
-Styx                           | 92   | 68       
-Megadeth                       | 93   | 67       
-OnklP & De Fjerne Slektningene | 94   | 67       
-Rise Against                   | 95   | 67       
-Kings of Leon                  | 96   | 65       
-Ludo                           | 97   | 65       
-A.C.T                          | 98   | 64       
-Ballinciaga                    | 99   | 64       
-Leprous                        | 100  | 64       
+Devin Townsend Project         | 81   | 78       
+Porcupine Tree                 | 82   | 78       
+will.i.am                      | 83   | 78       
+Kaptein Sabeltann              | 84   | 77       
+Rival Sons                     | 85   | 77       
+VOLA                           | 87   | 76       
+Love                           | 89   | 73       
+The Rolling Stones             | 90   | 72       
+Maraton                        | 91   | 70       
+Styx                           | 93   | 68       
+Megadeth                       | 94   | 67       
+OnklP & De Fjerne Slektningene | 95   | 67       
+Rise Against                   | 96   | 67       
+Kings of Leon                  | 97   | 65       
+Ludo                           | 98   | 65       
+A.C.T                          | 99   | 64       
+Ballinciaga                    | 100  | 64       
 
 ## Inactive top 100 artists not seen live (9)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 7    | 385      
+Fleetwood Mac                | 7    | 386      
 Rush                         | 8    | 368      
 Hall & Oates                 | 43   | 127      
 Creedence Clearwater Revival | 49   | 119      
@@ -123,4 +123,4 @@ Led Zeppelin                 | 55   | 103
 Pink Floyd                   | 60   | 97       
 Dire Straits                 | 63   | 95       
 Daft Punk                    | 80   | 78       
-The Beatles                  | 87   | 75       
+The Beatles                  | 88   | 75       
