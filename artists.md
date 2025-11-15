@@ -22,8 +22,8 @@ In Flames                      | 6    | 392
 Ghost                          | 9    | 342      
 Skálmöld                       | 10   | 336      
 Seven Spires                   | 11   | 325      
-Circus Maximus                 | 12   | 292      
-Foo Fighters                   | 13   | 290      
+Foo Fighters                   | 12   | 296      
+Circus Maximus                 | 13   | 292      
 Avenged Sevenfold              | 14   | 288      
 Haken                          | 15   | 285      
 Greta Van Fleet                | 17   | 225      
@@ -106,10 +106,10 @@ Styx                           | 93   | 68
 Megadeth                       | 94   | 67       
 OnklP & De Fjerne Slektningene | 95   | 67       
 Rise Against                   | 96   | 67       
-Kings of Leon                  | 97   | 65       
-Ludo                           | 98   | 65       
-A.C.T                          | 99   | 64       
-Ballinciaga                    | 100  | 64       
+SikTh                          | 97   | 67       
+Kings of Leon                  | 98   | 66       
+Ludo                           | 99   | 65       
+A.C.T                          | 100  | 64       
 
 ## Inactive top 100 artists not seen live (9)
 
