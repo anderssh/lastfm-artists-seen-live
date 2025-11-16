@@ -99,8 +99,8 @@ will.i.am                      | 83   | 78
 Kaptein Sabeltann              | 84   | 77       
 Rival Sons                     | 85   | 77       
 VOLA                           | 87   | 76       
-Love                           | 89   | 73       
-The Rolling Stones             | 90   | 72       
+Love                           | 89   | 74       
+The Rolling Stones             | 90   | 73       
 Maraton                        | 91   | 70       
 Styx                           | 93   | 68       
 Megadeth                       | 94   | 67       
@@ -115,11 +115,11 @@ A.C.T                          | 100  | 64
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 7    | 386      
+Fleetwood Mac                | 7    | 389      
 Rush                         | 8    | 368      
 Hall & Oates                 | 43   | 127      
 Creedence Clearwater Revival | 49   | 119      
-Led Zeppelin                 | 55   | 103      
+Led Zeppelin                 | 55   | 104      
 Pink Floyd                   | 60   | 97       
 Dire Straits                 | 63   | 95       
 Daft Punk                    | 80   | 78       
