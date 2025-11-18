@@ -29,15 +29,15 @@ Haken                          | 15   | 285
 Greta Van Fleet                | 17   | 225      
 Honningbarna                   | 19   | 203      
 The Dogs                       | 20   | 203      
-Slipknot                       | 21   | 186      
+Slipknot                       | 21   | 188      
 Green Day                      | 24   | 178      
 Eluveitie                      | 25   | 169      
 Mastodon                       | 28   | 162      
 Amyl and the Sniffers          | 30   | 160      
 Tool                           | 31   | 156      
 Finntroll                      | 35   | 141      
-Eminem                         | 36   | 138      
-Gojira                         | 37   | 138      
+Gojira                         | 36   | 140      
+Eminem                         | 37   | 138      
 Ne Obliviscaris                | 38   | 138      
 Kvelertak                      | 39   | 134      
 Judas Priest                   | 41   | 130      
@@ -45,10 +45,10 @@ Architects                     | 42   | 127
 Pagan's Mind                   | 46   | 123      
 blink-182                      | 48   | 119      
 The Good The Bad and The Zugly | 50   | 112      
-Lamb of God                    | 52   | 108      
+Lamb of God                    | 51   | 111      
 Maktkamp                       | 58   | 98       
 The Killers                    | 59   | 98       
-Opeth                          | 61   | 96       
+Opeth                          | 60   | 97       
 Backstreet Girls               | 62   | 95       
 Oslo Ess                       | 64   | 93       
 Volbeat                        | 66   | 92       
@@ -78,7 +78,7 @@ Heilung                        | 40   | 131
 DJ MøMø                        | 44   | 125      
 The Police                     | 45   | 125      
 Jinjer                         | 47   | 121      
-Toto                           | 51   | 110      
+Toto                           | 52   | 110      
 Linkin Park                    | 53   | 107      
 Aktiv Dödshjelp                | 54   | 105      
 Red Hot Chili Peppers          | 56   | 102      
@@ -90,8 +90,8 @@ Bill Withers                   | 72   | 83
 Elton John                     | 73   | 83       
 Queens of the Stone Age        | 75   | 83       
 Bokassa                        | 76   | 82       
-Barnesprell                    | 77   | 80       
-Meshuggah                      | 78   | 80       
+Meshuggah                      | 77   | 82       
+Barnesprell                    | 78   | 80       
 D-A-D                          | 79   | 78       
 Devin Townsend Project         | 81   | 78       
 Porcupine Tree                 | 82   | 78       
@@ -102,11 +102,11 @@ VOLA                           | 87   | 76
 Love                           | 89   | 74       
 The Rolling Stones             | 90   | 73       
 Maraton                        | 91   | 70       
-Styx                           | 93   | 68       
-Megadeth                       | 94   | 67       
-OnklP & De Fjerne Slektningene | 95   | 67       
-Rise Against                   | 96   | 67       
-SikTh                          | 97   | 67       
+SikTh                          | 93   | 68       
+Styx                           | 94   | 68       
+Megadeth                       | 95   | 67       
+OnklP & De Fjerne Slektningene | 96   | 67       
+Rise Against                   | 97   | 67       
 Kings of Leon                  | 98   | 66       
 Ludo                           | 99   | 65       
 A.C.T                          | 100  | 64       
@@ -115,12 +115,12 @@ A.C.T                          | 100  | 64
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 7    | 389      
+Fleetwood Mac                | 7    | 390      
 Rush                         | 8    | 368      
 Hall & Oates                 | 43   | 127      
 Creedence Clearwater Revival | 49   | 119      
 Led Zeppelin                 | 55   | 104      
-Pink Floyd                   | 60   | 97       
+Pink Floyd                   | 61   | 97       
 Dire Straits                 | 63   | 95       
 Daft Punk                    | 80   | 78       
 The Beatles                  | 88   | 75       
