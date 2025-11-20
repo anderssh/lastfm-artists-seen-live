@@ -16,9 +16,9 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 938      
 AC/DC                          | 3    | 741      
-Spidergawd                     | 4    | 440      
+Spidergawd                     | 4    | 443      
 Metallica                      | 5    | 415      
-In Flames                      | 6    | 392      
+In Flames                      | 7    | 392      
 Ghost                          | 9    | 342      
 Skálmöld                       | 10   | 336      
 Seven Spires                   | 11   | 325      
@@ -32,9 +32,9 @@ The Dogs                       | 20   | 203
 Slipknot                       | 21   | 188      
 Green Day                      | 24   | 178      
 Eluveitie                      | 25   | 169      
-Mastodon                       | 28   | 162      
-Amyl and the Sniffers          | 30   | 160      
-Tool                           | 31   | 156      
+Tool                           | 28   | 165      
+Mastodon                       | 29   | 162      
+Amyl and the Sniffers          | 31   | 160      
 Finntroll                      | 35   | 141      
 Gojira                         | 36   | 140      
 Eminem                         | 37   | 138      
@@ -70,7 +70,7 @@ Lars Vaular                    | 22   | 181
 All That Remains               | 23   | 180      
 The Night Flight Orchestra     | 26   | 165      
 The Offspring                  | 27   | 165      
-The Halo Effect                | 29   | 161      
+The Halo Effect                | 30   | 161      
 Animals as Leaders             | 32   | 155      
 Death by Unga Bunga            | 33   | 148      
 Sylosis                        | 34   | 144      
@@ -92,9 +92,9 @@ Queens of the Stone Age        | 75   | 83
 Bokassa                        | 76   | 82       
 Meshuggah                      | 77   | 82       
 Barnesprell                    | 78   | 80       
-D-A-D                          | 79   | 78       
-Devin Townsend Project         | 81   | 78       
-Porcupine Tree                 | 82   | 78       
+Porcupine Tree                 | 79   | 79       
+D-A-D                          | 80   | 78       
+Devin Townsend Project         | 82   | 78       
 will.i.am                      | 83   | 78       
 Kaptein Sabeltann              | 84   | 77       
 Rival Sons                     | 85   | 77       
@@ -115,12 +115,12 @@ A.C.T                          | 100  | 64
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 7    | 390      
+Fleetwood Mac                | 6    | 392      
 Rush                         | 8    | 368      
 Hall & Oates                 | 43   | 127      
 Creedence Clearwater Revival | 49   | 119      
 Led Zeppelin                 | 55   | 104      
 Pink Floyd                   | 61   | 97       
 Dire Straits                 | 63   | 95       
-Daft Punk                    | 80   | 78       
+Daft Punk                    | 81   | 78       
 The Beatles                  | 88   | 75       
