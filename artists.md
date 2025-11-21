@@ -17,14 +17,14 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 938      
 AC/DC                          | 3    | 741      
 Spidergawd                     | 4    | 443      
-Metallica                      | 5    | 415      
+Metallica                      | 5    | 416      
 In Flames                      | 7    | 392      
 Ghost                          | 9    | 342      
 Skálmöld                       | 10   | 336      
 Seven Spires                   | 11   | 325      
 Foo Fighters                   | 12   | 296      
-Circus Maximus                 | 13   | 292      
-Avenged Sevenfold              | 14   | 288      
+Avenged Sevenfold              | 13   | 294      
+Circus Maximus                 | 14   | 292      
 Haken                          | 15   | 285      
 Greta Van Fleet                | 17   | 225      
 Honningbarna                   | 19   | 203      
@@ -49,7 +49,7 @@ Lamb of God                    | 51   | 111
 Maktkamp                       | 58   | 98       
 The Killers                    | 59   | 98       
 Opeth                          | 60   | 97       
-Backstreet Girls               | 62   | 95       
+Backstreet Girls               | 63   | 95       
 Oslo Ess                       | 64   | 93       
 Volbeat                        | 66   | 92       
 22                             | 67   | 88       
@@ -121,6 +121,6 @@ Hall & Oates                 | 43   | 127
 Creedence Clearwater Revival | 49   | 119      
 Led Zeppelin                 | 55   | 104      
 Pink Floyd                   | 61   | 97       
-Dire Straits                 | 63   | 95       
+Dire Straits                 | 62   | 96       
 Daft Punk                    | 81   | 78       
 The Beatles                  | 88   | 75       
