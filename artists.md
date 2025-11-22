@@ -32,8 +32,8 @@ The Dogs                       | 20   | 203
 Slipknot                       | 21   | 188      
 Green Day                      | 24   | 178      
 Eluveitie                      | 25   | 169      
-Tool                           | 28   | 165      
-Mastodon                       | 29   | 162      
+Tool                           | 29   | 165      
+Mastodon                       | 30   | 162      
 Amyl and the Sniffers          | 31   | 160      
 Finntroll                      | 35   | 141      
 Gojira                         | 36   | 140      
@@ -44,8 +44,8 @@ Judas Priest                   | 41   | 130
 Architects                     | 42   | 127      
 Pagan's Mind                   | 46   | 123      
 blink-182                      | 48   | 119      
-The Good The Bad and The Zugly | 50   | 112      
-Lamb of God                    | 51   | 111      
+Lamb of God                    | 50   | 112      
+The Good The Bad and The Zugly | 51   | 112      
 Maktkamp                       | 58   | 98       
 The Killers                    | 59   | 98       
 Opeth                          | 60   | 97       
@@ -68,9 +68,9 @@ Jean-Luc Ponty                 | 16   | 226
 Nospūn                         | 18   | 217      
 Lars Vaular                    | 22   | 181      
 All That Remains               | 23   | 180      
-The Night Flight Orchestra     | 26   | 165      
-The Offspring                  | 27   | 165      
-The Halo Effect                | 30   | 161      
+The Halo Effect                | 26   | 166      
+The Night Flight Orchestra     | 27   | 165      
+The Offspring                  | 28   | 165      
 Animals as Leaders             | 32   | 155      
 Death by Unga Bunga            | 33   | 148      
 Sylosis                        | 34   | 144      
