@@ -22,8 +22,8 @@ In Flames                      | 7    | 392
 Ghost                          | 9    | 342      
 Skálmöld                       | 10   | 336      
 Seven Spires                   | 11   | 325      
-Foo Fighters                   | 12   | 296      
-Avenged Sevenfold              | 13   | 294      
+Avenged Sevenfold              | 12   | 298      
+Foo Fighters                   | 13   | 296      
 Circus Maximus                 | 14   | 292      
 Haken                          | 15   | 285      
 Greta Van Fleet                | 17   | 225      
@@ -72,7 +72,7 @@ The Halo Effect                | 26   | 166
 The Night Flight Orchestra     | 27   | 165      
 The Offspring                  | 28   | 165      
 Animals as Leaders             | 32   | 155      
-Death by Unga Bunga            | 33   | 148      
+Death by Unga Bunga            | 33   | 152      
 Sylosis                        | 34   | 144      
 Heilung                        | 40   | 131      
 DJ MøMø                        | 44   | 125      
