@@ -57,7 +57,7 @@ Kaizers Orchestra              | 68   | 88
 Soilwork                       | 70   | 86       
 Fit for an Autopsy             | 74   | 83       
 Turbonegro                     | 86   | 77       
-Children of Bodom              | 92   | 68       
+Children of Bodom              | 93   | 68       
 
 ## Active top 100 artists not seen live (47)
 
@@ -102,7 +102,7 @@ VOLA                           | 87   | 76
 Love                           | 89   | 74       
 The Rolling Stones             | 90   | 73       
 Maraton                        | 91   | 70       
-SikTh                          | 93   | 68       
+SikTh                          | 92   | 69       
 Styx                           | 94   | 68       
 Megadeth                       | 95   | 67       
 OnklP & De Fjerne Slektningene | 96   | 67       
