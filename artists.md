@@ -14,10 +14,10 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 938      
+Dream Theater                  | 1    | 949      
 AC/DC                          | 3    | 741      
 Spidergawd                     | 4    | 443      
-Metallica                      | 5    | 416      
+Metallica                      | 5    | 417      
 In Flames                      | 7    | 392      
 Ghost                          | 9    | 342      
 Skálmöld                       | 10   | 336      
@@ -33,7 +33,7 @@ Slipknot                       | 21   | 188
 Green Day                      | 24   | 178      
 Eluveitie                      | 25   | 169      
 Tool                           | 29   | 165      
-Mastodon                       | 30   | 162      
+Mastodon                       | 30   | 163      
 Amyl and the Sniffers          | 31   | 160      
 Finntroll                      | 35   | 141      
 Gojira                         | 36   | 140      
@@ -47,8 +47,8 @@ blink-182                      | 48   | 119
 Lamb of God                    | 50   | 112      
 The Good The Bad and The Zugly | 51   | 112      
 Maktkamp                       | 58   | 98       
-The Killers                    | 59   | 98       
-Opeth                          | 60   | 97       
+Opeth                          | 59   | 98       
+The Killers                    | 60   | 98       
 Backstreet Girls               | 63   | 95       
 Oslo Ess                       | 64   | 93       
 Volbeat                        | 66   | 92       
@@ -92,7 +92,7 @@ Queens of the Stone Age        | 75   | 83
 Bokassa                        | 76   | 82       
 Meshuggah                      | 77   | 82       
 Barnesprell                    | 78   | 80       
-Porcupine Tree                 | 79   | 79       
+Porcupine Tree                 | 79   | 80       
 D-A-D                          | 80   | 78       
 Devin Townsend Project         | 82   | 78       
 will.i.am                      | 83   | 78       
@@ -119,7 +119,7 @@ Fleetwood Mac                | 6    | 392
 Rush                         | 8    | 368      
 Hall & Oates                 | 43   | 127      
 Creedence Clearwater Revival | 49   | 119      
-Led Zeppelin                 | 55   | 104      
+Led Zeppelin                 | 55   | 105      
 Pink Floyd                   | 61   | 97       
 Dire Straits                 | 62   | 96       
 Daft Punk                    | 81   | 78       
