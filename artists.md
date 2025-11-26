@@ -14,16 +14,16 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 949      
+Dream Theater                  | 1    | 961      
 AC/DC                          | 3    | 741      
 Spidergawd                     | 4    | 443      
 Metallica                      | 5    | 417      
-In Flames                      | 7    | 392      
+In Flames                      | 6    | 412      
 Ghost                          | 9    | 342      
 Skálmöld                       | 10   | 336      
 Seven Spires                   | 11   | 325      
 Avenged Sevenfold              | 12   | 298      
-Foo Fighters                   | 13   | 296      
+Foo Fighters                   | 13   | 298      
 Circus Maximus                 | 14   | 292      
 Haken                          | 15   | 285      
 Greta Van Fleet                | 17   | 225      
@@ -43,17 +43,17 @@ Kvelertak                      | 39   | 134
 Judas Priest                   | 41   | 130      
 Architects                     | 42   | 127      
 Pagan's Mind                   | 46   | 123      
-blink-182                      | 48   | 119      
+blink-182                      | 49   | 119      
 Lamb of God                    | 50   | 112      
 The Good The Bad and The Zugly | 51   | 112      
-Maktkamp                       | 58   | 98       
-Opeth                          | 59   | 98       
+Opeth                          | 57   | 101      
+Maktkamp                       | 59   | 98       
 The Killers                    | 60   | 98       
 Backstreet Girls               | 63   | 95       
 Oslo Ess                       | 64   | 93       
-Volbeat                        | 66   | 92       
-22                             | 67   | 88       
-Kaizers Orchestra              | 68   | 88       
+Kaizers Orchestra              | 66   | 92       
+Volbeat                        | 67   | 92       
+22                             | 68   | 88       
 Soilwork                       | 70   | 86       
 Fit for an Autopsy             | 74   | 83       
 Turbonegro                     | 86   | 77       
@@ -69,20 +69,20 @@ Nospūn                         | 18   | 217
 Lars Vaular                    | 22   | 181      
 All That Remains               | 23   | 180      
 The Halo Effect                | 26   | 166      
-The Night Flight Orchestra     | 27   | 165      
-The Offspring                  | 28   | 165      
+The Offspring                  | 27   | 166      
+The Night Flight Orchestra     | 28   | 165      
 Animals as Leaders             | 32   | 155      
 Death by Unga Bunga            | 33   | 152      
 Sylosis                        | 34   | 144      
 Heilung                        | 40   | 131      
 DJ MøMø                        | 44   | 125      
 The Police                     | 45   | 125      
-Jinjer                         | 47   | 121      
+Jinjer                         | 48   | 121      
 Toto                           | 52   | 110      
-Linkin Park                    | 53   | 107      
+Linkin Park                    | 53   | 108      
 Aktiv Dödshjelp                | 54   | 105      
 Red Hot Chili Peppers          | 56   | 102      
-Parius                         | 57   | 100      
+Parius                         | 58   | 100      
 The Black Keys                 | 65   | 93       
 DumDum Boys                    | 69   | 87       
 Thulsa Doom                    | 71   | 86       
@@ -115,10 +115,10 @@ A.C.T                          | 100  | 64
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 6    | 392      
+Fleetwood Mac                | 7    | 392      
 Rush                         | 8    | 368      
 Hall & Oates                 | 43   | 127      
-Creedence Clearwater Revival | 49   | 119      
+Creedence Clearwater Revival | 47   | 121      
 Led Zeppelin                 | 55   | 105      
 Pink Floyd                   | 61   | 97       
 Dire Straits                 | 62   | 96       
