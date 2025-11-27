@@ -22,10 +22,10 @@ In Flames                      | 6    | 412
 Ghost                          | 9    | 342      
 Skálmöld                       | 10   | 336      
 Seven Spires                   | 11   | 325      
-Avenged Sevenfold              | 12   | 298      
-Foo Fighters                   | 13   | 298      
-Circus Maximus                 | 14   | 292      
-Haken                          | 15   | 285      
+Haken                          | 12   | 312      
+Avenged Sevenfold              | 13   | 299      
+Foo Fighters                   | 14   | 298      
+Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 17   | 225      
 Honningbarna                   | 19   | 203      
 The Dogs                       | 20   | 203      
@@ -37,8 +37,8 @@ Mastodon                       | 30   | 163
 Amyl and the Sniffers          | 31   | 160      
 Finntroll                      | 35   | 141      
 Gojira                         | 36   | 140      
-Eminem                         | 37   | 138      
-Ne Obliviscaris                | 38   | 138      
+Ne Obliviscaris                | 37   | 139      
+Eminem                         | 38   | 138      
 Kvelertak                      | 39   | 134      
 Judas Priest                   | 41   | 130      
 Architects                     | 42   | 127      
@@ -103,13 +103,13 @@ Love                           | 89   | 74
 The Rolling Stones             | 90   | 73       
 Maraton                        | 91   | 70       
 SikTh                          | 92   | 69       
-Styx                           | 94   | 68       
-Megadeth                       | 95   | 67       
-OnklP & De Fjerne Slektningene | 96   | 67       
-Rise Against                   | 97   | 67       
-Kings of Leon                  | 98   | 66       
-Ludo                           | 99   | 65       
-A.C.T                          | 100  | 64       
+Leprous                        | 94   | 68       
+Styx                           | 95   | 68       
+Megadeth                       | 96   | 67       
+OnklP & De Fjerne Slektningene | 97   | 67       
+Rise Against                   | 98   | 67       
+Kings of Leon                  | 99   | 66       
+Ludo                           | 100  | 65       
 
 ## Inactive top 100 artists not seen live (9)
 
