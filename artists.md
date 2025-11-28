@@ -32,7 +32,7 @@ The Dogs                       | 20   | 203
 Slipknot                       | 21   | 188      
 Green Day                      | 24   | 178      
 Eluveitie                      | 25   | 169      
-Tool                           | 29   | 165      
+Tool                           | 26   | 168      
 Mastodon                       | 30   | 163      
 Amyl and the Sniffers          | 31   | 160      
 Finntroll                      | 35   | 141      
@@ -57,7 +57,7 @@ Volbeat                        | 67   | 92
 Soilwork                       | 70   | 86       
 Fit for an Autopsy             | 74   | 83       
 Turbonegro                     | 86   | 77       
-Children of Bodom              | 93   | 68       
+Children of Bodom              | 94   | 68       
 
 ## Active top 100 artists not seen live (47)
 
@@ -68,16 +68,16 @@ Jean-Luc Ponty                 | 16   | 226
 Nospūn                         | 18   | 217      
 Lars Vaular                    | 22   | 181      
 All That Remains               | 23   | 180      
-The Halo Effect                | 26   | 166      
-The Offspring                  | 27   | 166      
-The Night Flight Orchestra     | 28   | 165      
+The Halo Effect                | 27   | 166      
+The Offspring                  | 28   | 166      
+The Night Flight Orchestra     | 29   | 165      
 Animals as Leaders             | 32   | 155      
 Death by Unga Bunga            | 33   | 152      
 Sylosis                        | 34   | 144      
 Heilung                        | 40   | 131      
 DJ MøMø                        | 44   | 125      
 The Police                     | 45   | 125      
-Jinjer                         | 48   | 121      
+Jinjer                         | 47   | 122      
 Toto                           | 52   | 110      
 Linkin Park                    | 53   | 108      
 Aktiv Dödshjelp                | 54   | 105      
@@ -88,11 +88,11 @@ DumDum Boys                    | 69   | 87
 Thulsa Doom                    | 71   | 86       
 Bill Withers                   | 72   | 83       
 Elton John                     | 73   | 83       
-Queens of the Stone Age        | 75   | 83       
-Bokassa                        | 76   | 82       
-Meshuggah                      | 77   | 82       
-Barnesprell                    | 78   | 80       
-Porcupine Tree                 | 79   | 80       
+Porcupine Tree                 | 75   | 83       
+Queens of the Stone Age        | 76   | 83       
+Bokassa                        | 77   | 82       
+Meshuggah                      | 78   | 82       
+Barnesprell                    | 79   | 80       
 D-A-D                          | 80   | 78       
 Devin Townsend Project         | 82   | 78       
 will.i.am                      | 83   | 78       
@@ -102,8 +102,8 @@ VOLA                           | 87   | 76
 Love                           | 89   | 74       
 The Rolling Stones             | 90   | 73       
 Maraton                        | 91   | 70       
-SikTh                          | 92   | 69       
-Leprous                        | 94   | 68       
+Leprous                        | 92   | 69       
+SikTh                          | 93   | 69       
 Styx                           | 95   | 68       
 Megadeth                       | 96   | 67       
 OnklP & De Fjerne Slektningene | 97   | 67       
@@ -118,7 +118,7 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 7    | 392      
 Rush                         | 8    | 368      
 Hall & Oates                 | 43   | 127      
-Creedence Clearwater Revival | 47   | 121      
+Creedence Clearwater Revival | 48   | 121      
 Led Zeppelin                 | 55   | 105      
 Pink Floyd                   | 61   | 97       
 Dire Straits                 | 62   | 96       
