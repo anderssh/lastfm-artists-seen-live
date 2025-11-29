@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 961      
 AC/DC                          | 3    | 741      
 Spidergawd                     | 4    | 443      
-Metallica                      | 5    | 417      
+Metallica                      | 5    | 424      
 In Flames                      | 6    | 412      
 Ghost                          | 9    | 342      
 Skálmöld                       | 10   | 336      
@@ -32,7 +32,7 @@ The Dogs                       | 20   | 203
 Slipknot                       | 21   | 188      
 Green Day                      | 24   | 178      
 Eluveitie                      | 25   | 169      
-Tool                           | 26   | 168      
+Tool                           | 26   | 169      
 Mastodon                       | 30   | 163      
 Amyl and the Sniffers          | 31   | 160      
 Finntroll                      | 35   | 141      
@@ -55,7 +55,7 @@ Kaizers Orchestra              | 66   | 92
 Volbeat                        | 67   | 92       
 22                             | 68   | 88       
 Soilwork                       | 70   | 86       
-Fit for an Autopsy             | 74   | 83       
+Fit for an Autopsy             | 75   | 83       
 Turbonegro                     | 86   | 77       
 Children of Bodom              | 94   | 68       
 
@@ -86,9 +86,9 @@ Parius                         | 58   | 100
 The Black Keys                 | 65   | 93       
 DumDum Boys                    | 69   | 87       
 Thulsa Doom                    | 71   | 86       
-Bill Withers                   | 72   | 83       
-Elton John                     | 73   | 83       
-Porcupine Tree                 | 75   | 83       
+Porcupine Tree                 | 72   | 84       
+Bill Withers                   | 73   | 83       
+Elton John                     | 74   | 83       
 Queens of the Stone Age        | 76   | 83       
 Bokassa                        | 77   | 82       
 Meshuggah                      | 78   | 82       
