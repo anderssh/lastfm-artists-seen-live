@@ -14,8 +14,8 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 961      
-AC/DC                          | 3    | 741      
+Dream Theater                  | 1    | 968      
+AC/DC                          | 3    | 755      
 Spidergawd                     | 4    | 443      
 Metallica                      | 5    | 424      
 In Flames                      | 6    | 412      
@@ -47,13 +47,13 @@ blink-182                      | 49   | 119
 Lamb of God                    | 50   | 112      
 The Good The Bad and The Zugly | 51   | 112      
 Opeth                          | 57   | 101      
-Maktkamp                       | 59   | 98       
-The Killers                    | 60   | 98       
-Backstreet Girls               | 63   | 95       
-Oslo Ess                       | 64   | 93       
-Kaizers Orchestra              | 66   | 92       
-Volbeat                        | 67   | 92       
-22                             | 68   | 88       
+22                             | 59   | 99       
+Maktkamp                       | 60   | 98       
+The Killers                    | 61   | 98       
+Backstreet Girls               | 64   | 95       
+Oslo Ess                       | 65   | 93       
+Kaizers Orchestra              | 67   | 92       
+Volbeat                        | 68   | 92       
 Soilwork                       | 70   | 86       
 Fit for an Autopsy             | 75   | 83       
 Turbonegro                     | 86   | 77       
@@ -83,7 +83,7 @@ Linkin Park                    | 53   | 108
 Aktiv Dödshjelp                | 54   | 105      
 Red Hot Chili Peppers          | 56   | 102      
 Parius                         | 58   | 100      
-The Black Keys                 | 65   | 93       
+The Black Keys                 | 66   | 93       
 DumDum Boys                    | 69   | 87       
 Thulsa Doom                    | 71   | 86       
 Porcupine Tree                 | 72   | 84       
@@ -101,7 +101,7 @@ Rival Sons                     | 85   | 77
 VOLA                           | 87   | 76       
 Love                           | 89   | 74       
 The Rolling Stones             | 90   | 73       
-Maraton                        | 91   | 70       
+Maraton                        | 91   | 71       
 Leprous                        | 92   | 69       
 SikTh                          | 93   | 69       
 Styx                           | 95   | 68       
@@ -120,7 +120,7 @@ Rush                         | 8    | 368
 Hall & Oates                 | 43   | 127      
 Creedence Clearwater Revival | 48   | 121      
 Led Zeppelin                 | 55   | 105      
-Pink Floyd                   | 61   | 97       
-Dire Straits                 | 62   | 96       
+Pink Floyd                   | 62   | 97       
+Dire Straits                 | 63   | 96       
 Daft Punk                    | 81   | 78       
 The Beatles                  | 88   | 75       
