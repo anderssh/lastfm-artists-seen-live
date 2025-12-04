@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 978      
 AC/DC                          | 3    | 758      
 Spidergawd                     | 4    | 443      
-Metallica                      | 5    | 428      
+Metallica                      | 5    | 429      
 In Flames                      | 6    | 412      
 Ghost                          | 9    | 342      
 Skálmöld                       | 10   | 336      
@@ -29,10 +29,10 @@ Circus Maximus                 | 15   | 292
 Greta Van Fleet                | 17   | 225      
 Honningbarna                   | 19   | 203      
 The Dogs                       | 20   | 203      
-Slipknot                       | 21   | 188      
+Slipknot                       | 21   | 196      
 Green Day                      | 24   | 178      
-Eluveitie                      | 25   | 169      
-Tool                           | 27   | 169      
+Tool                           | 25   | 170      
+Eluveitie                      | 26   | 169      
 Mastodon                       | 30   | 163      
 Amyl and the Sniffers          | 31   | 160      
 Finntroll                      | 35   | 141      
@@ -55,7 +55,7 @@ Oslo Ess                       | 65   | 93
 Kaizers Orchestra              | 67   | 92       
 Volbeat                        | 68   | 92       
 Soilwork                       | 70   | 86       
-Fit for an Autopsy             | 75   | 83       
+Fit for an Autopsy             | 76   | 83       
 Turbonegro                     | 86   | 77       
 Children of Bodom              | 94   | 68       
 
@@ -68,12 +68,12 @@ Jean-Luc Ponty                 | 16   | 226
 Nospūn                         | 18   | 217      
 Lars Vaular                    | 22   | 181      
 All That Remains               | 23   | 180      
-The Halo Effect                | 26   | 169      
+The Halo Effect                | 27   | 169      
 The Offspring                  | 28   | 166      
 The Night Flight Orchestra     | 29   | 165      
 Animals as Leaders             | 32   | 155      
 Death by Unga Bunga            | 33   | 152      
-Sylosis                        | 34   | 144      
+Sylosis                        | 34   | 145      
 Heilung                        | 40   | 131      
 DJ MøMø                        | 44   | 125      
 Jinjer                         | 45   | 125      
@@ -88,13 +88,13 @@ DumDum Boys                    | 69   | 87
 Thulsa Doom                    | 71   | 86       
 Porcupine Tree                 | 72   | 84       
 Bill Withers                   | 73   | 83       
-Elton John                     | 74   | 83       
-Queens of the Stone Age        | 76   | 83       
-Bokassa                        | 77   | 82       
-Meshuggah                      | 78   | 82       
-Barnesprell                    | 79   | 80       
-D-A-D                          | 80   | 78       
-Devin Townsend Project         | 82   | 78       
+Devin Townsend Project         | 74   | 83       
+Elton John                     | 75   | 83       
+Queens of the Stone Age        | 77   | 83       
+Bokassa                        | 78   | 82       
+Meshuggah                      | 79   | 82       
+Barnesprell                    | 80   | 80       
+D-A-D                          | 81   | 78       
 will.i.am                      | 83   | 78       
 Kaptein Sabeltann              | 84   | 77       
 Rival Sons                     | 85   | 77       
@@ -122,5 +122,5 @@ Creedence Clearwater Revival | 48   | 121
 Led Zeppelin                 | 54   | 106      
 Pink Floyd                   | 62   | 97       
 Dire Straits                 | 63   | 96       
-Daft Punk                    | 81   | 78       
+Daft Punk                    | 82   | 78       
 The Beatles                  | 88   | 75       
