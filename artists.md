@@ -57,7 +57,7 @@ Volbeat                        | 69   | 92
 Soilwork                       | 71   | 86       
 Fit for an Autopsy             | 77   | 83       
 Turbonegro                     | 87   | 77       
-Children of Bodom              | 95   | 68       
+Children of Bodom              | 96   | 68       
 
 ## Active top 100 artists not seen live (47)
 
@@ -104,12 +104,12 @@ Love                           | 90   | 74
 SikTh                          | 91   | 73       
 The Rolling Stones             | 92   | 73       
 Maraton                        | 93   | 71       
-Leprous                        | 94   | 69       
-Styx                           | 96   | 68       
-Megadeth                       | 97   | 67       
-OnklP & De Fjerne Slektningene | 98   | 67       
-Rise Against                   | 99   | 67       
-Kings of Leon                  | 100  | 66       
+OnklP & De Fjerne Slektningene | 94   | 71       
+Leprous                        | 95   | 69       
+Styx                           | 97   | 68       
+Kings of Leon                  | 98   | 67       
+Megadeth                       | 99   | 67       
+Rise Against                   | 100  | 67       
 
 ## Inactive top 100 artists not seen live (9)
 
