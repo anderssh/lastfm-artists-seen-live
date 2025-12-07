@@ -44,7 +44,7 @@ Judas Priest                   | 41   | 130
 Architects                     | 42   | 127      
 Pagan's Mind                   | 47   | 123      
 blink-182                      | 50   | 119      
-Lamb of God                    | 51   | 112      
+Lamb of God                    | 51   | 118      
 The Good The Bad and The Zugly | 52   | 112      
 Opeth                          | 57   | 101      
 22                             | 59   | 99       
