@@ -85,7 +85,7 @@ Red Hot Chili Peppers          | 56   | 102
 Parius                         | 58   | 100      
 John Mayer                     | 65   | 93       
 The Black Keys                 | 67   | 93       
-DumDum Boys                    | 70   | 87       
+DumDum Boys                    | 70   | 89       
 Thulsa Doom                    | 72   | 86       
 Porcupine Tree                 | 73   | 84       
 Bill Withers                   | 74   | 83       
