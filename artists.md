@@ -65,7 +65,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Thorbjørn Egner                | 2    | 776      
 Jean-Luc Ponty                 | 17   | 226      
-Nospūn                         | 18   | 217      
+Nospūn                         | 18   | 226      
 Lars Vaular                    | 22   | 181      
 All That Remains               | 23   | 180      
 The Halo Effect                | 27   | 169      
