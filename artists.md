@@ -41,8 +41,8 @@ Ne Obliviscaris                | 37   | 139
 Eminem                         | 38   | 138      
 Kvelertak                      | 39   | 134      
 Judas Priest                   | 41   | 130      
-Architects                     | 42   | 127      
-Pagan's Mind                   | 47   | 123      
+Architects                     | 43   | 127      
+Pagan's Mind                   | 44   | 126      
 blink-182                      | 50   | 119      
 Lamb of God                    | 51   | 118      
 The Good The Bad and The Zugly | 52   | 112      
@@ -75,17 +75,17 @@ Animals as Leaders             | 32   | 155
 Death by Unga Bunga            | 33   | 152      
 Sylosis                        | 34   | 145      
 Heilung                        | 40   | 131      
-DJ MøMø                        | 44   | 125      
-Jinjer                         | 45   | 125      
-The Police                     | 46   | 125      
-Toto                           | 49   | 121      
+DJ MøMø                        | 45   | 125      
+Jinjer                         | 46   | 125      
+The Police                     | 47   | 125      
+Toto                           | 48   | 123      
 Linkin Park                    | 53   | 108      
 Aktiv Dödshjelp                | 55   | 105      
 Red Hot Chili Peppers          | 56   | 102      
 Parius                         | 58   | 100      
 John Mayer                     | 65   | 93       
 The Black Keys                 | 67   | 93       
-DumDum Boys                    | 70   | 89       
+DumDum Boys                    | 70   | 90       
 Thulsa Doom                    | 72   | 86       
 Porcupine Tree                 | 73   | 84       
 Bill Withers                   | 74   | 83       
@@ -101,7 +101,7 @@ Kaptein Sabeltann              | 85   | 77
 Rival Sons                     | 86   | 77       
 VOLA                           | 88   | 76       
 Love                           | 90   | 74       
-SikTh                          | 91   | 73       
+SikTh                          | 91   | 74       
 The Rolling Stones             | 92   | 73       
 Maraton                        | 93   | 71       
 OnklP & De Fjerne Slektningene | 94   | 71       
@@ -115,10 +115,10 @@ Rise Against                   | 100  | 67
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 7    | 393      
+Fleetwood Mac                | 7    | 394      
 Rush                         | 8    | 368      
-Hall & Oates                 | 43   | 127      
-Creedence Clearwater Revival | 48   | 121      
+Hall & Oates                 | 42   | 128      
+Creedence Clearwater Revival | 49   | 121      
 Led Zeppelin                 | 54   | 106      
 Pink Floyd                   | 62   | 97       
 Dire Straits                 | 63   | 96       
