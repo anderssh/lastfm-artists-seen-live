@@ -16,19 +16,19 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 978      
 AC/DC                          | 3    | 761      
-Spidergawd                     | 4    | 446      
-Metallica                      | 5    | 429      
+Spidergawd                     | 4    | 450      
+Metallica                      | 5    | 430      
 In Flames                      | 6    | 412      
 Ghost                          | 9    | 342      
 Skálmöld                       | 10   | 336      
 Seven Spires                   | 11   | 325      
-Haken                          | 12   | 312      
-Foo Fighters                   | 13   | 301      
-Avenged Sevenfold              | 14   | 300      
+Avenged Sevenfold              | 12   | 321      
+Haken                          | 13   | 312      
+Foo Fighters                   | 14   | 301      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 16   | 227      
-Honningbarna                   | 19   | 203      
-The Dogs                       | 20   | 203      
+Honningbarna                   | 19   | 207      
+The Dogs                       | 20   | 205      
 Slipknot                       | 21   | 197      
 Green Day                      | 24   | 178      
 Tool                           | 25   | 171      
@@ -39,24 +39,24 @@ Finntroll                      | 35   | 141
 Gojira                         | 36   | 140      
 Ne Obliviscaris                | 37   | 139      
 Eminem                         | 38   | 138      
-Kvelertak                      | 39   | 134      
-Judas Priest                   | 41   | 130      
-Architects                     | 43   | 127      
-Pagan's Mind                   | 44   | 126      
+Kvelertak                      | 39   | 137      
+Pagan's Mind                   | 40   | 135      
+Judas Priest                   | 42   | 130      
+Architects                     | 44   | 127      
 blink-182                      | 50   | 119      
 Lamb of God                    | 51   | 118      
-The Good The Bad and The Zugly | 52   | 112      
+The Good The Bad and The Zugly | 52   | 116      
 Opeth                          | 57   | 101      
 22                             | 59   | 99       
 Maktkamp                       | 60   | 98       
 The Killers                    | 61   | 98       
 Backstreet Girls               | 64   | 95       
-Oslo Ess                       | 66   | 93       
+Oslo Ess                       | 65   | 95       
 Kaizers Orchestra              | 68   | 92       
 Volbeat                        | 69   | 92       
-Soilwork                       | 71   | 86       
-Fit for an Autopsy             | 77   | 83       
-Turbonegro                     | 87   | 77       
+Soilwork                       | 72   | 86       
+Fit for an Autopsy             | 78   | 83       
+Turbonegro                     | 81   | 82       
 Children of Bodom              | 96   | 68       
 
 ## Active top 100 artists not seen live (47)
@@ -72,33 +72,33 @@ The Halo Effect                | 27   | 169
 The Offspring                  | 28   | 166      
 The Night Flight Orchestra     | 29   | 165      
 Animals as Leaders             | 32   | 155      
-Death by Unga Bunga            | 33   | 152      
+Death by Unga Bunga            | 33   | 155      
 Sylosis                        | 34   | 145      
-Heilung                        | 40   | 131      
+Heilung                        | 41   | 131      
 DJ MøMø                        | 45   | 125      
 Jinjer                         | 46   | 125      
 The Police                     | 47   | 125      
 Toto                           | 48   | 123      
-Linkin Park                    | 53   | 108      
-Aktiv Dödshjelp                | 55   | 105      
+Linkin Park                    | 53   | 110      
+Aktiv Dödshjelp                | 54   | 109      
 Red Hot Chili Peppers          | 56   | 102      
 Parius                         | 58   | 100      
-John Mayer                     | 65   | 93       
+John Mayer                     | 66   | 93       
 The Black Keys                 | 67   | 93       
 DumDum Boys                    | 70   | 90       
-Thulsa Doom                    | 72   | 86       
+Thulsa Doom                    | 71   | 87       
 Porcupine Tree                 | 73   | 84       
-Bill Withers                   | 74   | 83       
-Devin Townsend Project         | 75   | 83       
-Elton John                     | 76   | 83       
-Queens of the Stone Age        | 78   | 83       
+Queens of the Stone Age        | 74   | 84       
+Bill Withers                   | 75   | 83       
+Devin Townsend Project         | 76   | 83       
+Elton John                     | 77   | 83       
 Bokassa                        | 79   | 82       
 Meshuggah                      | 80   | 82       
-Barnesprell                    | 81   | 80       
-D-A-D                          | 82   | 78       
-will.i.am                      | 84   | 78       
-Kaptein Sabeltann              | 85   | 77       
-Rival Sons                     | 86   | 77       
+Barnesprell                    | 82   | 80       
+D-A-D                          | 83   | 78       
+will.i.am                      | 85   | 78       
+Kaptein Sabeltann              | 86   | 77       
+Rival Sons                     | 87   | 77       
 VOLA                           | 88   | 76       
 Love                           | 90   | 74       
 SikTh                          | 91   | 74       
@@ -117,10 +117,10 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 394      
 Rush                         | 8    | 368      
-Hall & Oates                 | 42   | 128      
+Hall & Oates                 | 43   | 128      
 Creedence Clearwater Revival | 49   | 121      
-Led Zeppelin                 | 54   | 106      
+Led Zeppelin                 | 55   | 106      
 Pink Floyd                   | 62   | 97       
 Dire Straits                 | 63   | 96       
-Daft Punk                    | 83   | 78       
+Daft Punk                    | 84   | 78       
 The Beatles                  | 89   | 75       
