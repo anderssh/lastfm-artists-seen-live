@@ -15,8 +15,8 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 980      
-AC/DC                          | 3    | 763      
-Spidergawd                     | 4    | 450      
+AC/DC                          | 3    | 764      
+Spidergawd                     | 4    | 452      
 Metallica                      | 5    | 430      
 In Flames                      | 6    | 412      
 Ghost                          | 9    | 344      
@@ -71,8 +71,8 @@ All That Remains               | 23   | 180
 The Halo Effect                | 27   | 169      
 The Offspring                  | 28   | 166      
 The Night Flight Orchestra     | 29   | 165      
-Animals as Leaders             | 32   | 155      
-Death by Unga Bunga            | 33   | 155      
+Death by Unga Bunga            | 32   | 157      
+Animals as Leaders             | 33   | 155      
 Sylosis                        | 34   | 145      
 Heilung                        | 41   | 131      
 Toto                           | 45   | 127      
