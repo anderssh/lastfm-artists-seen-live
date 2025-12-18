@@ -24,7 +24,7 @@ Skálmöld                       | 10   | 336
 Seven Spires                   | 11   | 325      
 Avenged Sevenfold              | 12   | 321      
 Haken                          | 13   | 314      
-Foo Fighters                   | 14   | 311      
+Foo Fighters                   | 14   | 312      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 16   | 227      
 Honningbarna                   | 19   | 207      
@@ -46,11 +46,11 @@ Architects                     | 44   | 127
 blink-182                      | 50   | 119      
 Lamb of God                    | 51   | 118      
 The Good The Bad and The Zugly | 52   | 116      
-The Killers                    | 58   | 105      
-Opeth                          | 59   | 101      
-22                             | 61   | 99       
-Maktkamp                       | 62   | 98       
-Backstreet Girls               | 64   | 95       
+The Killers                    | 59   | 105      
+Opeth                          | 60   | 101      
+22                             | 62   | 99       
+Maktkamp                       | 63   | 98       
+Backstreet Girls               | 65   | 95       
 Oslo Ess                       | 66   | 95       
 Volbeat                        | 67   | 94       
 Kaizers Orchestra              | 69   | 92       
@@ -81,9 +81,9 @@ Jinjer                         | 47   | 125
 The Police                     | 48   | 125      
 Linkin Park                    | 54   | 110      
 Aktiv Dödshjelp                | 55   | 109      
-Red Hot Chili Peppers          | 57   | 105      
-Parius                         | 60   | 100      
-John Mayer                     | 65   | 95       
+John Mayer                     | 56   | 107      
+Red Hot Chili Peppers          | 58   | 105      
+Parius                         | 61   | 100      
 The Black Keys                 | 68   | 93       
 DumDum Boys                    | 70   | 90       
 Thulsa Doom                    | 71   | 87       
@@ -106,9 +106,9 @@ The Rolling Stones             | 92   | 73
 Maraton                        | 93   | 71       
 OnklP & De Fjerne Slektningene | 94   | 71       
 Leprous                        | 95   | 69       
-Styx                           | 97   | 68       
-Kings of Leon                  | 98   | 67       
-Megadeth                       | 99   | 67       
+Megadeth                       | 97   | 68       
+Styx                           | 98   | 68       
+Kings of Leon                  | 99   | 67       
 Rise Against                   | 100  | 67       
 
 ## Inactive top 100 artists not seen live (9)
@@ -120,7 +120,7 @@ Rush                         | 8    | 368
 Hall & Oates                 | 43   | 128      
 Creedence Clearwater Revival | 49   | 121      
 Pink Floyd                   | 53   | 111      
-Led Zeppelin                 | 56   | 106      
-Dire Straits                 | 63   | 96       
+Led Zeppelin                 | 57   | 106      
+Dire Straits                 | 64   | 96       
 Daft Punk                    | 83   | 80       
 The Beatles                  | 89   | 75       
