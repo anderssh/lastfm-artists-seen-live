@@ -63,7 +63,7 @@ Children of Bodom              | 96   | 68
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Thorbjørn Egner                | 2    | 776      
+Thorbjørn Egner                | 2    | 778      
 Jean-Luc Ponty                 | 17   | 226      
 Nospūn                         | 18   | 226      
 Lars Vaular                    | 22   | 181      
