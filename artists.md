@@ -85,7 +85,7 @@ John Mayer                     | 56   | 107
 Red Hot Chili Peppers          | 58   | 105      
 Parius                         | 61   | 100      
 The Black Keys                 | 68   | 93       
-DumDum Boys                    | 70   | 90       
+DumDum Boys                    | 70   | 91       
 Thulsa Doom                    | 71   | 87       
 Porcupine Tree                 | 73   | 84       
 Queens of the Stone Age        | 74   | 84       
@@ -106,9 +106,9 @@ The Rolling Stones             | 92   | 73
 Maraton                        | 93   | 71       
 OnklP & De Fjerne Slektningene | 94   | 71       
 Leprous                        | 95   | 69       
-Megadeth                       | 97   | 68       
-Styx                           | 98   | 68       
-Kings of Leon                  | 99   | 67       
+Kings of Leon                  | 97   | 68       
+Megadeth                       | 98   | 68       
+Styx                           | 99   | 68       
 Rise Against                   | 100  | 67       
 
 ## Inactive top 100 artists not seen live (9)
