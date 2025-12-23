@@ -36,7 +36,7 @@ Eluveitie                      | 26   | 169
 Mastodon                       | 30   | 163      
 Amyl and the Sniffers          | 31   | 160      
 Finntroll                      | 35   | 141      
-Gojira                         | 36   | 140      
+Gojira                         | 36   | 141      
 Ne Obliviscaris                | 37   | 139      
 Eminem                         | 38   | 138      
 Kvelertak                      | 39   | 137      
