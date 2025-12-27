@@ -19,8 +19,8 @@ AC/DC                          | 3    | 774
 Spidergawd                     | 4    | 452      
 Metallica                      | 5    | 430      
 In Flames                      | 6    | 412      
-Ghost                          | 9    | 344      
-Skálmöld                       | 10   | 336      
+Skálmöld                       | 9    | 345      
+Ghost                          | 10   | 344      
 Seven Spires                   | 11   | 325      
 Avenged Sevenfold              | 12   | 321      
 Haken                          | 13   | 314      
