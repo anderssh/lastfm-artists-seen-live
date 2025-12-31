@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 980      
-AC/DC                          | 3    | 774      
+AC/DC                          | 2    | 790      
 Spidergawd                     | 4    | 452      
 Metallica                      | 5    | 430      
 In Flames                      | 6    | 412      
@@ -31,21 +31,21 @@ Honningbarna                   | 19   | 207
 The Dogs                       | 20   | 205      
 Slipknot                       | 21   | 197      
 Green Day                      | 24   | 179      
-Tool                           | 25   | 171      
-Eluveitie                      | 26   | 169      
-Mastodon                       | 30   | 163      
-Amyl and the Sniffers          | 31   | 160      
-Finntroll                      | 35   | 141      
-Gojira                         | 36   | 141      
-Ne Obliviscaris                | 37   | 139      
-Eminem                         | 38   | 138      
-Kvelertak                      | 39   | 137      
-Pagan's Mind                   | 40   | 137      
-Judas Priest                   | 42   | 130      
-Architects                     | 44   | 127      
-blink-182                      | 50   | 119      
-Lamb of God                    | 51   | 118      
-The Good The Bad and The Zugly | 52   | 116      
+Tool                           | 26   | 171      
+Eluveitie                      | 27   | 169      
+Mastodon                       | 31   | 163      
+Amyl and the Sniffers          | 32   | 160      
+Finntroll                      | 36   | 141      
+Gojira                         | 37   | 141      
+Ne Obliviscaris                | 38   | 139      
+Eminem                         | 39   | 138      
+Kvelertak                      | 40   | 137      
+Pagan's Mind                   | 41   | 137      
+Judas Priest                   | 43   | 130      
+Architects                     | 45   | 127      
+blink-182                      | 51   | 119      
+Lamb of God                    | 52   | 118      
+The Good The Bad and The Zugly | 53   | 116      
 The Killers                    | 59   | 105      
 22                             | 60   | 101      
 Opeth                          | 61   | 101      
@@ -63,23 +63,23 @@ Children of Bodom              | 96   | 68
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Thorbjørn Egner                | 2    | 778      
+Thorbjørn Egner                | 3    | 778      
 Jean-Luc Ponty                 | 17   | 226      
 Nospūn                         | 18   | 226      
 Lars Vaular                    | 22   | 181      
 All That Remains               | 23   | 180      
-The Halo Effect                | 27   | 169      
-The Offspring                  | 28   | 166      
-The Night Flight Orchestra     | 29   | 165      
-Death by Unga Bunga            | 32   | 157      
-Animals as Leaders             | 33   | 155      
-Sylosis                        | 34   | 145      
-Heilung                        | 41   | 131      
-Toto                           | 45   | 127      
-DJ MøMø                        | 46   | 125      
-Jinjer                         | 47   | 125      
-The Police                     | 48   | 125      
-John Mayer                     | 54   | 112      
+John Mayer                     | 25   | 171      
+The Halo Effect                | 28   | 169      
+The Offspring                  | 29   | 166      
+The Night Flight Orchestra     | 30   | 165      
+Death by Unga Bunga            | 33   | 157      
+Animals as Leaders             | 34   | 155      
+Sylosis                        | 35   | 145      
+Heilung                        | 42   | 131      
+Toto                           | 46   | 127      
+DJ MøMø                        | 47   | 125      
+Jinjer                         | 48   | 125      
+The Police                     | 49   | 125      
 Linkin Park                    | 55   | 110      
 Aktiv Dödshjelp                | 56   | 109      
 Red Hot Chili Peppers          | 58   | 105      
@@ -117,9 +117,9 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 394      
 Rush                         | 8    | 368      
-Hall & Oates                 | 43   | 128      
-Creedence Clearwater Revival | 49   | 121      
-Pink Floyd                   | 53   | 115      
+Hall & Oates                 | 44   | 128      
+Creedence Clearwater Revival | 50   | 121      
+Pink Floyd                   | 54   | 115      
 Led Zeppelin                 | 57   | 106      
 Dire Straits                 | 64   | 96       
 Daft Punk                    | 83   | 80       
