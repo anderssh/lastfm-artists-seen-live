@@ -14,17 +14,17 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 980      
-AC/DC                          | 2    | 790      
+Dream Theater                  | 1    | 982      
+AC/DC                          | 2    | 797      
 Spidergawd                     | 4    | 452      
-Metallica                      | 5    | 430      
+Metallica                      | 5    | 432      
 In Flames                      | 6    | 412      
-Skálmöld                       | 9    | 345      
-Ghost                          | 10   | 344      
-Seven Spires                   | 11   | 325      
-Avenged Sevenfold              | 12   | 321      
-Foo Fighters                   | 13   | 316      
-Haken                          | 14   | 314      
+Ghost                          | 9    | 345      
+Skálmöld                       | 10   | 345      
+Foo Fighters                   | 11   | 327      
+Seven Spires                   | 12   | 325      
+Avenged Sevenfold              | 13   | 321      
+Haken                          | 14   | 316      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 16   | 227      
 Honningbarna                   | 19   | 207      
@@ -35,28 +35,28 @@ Tool                           | 26   | 171
 Eluveitie                      | 27   | 169      
 Mastodon                       | 31   | 163      
 Amyl and the Sniffers          | 32   | 160      
-Finntroll                      | 36   | 141      
-Gojira                         | 37   | 141      
-Ne Obliviscaris                | 38   | 139      
-Eminem                         | 39   | 138      
-Kvelertak                      | 40   | 137      
-Pagan's Mind                   | 41   | 137      
-Judas Priest                   | 43   | 130      
-Architects                     | 45   | 127      
-blink-182                      | 51   | 119      
-Lamb of God                    | 52   | 118      
-The Good The Bad and The Zugly | 53   | 116      
-The Killers                    | 59   | 105      
+Finntroll                      | 37   | 141      
+Gojira                         | 38   | 141      
+Ne Obliviscaris                | 39   | 139      
+Pagan's Mind                   | 40   | 139      
+Eminem                         | 41   | 138      
+Kvelertak                      | 42   | 137      
+Judas Priest                   | 45   | 130      
+Architects                     | 47   | 127      
+blink-182                      | 52   | 119      
+Lamb of God                    | 53   | 118      
+The Good The Bad and The Zugly | 54   | 116      
+The Killers                    | 55   | 113      
 22                             | 60   | 101      
 Opeth                          | 61   | 101      
 Maktkamp                       | 63   | 98       
 Backstreet Girls               | 65   | 95       
 Oslo Ess                       | 66   | 95       
-Volbeat                        | 67   | 94       
+Volbeat                        | 67   | 95       
 Kaizers Orchestra              | 69   | 92       
 Soilwork                       | 73   | 86       
 Fit for an Autopsy             | 78   | 83       
-Turbonegro                     | 81   | 82       
+Turbonegro                     | 82   | 82       
 Children of Bodom              | 96   | 68       
 
 ## Active top 100 artists not seen live (47)
@@ -68,21 +68,21 @@ Jean-Luc Ponty                 | 17   | 226
 Nospūn                         | 18   | 226      
 Lars Vaular                    | 22   | 181      
 All That Remains               | 23   | 180      
-John Mayer                     | 25   | 171      
+John Mayer                     | 25   | 173      
 The Halo Effect                | 28   | 169      
 The Offspring                  | 29   | 166      
 The Night Flight Orchestra     | 30   | 165      
 Death by Unga Bunga            | 33   | 157      
 Animals as Leaders             | 34   | 155      
-Sylosis                        | 35   | 145      
-Heilung                        | 42   | 131      
-Toto                           | 46   | 127      
-DJ MøMø                        | 47   | 125      
-Jinjer                         | 48   | 125      
-The Police                     | 49   | 125      
-Linkin Park                    | 55   | 110      
-Aktiv Dödshjelp                | 56   | 109      
-Red Hot Chili Peppers          | 58   | 105      
+Sylosis                        | 36   | 145      
+Heilung                        | 43   | 131      
+Toto                           | 44   | 131      
+DJ MøMø                        | 48   | 125      
+Jinjer                         | 49   | 125      
+The Police                     | 50   | 125      
+Linkin Park                    | 56   | 110      
+Aktiv Dödshjelp                | 57   | 109      
+Red Hot Chili Peppers          | 58   | 109      
 Parius                         | 62   | 100      
 The Black Keys                 | 68   | 93       
 DumDum Boys                    | 70   | 91       
@@ -93,8 +93,8 @@ Queens of the Stone Age        | 75   | 84
 Devin Townsend Project         | 76   | 83       
 Elton John                     | 77   | 83       
 Bokassa                        | 79   | 82       
-Meshuggah                      | 80   | 82       
-Barnesprell                    | 82   | 80       
+Meshuggah                      | 81   | 82       
+Barnesprell                    | 83   | 80       
 D-A-D                          | 84   | 78       
 will.i.am                      | 85   | 78       
 Kaptein Sabeltann              | 86   | 77       
@@ -117,10 +117,10 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 394      
 Rush                         | 8    | 368      
-Hall & Oates                 | 44   | 128      
-Creedence Clearwater Revival | 50   | 121      
-Pink Floyd                   | 54   | 115      
-Led Zeppelin                 | 57   | 106      
+Pink Floyd                   | 35   | 152      
+Hall & Oates                 | 46   | 128      
+Creedence Clearwater Revival | 51   | 121      
+Led Zeppelin                 | 59   | 106      
 Dire Straits                 | 64   | 96       
-Daft Punk                    | 83   | 80       
+Daft Punk                    | 80   | 82       
 The Beatles                  | 89   | 75       
