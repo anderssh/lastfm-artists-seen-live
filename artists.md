@@ -53,11 +53,11 @@ Maktkamp                       | 63   | 98
 Backstreet Girls               | 65   | 95       
 Oslo Ess                       | 66   | 95       
 Volbeat                        | 67   | 95       
-Kaizers Orchestra              | 69   | 92       
-Soilwork                       | 73   | 86       
-Fit for an Autopsy             | 78   | 83       
-Turbonegro                     | 82   | 82       
-Children of Bodom              | 96   | 68       
+Kaizers Orchestra              | 70   | 92       
+Soilwork                       | 74   | 86       
+Fit for an Autopsy             | 79   | 83       
+Turbonegro                     | 83   | 82       
+Children of Bodom              | 97   | 68       
 
 ## Active top 100 artists not seen live (47)
 
@@ -84,32 +84,32 @@ Linkin Park                    | 56   | 110
 Aktiv Dödshjelp                | 57   | 109      
 Red Hot Chili Peppers          | 58   | 109      
 Parius                         | 62   | 100      
-The Black Keys                 | 68   | 93       
-DumDum Boys                    | 70   | 91       
-Porcupine Tree                 | 71   | 88       
-Thulsa Doom                    | 72   | 87       
-Bill Withers                   | 74   | 85       
-Queens of the Stone Age        | 75   | 84       
-Devin Townsend Project         | 76   | 83       
-Elton John                     | 77   | 83       
-Bokassa                        | 79   | 82       
-Meshuggah                      | 81   | 82       
-Barnesprell                    | 83   | 80       
-D-A-D                          | 84   | 78       
-will.i.am                      | 85   | 78       
-Kaptein Sabeltann              | 86   | 77       
-Rival Sons                     | 87   | 77       
-VOLA                           | 88   | 76       
-Love                           | 90   | 74       
-SikTh                          | 91   | 74       
-The Rolling Stones             | 92   | 73       
-Maraton                        | 93   | 71       
-OnklP & De Fjerne Slektningene | 94   | 71       
-Leprous                        | 95   | 69       
-Kings of Leon                  | 97   | 68       
-Megadeth                       | 98   | 68       
-Styx                           | 99   | 68       
-Rise Against                   | 100  | 67       
+Eivør Pálsdóttir               | 68   | 93       
+The Black Keys                 | 69   | 93       
+DumDum Boys                    | 71   | 91       
+Porcupine Tree                 | 72   | 88       
+Thulsa Doom                    | 73   | 87       
+Bill Withers                   | 75   | 85       
+Queens of the Stone Age        | 76   | 84       
+Devin Townsend Project         | 77   | 83       
+Elton John                     | 78   | 83       
+Bokassa                        | 80   | 82       
+Meshuggah                      | 82   | 82       
+Barnesprell                    | 84   | 80       
+D-A-D                          | 85   | 78       
+will.i.am                      | 86   | 78       
+Kaptein Sabeltann              | 87   | 77       
+Rival Sons                     | 88   | 77       
+VOLA                           | 89   | 76       
+Love                           | 91   | 74       
+SikTh                          | 92   | 74       
+The Rolling Stones             | 93   | 73       
+Maraton                        | 94   | 71       
+OnklP & De Fjerne Slektningene | 95   | 71       
+Leprous                        | 96   | 69       
+Kings of Leon                  | 98   | 68       
+Megadeth                       | 99   | 68       
+Styx                           | 100  | 68       
 
 ## Inactive top 100 artists not seen live (9)
 
@@ -122,5 +122,5 @@ Hall & Oates                 | 46   | 128
 Creedence Clearwater Revival | 51   | 121      
 Led Zeppelin                 | 59   | 106      
 Dire Straits                 | 64   | 96       
-Daft Punk                    | 80   | 82       
-The Beatles                  | 89   | 75       
+Daft Punk                    | 81   | 82       
+The Beatles                  | 90   | 75       
