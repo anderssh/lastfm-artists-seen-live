@@ -84,7 +84,7 @@ Linkin Park                    | 56   | 110
 Aktiv Dödshjelp                | 57   | 109      
 Red Hot Chili Peppers          | 58   | 109      
 Parius                         | 62   | 100      
-Eivør Pálsdóttir               | 68   | 93       
+Eivør Pálsdóttir               | 68   | 94       
 The Black Keys                 | 69   | 93       
 DumDum Boys                    | 71   | 91       
 Porcupine Tree                 | 72   | 88       
@@ -107,9 +107,9 @@ The Rolling Stones             | 93   | 73
 Maraton                        | 94   | 71       
 OnklP & De Fjerne Slektningene | 95   | 71       
 Leprous                        | 96   | 69       
-Kings of Leon                  | 98   | 68       
-Megadeth                       | 99   | 68       
-Styx                           | 100  | 68       
+Highasakite                    | 98   | 68       
+Kings of Leon                  | 99   | 68       
+Megadeth                       | 100  | 68       
 
 ## Inactive top 100 artists not seen live (9)
 
