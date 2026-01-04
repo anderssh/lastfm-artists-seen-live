@@ -26,7 +26,7 @@ Seven Spires                   | 12   | 325
 Avenged Sevenfold              | 13   | 321      
 Haken                          | 14   | 316      
 Circus Maximus                 | 15   | 292      
-Greta Van Fleet                | 16   | 227      
+Greta Van Fleet                | 16   | 240      
 Honningbarna                   | 19   | 207      
 The Dogs                       | 20   | 205      
 Slipknot                       | 21   | 197      
@@ -53,7 +53,7 @@ Maktkamp                       | 63   | 98
 Backstreet Girls               | 65   | 95       
 Oslo Ess                       | 66   | 95       
 Volbeat                        | 67   | 95       
-Kaizers Orchestra              | 70   | 92       
+Kaizers Orchestra              | 71   | 92       
 Soilwork                       | 74   | 86       
 Fit for an Autopsy             | 79   | 83       
 Turbonegro                     | 83   | 82       
@@ -77,7 +77,7 @@ Animals as Leaders             | 34   | 155
 Sylosis                        | 36   | 145      
 Heilung                        | 43   | 131      
 Toto                           | 44   | 131      
-DJ MøMø                        | 48   | 125      
+DJ MøMø                        | 48   | 127      
 Jinjer                         | 49   | 125      
 The Police                     | 50   | 125      
 Linkin Park                    | 56   | 110      
@@ -85,9 +85,9 @@ Aktiv Dödshjelp                | 57   | 109
 Red Hot Chili Peppers          | 58   | 109      
 Parius                         | 62   | 100      
 Eivør Pálsdóttir               | 68   | 94       
-The Black Keys                 | 69   | 93       
-DumDum Boys                    | 71   | 91       
-Porcupine Tree                 | 72   | 88       
+Porcupine Tree                 | 69   | 94       
+The Black Keys                 | 70   | 93       
+DumDum Boys                    | 72   | 91       
 Thulsa Doom                    | 73   | 87       
 Bill Withers                   | 75   | 85       
 Queens of the Stone Age        | 76   | 84       
