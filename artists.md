@@ -26,7 +26,7 @@ Seven Spires                   | 12   | 325
 Avenged Sevenfold              | 13   | 321      
 Haken                          | 14   | 316      
 Circus Maximus                 | 15   | 292      
-Greta Van Fleet                | 16   | 240      
+Greta Van Fleet                | 16   | 241      
 Honningbarna                   | 19   | 207      
 The Dogs                       | 20   | 205      
 Slipknot                       | 21   | 197      
