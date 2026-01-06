@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 982      
+Dream Theater                  | 1    | 983      
 AC/DC                          | 2    | 797      
 Spidergawd                     | 4    | 452      
 Metallica                      | 5    | 432      
@@ -24,13 +24,13 @@ Skálmöld                       | 10   | 345
 Foo Fighters                   | 11   | 327      
 Seven Spires                   | 12   | 325      
 Avenged Sevenfold              | 13   | 321      
-Haken                          | 14   | 316      
+Haken                          | 14   | 317      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 16   | 241      
 Honningbarna                   | 19   | 207      
 The Dogs                       | 20   | 205      
 Slipknot                       | 21   | 197      
-Green Day                      | 24   | 179      
+Green Day                      | 25   | 179      
 Tool                           | 26   | 171      
 Eluveitie                      | 27   | 169      
 Mastodon                       | 31   | 163      
@@ -47,8 +47,8 @@ blink-182                      | 52   | 119
 Lamb of God                    | 53   | 118      
 The Good The Bad and The Zugly | 54   | 116      
 The Killers                    | 55   | 113      
-22                             | 60   | 101      
-Opeth                          | 61   | 101      
+Opeth                          | 60   | 103      
+22                             | 61   | 101      
 Maktkamp                       | 63   | 98       
 Backstreet Girls               | 65   | 95       
 Oslo Ess                       | 66   | 95       
@@ -66,9 +66,9 @@ Name                           | Rank | PlayCount
 Thorbjørn Egner                | 3    | 778      
 Jean-Luc Ponty                 | 17   | 226      
 Nospūn                         | 18   | 226      
-Lars Vaular                    | 22   | 181      
-All That Remains               | 23   | 180      
-John Mayer                     | 25   | 173      
+John Mayer                     | 22   | 192      
+Lars Vaular                    | 23   | 181      
+All That Remains               | 24   | 180      
 The Halo Effect                | 28   | 169      
 The Offspring                  | 29   | 166      
 The Night Flight Orchestra     | 30   | 165      
@@ -90,8 +90,8 @@ The Black Keys                 | 70   | 93
 DumDum Boys                    | 72   | 91       
 Thulsa Doom                    | 73   | 87       
 Bill Withers                   | 75   | 85       
-Queens of the Stone Age        | 76   | 84       
-Devin Townsend Project         | 77   | 83       
+Devin Townsend Project         | 76   | 84       
+Queens of the Stone Age        | 77   | 84       
 Elton John                     | 78   | 83       
 Bokassa                        | 80   | 82       
 Meshuggah                      | 82   | 82       
@@ -101,8 +101,8 @@ will.i.am                      | 86   | 78
 Kaptein Sabeltann              | 87   | 77       
 Rival Sons                     | 88   | 77       
 VOLA                           | 89   | 76       
-Love                           | 91   | 74       
-SikTh                          | 92   | 74       
+SikTh                          | 90   | 75       
+Love                           | 92   | 74       
 The Rolling Stones             | 93   | 73       
 Maraton                        | 94   | 71       
 OnklP & De Fjerne Slektningene | 95   | 71       
@@ -123,4 +123,4 @@ Creedence Clearwater Revival | 51   | 121
 Led Zeppelin                 | 59   | 106      
 Dire Straits                 | 64   | 96       
 Daft Punk                    | 81   | 82       
-The Beatles                  | 90   | 75       
+The Beatles                  | 91   | 75       
