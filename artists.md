@@ -74,7 +74,7 @@ The Offspring                  | 29   | 166
 The Night Flight Orchestra     | 30   | 165      
 Death by Unga Bunga            | 33   | 157      
 Animals as Leaders             | 34   | 155      
-Sylosis                        | 36   | 145      
+Sylosis                        | 36   | 146      
 Heilung                        | 43   | 131      
 Toto                           | 45   | 131      
 DJ MøMø                        | 48   | 127      
