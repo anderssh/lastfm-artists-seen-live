@@ -17,9 +17,9 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 983      
 AC/DC                          | 2    | 800      
 Spidergawd                     | 4    | 452      
-Metallica                      | 5    | 434      
+Metallica                      | 5    | 436      
 In Flames                      | 6    | 412      
-Ghost                          | 9    | 345      
+Ghost                          | 9    | 346      
 Skálmöld                       | 10   | 345      
 Foo Fighters                   | 11   | 327      
 Seven Spires                   | 12   | 325      
@@ -37,8 +37,8 @@ Mastodon                       | 31   | 163
 Amyl and the Sniffers          | 32   | 160      
 Finntroll                      | 37   | 141      
 Gojira                         | 38   | 141      
-Ne Obliviscaris                | 39   | 139      
-Pagan's Mind                   | 40   | 139      
+Pagan's Mind                   | 39   | 140      
+Ne Obliviscaris                | 40   | 139      
 Eminem                         | 41   | 138      
 Kvelertak                      | 42   | 137      
 Judas Priest                   | 44   | 131      
@@ -47,12 +47,12 @@ blink-182                      | 52   | 119
 Lamb of God                    | 53   | 118      
 The Good The Bad and The Zugly | 54   | 116      
 The Killers                    | 55   | 113      
-Opeth                          | 60   | 103      
-22                             | 61   | 101      
-Maktkamp                       | 63   | 98       
-Backstreet Girls               | 65   | 95       
-Oslo Ess                       | 66   | 95       
-Volbeat                        | 67   | 95       
+Opeth                          | 61   | 103      
+22                             | 62   | 101      
+Maktkamp                       | 64   | 98       
+Volbeat                        | 66   | 96       
+Backstreet Girls               | 67   | 95       
+Oslo Ess                       | 68   | 95       
 Kaizers Orchestra              | 71   | 92       
 Soilwork                       | 74   | 86       
 Fit for an Autopsy             | 79   | 83       
@@ -83,8 +83,8 @@ The Police                     | 50   | 125
 Linkin Park                    | 56   | 110      
 Aktiv Dödshjelp                | 57   | 109      
 Red Hot Chili Peppers          | 58   | 109      
-Parius                         | 62   | 100      
-Eivør Pálsdóttir               | 68   | 94       
+Eivør Pálsdóttir               | 59   | 108      
+Parius                         | 63   | 100      
 Porcupine Tree                 | 69   | 94       
 The Black Keys                 | 70   | 93       
 DumDum Boys                    | 72   | 91       
@@ -120,7 +120,7 @@ Rush                         | 8    | 368
 Pink Floyd                   | 35   | 152      
 Hall & Oates                 | 46   | 128      
 Creedence Clearwater Revival | 51   | 121      
-Led Zeppelin                 | 59   | 106      
-Dire Straits                 | 64   | 96       
+Led Zeppelin                 | 60   | 106      
+Dire Straits                 | 65   | 96       
 Daft Punk                    | 81   | 82       
 The Beatles                  | 91   | 75       
