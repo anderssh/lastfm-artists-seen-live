@@ -96,12 +96,12 @@ Elton John                     | 78   | 83
 Bokassa                        | 80   | 82       
 Meshuggah                      | 82   | 82       
 Barnesprell                    | 84   | 80       
-D-A-D                          | 85   | 78       
-will.i.am                      | 86   | 78       
-Kaptein Sabeltann              | 87   | 77       
-Rival Sons                     | 88   | 77       
-VOLA                           | 89   | 76       
-SikTh                          | 90   | 75       
+SikTh                          | 85   | 79       
+D-A-D                          | 86   | 78       
+will.i.am                      | 87   | 78       
+Kaptein Sabeltann              | 88   | 77       
+Rival Sons                     | 89   | 77       
+VOLA                           | 90   | 76       
 Love                           | 92   | 74       
 The Rolling Stones             | 93   | 73       
 Maraton                        | 94   | 71       
