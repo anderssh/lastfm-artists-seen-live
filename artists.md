@@ -19,7 +19,7 @@ AC/DC                          | 2    | 800
 Spidergawd                     | 4    | 452      
 Metallica                      | 5    | 436      
 In Flames                      | 6    | 412      
-Ghost                          | 9    | 347      
+Ghost                          | 9    | 351      
 Skálmöld                       | 10   | 345      
 Foo Fighters                   | 11   | 327      
 Seven Spires                   | 12   | 325      
@@ -29,7 +29,7 @@ Circus Maximus                 | 15   | 292
 Greta Van Fleet                | 16   | 241      
 Honningbarna                   | 19   | 207      
 The Dogs                       | 20   | 205      
-Slipknot                       | 21   | 197      
+Slipknot                       | 21   | 198      
 Green Day                      | 25   | 179      
 Tool                           | 26   | 171      
 Eluveitie                      | 27   | 169      
@@ -41,16 +41,16 @@ Pagan's Mind                   | 39   | 140
 Ne Obliviscaris                | 40   | 139      
 Eminem                         | 41   | 138      
 Kvelertak                      | 42   | 137      
-Judas Priest                   | 44   | 131      
+Judas Priest                   | 43   | 132      
 Architects                     | 47   | 127      
 blink-182                      | 52   | 119      
 Lamb of God                    | 53   | 118      
 The Good The Bad and The Zugly | 54   | 116      
-The Killers                    | 55   | 113      
+The Killers                    | 55   | 114      
 Opeth                          | 61   | 103      
 22                             | 62   | 101      
 Maktkamp                       | 64   | 98       
-Volbeat                        | 66   | 96       
+Volbeat                        | 65   | 98       
 Backstreet Girls               | 67   | 95       
 Oslo Ess                       | 68   | 95       
 Kaizers Orchestra              | 71   | 92       
@@ -75,7 +75,7 @@ The Night Flight Orchestra     | 30   | 165
 Death by Unga Bunga            | 33   | 157      
 Animals as Leaders             | 34   | 155      
 Sylosis                        | 36   | 146      
-Heilung                        | 43   | 131      
+Heilung                        | 44   | 131      
 Toto                           | 45   | 131      
 DJ MøMø                        | 48   | 127      
 Jinjer                         | 49   | 125      
@@ -93,11 +93,11 @@ Bill Withers                   | 75   | 85
 Devin Townsend Project         | 76   | 84       
 Queens of the Stone Age        | 77   | 84       
 Elton John                     | 78   | 83       
-Bokassa                        | 80   | 82       
-Meshuggah                      | 82   | 82       
+Meshuggah                      | 80   | 83       
+Bokassa                        | 81   | 82       
 Barnesprell                    | 84   | 80       
-SikTh                          | 85   | 79       
-D-A-D                          | 86   | 78       
+D-A-D                          | 85   | 80       
+SikTh                          | 86   | 79       
 will.i.am                      | 87   | 78       
 Kaptein Sabeltann              | 88   | 77       
 Rival Sons                     | 89   | 77       
@@ -121,6 +121,6 @@ Pink Floyd                   | 35   | 152
 Hall & Oates                 | 46   | 128      
 Creedence Clearwater Revival | 51   | 121      
 Led Zeppelin                 | 60   | 106      
-Dire Straits                 | 65   | 96       
-Daft Punk                    | 81   | 82       
+Dire Straits                 | 66   | 96       
+Daft Punk                    | 82   | 82       
 The Beatles                  | 91   | 75       
