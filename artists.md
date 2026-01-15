@@ -14,16 +14,16 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 983      
+Dream Theater                  | 1    | 984      
 AC/DC                          | 2    | 800      
 Spidergawd                     | 4    | 452      
-Metallica                      | 5    | 436      
+Metallica                      | 5    | 439      
 In Flames                      | 6    | 412      
-Ghost                          | 9    | 351      
+Ghost                          | 9    | 353      
 Skálmöld                       | 10   | 345      
 Foo Fighters                   | 11   | 327      
 Seven Spires                   | 12   | 325      
-Avenged Sevenfold              | 13   | 321      
+Avenged Sevenfold              | 13   | 322      
 Haken                          | 14   | 317      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 16   | 241      
@@ -35,9 +35,9 @@ Tool                           | 26   | 171
 Eluveitie                      | 27   | 169      
 Mastodon                       | 31   | 163      
 Amyl and the Sniffers          | 32   | 160      
-Finntroll                      | 37   | 141      
-Gojira                         | 38   | 141      
-Pagan's Mind                   | 39   | 140      
+Finntroll                      | 37   | 142      
+Gojira                         | 38   | 142      
+Pagan's Mind                   | 39   | 141      
 Ne Obliviscaris                | 40   | 139      
 Eminem                         | 41   | 138      
 Kvelertak                      | 42   | 137      
@@ -49,15 +49,15 @@ The Good The Bad and The Zugly | 54   | 116
 The Killers                    | 55   | 114      
 Opeth                          | 61   | 103      
 22                             | 62   | 101      
-Maktkamp                       | 64   | 98       
-Volbeat                        | 65   | 98       
+Volbeat                        | 63   | 101      
+Maktkamp                       | 65   | 98       
 Backstreet Girls               | 67   | 95       
 Oslo Ess                       | 68   | 95       
 Kaizers Orchestra              | 71   | 92       
 Soilwork                       | 74   | 86       
 Fit for an Autopsy             | 79   | 83       
 Turbonegro                     | 83   | 82       
-Children of Bodom              | 97   | 68       
+Children of Bodom              | 96   | 69       
 
 ## Active top 100 artists not seen live (47)
 
@@ -84,7 +84,7 @@ Linkin Park                    | 56   | 110
 Aktiv Dödshjelp                | 57   | 109      
 Red Hot Chili Peppers          | 58   | 109      
 Eivør Pálsdóttir               | 59   | 108      
-Parius                         | 63   | 100      
+Parius                         | 64   | 100      
 Porcupine Tree                 | 69   | 94       
 The Black Keys                 | 70   | 93       
 DumDum Boys                    | 72   | 91       
@@ -106,7 +106,7 @@ Love                           | 92   | 74
 The Rolling Stones             | 93   | 73       
 Maraton                        | 94   | 71       
 OnklP & De Fjerne Slektningene | 95   | 71       
-Leprous                        | 96   | 69       
+Leprous                        | 97   | 69       
 Highasakite                    | 98   | 68       
 Kings of Leon                  | 99   | 68       
 Megadeth                       | 100  | 68       
