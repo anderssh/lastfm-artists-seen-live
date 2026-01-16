@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 984      
-AC/DC                          | 2    | 800      
+AC/DC                          | 3    | 800      
 Spidergawd                     | 4    | 452      
 Metallica                      | 5    | 439      
 In Flames                      | 6    | 412      
@@ -63,12 +63,12 @@ Children of Bodom              | 96   | 69
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Thorbjørn Egner                | 3    | 778      
+Thorbjørn Egner                | 2    | 809      
 Jean-Luc Ponty                 | 17   | 226      
 Nospūn                         | 18   | 226      
 John Mayer                     | 22   | 192      
-Lars Vaular                    | 23   | 181      
-All That Remains               | 24   | 180      
+All That Remains               | 23   | 190      
+Lars Vaular                    | 24   | 181      
 The Halo Effect                | 28   | 169      
 The Offspring                  | 29   | 166      
 The Night Flight Orchestra     | 30   | 165      
@@ -91,8 +91,8 @@ DumDum Boys                    | 72   | 91
 Thulsa Doom                    | 73   | 87       
 Bill Withers                   | 75   | 85       
 Devin Townsend Project         | 76   | 84       
-Queens of the Stone Age        | 77   | 84       
-Elton John                     | 78   | 83       
+Elton John                     | 77   | 84       
+Queens of the Stone Age        | 78   | 84       
 Meshuggah                      | 80   | 83       
 Bokassa                        | 81   | 82       
 Barnesprell                    | 84   | 80       
@@ -115,9 +115,9 @@ Megadeth                       | 100  | 68
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 7    | 394      
+Fleetwood Mac                | 7    | 395      
 Rush                         | 8    | 368      
-Pink Floyd                   | 35   | 152      
+Pink Floyd                   | 35   | 153      
 Hall & Oates                 | 46   | 128      
 Creedence Clearwater Revival | 51   | 121      
 Led Zeppelin                 | 60   | 106      
