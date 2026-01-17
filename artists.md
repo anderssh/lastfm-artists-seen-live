@@ -66,8 +66,8 @@ Name                           | Rank | PlayCount
 Thorbjørn Egner                | 2    | 809      
 Jean-Luc Ponty                 | 17   | 226      
 Nospūn                         | 18   | 226      
-John Mayer                     | 22   | 192      
-All That Remains               | 23   | 190      
+All That Remains               | 22   | 195      
+John Mayer                     | 23   | 192      
 Lars Vaular                    | 24   | 181      
 The Halo Effect                | 28   | 169      
 The Offspring                  | 29   | 166      
