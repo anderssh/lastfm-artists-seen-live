@@ -19,9 +19,9 @@ AC/DC                          | 3    | 800
 Spidergawd                     | 4    | 452      
 Metallica                      | 5    | 439      
 In Flames                      | 6    | 412      
-Ghost                          | 9    | 353      
+Ghost                          | 9    | 354      
 Skálmöld                       | 10   | 345      
-Foo Fighters                   | 11   | 327      
+Foo Fighters                   | 11   | 328      
 Seven Spires                   | 12   | 325      
 Avenged Sevenfold              | 13   | 322      
 Haken                          | 14   | 317      
@@ -97,7 +97,7 @@ Meshuggah                      | 80   | 83
 Bokassa                        | 81   | 82       
 Barnesprell                    | 84   | 80       
 D-A-D                          | 85   | 80       
-SikTh                          | 86   | 79       
+SikTh                          | 86   | 80       
 will.i.am                      | 87   | 78       
 Kaptein Sabeltann              | 88   | 77       
 Rival Sons                     | 89   | 77       
