@@ -46,16 +46,16 @@ Architects                     | 47   | 127
 blink-182                      | 52   | 119      
 Lamb of God                    | 53   | 118      
 The Good The Bad and The Zugly | 54   | 116      
-The Killers                    | 55   | 114      
-Opeth                          | 61   | 103      
-22                             | 62   | 101      
-Volbeat                        | 63   | 101      
-Maktkamp                       | 65   | 98       
-Backstreet Girls               | 67   | 95       
-Oslo Ess                       | 68   | 95       
-Kaizers Orchestra              | 71   | 92       
-Soilwork                       | 74   | 86       
-Fit for an Autopsy             | 79   | 83       
+The Killers                    | 56   | 114      
+Opeth                          | 62   | 103      
+22                             | 63   | 101      
+Volbeat                        | 64   | 101      
+Maktkamp                       | 66   | 98       
+Backstreet Girls               | 68   | 95       
+Oslo Ess                       | 69   | 95       
+Kaizers Orchestra              | 72   | 92       
+Soilwork                       | 75   | 86       
+Fit for an Autopsy             | 80   | 83       
 Turbonegro                     | 83   | 82       
 Children of Bodom              | 97   | 69       
 
@@ -80,31 +80,31 @@ Toto                           | 45   | 131
 DJ MøMø                        | 48   | 127      
 Jinjer                         | 49   | 125      
 The Police                     | 50   | 125      
-Linkin Park                    | 56   | 110      
-Aktiv Dödshjelp                | 57   | 109      
-Red Hot Chili Peppers          | 58   | 109      
-Eivør Pálsdóttir               | 59   | 108      
-Parius                         | 64   | 100      
-Porcupine Tree                 | 69   | 94       
-The Black Keys                 | 70   | 93       
-DumDum Boys                    | 72   | 91       
-Thulsa Doom                    | 73   | 87       
-Bill Withers                   | 75   | 85       
-Devin Townsend Project         | 76   | 84       
-Elton John                     | 77   | 84       
-Queens of the Stone Age        | 78   | 84       
-Meshuggah                      | 80   | 83       
-Bokassa                        | 81   | 82       
+Linkin Park                    | 57   | 110      
+Aktiv Dödshjelp                | 58   | 109      
+Red Hot Chili Peppers          | 59   | 109      
+Eivør Pálsdóttir               | 60   | 108      
+Parius                         | 65   | 100      
+Porcupine Tree                 | 70   | 94       
+The Black Keys                 | 71   | 93       
+DumDum Boys                    | 73   | 91       
+Thulsa Doom                    | 74   | 87       
+Bill Withers                   | 76   | 85       
+Devin Townsend Project         | 77   | 84       
+Elton John                     | 78   | 84       
+Queens of the Stone Age        | 79   | 84       
+Meshuggah                      | 81   | 83       
+Bokassa                        | 82   | 82       
 Barnesprell                    | 84   | 80       
 D-A-D                          | 85   | 80       
 SikTh                          | 86   | 80       
-will.i.am                      | 87   | 78       
-Kaptein Sabeltann              | 88   | 77       
-Rival Sons                     | 89   | 77       
-VOLA                           | 90   | 76       
-Love                           | 92   | 74       
-The Rolling Stones             | 93   | 73       
-Moron Police                   | 94   | 72       
+Moron Police                   | 87   | 78       
+Rival Sons                     | 88   | 78       
+will.i.am                      | 89   | 78       
+Kaptein Sabeltann              | 90   | 77       
+VOLA                           | 91   | 76       
+Love                           | 93   | 74       
+The Rolling Stones             | 94   | 73       
 Maraton                        | 95   | 71       
 OnklP & De Fjerne Slektningene | 96   | 71       
 Kings of Leon                  | 98   | 69       
@@ -120,7 +120,7 @@ Rush                         | 8    | 368
 Pink Floyd                   | 35   | 153      
 Hall & Oates                 | 46   | 128      
 Creedence Clearwater Revival | 51   | 121      
-Led Zeppelin                 | 60   | 106      
-Dire Straits                 | 66   | 96       
-Daft Punk                    | 82   | 82       
-The Beatles                  | 91   | 75       
+Daft Punk                    | 55   | 115      
+Led Zeppelin                 | 61   | 106      
+Dire Straits                 | 67   | 96       
+The Beatles                  | 92   | 75       
