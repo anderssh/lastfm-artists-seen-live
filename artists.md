@@ -56,14 +56,14 @@ Oslo Ess                       | 69   | 95
 Kaizers Orchestra              | 72   | 92       
 Soilwork                       | 75   | 86       
 Fit for an Autopsy             | 80   | 83       
-Turbonegro                     | 83   | 82       
-Children of Bodom              | 97   | 69       
+Turbonegro                     | 84   | 82       
+Children of Bodom              | 98   | 69       
 
 ## Active top 100 artists not seen live (47)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Thorbjørn Egner                | 2    | 809      
+Thorbjørn Egner                | 2    | 878      
 Jean-Luc Ponty                 | 17   | 226      
 Nospūn                         | 18   | 226      
 All That Remains               | 22   | 195      
@@ -95,21 +95,21 @@ Elton John                     | 78   | 84
 Queens of the Stone Age        | 79   | 84       
 Meshuggah                      | 81   | 83       
 Bokassa                        | 82   | 82       
-Barnesprell                    | 84   | 80       
-D-A-D                          | 85   | 80       
-SikTh                          | 86   | 80       
+SikTh                          | 83   | 82       
+Barnesprell                    | 85   | 80       
+D-A-D                          | 86   | 80       
 Moron Police                   | 87   | 78       
 Rival Sons                     | 88   | 78       
 will.i.am                      | 89   | 78       
 Kaptein Sabeltann              | 90   | 77       
 VOLA                           | 91   | 76       
 Love                           | 93   | 74       
-The Rolling Stones             | 94   | 73       
-Maraton                        | 95   | 71       
-OnklP & De Fjerne Slektningene | 96   | 71       
-Kings of Leon                  | 98   | 69       
-Leprous                        | 99   | 69       
-Highasakite                    | 100  | 68       
+Brannbamsen Bjørnis            | 94   | 73       
+The Rolling Stones             | 95   | 73       
+Maraton                        | 96   | 71       
+OnklP & De Fjerne Slektningene | 97   | 71       
+Kings of Leon                  | 99   | 69       
+Leprous                        | 100  | 69       
 
 ## Inactive top 100 artists not seen live (9)
 
