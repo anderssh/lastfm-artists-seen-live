@@ -14,10 +14,10 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 985      
+Dream Theater                  | 1    | 986      
 AC/DC                          | 3    | 800      
 Spidergawd                     | 4    | 452      
-Metallica                      | 5    | 439      
+Metallica                      | 5    | 440      
 In Flames                      | 6    | 412      
 Ghost                          | 9    | 354      
 Skálmöld                       | 10   | 345      
@@ -54,9 +54,9 @@ Maktkamp                       | 66   | 98
 Backstreet Girls               | 68   | 95       
 Oslo Ess                       | 69   | 95       
 Kaizers Orchestra              | 72   | 92       
-Soilwork                       | 75   | 86       
-Fit for an Autopsy             | 80   | 83       
-Turbonegro                     | 84   | 82       
+Soilwork                       | 76   | 86       
+Fit for an Autopsy             | 81   | 83       
+Turbonegro                     | 85   | 82       
 Children of Bodom              | 98   | 69       
 
 ## Active top 100 artists not seen live (47)
@@ -87,18 +87,18 @@ Eivør Pálsdóttir               | 60   | 108
 Parius                         | 65   | 100      
 Porcupine Tree                 | 70   | 94       
 The Black Keys                 | 71   | 93       
-DumDum Boys                    | 73   | 91       
-Thulsa Doom                    | 74   | 87       
-Bill Withers                   | 76   | 85       
-Devin Townsend Project         | 77   | 84       
-Elton John                     | 78   | 84       
-Queens of the Stone Age        | 79   | 84       
-Meshuggah                      | 81   | 83       
-Bokassa                        | 82   | 82       
-SikTh                          | 83   | 82       
-Barnesprell                    | 85   | 80       
-D-A-D                          | 86   | 80       
-Moron Police                   | 87   | 78       
+Moron Police                   | 73   | 92       
+DumDum Boys                    | 74   | 91       
+Thulsa Doom                    | 75   | 87       
+Bill Withers                   | 77   | 85       
+Devin Townsend Project         | 78   | 84       
+Elton John                     | 79   | 84       
+Queens of the Stone Age        | 80   | 84       
+Meshuggah                      | 82   | 83       
+Bokassa                        | 83   | 82       
+SikTh                          | 84   | 82       
+Barnesprell                    | 86   | 80       
+D-A-D                          | 87   | 80       
 Rival Sons                     | 88   | 78       
 will.i.am                      | 89   | 78       
 Kaptein Sabeltann              | 90   | 77       
