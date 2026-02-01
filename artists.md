@@ -53,7 +53,7 @@ Volbeat                        | 64   | 101
 Maktkamp                       | 66   | 98       
 Backstreet Girls               | 68   | 95       
 Oslo Ess                       | 69   | 95       
-Kaizers Orchestra              | 72   | 92       
+Kaizers Orchestra              | 73   | 92       
 Soilwork                       | 76   | 86       
 Fit for an Autopsy             | 81   | 83       
 Turbonegro                     | 85   | 82       
@@ -86,8 +86,8 @@ Red Hot Chili Peppers          | 59   | 109
 Eivør Pálsdóttir               | 60   | 108      
 Parius                         | 65   | 100      
 Porcupine Tree                 | 70   | 94       
-The Black Keys                 | 71   | 93       
-Moron Police                   | 73   | 92       
+Moron Police                   | 71   | 93       
+The Black Keys                 | 72   | 93       
 DumDum Boys                    | 74   | 91       
 Thulsa Doom                    | 75   | 87       
 Bill Withers                   | 77   | 85       
