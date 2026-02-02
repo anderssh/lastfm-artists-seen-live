@@ -63,7 +63,7 @@ Children of Bodom              | 98   | 69
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Thorbjørn Egner                | 2    | 878      
+Thorbjørn Egner                | 2    | 896      
 Jean-Luc Ponty                 | 17   | 226      
 Nospūn                         | 18   | 226      
 All That Remains               | 22   | 195      
@@ -99,10 +99,10 @@ Bokassa                        | 83   | 82
 SikTh                          | 84   | 82       
 Barnesprell                    | 86   | 80       
 D-A-D                          | 87   | 80       
-Rival Sons                     | 88   | 78       
-will.i.am                      | 89   | 78       
+will.i.am                      | 88   | 79       
+Rival Sons                     | 89   | 78       
 Kaptein Sabeltann              | 90   | 77       
-VOLA                           | 91   | 76       
+VOLA                           | 92   | 76       
 Love                           | 93   | 74       
 Brannbamsen Bjørnis            | 94   | 73       
 The Rolling Stones             | 95   | 73       
@@ -123,4 +123,4 @@ Creedence Clearwater Revival | 51   | 121
 Daft Punk                    | 55   | 115      
 Led Zeppelin                 | 61   | 106      
 Dire Straits                 | 67   | 96       
-The Beatles                  | 92   | 75       
+The Beatles                  | 91   | 76       
