@@ -19,9 +19,9 @@ AC/DC                          | 3    | 800
 Spidergawd                     | 4    | 452      
 Metallica                      | 5    | 440      
 In Flames                      | 6    | 412      
-Ghost                          | 9    | 354      
+Ghost                          | 9    | 355      
 Skálmöld                       | 10   | 345      
-Foo Fighters                   | 11   | 328      
+Foo Fighters                   | 11   | 331      
 Seven Spires                   | 12   | 325      
 Avenged Sevenfold              | 13   | 322      
 Haken                          | 14   | 317      
@@ -29,22 +29,22 @@ Circus Maximus                 | 15   | 292
 Greta Van Fleet                | 16   | 241      
 Honningbarna                   | 19   | 207      
 The Dogs                       | 20   | 205      
-Slipknot                       | 21   | 198      
+Slipknot                       | 21   | 199      
 Green Day                      | 25   | 179      
 Tool                           | 26   | 171      
 Eluveitie                      | 27   | 169      
-Mastodon                       | 31   | 163      
+Mastodon                       | 31   | 164      
 Amyl and the Sniffers          | 32   | 160      
-Finntroll                      | 37   | 142      
-Gojira                         | 38   | 142      
+Gojira                         | 37   | 144      
+Finntroll                      | 38   | 142      
 Pagan's Mind                   | 39   | 141      
 Ne Obliviscaris                | 40   | 139      
 Eminem                         | 41   | 138      
 Kvelertak                      | 42   | 137      
-Judas Priest                   | 43   | 132      
+Judas Priest                   | 43   | 133      
 Architects                     | 47   | 127      
 blink-182                      | 52   | 119      
-Lamb of God                    | 53   | 118      
+Lamb of God                    | 53   | 119      
 The Good The Bad and The Zugly | 54   | 116      
 The Killers                    | 56   | 114      
 Opeth                          | 62   | 103      
@@ -55,7 +55,7 @@ Backstreet Girls               | 68   | 95
 Oslo Ess                       | 69   | 95       
 Kaizers Orchestra              | 73   | 92       
 Soilwork                       | 76   | 86       
-Fit for an Autopsy             | 81   | 83       
+Fit for an Autopsy             | 83   | 83       
 Turbonegro                     | 85   | 82       
 Children of Bodom              | 98   | 69       
 
@@ -80,9 +80,9 @@ Toto                           | 45   | 131
 DJ MøMø                        | 48   | 127      
 Jinjer                         | 49   | 125      
 The Police                     | 50   | 125      
-Linkin Park                    | 57   | 110      
-Aktiv Dödshjelp                | 58   | 109      
-Red Hot Chili Peppers          | 59   | 109      
+Linkin Park                    | 57   | 111      
+Red Hot Chili Peppers          | 58   | 110      
+Aktiv Dödshjelp                | 59   | 109      
 Eivør Pálsdóttir               | 60   | 108      
 Parius                         | 65   | 100      
 Porcupine Tree                 | 70   | 94       
@@ -91,12 +91,12 @@ The Black Keys                 | 72   | 93
 DumDum Boys                    | 74   | 91       
 Thulsa Doom                    | 75   | 87       
 Bill Withers                   | 77   | 85       
-Devin Townsend Project         | 78   | 84       
-Elton John                     | 79   | 84       
-Queens of the Stone Age        | 80   | 84       
-Meshuggah                      | 82   | 83       
-Bokassa                        | 83   | 82       
-SikTh                          | 84   | 82       
+Queens of the Stone Age        | 78   | 85       
+SikTh                          | 79   | 85       
+Devin Townsend Project         | 80   | 84       
+Elton John                     | 81   | 84       
+Meshuggah                      | 82   | 84       
+Bokassa                        | 84   | 82       
 Barnesprell                    | 86   | 80       
 D-A-D                          | 87   | 80       
 will.i.am                      | 88   | 79       
