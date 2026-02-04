@@ -30,9 +30,9 @@ Greta Van Fleet                | 16   | 241
 Honningbarna                   | 19   | 207      
 The Dogs                       | 20   | 205      
 Slipknot                       | 21   | 199      
-Green Day                      | 25   | 179      
-Tool                           | 26   | 171      
-Eluveitie                      | 27   | 169      
+Eluveitie                      | 24   | 182      
+Green Day                      | 26   | 179      
+Tool                           | 27   | 171      
 Mastodon                       | 31   | 164      
 Amyl and the Sniffers          | 32   | 160      
 Gojira                         | 37   | 144      
@@ -50,7 +50,7 @@ The Killers                    | 56   | 114
 Opeth                          | 62   | 103      
 22                             | 63   | 101      
 Volbeat                        | 64   | 101      
-Maktkamp                       | 66   | 98       
+Maktkamp                       | 67   | 98       
 Backstreet Girls               | 68   | 95       
 Oslo Ess                       | 69   | 95       
 Kaizers Orchestra              | 73   | 92       
@@ -68,15 +68,15 @@ Jean-Luc Ponty                 | 17   | 226
 Nospūn                         | 18   | 226      
 All That Remains               | 22   | 195      
 John Mayer                     | 23   | 192      
-Lars Vaular                    | 24   | 181      
+Lars Vaular                    | 25   | 181      
 The Halo Effect                | 28   | 169      
 The Offspring                  | 29   | 166      
 The Night Flight Orchestra     | 30   | 165      
 Death by Unga Bunga            | 33   | 157      
 Animals as Leaders             | 34   | 155      
 Sylosis                        | 36   | 146      
-Heilung                        | 44   | 131      
-Toto                           | 45   | 131      
+Toto                           | 44   | 133      
+Heilung                        | 45   | 131      
 DJ MøMø                        | 48   | 127      
 Jinjer                         | 49   | 125      
 The Police                     | 50   | 125      
@@ -122,5 +122,5 @@ Hall & Oates                 | 46   | 128
 Creedence Clearwater Revival | 51   | 121      
 Daft Punk                    | 55   | 115      
 Led Zeppelin                 | 61   | 106      
-Dire Straits                 | 67   | 96       
+Dire Straits                 | 66   | 98       
 The Beatles                  | 91   | 76       
