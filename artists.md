@@ -47,12 +47,12 @@ blink-182                      | 52   | 119
 Lamb of God                    | 53   | 119      
 The Good The Bad and The Zugly | 54   | 116      
 The Killers                    | 56   | 114      
-Opeth                          | 62   | 103      
-22                             | 63   | 101      
-Volbeat                        | 64   | 101      
-Maktkamp                       | 67   | 98       
-Backstreet Girls               | 68   | 95       
-Oslo Ess                       | 69   | 95       
+Opeth                          | 63   | 103      
+22                             | 64   | 101      
+Volbeat                        | 65   | 101      
+Maktkamp                       | 68   | 98       
+Backstreet Girls               | 69   | 95       
+Oslo Ess                       | 70   | 95       
 Kaizers Orchestra              | 73   | 92       
 Soilwork                       | 76   | 86       
 Fit for an Autopsy             | 83   | 83       
@@ -84,9 +84,9 @@ Linkin Park                    | 57   | 111
 Red Hot Chili Peppers          | 58   | 110      
 Aktiv Dödshjelp                | 59   | 109      
 Eivør Pálsdóttir               | 60   | 108      
-Parius                         | 65   | 100      
-Porcupine Tree                 | 70   | 94       
-Moron Police                   | 71   | 93       
+Moron Police                   | 62   | 104      
+Parius                         | 66   | 100      
+Porcupine Tree                 | 71   | 94       
 The Black Keys                 | 72   | 93       
 DumDum Boys                    | 74   | 91       
 Thulsa Doom                    | 75   | 87       
@@ -122,5 +122,5 @@ Hall & Oates                 | 46   | 128
 Creedence Clearwater Revival | 51   | 121      
 Daft Punk                    | 55   | 115      
 Led Zeppelin                 | 61   | 106      
-Dire Straits                 | 66   | 98       
+Dire Straits                 | 67   | 98       
 The Beatles                  | 91   | 76       
