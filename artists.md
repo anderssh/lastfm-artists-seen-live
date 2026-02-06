@@ -42,7 +42,7 @@ Ne Obliviscaris                | 40   | 139
 Eminem                         | 41   | 138      
 Kvelertak                      | 42   | 137      
 Judas Priest                   | 43   | 133      
-Architects                     | 47   | 127      
+Architects                     | 48   | 127      
 blink-182                      | 52   | 119      
 Lamb of God                    | 53   | 119      
 The Good The Bad and The Zugly | 54   | 116      
@@ -55,15 +55,15 @@ Backstreet Girls               | 69   | 95
 Oslo Ess                       | 70   | 95       
 Kaizers Orchestra              | 73   | 92       
 Soilwork                       | 76   | 86       
-Fit for an Autopsy             | 83   | 83       
-Turbonegro                     | 85   | 82       
-Children of Bodom              | 98   | 69       
+Fit for an Autopsy             | 84   | 83       
+Turbonegro                     | 86   | 82       
+Children of Bodom              | 99   | 69       
 
 ## Active top 100 artists not seen live (47)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Thorbjørn Egner                | 2    | 896      
+Thorbjørn Egner                | 2    | 898      
 Jean-Luc Ponty                 | 17   | 226      
 Nospūn                         | 18   | 226      
 All That Remains               | 22   | 195      
@@ -76,8 +76,8 @@ Death by Unga Bunga            | 33   | 157
 Animals as Leaders             | 34   | 155      
 Sylosis                        | 36   | 146      
 Toto                           | 44   | 133      
-Heilung                        | 45   | 131      
-DJ MøMø                        | 48   | 127      
+DJ MøMø                        | 45   | 131      
+Heilung                        | 46   | 131      
 Jinjer                         | 49   | 125      
 The Police                     | 50   | 125      
 Linkin Park                    | 57   | 111      
@@ -95,21 +95,21 @@ Queens of the Stone Age        | 78   | 85
 SikTh                          | 79   | 85       
 Devin Townsend Project         | 80   | 84       
 Elton John                     | 81   | 84       
-Meshuggah                      | 82   | 84       
-Bokassa                        | 84   | 82       
-Barnesprell                    | 86   | 80       
-D-A-D                          | 87   | 80       
-will.i.am                      | 88   | 79       
-Rival Sons                     | 89   | 78       
-Kaptein Sabeltann              | 90   | 77       
-VOLA                           | 92   | 76       
-Love                           | 93   | 74       
-Brannbamsen Bjørnis            | 94   | 73       
-The Rolling Stones             | 95   | 73       
-Maraton                        | 96   | 71       
-OnklP & De Fjerne Slektningene | 97   | 71       
-Kings of Leon                  | 99   | 69       
-Leprous                        | 100  | 69       
+Megadeth                       | 82   | 84       
+Meshuggah                      | 83   | 84       
+Bokassa                        | 85   | 82       
+Barnesprell                    | 87   | 80       
+D-A-D                          | 88   | 80       
+will.i.am                      | 89   | 79       
+Rival Sons                     | 90   | 78       
+Kaptein Sabeltann              | 91   | 77       
+VOLA                           | 93   | 76       
+Love                           | 94   | 74       
+Brannbamsen Bjørnis            | 95   | 73       
+The Rolling Stones             | 96   | 73       
+Maraton                        | 97   | 71       
+OnklP & De Fjerne Slektningene | 98   | 71       
+Kings of Leon                  | 100  | 69       
 
 ## Inactive top 100 artists not seen live (9)
 
@@ -118,9 +118,9 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 7    | 395      
 Rush                         | 8    | 368      
 Pink Floyd                   | 35   | 153      
-Hall & Oates                 | 46   | 128      
+Hall & Oates                 | 47   | 128      
 Creedence Clearwater Revival | 51   | 121      
 Daft Punk                    | 55   | 115      
 Led Zeppelin                 | 61   | 106      
 Dire Straits                 | 67   | 98       
-The Beatles                  | 91   | 76       
+The Beatles                  | 92   | 76       
