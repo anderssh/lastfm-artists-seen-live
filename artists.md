@@ -18,7 +18,7 @@ Dream Theater                  | 1    | 986
 AC/DC                          | 3    | 800      
 Spidergawd                     | 4    | 452      
 Metallica                      | 5    | 440      
-In Flames                      | 6    | 412      
+In Flames                      | 6    | 422      
 Ghost                          | 9    | 355      
 Skálmöld                       | 10   | 345      
 Foo Fighters                   | 11   | 331      
