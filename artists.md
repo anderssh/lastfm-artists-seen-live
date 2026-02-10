@@ -47,7 +47,7 @@ blink-182                      | 52   | 119
 Lamb of God                    | 53   | 119      
 The Good The Bad and The Zugly | 54   | 116      
 The Killers                    | 56   | 114      
-Opeth                          | 63   | 103      
+Opeth                          | 62   | 105      
 22                             | 64   | 101      
 Volbeat                        | 65   | 101      
 Maktkamp                       | 68   | 98       
@@ -84,9 +84,9 @@ Linkin Park                    | 57   | 111
 Red Hot Chili Peppers          | 58   | 110      
 Aktiv Dödshjelp                | 59   | 109      
 Eivør Pálsdóttir               | 60   | 108      
-Moron Police                   | 62   | 104      
+Moron Police                   | 63   | 104      
 Parius                         | 66   | 100      
-Porcupine Tree                 | 71   | 94       
+Porcupine Tree                 | 71   | 95       
 The Black Keys                 | 72   | 93       
 DumDum Boys                    | 74   | 91       
 Thulsa Doom                    | 75   | 87       
