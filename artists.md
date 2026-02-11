@@ -51,8 +51,8 @@ Opeth                          | 62   | 105
 22                             | 64   | 101      
 Volbeat                        | 65   | 101      
 Maktkamp                       | 68   | 98       
-Backstreet Girls               | 69   | 95       
-Oslo Ess                       | 70   | 95       
+Backstreet Girls               | 70   | 95       
+Oslo Ess                       | 71   | 95       
 Kaizers Orchestra              | 73   | 92       
 Soilwork                       | 76   | 86       
 Fit for an Autopsy             | 84   | 83       
@@ -86,7 +86,7 @@ Aktiv Dödshjelp                | 59   | 109
 Eivør Pálsdóttir               | 60   | 108      
 Moron Police                   | 63   | 104      
 Parius                         | 66   | 100      
-Porcupine Tree                 | 71   | 95       
+Porcupine Tree                 | 69   | 96       
 The Black Keys                 | 72   | 93       
 DumDum Boys                    | 74   | 91       
 Thulsa Doom                    | 75   | 87       
