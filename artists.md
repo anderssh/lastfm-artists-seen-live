@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 986      
+Dream Theater                  | 1    | 987      
 AC/DC                          | 3    | 800      
 Spidergawd                     | 4    | 452      
 Metallica                      | 5    | 440      
@@ -37,11 +37,11 @@ Mastodon                       | 31   | 164
 Amyl and the Sniffers          | 32   | 160      
 Gojira                         | 37   | 144      
 Finntroll                      | 38   | 142      
-Pagan's Mind                   | 39   | 141      
+Pagan's Mind                   | 39   | 142      
 Ne Obliviscaris                | 40   | 139      
 Eminem                         | 41   | 138      
 Kvelertak                      | 42   | 137      
-Judas Priest                   | 43   | 133      
+Judas Priest                   | 43   | 134      
 Architects                     | 48   | 127      
 blink-182                      | 52   | 119      
 Lamb of God                    | 53   | 119      
@@ -54,7 +54,7 @@ Maktkamp                       | 68   | 98
 Backstreet Girls               | 70   | 95       
 Oslo Ess                       | 71   | 95       
 Kaizers Orchestra              | 73   | 92       
-Soilwork                       | 76   | 86       
+Soilwork                       | 77   | 86       
 Fit for an Autopsy             | 84   | 83       
 Turbonegro                     | 86   | 82       
 Children of Bodom              | 99   | 69       
@@ -86,16 +86,16 @@ Aktiv Dödshjelp                | 59   | 109
 Eivør Pálsdóttir               | 60   | 108      
 Moron Police                   | 63   | 104      
 Parius                         | 66   | 100      
-Porcupine Tree                 | 69   | 96       
+Porcupine Tree                 | 69   | 98       
 The Black Keys                 | 72   | 93       
 DumDum Boys                    | 74   | 91       
-Thulsa Doom                    | 75   | 87       
-Bill Withers                   | 77   | 85       
-Queens of the Stone Age        | 78   | 85       
-SikTh                          | 79   | 85       
-Devin Townsend Project         | 80   | 84       
-Elton John                     | 81   | 84       
-Megadeth                       | 82   | 84       
+Megadeth                       | 75   | 90       
+Thulsa Doom                    | 76   | 87       
+Bill Withers                   | 78   | 85       
+Queens of the Stone Age        | 79   | 85       
+SikTh                          | 80   | 85       
+Devin Townsend Project         | 81   | 84       
+Elton John                     | 82   | 84       
 Meshuggah                      | 83   | 84       
 Bokassa                        | 85   | 82       
 Barnesprell                    | 87   | 80       
