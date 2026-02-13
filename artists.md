@@ -43,11 +43,11 @@ Eminem                         | 41   | 138
 Kvelertak                      | 42   | 137      
 Judas Priest                   | 43   | 134      
 Architects                     | 48   | 127      
-blink-182                      | 52   | 119      
-Lamb of God                    | 53   | 119      
-The Good The Bad and The Zugly | 54   | 116      
-The Killers                    | 56   | 114      
-Opeth                          | 62   | 105      
+blink-182                      | 53   | 119      
+Lamb of God                    | 54   | 119      
+The Good The Bad and The Zugly | 55   | 116      
+The Killers                    | 57   | 114      
+Opeth                          | 63   | 105      
 22                             | 64   | 101      
 Volbeat                        | 65   | 101      
 Maktkamp                       | 68   | 98       
@@ -78,13 +78,13 @@ Sylosis                        | 36   | 146
 Toto                           | 44   | 133      
 DJ MøMø                        | 45   | 131      
 Heilung                        | 46   | 131      
-Jinjer                         | 49   | 125      
-The Police                     | 50   | 125      
-Linkin Park                    | 57   | 111      
-Red Hot Chili Peppers          | 58   | 110      
-Aktiv Dödshjelp                | 59   | 109      
-Eivør Pálsdóttir               | 60   | 108      
-Moron Police                   | 63   | 104      
+Moron Police                   | 49   | 126      
+Jinjer                         | 50   | 125      
+The Police                     | 51   | 125      
+Linkin Park                    | 58   | 111      
+Red Hot Chili Peppers          | 59   | 110      
+Aktiv Dödshjelp                | 60   | 109      
+Eivør Pálsdóttir               | 61   | 108      
 Parius                         | 66   | 100      
 Porcupine Tree                 | 69   | 98       
 The Black Keys                 | 72   | 93       
@@ -119,8 +119,8 @@ Fleetwood Mac                | 7    | 395
 Rush                         | 8    | 368      
 Pink Floyd                   | 35   | 153      
 Hall & Oates                 | 47   | 128      
-Creedence Clearwater Revival | 51   | 121      
-Daft Punk                    | 55   | 115      
-Led Zeppelin                 | 61   | 106      
+Creedence Clearwater Revival | 52   | 121      
+Daft Punk                    | 56   | 115      
+Led Zeppelin                 | 62   | 106      
 Dire Straits                 | 67   | 98       
 The Beatles                  | 92   | 76       
