@@ -24,7 +24,7 @@ Skálmöld                       | 10   | 345
 Foo Fighters                   | 11   | 331      
 Seven Spires                   | 12   | 325      
 Avenged Sevenfold              | 13   | 322      
-Haken                          | 14   | 317      
+Haken                          | 14   | 318      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 16   | 241      
 Honningbarna                   | 19   | 207      
@@ -63,7 +63,7 @@ Children of Bodom              | 99   | 69
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Thorbjørn Egner                | 2    | 898      
+Thorbjørn Egner                | 2    | 919      
 Jean-Luc Ponty                 | 17   | 226      
 Nospūn                         | 18   | 226      
 All That Remains               | 22   | 195      
