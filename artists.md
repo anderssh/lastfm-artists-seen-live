@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 987      
+Dream Theater                  | 1    | 989      
 AC/DC                          | 3    | 800      
 Spidergawd                     | 4    | 452      
 Metallica                      | 5    | 440      
@@ -24,7 +24,7 @@ Skálmöld                       | 10   | 345
 Foo Fighters                   | 11   | 331      
 Seven Spires                   | 12   | 325      
 Avenged Sevenfold              | 13   | 322      
-Haken                          | 14   | 318      
+Haken                          | 14   | 320      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 16   | 241      
 Honningbarna                   | 19   | 207      
@@ -57,13 +57,13 @@ Kaizers Orchestra              | 73   | 92
 Soilwork                       | 77   | 86       
 Fit for an Autopsy             | 84   | 83       
 Turbonegro                     | 86   | 82       
-Children of Bodom              | 99   | 69       
+Children of Bodom              | 97   | 71       
 
 ## Active top 100 artists not seen live (47)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Thorbjørn Egner                | 2    | 919      
+Thorbjørn Egner                | 2    | 937      
 Jean-Luc Ponty                 | 17   | 226      
 Nospūn                         | 18   | 226      
 All That Remains               | 22   | 195      
@@ -107,8 +107,8 @@ VOLA                           | 93   | 76
 Love                           | 94   | 74       
 Brannbamsen Bjørnis            | 95   | 73       
 The Rolling Stones             | 96   | 73       
-Maraton                        | 97   | 71       
-OnklP & De Fjerne Slektningene | 98   | 71       
+Maraton                        | 98   | 71       
+OnklP & De Fjerne Slektningene | 99   | 71       
 Kings of Leon                  | 100  | 69       
 
 ## Inactive top 100 artists not seen live (9)
