@@ -63,7 +63,7 @@ Children of Bodom              | 97   | 71
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Thorbjørn Egner                | 2    | 937      
+Thorbjørn Egner                | 2    | 938      
 Jean-Luc Ponty                 | 17   | 226      
 Nospūn                         | 18   | 226      
 All That Remains               | 22   | 195      
