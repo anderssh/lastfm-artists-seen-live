@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 989      
 AC/DC                          | 3    | 800      
-Spidergawd                     | 4    | 452      
+Spidergawd                     | 4    | 454      
 Metallica                      | 5    | 440      
 In Flames                      | 6    | 422      
 Ghost                          | 9    | 355      
@@ -33,7 +33,7 @@ Slipknot                       | 21   | 199
 Eluveitie                      | 24   | 182      
 Green Day                      | 26   | 179      
 Tool                           | 27   | 171      
-Mastodon                       | 31   | 164      
+Mastodon                       | 30   | 165      
 Amyl and the Sniffers          | 32   | 160      
 Gojira                         | 37   | 144      
 Finntroll                      | 38   | 142      
@@ -54,7 +54,7 @@ Maktkamp                       | 68   | 98
 Backstreet Girls               | 70   | 95       
 Oslo Ess                       | 71   | 95       
 Kaizers Orchestra              | 73   | 92       
-Soilwork                       | 77   | 86       
+Soilwork                       | 79   | 86       
 Fit for an Autopsy             | 84   | 83       
 Turbonegro                     | 86   | 82       
 Children of Bodom              | 97   | 71       
@@ -71,12 +71,12 @@ John Mayer                     | 23   | 192
 Lars Vaular                    | 25   | 181      
 The Halo Effect                | 28   | 169      
 The Offspring                  | 29   | 166      
-The Night Flight Orchestra     | 30   | 165      
+The Night Flight Orchestra     | 31   | 165      
 Death by Unga Bunga            | 33   | 157      
 Animals as Leaders             | 34   | 155      
 Sylosis                        | 36   | 146      
 Toto                           | 44   | 133      
-DJ MøMø                        | 45   | 131      
+DJ MøMø                        | 45   | 132      
 Heilung                        | 46   | 131      
 Moron Police                   | 49   | 126      
 Jinjer                         | 50   | 125      
@@ -90,18 +90,18 @@ Porcupine Tree                 | 69   | 98
 The Black Keys                 | 72   | 93       
 DumDum Boys                    | 74   | 91       
 Megadeth                       | 75   | 90       
-Thulsa Doom                    | 76   | 87       
-Bill Withers                   | 78   | 85       
-Queens of the Stone Age        | 79   | 85       
-SikTh                          | 80   | 85       
+Queens of the Stone Age        | 76   | 87       
+Thulsa Doom                    | 77   | 87       
+SikTh                          | 78   | 86       
+Bill Withers                   | 80   | 85       
 Devin Townsend Project         | 81   | 84       
 Elton John                     | 82   | 84       
 Meshuggah                      | 83   | 84       
 Bokassa                        | 85   | 82       
 Barnesprell                    | 87   | 80       
 D-A-D                          | 88   | 80       
-will.i.am                      | 89   | 79       
-Rival Sons                     | 90   | 78       
+Rival Sons                     | 89   | 79       
+will.i.am                      | 90   | 79       
 Kaptein Sabeltann              | 91   | 77       
 VOLA                           | 93   | 76       
 Love                           | 94   | 74       
