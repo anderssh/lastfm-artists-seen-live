@@ -14,13 +14,13 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 989      
+Dream Theater                  | 1    | 991      
 AC/DC                          | 3    | 800      
 Spidergawd                     | 4    | 454      
 Metallica                      | 5    | 440      
 In Flames                      | 6    | 422      
 Ghost                          | 9    | 355      
-Seven Spires                   | 10   | 347      
+Seven Spires                   | 10   | 351      
 Skálmöld                       | 11   | 345      
 Foo Fighters                   | 12   | 331      
 Avenged Sevenfold              | 13   | 322      
@@ -48,9 +48,9 @@ Lamb of God                    | 54   | 119
 The Good The Bad and The Zugly | 55   | 116      
 The Killers                    | 57   | 114      
 Opeth                          | 63   | 105      
-22                             | 64   | 101      
+22                             | 64   | 102      
 Volbeat                        | 65   | 101      
-Maktkamp                       | 68   | 98       
+Maktkamp                       | 69   | 98       
 Backstreet Girls               | 70   | 95       
 Oslo Ess                       | 71   | 95       
 Kaizers Orchestra              | 73   | 92       
@@ -67,14 +67,14 @@ Thorbjørn Egner                | 2    | 938
 Jean-Luc Ponty                 | 17   | 226      
 Nospūn                         | 18   | 226      
 All That Remains               | 22   | 195      
-John Mayer                     | 23   | 192      
+John Mayer                     | 23   | 193      
 Lars Vaular                    | 25   | 181      
 The Halo Effect                | 28   | 169      
 The Offspring                  | 29   | 166      
 The Night Flight Orchestra     | 31   | 165      
 Death by Unga Bunga            | 33   | 157      
 Animals as Leaders             | 34   | 155      
-Sylosis                        | 36   | 146      
+Sylosis                        | 36   | 147      
 Toto                           | 44   | 133      
 DJ MøMø                        | 45   | 132      
 Heilung                        | 46   | 131      
@@ -86,7 +86,7 @@ Red Hot Chili Peppers          | 59   | 110
 Aktiv Dödshjelp                | 60   | 109      
 Eivør Pálsdóttir               | 61   | 108      
 Parius                         | 66   | 100      
-Porcupine Tree                 | 69   | 98       
+Porcupine Tree                 | 67   | 99       
 The Black Keys                 | 72   | 93       
 DumDum Boys                    | 74   | 91       
 Megadeth                       | 75   | 90       
@@ -117,10 +117,10 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 395      
 Rush                         | 8    | 368      
-Pink Floyd                   | 35   | 153      
+Pink Floyd                   | 35   | 154      
 Hall & Oates                 | 47   | 128      
 Creedence Clearwater Revival | 52   | 121      
 Daft Punk                    | 56   | 115      
 Led Zeppelin                 | 62   | 106      
-Dire Straits                 | 67   | 98       
+Dire Straits                 | 68   | 98       
 The Beatles                  | 92   | 76       
