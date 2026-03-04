@@ -15,12 +15,12 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 991      
-AC/DC                          | 3    | 820      
+AC/DC                          | 3    | 823      
 Spidergawd                     | 4    | 454      
-Metallica                      | 5    | 440      
+Metallica                      | 5    | 446      
 In Flames                      | 6    | 422      
-Ghost                          | 9    | 355      
-Seven Spires                   | 10   | 351      
+Ghost                          | 9    | 356      
+Seven Spires                   | 10   | 352      
 Skálmöld                       | 11   | 345      
 Foo Fighters                   | 12   | 333      
 Avenged Sevenfold              | 13   | 322      
@@ -36,12 +36,12 @@ Tool                           | 27   | 171
 Mastodon                       | 30   | 165      
 Amyl and the Sniffers          | 32   | 160      
 Gojira                         | 37   | 144      
-Finntroll                      | 38   | 142      
-Pagan's Mind                   | 39   | 142      
+Pagan's Mind                   | 38   | 143      
+Finntroll                      | 39   | 142      
 Ne Obliviscaris                | 40   | 139      
 Eminem                         | 41   | 138      
-Kvelertak                      | 42   | 137      
-Judas Priest                   | 43   | 134      
+Judas Priest                   | 42   | 138      
+Kvelertak                      | 43   | 137      
 Architects                     | 48   | 127      
 blink-182                      | 53   | 119      
 Lamb of God                    | 54   | 119      
@@ -51,9 +51,9 @@ Opeth                          | 63   | 106
 22                             | 64   | 102      
 Volbeat                        | 65   | 102      
 Maktkamp                       | 69   | 98       
-Backstreet Girls               | 70   | 95       
-Oslo Ess                       | 71   | 95       
-Kaizers Orchestra              | 73   | 92       
+Backstreet Girls               | 71   | 95       
+Oslo Ess                       | 72   | 95       
+Kaizers Orchestra              | 74   | 92       
 Soilwork                       | 79   | 86       
 Fit for an Autopsy             | 84   | 83       
 Turbonegro                     | 86   | 82       
@@ -87,9 +87,9 @@ Aktiv Dödshjelp                | 60   | 109
 Eivør Pálsdóttir               | 61   | 108      
 Parius                         | 66   | 100      
 Porcupine Tree                 | 67   | 99       
-The Black Keys                 | 72   | 93       
-DumDum Boys                    | 74   | 91       
-Megadeth                       | 75   | 90       
+Megadeth                       | 70   | 96       
+The Black Keys                 | 73   | 93       
+DumDum Boys                    | 75   | 91       
 Queens of the Stone Age        | 76   | 87       
 SikTh                          | 77   | 87       
 Thulsa Doom                    | 78   | 87       
