@@ -6,18 +6,18 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of fetched top artists: 100 (Active: 90 Inactive: 10)
 
-- Number of top artists seen live: 44 (Active: 43 Inactive: 1)
+- Number of top artists seen live: 45 (Active: 44 Inactive: 1)
 
-- Number of top artists not seen live: 56 (Active: 47 Inactive: 9)
+- Number of top artists not seen live: 55 (Active: 46 Inactive: 9)
 
-## Top 100 artists seen live (44)
+## Top 100 artists seen live (45)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 991      
 AC/DC                          | 3    | 823      
 Spidergawd                     | 4    | 454      
-Metallica                      | 5    | 446      
+Metallica                      | 5    | 447      
 In Flames                      | 6    | 422      
 Ghost                          | 9    | 356      
 Seven Spires                   | 10   | 352      
@@ -38,9 +38,9 @@ Amyl and the Sniffers          | 32   | 160
 Gojira                         | 37   | 144      
 Pagan's Mind                   | 38   | 143      
 Finntroll                      | 39   | 142      
-Ne Obliviscaris                | 40   | 139      
-Eminem                         | 41   | 138      
-Judas Priest                   | 42   | 138      
+Judas Priest                   | 40   | 139      
+Ne Obliviscaris                | 41   | 139      
+Eminem                         | 42   | 138      
 Kvelertak                      | 43   | 137      
 Architects                     | 48   | 127      
 blink-182                      | 53   | 119      
@@ -58,8 +58,9 @@ Soilwork                       | 79   | 86
 Fit for an Autopsy             | 84   | 83       
 Turbonegro                     | 86   | 82       
 Children of Bodom              | 97   | 71       
+HammerFall                     | 98   | 71       
 
-## Active top 100 artists not seen live (47)
+## Active top 100 artists not seen live (46)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -87,7 +88,7 @@ Aktiv Dödshjelp                | 60   | 109
 Eivør Pálsdóttir               | 61   | 108      
 Parius                         | 66   | 100      
 Porcupine Tree                 | 67   | 99       
-Megadeth                       | 70   | 96       
+Megadeth                       | 70   | 97       
 The Black Keys                 | 73   | 93       
 DumDum Boys                    | 75   | 91       
 Queens of the Stone Age        | 76   | 87       
@@ -107,9 +108,8 @@ VOLA                           | 93   | 76
 Love                           | 94   | 74       
 Brannbamsen Bjørnis            | 95   | 73       
 The Rolling Stones             | 96   | 73       
-Maraton                        | 98   | 71       
-OnklP & De Fjerne Slektningene | 99   | 71       
-Kings of Leon                  | 100  | 69       
+Maraton                        | 99   | 71       
+OnklP & De Fjerne Slektningene | 100  | 71       
 
 ## Inactive top 100 artists not seen live (9)
 
