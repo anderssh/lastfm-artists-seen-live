@@ -22,7 +22,7 @@ In Flames                      | 6    | 422
 Ghost                          | 9    | 356      
 Seven Spires                   | 10   | 352      
 Skálmöld                       | 11   | 345      
-Foo Fighters                   | 12   | 333      
+Foo Fighters                   | 12   | 334      
 Avenged Sevenfold              | 13   | 322      
 Haken                          | 14   | 320      
 Circus Maximus                 | 15   | 292      
@@ -48,8 +48,8 @@ Lamb of God                    | 54   | 119
 The Good The Bad and The Zugly | 55   | 116      
 The Killers                    | 57   | 114      
 Opeth                          | 63   | 106      
-22                             | 64   | 102      
-Volbeat                        | 65   | 102      
+Volbeat                        | 64   | 103      
+22                             | 65   | 102      
 Maktkamp                       | 69   | 98       
 Backstreet Girls               | 71   | 95       
 Oslo Ess                       | 72   | 95       
@@ -75,14 +75,14 @@ The Offspring                  | 29   | 166
 The Night Flight Orchestra     | 31   | 165      
 Death by Unga Bunga            | 33   | 157      
 Animals as Leaders             | 34   | 155      
-Sylosis                        | 36   | 148      
+Sylosis                        | 36   | 149      
 Toto                           | 44   | 134      
 DJ MøMø                        | 45   | 132      
 Heilung                        | 46   | 131      
 Moron Police                   | 49   | 126      
 Jinjer                         | 50   | 125      
 The Police                     | 51   | 125      
-Linkin Park                    | 58   | 111      
+Linkin Park                    | 58   | 112      
 Red Hot Chili Peppers          | 59   | 111      
 Aktiv Dödshjelp                | 60   | 109      
 Eivør Pálsdóttir               | 61   | 108      
@@ -91,8 +91,8 @@ Porcupine Tree                 | 67   | 99
 Megadeth                       | 70   | 97       
 The Black Keys                 | 73   | 93       
 DumDum Boys                    | 75   | 91       
-Queens of the Stone Age        | 76   | 87       
-SikTh                          | 77   | 87       
+SikTh                          | 76   | 88       
+Queens of the Stone Age        | 77   | 87       
 Thulsa Doom                    | 78   | 87       
 Bill Withers                   | 80   | 85       
 Devin Townsend Project         | 81   | 84       
