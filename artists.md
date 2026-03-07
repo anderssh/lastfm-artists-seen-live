@@ -42,7 +42,7 @@ Judas Priest                   | 40   | 139
 Ne Obliviscaris                | 41   | 139      
 Eminem                         | 42   | 138      
 Kvelertak                      | 43   | 137      
-Architects                     | 48   | 127      
+Architects                     | 49   | 127      
 blink-182                      | 53   | 119      
 Lamb of God                    | 54   | 119      
 The Good The Bad and The Zugly | 55   | 116      
@@ -76,10 +76,10 @@ The Night Flight Orchestra     | 31   | 165
 Death by Unga Bunga            | 33   | 157      
 Animals as Leaders             | 34   | 155      
 Sylosis                        | 36   | 149      
-Toto                           | 44   | 134      
-DJ MøMø                        | 45   | 132      
-Heilung                        | 46   | 131      
-Moron Police                   | 49   | 126      
+Moron Police                   | 44   | 135      
+Toto                           | 45   | 134      
+DJ MøMø                        | 46   | 132      
+Heilung                        | 47   | 131      
 Jinjer                         | 50   | 125      
 The Police                     | 51   | 125      
 Linkin Park                    | 58   | 112      
@@ -118,7 +118,7 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 7    | 395      
 Rush                         | 8    | 368      
 Pink Floyd                   | 35   | 154      
-Hall & Oates                 | 47   | 128      
+Hall & Oates                 | 48   | 128      
 Creedence Clearwater Revival | 52   | 121      
 Daft Punk                    | 56   | 115      
 Led Zeppelin                 | 62   | 106      
