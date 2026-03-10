@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 991      
+Dream Theater                  | 1    | 992      
 AC/DC                          | 3    | 827      
 Spidergawd                     | 4    | 454      
 Metallica                      | 5    | 452      
@@ -24,7 +24,7 @@ Seven Spires                   | 10   | 352
 Skálmöld                       | 11   | 345      
 Foo Fighters                   | 12   | 334      
 Avenged Sevenfold              | 13   | 322      
-Haken                          | 14   | 320      
+Haken                          | 14   | 322      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 16   | 241      
 Honningbarna                   | 19   | 207      
@@ -32,7 +32,7 @@ The Dogs                       | 20   | 205
 Slipknot                       | 21   | 199      
 Eluveitie                      | 24   | 182      
 Green Day                      | 26   | 179      
-Tool                           | 27   | 171      
+Tool                           | 27   | 172      
 Mastodon                       | 30   | 165      
 Amyl and the Sniffers          | 32   | 160      
 Gojira                         | 37   | 144      
@@ -75,7 +75,7 @@ The Offspring              | 29   | 166
 The Night Flight Orchestra | 31   | 165      
 Death by Unga Bunga        | 33   | 157      
 Animals as Leaders         | 34   | 155      
-Sylosis                    | 36   | 149      
+Sylosis                    | 36   | 150      
 Moron Police               | 44   | 135      
 Toto                       | 45   | 134      
 DJ MøMø                    | 46   | 132      
@@ -87,11 +87,11 @@ Red Hot Chili Peppers      | 59   | 111
 Aktiv Dödshjelp            | 60   | 109      
 Eivør Pálsdóttir           | 61   | 108      
 Parius                     | 66   | 100      
-Porcupine Tree             | 67   | 99       
+Porcupine Tree             | 67   | 100      
 Megadeth                   | 70   | 98       
 The Black Keys             | 73   | 93       
 DumDum Boys                | 75   | 91       
-SikTh                      | 76   | 88       
+SikTh                      | 76   | 89       
 Queens of the Stone Age    | 77   | 87       
 Thulsa Doom                | 78   | 87       
 Bill Withers               | 80   | 85       
