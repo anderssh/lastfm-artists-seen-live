@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 992      
+Dream Theater                  | 1    | 994      
 AC/DC                          | 3    | 827      
 Spidergawd                     | 4    | 454      
 Metallica                      | 5    | 452      
@@ -23,8 +23,8 @@ Ghost                          | 9    | 357
 Seven Spires                   | 10   | 352      
 Skálmöld                       | 11   | 345      
 Foo Fighters                   | 12   | 334      
-Avenged Sevenfold              | 13   | 322      
-Haken                          | 14   | 322      
+Haken                          | 13   | 324      
+Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 16   | 241      
 Honningbarna                   | 19   | 207      
@@ -55,10 +55,10 @@ Backstreet Girls               | 71   | 95
 Oslo Ess                       | 72   | 95       
 Kaizers Orchestra              | 74   | 92       
 Soilwork                       | 79   | 86       
-Fit for an Autopsy             | 84   | 83       
-Turbonegro                     | 86   | 82       
-Children of Bodom              | 97   | 71       
-HammerFall                     | 98   | 71       
+Fit for an Autopsy             | 85   | 83       
+Turbonegro                     | 87   | 82       
+Children of Bodom              | 98   | 71       
+HammerFall                     | 99   | 71       
 
 ## Active top 100 artists not seen live (46)
 
@@ -75,7 +75,7 @@ The Offspring              | 29   | 166
 The Night Flight Orchestra | 31   | 165      
 Death by Unga Bunga        | 33   | 157      
 Animals as Leaders         | 34   | 155      
-Sylosis                    | 36   | 150      
+Sylosis                    | 36   | 151      
 Moron Police               | 44   | 135      
 Toto                       | 45   | 134      
 DJ MøMø                    | 46   | 132      
@@ -86,30 +86,30 @@ Linkin Park                | 58   | 112
 Red Hot Chili Peppers      | 59   | 111      
 Aktiv Dödshjelp            | 60   | 109      
 Eivør Pálsdóttir           | 61   | 108      
-Parius                     | 66   | 100      
-Porcupine Tree             | 67   | 100      
+Porcupine Tree             | 66   | 101      
+Parius                     | 67   | 100      
 Megadeth                   | 70   | 98       
 The Black Keys             | 73   | 93       
 DumDum Boys                | 75   | 91       
-SikTh                      | 76   | 89       
+SikTh                      | 76   | 90       
 Queens of the Stone Age    | 77   | 87       
 Thulsa Doom                | 78   | 87       
-Bill Withers               | 80   | 85       
-Devin Townsend Project     | 81   | 84       
-Elton John                 | 82   | 84       
-Meshuggah                  | 83   | 84       
-Bokassa                    | 85   | 82       
-Barnesprell                | 87   | 80       
-D-A-D                      | 88   | 80       
-Rival Sons                 | 89   | 79       
-will.i.am                  | 90   | 79       
-Kaptein Sabeltann          | 91   | 77       
-VOLA                       | 93   | 76       
-Love                       | 94   | 74       
-Brannbamsen Bjørnis        | 95   | 73       
-The Rolling Stones         | 96   | 73       
-Iron Maiden                | 99   | 71       
-Maraton                    | 100  | 71       
+Trivium                    | 80   | 86       
+Bill Withers               | 81   | 85       
+Devin Townsend Project     | 82   | 84       
+Elton John                 | 83   | 84       
+Meshuggah                  | 84   | 84       
+Bokassa                    | 86   | 82       
+Barnesprell                | 88   | 80       
+D-A-D                      | 89   | 80       
+Rival Sons                 | 90   | 79       
+will.i.am                  | 91   | 79       
+Kaptein Sabeltann          | 92   | 77       
+VOLA                       | 94   | 76       
+Love                       | 95   | 74       
+Brannbamsen Bjørnis        | 96   | 73       
+The Rolling Stones         | 97   | 73       
+Iron Maiden                | 100  | 71       
 
 ## Inactive top 100 artists not seen live (9)
 
@@ -123,4 +123,4 @@ Creedence Clearwater Revival | 52   | 121
 Daft Punk                    | 56   | 115      
 Led Zeppelin                 | 62   | 106      
 Dire Straits                 | 68   | 98       
-The Beatles                  | 92   | 76       
+The Beatles                  | 93   | 76       
