@@ -53,8 +53,8 @@ Volbeat                        | 64   | 103
 Maktkamp                       | 69   | 98       
 Backstreet Girls               | 71   | 95       
 Oslo Ess                       | 72   | 95       
-Kaizers Orchestra              | 74   | 92       
-Soilwork                       | 79   | 86       
+Kaizers Orchestra              | 75   | 92       
+Soilwork                       | 80   | 86       
 Fit for an Autopsy             | 85   | 83       
 Turbonegro                     | 87   | 82       
 Children of Bodom              | 98   | 71       
@@ -90,11 +90,11 @@ Porcupine Tree             | 66   | 101
 Parius                     | 67   | 100      
 Megadeth                   | 70   | 98       
 The Black Keys             | 73   | 93       
-DumDum Boys                | 75   | 91       
-SikTh                      | 76   | 90       
-Queens of the Stone Age    | 77   | 87       
-Thulsa Doom                | 78   | 87       
-Trivium                    | 80   | 86       
+Trivium                    | 74   | 93       
+DumDum Boys                | 76   | 91       
+SikTh                      | 77   | 90       
+Queens of the Stone Age    | 78   | 87       
+Thulsa Doom                | 79   | 87       
 Bill Withers               | 81   | 85       
 Devin Townsend Project     | 82   | 84       
 Elton John                 | 83   | 84       
