@@ -19,7 +19,7 @@ AC/DC                          | 3    | 827
 Spidergawd                     | 4    | 454      
 Metallica                      | 5    | 452      
 In Flames                      | 6    | 422      
-Ghost                          | 9    | 357      
+Ghost                          | 9    | 358      
 Seven Spires                   | 10   | 352      
 Skálmöld                       | 11   | 345      
 Foo Fighters                   | 12   | 334      
@@ -50,7 +50,7 @@ The Killers                    | 57   | 114
 Opeth                          | 63   | 106      
 Volbeat                        | 64   | 103      
 22                             | 65   | 102      
-Maktkamp                       | 69   | 98       
+Maktkamp                       | 70   | 98       
 Backstreet Girls               | 71   | 95       
 Oslo Ess                       | 72   | 95       
 Kaizers Orchestra              | 75   | 92       
@@ -87,8 +87,8 @@ Red Hot Chili Peppers      | 59   | 111
 Aktiv Dödshjelp            | 60   | 109      
 Eivør Pálsdóttir           | 61   | 108      
 Porcupine Tree             | 66   | 101      
-Parius                     | 67   | 100      
-Megadeth                   | 70   | 98       
+Megadeth                   | 67   | 100      
+Parius                     | 68   | 100      
 The Black Keys             | 73   | 93       
 Trivium                    | 74   | 93       
 DumDum Boys                | 76   | 91       
@@ -122,5 +122,5 @@ Hall & Oates                 | 48   | 128
 Creedence Clearwater Revival | 52   | 121      
 Daft Punk                    | 56   | 115      
 Led Zeppelin                 | 62   | 106      
-Dire Straits                 | 68   | 98       
+Dire Straits                 | 69   | 98       
 The Beatles                  | 93   | 76       
