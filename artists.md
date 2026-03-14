@@ -48,11 +48,11 @@ Lamb of God                    | 54   | 119
 The Good The Bad and The Zugly | 55   | 116      
 The Killers                    | 57   | 114      
 Opeth                          | 63   | 106      
-Volbeat                        | 64   | 103      
-22                             | 65   | 102      
-Maktkamp                       | 70   | 98       
-Backstreet Girls               | 71   | 95       
-Oslo Ess                       | 72   | 95       
+Volbeat                        | 65   | 103      
+22                             | 66   | 102      
+Maktkamp                       | 71   | 98       
+Backstreet Girls               | 72   | 95       
+Oslo Ess                       | 73   | 95       
 Kaizers Orchestra              | 75   | 92       
 Soilwork                       | 80   | 86       
 Fit for an Autopsy             | 85   | 83       
@@ -86,11 +86,11 @@ Linkin Park                | 58   | 112
 Red Hot Chili Peppers      | 59   | 111      
 Aktiv Dödshjelp            | 60   | 109      
 Eivør Pálsdóttir           | 61   | 108      
-Porcupine Tree             | 66   | 101      
-Megadeth                   | 67   | 100      
-Parius                     | 68   | 100      
-The Black Keys             | 73   | 93       
-Trivium                    | 74   | 93       
+Trivium                    | 64   | 104      
+Porcupine Tree             | 67   | 101      
+Megadeth                   | 68   | 100      
+Parius                     | 69   | 100      
+The Black Keys             | 74   | 93       
 DumDum Boys                | 76   | 91       
 SikTh                      | 77   | 90       
 Queens of the Stone Age    | 78   | 87       
@@ -122,5 +122,5 @@ Hall & Oates                 | 48   | 128
 Creedence Clearwater Revival | 52   | 121      
 Daft Punk                    | 56   | 115      
 Led Zeppelin                 | 62   | 106      
-Dire Straits                 | 69   | 98       
+Dire Straits                 | 70   | 98       
 The Beatles                  | 93   | 76       
