@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 994      
+Dream Theater                  | 1    | 995      
 AC/DC                          | 3    | 827      
 Spidergawd                     | 4    | 454      
 Metallica                      | 5    | 452      
@@ -43,21 +43,21 @@ Ne Obliviscaris                | 41   | 139
 Eminem                         | 42   | 138      
 Kvelertak                      | 43   | 137      
 Architects                     | 49   | 127      
-blink-182                      | 53   | 119      
+blink-182                      | 53   | 120      
 Lamb of God                    | 54   | 119      
 The Good The Bad and The Zugly | 55   | 116      
 The Killers                    | 57   | 114      
 Opeth                          | 63   | 106      
 Volbeat                        | 65   | 103      
 22                             | 66   | 102      
-Maktkamp                       | 71   | 98       
-Backstreet Girls               | 72   | 95       
-Oslo Ess                       | 73   | 95       
-Kaizers Orchestra              | 75   | 92       
+Kaizers Orchestra              | 68   | 100      
+Maktkamp                       | 72   | 98       
+Backstreet Girls               | 73   | 95       
+Oslo Ess                       | 74   | 95       
 Soilwork                       | 80   | 86       
 Fit for an Autopsy             | 85   | 83       
 Turbonegro                     | 87   | 82       
-Children of Bodom              | 98   | 71       
+Children of Bodom              | 98   | 72       
 HammerFall                     | 99   | 71       
 
 ## Active top 100 artists not seen live (46)
@@ -71,7 +71,7 @@ All That Remains           | 22   | 195
 John Mayer                 | 23   | 193      
 Lars Vaular                | 25   | 181      
 The Halo Effect            | 28   | 169      
-The Offspring              | 29   | 166      
+The Offspring              | 29   | 167      
 The Night Flight Orchestra | 31   | 165      
 Death by Unga Bunga        | 33   | 157      
 Animals as Leaders         | 34   | 155      
@@ -82,15 +82,15 @@ DJ MøMø                    | 46   | 132
 Heilung                    | 47   | 131      
 Jinjer                     | 50   | 125      
 The Police                 | 51   | 125      
-Linkin Park                | 58   | 112      
-Red Hot Chili Peppers      | 59   | 111      
+Linkin Park                | 58   | 113      
+Red Hot Chili Peppers      | 59   | 112      
 Aktiv Dödshjelp            | 60   | 109      
 Eivør Pálsdóttir           | 61   | 108      
 Trivium                    | 64   | 104      
 Porcupine Tree             | 67   | 101      
-Megadeth                   | 68   | 100      
-Parius                     | 69   | 100      
-The Black Keys             | 74   | 93       
+Megadeth                   | 69   | 100      
+Parius                     | 70   | 100      
+The Black Keys             | 75   | 93       
 DumDum Boys                | 76   | 91       
 SikTh                      | 77   | 90       
 Queens of the Stone Age    | 78   | 87       
@@ -119,8 +119,8 @@ Fleetwood Mac                | 7    | 395
 Rush                         | 8    | 368      
 Pink Floyd                   | 35   | 154      
 Hall & Oates                 | 48   | 128      
-Creedence Clearwater Revival | 52   | 121      
+Creedence Clearwater Revival | 52   | 124      
 Daft Punk                    | 56   | 115      
 Led Zeppelin                 | 62   | 106      
-Dire Straits                 | 70   | 98       
+Dire Straits                 | 71   | 99       
 The Beatles                  | 93   | 76       
