@@ -85,7 +85,7 @@ The Police                 | 51   | 125
 Linkin Park                | 58   | 113      
 Red Hot Chili Peppers      | 59   | 112      
 Aktiv Dödshjelp            | 60   | 109      
-Eivør Pálsdóttir           | 61   | 108      
+Eivør Pálsdóttir           | 62   | 108      
 Trivium                    | 64   | 104      
 Porcupine Tree             | 67   | 101      
 Megadeth                   | 69   | 100      
@@ -115,12 +115,12 @@ Iron Maiden                | 100  | 71
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 7    | 395      
+Fleetwood Mac                | 7    | 407      
 Rush                         | 8    | 368      
 Pink Floyd                   | 35   | 154      
 Hall & Oates                 | 48   | 128      
 Creedence Clearwater Revival | 52   | 124      
 Daft Punk                    | 56   | 115      
-Led Zeppelin                 | 62   | 106      
+Led Zeppelin                 | 61   | 109      
 Dire Straits                 | 71   | 99       
-The Beatles                  | 93   | 76       
+The Beatles                  | 93   | 77       
