@@ -14,16 +14,16 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 995      
-AC/DC                          | 3    | 827      
-Spidergawd                     | 4    | 454      
-Metallica                      | 5    | 452      
+Dream Theater                  | 1    | 996      
+AC/DC                          | 3    | 828      
+Metallica                      | 4    | 454      
+Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 422      
 Ghost                          | 9    | 358      
 Seven Spires                   | 10   | 352      
 Skálmöld                       | 11   | 345      
 Foo Fighters                   | 12   | 334      
-Haken                          | 13   | 324      
+Haken                          | 13   | 325      
 Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 16   | 241      
@@ -36,12 +36,12 @@ Tool                           | 27   | 172
 Mastodon                       | 30   | 165      
 Amyl and the Sniffers          | 32   | 160      
 Gojira                         | 37   | 144      
-Pagan's Mind                   | 38   | 143      
-Finntroll                      | 39   | 142      
-Judas Priest                   | 40   | 142      
-Ne Obliviscaris                | 41   | 139      
-Eminem                         | 42   | 138      
-Kvelertak                      | 43   | 137      
+Pagan's Mind                   | 39   | 143      
+Finntroll                      | 40   | 142      
+Judas Priest                   | 41   | 142      
+Ne Obliviscaris                | 42   | 139      
+Eminem                         | 43   | 138      
+Kvelertak                      | 44   | 137      
 Architects                     | 49   | 127      
 blink-182                      | 53   | 120      
 Lamb of God                    | 54   | 119      
@@ -50,15 +50,15 @@ The Killers                    | 57   | 114
 Opeth                          | 63   | 106      
 Volbeat                        | 65   | 103      
 22                             | 66   | 102      
-Kaizers Orchestra              | 68   | 100      
+Kaizers Orchestra              | 69   | 100      
 Maktkamp                       | 72   | 98       
 Backstreet Girls               | 73   | 95       
 Oslo Ess                       | 74   | 95       
 Soilwork                       | 80   | 86       
 Fit for an Autopsy             | 85   | 83       
 Turbonegro                     | 87   | 82       
-Children of Bodom              | 98   | 72       
-HammerFall                     | 99   | 71       
+Children of Bodom              | 99   | 72       
+HammerFall                     | 100  | 71       
 
 ## Active top 100 artists not seen live (46)
 
@@ -76,7 +76,7 @@ The Night Flight Orchestra | 31   | 165
 Death by Unga Bunga        | 33   | 157      
 Animals as Leaders         | 34   | 155      
 Sylosis                    | 36   | 151      
-Moron Police               | 44   | 135      
+Moron Police               | 38   | 144      
 Toto                       | 45   | 134      
 DJ MøMø                    | 46   | 132      
 Heilung                    | 47   | 131      
@@ -87,8 +87,8 @@ Red Hot Chili Peppers      | 59   | 112
 Aktiv Dödshjelp            | 60   | 109      
 Eivør Pálsdóttir           | 62   | 108      
 Trivium                    | 64   | 104      
-Porcupine Tree             | 67   | 101      
-Megadeth                   | 69   | 100      
+Megadeth                   | 67   | 101      
+Porcupine Tree             | 68   | 101      
 Parius                     | 70   | 100      
 The Black Keys             | 75   | 93       
 DumDum Boys                | 76   | 91       
@@ -105,11 +105,11 @@ D-A-D                      | 89   | 80
 Rival Sons                 | 90   | 79       
 will.i.am                  | 91   | 79       
 Kaptein Sabeltann          | 92   | 77       
-VOLA                       | 94   | 76       
-Love                       | 95   | 74       
-Brannbamsen Bjørnis        | 96   | 73       
-The Rolling Stones         | 97   | 73       
-Iron Maiden                | 100  | 71       
+VOLA                       | 94   | 77       
+Iron Maiden                | 95   | 75       
+Love                       | 96   | 74       
+Brannbamsen Bjørnis        | 97   | 73       
+The Rolling Stones         | 98   | 73       
 
 ## Inactive top 100 artists not seen live (9)
 
