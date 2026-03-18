@@ -19,8 +19,8 @@ AC/DC                          | 3    | 828
 Metallica                      | 4    | 454      
 Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 422      
-Ghost                          | 9    | 358      
-Seven Spires                   | 10   | 352      
+Seven Spires                   | 8    | 386      
+Ghost                          | 10   | 358      
 Skálmöld                       | 11   | 345      
 Foo Fighters                   | 12   | 334      
 Haken                          | 13   | 325      
@@ -47,7 +47,7 @@ blink-182                      | 53   | 120
 Lamb of God                    | 54   | 119      
 The Good The Bad and The Zugly | 55   | 116      
 The Killers                    | 57   | 114      
-Opeth                          | 63   | 106      
+Opeth                          | 64   | 106      
 Volbeat                        | 65   | 103      
 22                             | 66   | 102      
 Kaizers Orchestra              | 69   | 100      
@@ -83,10 +83,10 @@ Heilung                    | 47   | 131
 Jinjer                     | 50   | 125      
 The Police                 | 51   | 125      
 Linkin Park                | 58   | 113      
-Red Hot Chili Peppers      | 59   | 112      
-Aktiv Dödshjelp            | 60   | 109      
-Eivør Pálsdóttir           | 62   | 108      
-Trivium                    | 64   | 104      
+Trivium                    | 59   | 113      
+Red Hot Chili Peppers      | 60   | 112      
+Aktiv Dödshjelp            | 61   | 109      
+Eivør Pálsdóttir           | 63   | 108      
 Megadeth                   | 67   | 101      
 Porcupine Tree             | 68   | 101      
 Parius                     | 70   | 100      
@@ -116,11 +116,11 @@ The Rolling Stones         | 98   | 73
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 407      
-Rush                         | 8    | 368      
+Rush                         | 9    | 368      
 Pink Floyd                   | 35   | 154      
 Hall & Oates                 | 48   | 128      
 Creedence Clearwater Revival | 52   | 124      
 Daft Punk                    | 56   | 115      
-Led Zeppelin                 | 61   | 109      
+Led Zeppelin                 | 62   | 109      
 Dire Straits                 | 71   | 99       
 The Beatles                  | 93   | 77       
