@@ -65,8 +65,8 @@ HammerFall                     | 100  | 71
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Thorbjørn Egner            | 2    | 938      
-Jean-Luc Ponty             | 17   | 226      
-Nospūn                     | 18   | 226      
+Nospūn                     | 17   | 236      
+Jean-Luc Ponty             | 18   | 226      
 All That Remains           | 22   | 195      
 John Mayer                 | 23   | 193      
 Lars Vaular                | 25   | 181      
@@ -74,7 +74,7 @@ The Halo Effect            | 28   | 169
 The Offspring              | 29   | 167      
 The Night Flight Orchestra | 31   | 165      
 Death by Unga Bunga        | 33   | 157      
-Animals as Leaders         | 34   | 155      
+Animals as Leaders         | 35   | 155      
 Sylosis                    | 36   | 151      
 Moron Police               | 38   | 144      
 Toto                       | 45   | 134      
@@ -85,7 +85,7 @@ The Police                 | 51   | 125
 Linkin Park                | 58   | 113      
 Trivium                    | 59   | 113      
 Red Hot Chili Peppers      | 60   | 112      
-Aktiv Dödshjelp            | 61   | 109      
+Aktiv Dödshjelp            | 62   | 109      
 Eivør Pálsdóttir           | 63   | 108      
 Megadeth                   | 67   | 101      
 Porcupine Tree             | 68   | 101      
@@ -104,7 +104,7 @@ Barnesprell                | 88   | 80
 D-A-D                      | 89   | 80       
 Rival Sons                 | 90   | 79       
 will.i.am                  | 91   | 79       
-Kaptein Sabeltann          | 92   | 77       
+Kaptein Sabeltann          | 93   | 77       
 VOLA                       | 94   | 77       
 Iron Maiden                | 95   | 75       
 Love                       | 96   | 74       
@@ -117,10 +117,10 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 407      
 Rush                         | 9    | 368      
-Pink Floyd                   | 35   | 154      
+Pink Floyd                   | 34   | 156      
 Hall & Oates                 | 48   | 128      
 Creedence Clearwater Revival | 52   | 124      
 Daft Punk                    | 56   | 115      
-Led Zeppelin                 | 62   | 109      
+Led Zeppelin                 | 61   | 111      
 Dire Straits                 | 71   | 99       
-The Beatles                  | 93   | 77       
+The Beatles                  | 92   | 78       
