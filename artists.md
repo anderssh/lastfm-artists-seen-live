@@ -22,11 +22,11 @@ In Flames                      | 6    | 422
 Seven Spires                   | 8    | 386      
 Ghost                          | 10   | 358      
 Skálmöld                       | 11   | 345      
-Foo Fighters                   | 12   | 334      
-Haken                          | 13   | 325      
+Haken                          | 12   | 335      
+Foo Fighters                   | 13   | 334      
 Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 292      
-Greta Van Fleet                | 16   | 241      
+Greta Van Fleet                | 17   | 241      
 Honningbarna                   | 19   | 207      
 The Dogs                       | 20   | 205      
 Slipknot                       | 21   | 199      
@@ -65,7 +65,7 @@ HammerFall                     | 100  | 71
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
 Thorbjørn Egner            | 2    | 938      
-Nospūn                     | 17   | 236      
+Nospūn                     | 16   | 246      
 Jean-Luc Ponty             | 18   | 226      
 All That Remains           | 22   | 195      
 John Mayer                 | 23   | 193      
