@@ -22,7 +22,7 @@ In Flames                      | 6    | 422
 Seven Spires                   | 8    | 386      
 Ghost                          | 10   | 358      
 Skálmöld                       | 11   | 345      
-Haken                          | 12   | 335      
+Haken                          | 12   | 336      
 Foo Fighters                   | 13   | 334      
 Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 292      
