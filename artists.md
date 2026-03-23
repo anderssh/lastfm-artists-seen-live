@@ -47,7 +47,7 @@ blink-182                      | 53   | 120
 Lamb of God                    | 54   | 119      
 The Good The Bad and The Zugly | 55   | 116      
 The Killers                    | 57   | 114      
-Opeth                          | 64   | 106      
+Opeth                          | 60   | 112      
 Volbeat                        | 65   | 103      
 22                             | 66   | 102      
 Kaizers Orchestra              | 69   | 100      
@@ -84,9 +84,9 @@ Jinjer                     | 50   | 125
 The Police                 | 51   | 125      
 Linkin Park                | 58   | 113      
 Trivium                    | 59   | 113      
-Red Hot Chili Peppers      | 60   | 112      
-Aktiv Dödshjelp            | 62   | 109      
-Eivør Pálsdóttir           | 63   | 108      
+Red Hot Chili Peppers      | 61   | 112      
+Aktiv Dödshjelp            | 63   | 109      
+Eivør Pálsdóttir           | 64   | 108      
 Megadeth                   | 67   | 101      
 Porcupine Tree             | 68   | 101      
 Parius                     | 70   | 100      
@@ -121,6 +121,6 @@ Pink Floyd                   | 34   | 156
 Hall & Oates                 | 48   | 128      
 Creedence Clearwater Revival | 52   | 124      
 Daft Punk                    | 56   | 115      
-Led Zeppelin                 | 61   | 111      
+Led Zeppelin                 | 62   | 111      
 Dire Straits                 | 71   | 99       
 The Beatles                  | 92   | 78       
