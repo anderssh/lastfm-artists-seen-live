@@ -43,11 +43,11 @@ Ne Obliviscaris                | 42   | 139
 Eminem                         | 43   | 138      
 Kvelertak                      | 44   | 137      
 Architects                     | 49   | 127      
-blink-182                      | 53   | 120      
-Lamb of God                    | 54   | 119      
-The Killers                    | 55   | 117      
-The Good The Bad and The Zugly | 56   | 116      
-Opeth                          | 61   | 112      
+blink-182                      | 54   | 120      
+Lamb of God                    | 55   | 119      
+The Killers                    | 56   | 117      
+The Good The Bad and The Zugly | 58   | 116      
+Opeth                          | 62   | 112      
 Volbeat                        | 65   | 103      
 22                             | 66   | 102      
 Kaizers Orchestra              | 69   | 100      
@@ -82,10 +82,10 @@ DJ MøMø                    | 46   | 132
 Heilung                    | 47   | 131      
 Jinjer                     | 50   | 125      
 The Police                 | 51   | 125      
-Linkin Park                | 58   | 113      
-Red Hot Chili Peppers      | 59   | 113      
-Trivium                    | 60   | 113      
-Aktiv Dödshjelp            | 63   | 109      
+Aktiv Dödshjelp            | 53   | 120      
+Trivium                    | 57   | 117      
+Linkin Park                | 60   | 113      
+Red Hot Chili Peppers      | 61   | 113      
 Eivør Pálsdóttir           | 64   | 108      
 Megadeth                   | 67   | 102      
 Porcupine Tree             | 68   | 101      
@@ -116,11 +116,11 @@ The Rolling Stones         | 98   | 73
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 407      
-Rush                         | 9    | 369      
+Rush                         | 9    | 370      
 Pink Floyd                   | 34   | 157      
 Hall & Oates                 | 48   | 128      
 Creedence Clearwater Revival | 52   | 124      
-Daft Punk                    | 57   | 115      
-Led Zeppelin                 | 62   | 111      
+Daft Punk                    | 59   | 115      
+Led Zeppelin                 | 63   | 111      
 Dire Straits                 | 71   | 99       
 The Beatles                  | 92   | 78       
