@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 996      
+Dream Theater                  | 1    | 1005     
 AC/DC                          | 3    | 829      
 Metallica                      | 4    | 456      
 Spidergawd                     | 5    | 454      
@@ -22,7 +22,7 @@ In Flames                      | 6    | 422
 Seven Spires                   | 8    | 386      
 Ghost                          | 10   | 359      
 Skálmöld                       | 11   | 345      
-Haken                          | 12   | 336      
+Haken                          | 12   | 339      
 Foo Fighters                   | 13   | 335      
 Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 292      
@@ -45,11 +45,11 @@ Kvelertak                      | 44   | 137
 Architects                     | 49   | 127      
 blink-182                      | 54   | 120      
 Lamb of God                    | 55   | 119      
-The Killers                    | 56   | 117      
+The Killers                    | 57   | 117      
 The Good The Bad and The Zugly | 58   | 116      
-Opeth                          | 62   | 112      
-Volbeat                        | 65   | 103      
-22                             | 66   | 102      
+Opeth                          | 60   | 114      
+Volbeat                        | 66   | 103      
+22                             | 67   | 102      
 Kaizers Orchestra              | 69   | 100      
 Maktkamp                       | 72   | 98       
 Backstreet Girls               | 73   | 95       
@@ -83,12 +83,12 @@ Heilung                    | 47   | 131
 Jinjer                     | 50   | 125      
 The Police                 | 51   | 125      
 Aktiv Dödshjelp            | 53   | 120      
-Trivium                    | 57   | 117      
-Linkin Park                | 60   | 113      
-Red Hot Chili Peppers      | 61   | 113      
+Trivium                    | 56   | 118      
+Linkin Park                | 61   | 113      
+Red Hot Chili Peppers      | 62   | 113      
 Eivør Pálsdóttir           | 64   | 108      
-Megadeth                   | 67   | 102      
-Porcupine Tree             | 68   | 101      
+Porcupine Tree             | 65   | 103      
+Megadeth                   | 68   | 102      
 Parius                     | 70   | 100      
 The Black Keys             | 75   | 93       
 DumDum Boys                | 76   | 91       
@@ -106,7 +106,7 @@ Rival Sons                 | 90   | 79
 will.i.am                  | 91   | 79       
 Kaptein Sabeltann          | 93   | 77       
 VOLA                       | 94   | 77       
-Iron Maiden                | 95   | 75       
+Iron Maiden                | 95   | 76       
 Love                       | 96   | 74       
 Brannbamsen Bjørnis        | 97   | 73       
 The Rolling Stones         | 98   | 73       
