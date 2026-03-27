@@ -27,7 +27,7 @@ Foo Fighters                   | 13   | 335
 Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 17   | 241      
-Honningbarna                   | 19   | 207      
+Honningbarna                   | 19   | 211      
 The Dogs                       | 20   | 205      
 Slipknot                       | 21   | 199      
 Eluveitie                      | 24   | 182      
@@ -39,9 +39,9 @@ Gojira                         | 37   | 144
 Pagan's Mind                   | 39   | 143      
 Finntroll                      | 40   | 142      
 Judas Priest                   | 41   | 142      
-Ne Obliviscaris                | 42   | 139      
-Eminem                         | 43   | 138      
-Kvelertak                      | 44   | 137      
+Kvelertak                      | 42   | 139      
+Ne Obliviscaris                | 43   | 139      
+Eminem                         | 44   | 138      
 Architects                     | 49   | 127      
 blink-182                      | 54   | 120      
 Lamb of God                    | 55   | 119      
@@ -54,9 +54,9 @@ Kaizers Orchestra              | 69   | 100
 Maktkamp                       | 72   | 98       
 Backstreet Girls               | 73   | 95       
 Oslo Ess                       | 74   | 95       
-Soilwork                       | 80   | 86       
-Fit for an Autopsy             | 85   | 83       
-Turbonegro                     | 87   | 82       
+Turbonegro                     | 80   | 87       
+Soilwork                       | 81   | 86       
+Fit for an Autopsy             | 86   | 83       
 Children of Bodom              | 99   | 72       
 HammerFall                     | 100  | 71       
 
@@ -92,14 +92,14 @@ Megadeth                   | 68   | 102
 Parius                     | 70   | 100      
 The Black Keys             | 75   | 93       
 DumDum Boys                | 76   | 91       
-SikTh                      | 77   | 90       
-Queens of the Stone Age    | 78   | 87       
+Queens of the Stone Age    | 77   | 90       
+SikTh                      | 78   | 90       
 Thulsa Doom                | 79   | 87       
-Bill Withers               | 81   | 85       
-Devin Townsend Project     | 82   | 84       
-Elton John                 | 83   | 84       
-Meshuggah                  | 84   | 84       
-Bokassa                    | 86   | 82       
+Bill Withers               | 82   | 85       
+Devin Townsend Project     | 83   | 84       
+Elton John                 | 84   | 84       
+Meshuggah                  | 85   | 84       
+Bokassa                    | 87   | 82       
 Barnesprell                | 88   | 80       
 D-A-D                      | 89   | 80       
 Rival Sons                 | 90   | 79       
