@@ -18,7 +18,7 @@ Dream Theater                  | 1    | 1005
 AC/DC                          | 3    | 829      
 Metallica                      | 4    | 456      
 Spidergawd                     | 5    | 454      
-In Flames                      | 6    | 422      
+In Flames                      | 6    | 423      
 Seven Spires                   | 8    | 386      
 Ghost                          | 10   | 359      
 Skálmöld                       | 11   | 345      
@@ -56,9 +56,9 @@ Backstreet Girls               | 73   | 95
 Oslo Ess                       | 74   | 95       
 Turbonegro                     | 80   | 87       
 Soilwork                       | 81   | 86       
-Fit for an Autopsy             | 86   | 83       
-Children of Bodom              | 99   | 72       
-HammerFall                     | 100  | 71       
+Children of Bodom              | 83   | 84       
+Fit for an Autopsy             | 87   | 83       
+HammerFall                     | 100  | 72       
 
 ## Active top 100 artists not seen live (46)
 
@@ -96,20 +96,20 @@ Queens of the Stone Age    | 77   | 90
 SikTh                      | 78   | 90       
 Thulsa Doom                | 79   | 87       
 Bill Withers               | 82   | 85       
-Devin Townsend Project     | 83   | 84       
-Elton John                 | 84   | 84       
-Meshuggah                  | 85   | 84       
-Bokassa                    | 87   | 82       
-Barnesprell                | 88   | 80       
-D-A-D                      | 89   | 80       
-Rival Sons                 | 90   | 79       
-will.i.am                  | 91   | 79       
-Kaptein Sabeltann          | 93   | 77       
-VOLA                       | 94   | 77       
-Iron Maiden                | 95   | 76       
-Love                       | 96   | 74       
-Brannbamsen Bjørnis        | 97   | 73       
-The Rolling Stones         | 98   | 73       
+Devin Townsend Project     | 84   | 84       
+Elton John                 | 85   | 84       
+Meshuggah                  | 86   | 84       
+Bokassa                    | 88   | 82       
+Barnesprell                | 89   | 80       
+D-A-D                      | 90   | 80       
+Rival Sons                 | 91   | 79       
+will.i.am                  | 93   | 79       
+Kaptein Sabeltann          | 94   | 77       
+VOLA                       | 95   | 77       
+Iron Maiden                | 96   | 76       
+Love                       | 97   | 74       
+Brannbamsen Bjørnis        | 98   | 73       
+The Rolling Stones         | 99   | 73       
 
 ## Inactive top 100 artists not seen live (9)
 
@@ -123,4 +123,4 @@ Creedence Clearwater Revival | 52   | 124
 Daft Punk                    | 59   | 115      
 Led Zeppelin                 | 63   | 111      
 Dire Straits                 | 71   | 99       
-The Beatles                  | 92   | 78       
+The Beatles                  | 92   | 79       
