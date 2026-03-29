@@ -23,7 +23,7 @@ Seven Spires                   | 8    | 386
 Ghost                          | 10   | 359      
 Skálmöld                       | 11   | 345      
 Haken                          | 12   | 339      
-Foo Fighters                   | 13   | 335      
+Foo Fighters                   | 13   | 336      
 Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 17   | 241      
@@ -31,7 +31,7 @@ Honningbarna                   | 19   | 211
 The Dogs                       | 20   | 205      
 Slipknot                       | 21   | 199      
 Eluveitie                      | 24   | 182      
-Green Day                      | 26   | 179      
+Green Day                      | 26   | 180      
 Tool                           | 27   | 172      
 Mastodon                       | 30   | 165      
 Amyl and the Sniffers          | 32   | 160      
@@ -43,20 +43,20 @@ Kvelertak                      | 42   | 139
 Ne Obliviscaris                | 43   | 139      
 Eminem                         | 44   | 138      
 Architects                     | 49   | 127      
-blink-182                      | 54   | 120      
+blink-182                      | 53   | 121      
 Lamb of God                    | 55   | 119      
 The Killers                    | 57   | 117      
 The Good The Bad and The Zugly | 58   | 116      
 Opeth                          | 60   | 114      
 Volbeat                        | 66   | 103      
 22                             | 67   | 102      
-Kaizers Orchestra              | 69   | 100      
+Kaizers Orchestra              | 70   | 101      
 Maktkamp                       | 72   | 98       
 Backstreet Girls               | 73   | 95       
 Oslo Ess                       | 74   | 95       
 Turbonegro                     | 80   | 87       
-Soilwork                       | 81   | 86       
-Children of Bodom              | 83   | 84       
+Soilwork                       | 82   | 86       
+Children of Bodom              | 84   | 84       
 Fit for an Autopsy             | 87   | 83       
 HammerFall                     | 100  | 72       
 
@@ -82,22 +82,22 @@ DJ MøMø                    | 46   | 132
 Heilung                    | 47   | 131      
 Jinjer                     | 50   | 125      
 The Police                 | 51   | 125      
-Aktiv Dödshjelp            | 53   | 120      
+Aktiv Dödshjelp            | 54   | 120      
 Trivium                    | 56   | 118      
 Linkin Park                | 61   | 113      
 Red Hot Chili Peppers      | 62   | 113      
 Eivør Pálsdóttir           | 64   | 108      
 Porcupine Tree             | 65   | 103      
 Megadeth                   | 68   | 102      
-Parius                     | 70   | 100      
+Parius                     | 71   | 100      
 The Black Keys             | 75   | 93       
 DumDum Boys                | 76   | 91       
 Queens of the Stone Age    | 77   | 90       
 SikTh                      | 78   | 90       
 Thulsa Doom                | 79   | 87       
-Bill Withers               | 82   | 85       
-Devin Townsend Project     | 84   | 84       
-Elton John                 | 85   | 84       
+Bill Withers               | 81   | 86       
+Elton John                 | 83   | 85       
+Devin Townsend Project     | 85   | 84       
 Meshuggah                  | 86   | 84       
 Bokassa                    | 88   | 82       
 Barnesprell                | 89   | 80       
@@ -115,12 +115,12 @@ The Rolling Stones         | 99   | 73
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 7    | 407      
+Fleetwood Mac                | 7    | 408      
 Rush                         | 9    | 370      
 Pink Floyd                   | 34   | 157      
-Hall & Oates                 | 48   | 128      
+Hall & Oates                 | 48   | 129      
 Creedence Clearwater Revival | 52   | 124      
 Daft Punk                    | 59   | 115      
 Led Zeppelin                 | 63   | 111      
-Dire Straits                 | 71   | 99       
+Dire Straits                 | 69   | 101      
 The Beatles                  | 92   | 79       
