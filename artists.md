@@ -30,8 +30,8 @@ Greta Van Fleet                | 17   | 241
 Honningbarna                   | 19   | 211      
 The Dogs                       | 20   | 205      
 Slipknot                       | 22   | 199      
-Eluveitie                      | 24   | 182      
-Green Day                      | 25   | 182      
+Eluveitie                      | 25   | 182      
+Green Day                      | 26   | 182      
 Tool                           | 28   | 172      
 Mastodon                       | 31   | 165      
 Amyl and the Sniffers          | 33   | 160      
@@ -47,7 +47,7 @@ blink-182                      | 53   | 121
 Lamb of God                    | 55   | 119      
 The Killers                    | 57   | 117      
 The Good The Bad and The Zugly | 58   | 116      
-Opeth                          | 60   | 114      
+Opeth                          | 60   | 115      
 22                             | 66   | 104      
 Volbeat                        | 67   | 103      
 Kaizers Orchestra              | 70   | 101      
@@ -117,7 +117,7 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 408      
 Rush                         | 9    | 370      
-Pink Floyd                   | 26   | 182      
+Pink Floyd                   | 24   | 184      
 Hall & Oates                 | 48   | 129      
 Creedence Clearwater Revival | 52   | 124      
 Daft Punk                    | 59   | 115      
