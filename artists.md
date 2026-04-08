@@ -30,8 +30,8 @@ Greta Van Fleet                | 17   | 241
 Honningbarna                   | 19   | 211      
 The Dogs                       | 20   | 205      
 Slipknot                       | 22   | 199      
-Eluveitie                      | 25   | 182      
-Green Day                      | 26   | 182      
+Green Day                      | 24   | 195      
+Eluveitie                      | 26   | 182      
 Tool                           | 28   | 172      
 Mastodon                       | 31   | 165      
 Amyl and the Sniffers          | 33   | 160      
@@ -54,10 +54,10 @@ Kaizers Orchestra              | 70   | 101
 Maktkamp                       | 72   | 98       
 Backstreet Girls               | 73   | 95       
 Oslo Ess                       | 74   | 95       
-Turbonegro                     | 81   | 87       
-Soilwork                       | 82   | 86       
-Children of Bodom              | 84   | 84       
-Fit for an Autopsy             | 87   | 83       
+Turbonegro                     | 82   | 87       
+Soilwork                       | 83   | 86       
+Children of Bodom              | 85   | 84       
+Fit for an Autopsy             | 88   | 83       
 HammerFall                     | 100  | 72       
 
 ## Active top 100 artists not seen live (46)
@@ -87,25 +87,25 @@ Trivium                    | 56   | 118
 Linkin Park                | 61   | 113      
 Red Hot Chili Peppers      | 62   | 113      
 Eivør Pálsdóttir           | 64   | 108      
-Porcupine Tree             | 65   | 107      
+Porcupine Tree             | 65   | 108      
 Megadeth                   | 68   | 102      
 Parius                     | 71   | 100      
 The Black Keys             | 75   | 93       
-DumDum Boys                | 76   | 91       
-Queens of the Stone Age    | 77   | 90       
-SikTh                      | 78   | 90       
-Bill Withers               | 79   | 88       
-Thulsa Doom                | 80   | 87       
-Elton John                 | 83   | 85       
-Devin Townsend Project     | 85   | 84       
-Meshuggah                  | 86   | 84       
-Bokassa                    | 88   | 82       
-Barnesprell                | 89   | 80       
-D-A-D                      | 90   | 80       
-Rival Sons                 | 91   | 79       
-will.i.am                  | 93   | 79       
-Kaptein Sabeltann          | 94   | 77       
-VOLA                       | 95   | 77       
+VOLA                       | 76   | 93       
+DumDum Boys                | 77   | 91       
+Queens of the Stone Age    | 78   | 90       
+SikTh                      | 79   | 90       
+Bill Withers               | 80   | 88       
+Thulsa Doom                | 81   | 87       
+Elton John                 | 84   | 85       
+Devin Townsend Project     | 86   | 84       
+Meshuggah                  | 87   | 84       
+Bokassa                    | 89   | 82       
+Barnesprell                | 90   | 80       
+D-A-D                      | 91   | 80       
+Rival Sons                 | 92   | 79       
+will.i.am                  | 94   | 79       
+Kaptein Sabeltann          | 95   | 77       
 Iron Maiden                | 96   | 76       
 Love                       | 97   | 74       
 Brannbamsen Bjørnis        | 98   | 73       
@@ -117,10 +117,10 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 408      
 Rush                         | 9    | 370      
-Pink Floyd                   | 24   | 184      
+Pink Floyd                   | 25   | 184      
 Hall & Oates                 | 48   | 129      
 Creedence Clearwater Revival | 52   | 124      
 Daft Punk                    | 59   | 115      
 Led Zeppelin                 | 63   | 111      
 Dire Straits                 | 69   | 101      
-The Beatles                  | 92   | 79       
+The Beatles                  | 93   | 79       
