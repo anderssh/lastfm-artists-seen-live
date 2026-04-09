@@ -30,7 +30,7 @@ Greta Van Fleet                | 17   | 241
 Honningbarna                   | 19   | 211      
 The Dogs                       | 20   | 205      
 Slipknot                       | 22   | 199      
-Green Day                      | 24   | 195      
+Green Day                      | 23   | 197      
 Eluveitie                      | 26   | 182      
 Tool                           | 28   | 172      
 Mastodon                       | 31   | 165      
@@ -43,7 +43,7 @@ Kvelertak                      | 42   | 139
 Ne Obliviscaris                | 43   | 139      
 Eminem                         | 44   | 138      
 Architects                     | 49   | 127      
-blink-182                      | 53   | 121      
+blink-182                      | 53   | 122      
 Lamb of God                    | 55   | 119      
 The Killers                    | 57   | 117      
 The Good The Bad and The Zugly | 58   | 116      
@@ -64,11 +64,11 @@ HammerFall                     | 100  | 72
 
 Name                       | Rank | PlayCount
 -------------------------- | ---- | ---------
-Thorbjørn Egner            | 2    | 938      
+Thorbjørn Egner            | 2    | 961      
 Nospūn                     | 16   | 246      
 Jean-Luc Ponty             | 18   | 226      
 John Mayer                 | 21   | 199      
-All That Remains           | 23   | 195      
+All That Remains           | 24   | 195      
 Lars Vaular                | 27   | 181      
 The Halo Effect            | 29   | 169      
 The Offspring              | 30   | 167      
