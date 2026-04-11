@@ -6,11 +6,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 - Number of fetched top artists: 100 (Active: 90 Inactive: 10)
 
-- Number of top artists seen live: 45 (Active: 44 Inactive: 1)
+- Number of top artists seen live: 44 (Active: 43 Inactive: 1)
 
-- Number of top artists not seen live: 55 (Active: 46 Inactive: 9)
+- Number of top artists not seen live: 56 (Active: 47 Inactive: 9)
 
-## Top 100 artists seen live (45)
+## Top 100 artists seen live (44)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -21,9 +21,9 @@ Spidergawd                     | 5    | 454
 In Flames                      | 6    | 423      
 Seven Spires                   | 8    | 386      
 Ghost                          | 10   | 359      
-Skálmöld                       | 11   | 345      
-Haken                          | 12   | 340      
-Foo Fighters                   | 13   | 339      
+Foo Fighters                   | 11   | 349      
+Skálmöld                       | 12   | 345      
+Haken                          | 13   | 340      
 Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 17   | 241      
@@ -58,58 +58,58 @@ Turbonegro                     | 82   | 87
 Soilwork                       | 83   | 86       
 Children of Bodom              | 85   | 84       
 Fit for an Autopsy             | 88   | 83       
-HammerFall                     | 100  | 72       
 
-## Active top 100 artists not seen live (46)
+## Active top 100 artists not seen live (47)
 
-Name                       | Rank | PlayCount
--------------------------- | ---- | ---------
-Thorbjørn Egner            | 2    | 961      
-Nospūn                     | 16   | 246      
-Jean-Luc Ponty             | 18   | 226      
-John Mayer                 | 21   | 199      
-All That Remains           | 24   | 195      
-Lars Vaular                | 27   | 181      
-The Halo Effect            | 29   | 169      
-The Offspring              | 30   | 167      
-The Night Flight Orchestra | 32   | 165      
-Death by Unga Bunga        | 34   | 157      
-Animals as Leaders         | 35   | 155      
-Sylosis                    | 36   | 151      
-Moron Police               | 38   | 144      
-Toto                       | 45   | 134      
-DJ MøMø                    | 46   | 132      
-Heilung                    | 47   | 131      
-Jinjer                     | 50   | 125      
-The Police                 | 51   | 125      
-Aktiv Dödshjelp            | 54   | 120      
-Trivium                    | 56   | 118      
-Linkin Park                | 61   | 113      
-Red Hot Chili Peppers      | 62   | 113      
-Eivør Pálsdóttir           | 64   | 108      
-Porcupine Tree             | 65   | 108      
-Megadeth                   | 68   | 102      
-Parius                     | 71   | 100      
-The Black Keys             | 75   | 93       
-VOLA                       | 76   | 93       
-DumDum Boys                | 77   | 91       
-Queens of the Stone Age    | 78   | 90       
-SikTh                      | 79   | 90       
-Bill Withers               | 80   | 88       
-Thulsa Doom                | 81   | 87       
-Elton John                 | 84   | 85       
-Devin Townsend Project     | 86   | 84       
-Meshuggah                  | 87   | 84       
-Bokassa                    | 89   | 82       
-Barnesprell                | 90   | 80       
-D-A-D                      | 91   | 80       
-Rival Sons                 | 92   | 79       
-will.i.am                  | 94   | 79       
-Kaptein Sabeltann          | 95   | 77       
-Iron Maiden                | 96   | 76       
-Love                       | 97   | 74       
-Brannbamsen Bjørnis        | 98   | 73       
-The Rolling Stones         | 99   | 73       
+Name                           | Rank | PlayCount
+------------------------------ | ---- | ---------
+Thorbjørn Egner                | 2    | 961      
+Nospūn                         | 16   | 246      
+Jean-Luc Ponty                 | 18   | 226      
+John Mayer                     | 21   | 199      
+All That Remains               | 24   | 195      
+Lars Vaular                    | 27   | 181      
+The Halo Effect                | 29   | 169      
+The Offspring                  | 30   | 167      
+The Night Flight Orchestra     | 32   | 165      
+Death by Unga Bunga            | 34   | 157      
+Animals as Leaders             | 35   | 155      
+Sylosis                        | 36   | 151      
+Moron Police                   | 38   | 144      
+Toto                           | 45   | 134      
+DJ MøMø                        | 46   | 132      
+Heilung                        | 47   | 131      
+Jinjer                         | 50   | 125      
+The Police                     | 51   | 125      
+Aktiv Dödshjelp                | 54   | 120      
+Trivium                        | 56   | 118      
+Linkin Park                    | 61   | 113      
+Red Hot Chili Peppers          | 62   | 113      
+Eivør Pálsdóttir               | 64   | 108      
+Porcupine Tree                 | 65   | 108      
+Megadeth                       | 68   | 102      
+Parius                         | 71   | 100      
+The Black Keys                 | 75   | 93       
+VOLA                           | 76   | 93       
+DumDum Boys                    | 77   | 91       
+Queens of the Stone Age        | 78   | 90       
+SikTh                          | 79   | 90       
+Bill Withers                   | 80   | 88       
+Thulsa Doom                    | 81   | 87       
+Elton John                     | 84   | 85       
+Devin Townsend Project         | 86   | 84       
+Meshuggah                      | 87   | 84       
+Bokassa                        | 89   | 82       
+Barnesprell                    | 90   | 80       
+D-A-D                          | 91   | 80       
+Rival Sons                     | 92   | 79       
+will.i.am                      | 94   | 79       
+Kaptein Sabeltann              | 95   | 77       
+Iron Maiden                    | 96   | 76       
+Love                           | 97   | 74       
+OnklP & De Fjerne Slektningene | 98   | 74       
+Brannbamsen Bjørnis            | 99   | 73       
+The Rolling Stones             | 100  | 73       
 
 ## Inactive top 100 artists not seen live (9)
 
