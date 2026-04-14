@@ -20,8 +20,8 @@ Metallica                      | 4    | 456
 Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 423      
 Seven Spires                   | 8    | 386      
-Ghost                          | 10   | 359      
-Foo Fighters                   | 11   | 349      
+Foo Fighters                   | 10   | 362      
+Ghost                          | 11   | 359      
 Skálmöld                       | 12   | 345      
 Haken                          | 13   | 340      
 Avenged Sevenfold              | 14   | 322      
