@@ -33,9 +33,9 @@ Slipknot                       | 22   | 199
 Green Day                      | 23   | 197      
 Eluveitie                      | 26   | 182      
 Tool                           | 28   | 172      
-Mastodon                       | 31   | 165      
-Amyl and the Sniffers          | 33   | 160      
-Gojira                         | 37   | 144      
+Mastodon                       | 32   | 165      
+Amyl and the Sniffers          | 34   | 160      
+Gojira                         | 38   | 144      
 Pagan's Mind                   | 39   | 143      
 Finntroll                      | 40   | 142      
 Judas Priest                   | 41   | 142      
@@ -49,7 +49,7 @@ The Killers                    | 57   | 117
 The Good The Bad and The Zugly | 58   | 116      
 Opeth                          | 60   | 115      
 22                             | 66   | 104      
-Volbeat                        | 67   | 103      
+Volbeat                        | 68   | 103      
 Kaizers Orchestra              | 70   | 101      
 Maktkamp                       | 72   | 98       
 Backstreet Girls               | 73   | 95       
@@ -71,12 +71,12 @@ All That Remains               | 24   | 195
 Lars Vaular                    | 27   | 181      
 The Halo Effect                | 29   | 169      
 The Offspring                  | 30   | 167      
-The Night Flight Orchestra     | 32   | 165      
-Death by Unga Bunga            | 34   | 157      
-Animals as Leaders             | 35   | 155      
-Sylosis                        | 36   | 151      
-Moron Police                   | 38   | 144      
-Toto                           | 45   | 134      
+Moron Police                   | 31   | 166      
+The Night Flight Orchestra     | 33   | 165      
+Death by Unga Bunga            | 35   | 157      
+Animals as Leaders             | 36   | 155      
+Sylosis                        | 37   | 151      
+Toto                           | 45   | 136      
 DJ MøMø                        | 46   | 132      
 Heilung                        | 47   | 131      
 Jinjer                         | 50   | 125      
@@ -87,7 +87,7 @@ Linkin Park                    | 61   | 113
 Red Hot Chili Peppers          | 62   | 113      
 Eivør Pálsdóttir               | 64   | 108      
 Porcupine Tree                 | 65   | 108      
-Megadeth                       | 68   | 102      
+Megadeth                       | 69   | 102      
 Parius                         | 71   | 100      
 The Black Keys                 | 75   | 93       
 VOLA                           | 76   | 93       
@@ -115,12 +115,12 @@ The Rolling Stones             | 100  | 73
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 7    | 408      
+Fleetwood Mac                | 7    | 410      
 Rush                         | 9    | 370      
-Pink Floyd                   | 25   | 184      
+Pink Floyd                   | 25   | 185      
 Hall & Oates                 | 48   | 129      
 Creedence Clearwater Revival | 52   | 124      
 Daft Punk                    | 59   | 115      
-Led Zeppelin                 | 63   | 111      
-Dire Straits                 | 69   | 101      
+Led Zeppelin                 | 63   | 112      
+Dire Straits                 | 67   | 103      
 The Beatles                  | 93   | 79       
