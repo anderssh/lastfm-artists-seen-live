@@ -32,7 +32,7 @@ The Dogs                       | 20   | 205
 Slipknot                       | 22   | 199      
 Green Day                      | 23   | 197      
 Eluveitie                      | 26   | 182      
-Tool                           | 28   | 172      
+Tool                           | 29   | 172      
 Mastodon                       | 32   | 165      
 Amyl and the Sniffers          | 34   | 160      
 Gojira                         | 38   | 144      
@@ -69,9 +69,9 @@ Jean-Luc Ponty                 | 18   | 226
 John Mayer                     | 21   | 199      
 All That Remains               | 24   | 195      
 Lars Vaular                    | 27   | 181      
-The Halo Effect                | 29   | 169      
-The Offspring                  | 30   | 167      
-Moron Police                   | 31   | 166      
+Moron Police                   | 28   | 172      
+The Halo Effect                | 30   | 169      
+The Offspring                  | 31   | 167      
 The Night Flight Orchestra     | 33   | 165      
 Death by Unga Bunga            | 35   | 157      
 Animals as Leaders             | 36   | 155      
