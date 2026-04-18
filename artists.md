@@ -117,7 +117,7 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 410      
 Rush                         | 9    | 370      
-Pink Floyd                   | 25   | 185      
+Pink Floyd                   | 25   | 186      
 Hall & Oates                 | 48   | 129      
 Creedence Clearwater Revival | 52   | 124      
 Daft Punk                    | 59   | 115      
