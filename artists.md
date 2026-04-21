@@ -69,7 +69,7 @@ Jean-Luc Ponty                 | 18   | 226
 John Mayer                     | 21   | 199      
 All That Remains               | 24   | 195      
 Lars Vaular                    | 27   | 181      
-Moron Police                   | 28   | 172      
+Moron Police                   | 28   | 179      
 The Halo Effect                | 30   | 169      
 The Offspring                  | 31   | 167      
 The Night Flight Orchestra     | 33   | 165      
