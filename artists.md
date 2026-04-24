@@ -15,15 +15,15 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 1008     
-AC/DC                          | 3    | 829      
+AC/DC                          | 3    | 831      
 Metallica                      | 4    | 456      
 Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 423      
 Seven Spires                   | 8    | 386      
 Foo Fighters                   | 10   | 362      
-Ghost                          | 11   | 359      
+Ghost                          | 11   | 360      
 Skálmöld                       | 12   | 345      
-Haken                          | 13   | 342      
+Haken                          | 13   | 344      
 Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 17   | 241      
@@ -68,8 +68,8 @@ Nospūn                         | 16   | 246
 Jean-Luc Ponty                 | 18   | 226      
 John Mayer                     | 21   | 199      
 All That Remains               | 24   | 195      
-Lars Vaular                    | 27   | 181      
-Moron Police                   | 28   | 179      
+Moron Police                   | 27   | 182      
+Lars Vaular                    | 28   | 181      
 The Halo Effect                | 30   | 169      
 The Offspring                  | 31   | 167      
 The Night Flight Orchestra     | 33   | 165      
@@ -104,8 +104,8 @@ Barnesprell                    | 90   | 80
 D-A-D                          | 91   | 80       
 Rival Sons                     | 92   | 79       
 will.i.am                      | 94   | 79       
-Kaptein Sabeltann              | 95   | 77       
-Iron Maiden                    | 96   | 76       
+Iron Maiden                    | 95   | 77       
+Kaptein Sabeltann              | 96   | 77       
 Love                           | 97   | 74       
 OnklP & De Fjerne Slektningene | 98   | 74       
 Brannbamsen Bjørnis            | 99   | 73       
