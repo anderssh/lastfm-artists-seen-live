@@ -31,7 +31,7 @@ Honningbarna                   | 19   | 211
 The Dogs                       | 20   | 205      
 Slipknot                       | 22   | 199      
 Green Day                      | 23   | 197      
-Eluveitie                      | 26   | 182      
+Eluveitie                      | 27   | 182      
 Tool                           | 29   | 172      
 Mastodon                       | 32   | 165      
 Amyl and the Sniffers          | 34   | 160      
@@ -68,7 +68,7 @@ Nospūn                         | 16   | 246
 Jean-Luc Ponty                 | 18   | 226      
 John Mayer                     | 21   | 199      
 All That Remains               | 24   | 195      
-Moron Police                   | 27   | 182      
+Moron Police                   | 25   | 188      
 Lars Vaular                    | 28   | 181      
 The Halo Effect                | 30   | 169      
 The Offspring                  | 31   | 167      
@@ -117,7 +117,7 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 410      
 Rush                         | 9    | 370      
-Pink Floyd                   | 25   | 186      
+Pink Floyd                   | 26   | 186      
 Hall & Oates                 | 48   | 129      
 Creedence Clearwater Revival | 52   | 124      
 Daft Punk                    | 59   | 115      
