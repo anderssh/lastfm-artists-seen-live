@@ -20,7 +20,7 @@ Metallica                      | 4    | 456
 Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 423      
 Seven Spires                   | 8    | 386      
-Foo Fighters                   | 10   | 362      
+Foo Fighters                   | 10   | 364      
 Ghost                          | 11   | 360      
 Skálmöld                       | 12   | 345      
 Haken                          | 13   | 344      
@@ -67,8 +67,8 @@ Thorbjørn Egner                | 2    | 961
 Nospūn                         | 16   | 246      
 Jean-Luc Ponty                 | 18   | 226      
 John Mayer                     | 21   | 199      
-All That Remains               | 24   | 195      
-Moron Police                   | 25   | 188      
+Moron Police                   | 24   | 196      
+All That Remains               | 25   | 195      
 Lars Vaular                    | 28   | 181      
 The Halo Effect                | 30   | 169      
 The Offspring                  | 31   | 167      
