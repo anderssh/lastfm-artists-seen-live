@@ -43,7 +43,7 @@ Kvelertak                      | 42   | 139
 Ne Obliviscaris                | 43   | 139      
 Eminem                         | 44   | 138      
 Architects                     | 49   | 127      
-blink-182                      | 53   | 122      
+blink-182                      | 53   | 123      
 Lamb of God                    | 55   | 119      
 The Killers                    | 57   | 117      
 The Good The Bad and The Zugly | 58   | 116      
@@ -85,7 +85,7 @@ Aktiv Dödshjelp                | 54   | 120
 Trivium                        | 56   | 118      
 Linkin Park                    | 61   | 113      
 Red Hot Chili Peppers          | 62   | 113      
-Eivør Pálsdóttir               | 64   | 108      
+Eivør Pálsdóttir               | 64   | 109      
 Porcupine Tree                 | 65   | 108      
 Megadeth                       | 69   | 102      
 Parius                         | 71   | 100      
