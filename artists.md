@@ -20,7 +20,7 @@ Metallica                      | 4    | 456
 Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 423      
 Seven Spires                   | 8    | 386      
-Foo Fighters                   | 10   | 364      
+Foo Fighters                   | 9    | 380      
 Ghost                          | 11   | 360      
 Skálmöld                       | 12   | 345      
 Haken                          | 13   | 344      
@@ -71,7 +71,7 @@ Moron Police                   | 24   | 196
 All That Remains               | 25   | 195      
 Lars Vaular                    | 28   | 181      
 The Halo Effect                | 30   | 169      
-The Offspring                  | 31   | 167      
+The Offspring                  | 31   | 168      
 The Night Flight Orchestra     | 33   | 165      
 Death by Unga Bunga            | 35   | 157      
 Animals as Leaders             | 36   | 155      
@@ -91,7 +91,7 @@ Megadeth                       | 69   | 102
 Parius                         | 71   | 100      
 The Black Keys                 | 75   | 93       
 VOLA                           | 76   | 93       
-DumDum Boys                    | 77   | 91       
+DumDum Boys                    | 77   | 92       
 SikTh                          | 78   | 91       
 Queens of the Stone Age        | 79   | 90       
 Bill Withers                   | 80   | 88       
@@ -100,11 +100,11 @@ Elton John                     | 84   | 85
 Devin Townsend Project         | 86   | 84       
 Meshuggah                      | 87   | 84       
 Bokassa                        | 89   | 82       
-Barnesprell                    | 90   | 80       
-D-A-D                          | 91   | 80       
+D-A-D                          | 90   | 81       
+Barnesprell                    | 91   | 80       
 Rival Sons                     | 92   | 79       
 will.i.am                      | 94   | 79       
-Iron Maiden                    | 95   | 77       
+Iron Maiden                    | 95   | 78       
 Kaptein Sabeltann              | 96   | 77       
 Love                           | 97   | 74       
 OnklP & De Fjerne Slektningene | 98   | 74       
@@ -116,7 +116,7 @@ The Rolling Stones             | 100  | 73
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 410      
-Rush                         | 9    | 370      
+Rush                         | 10   | 370      
 Pink Floyd                   | 26   | 186      
 Hall & Oates                 | 48   | 129      
 Creedence Clearwater Revival | 52   | 124      
