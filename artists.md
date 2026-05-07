@@ -83,8 +83,8 @@ Jinjer                         | 50   | 125
 The Police                     | 51   | 125      
 Aktiv Dödshjelp                | 54   | 120      
 Trivium                        | 56   | 118      
-Linkin Park                    | 61   | 113      
-Red Hot Chili Peppers          | 62   | 113      
+Linkin Park                    | 62   | 113      
+Red Hot Chili Peppers          | 63   | 113      
 Eivør Pálsdóttir               | 64   | 109      
 Porcupine Tree                 | 65   | 108      
 Megadeth                       | 69   | 102      
@@ -102,7 +102,7 @@ Meshuggah                      | 87   | 84
 Bokassa                        | 89   | 82       
 D-A-D                          | 90   | 81       
 Barnesprell                    | 91   | 80       
-Rival Sons                     | 92   | 79       
+Rival Sons                     | 93   | 79       
 will.i.am                      | 94   | 79       
 Iron Maiden                    | 95   | 78       
 Kaptein Sabeltann              | 96   | 77       
@@ -117,10 +117,10 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 410      
 Rush                         | 10   | 370      
-Pink Floyd                   | 26   | 186      
+Pink Floyd                   | 26   | 188      
 Hall & Oates                 | 48   | 129      
 Creedence Clearwater Revival | 52   | 124      
 Daft Punk                    | 59   | 115      
-Led Zeppelin                 | 63   | 112      
+Led Zeppelin                 | 61   | 114      
 Dire Straits                 | 67   | 103      
-The Beatles                  | 93   | 79       
+The Beatles                  | 92   | 80       
