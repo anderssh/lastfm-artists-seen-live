@@ -54,7 +54,7 @@ Kaizers Orchestra              | 70   | 101
 Maktkamp                       | 72   | 98       
 Backstreet Girls               | 73   | 95       
 Oslo Ess                       | 74   | 95       
-Turbonegro                     | 82   | 87       
+Turbonegro                     | 81   | 88       
 Soilwork                       | 83   | 86       
 Children of Bodom              | 85   | 84       
 Fit for an Autopsy             | 88   | 83       
@@ -95,7 +95,7 @@ DumDum Boys                    | 77   | 92
 SikTh                          | 78   | 91       
 Queens of the Stone Age        | 79   | 90       
 Bill Withers                   | 80   | 88       
-Thulsa Doom                    | 81   | 87       
+Thulsa Doom                    | 82   | 87       
 Elton John                     | 84   | 85       
 Devin Townsend Project         | 86   | 84       
 Meshuggah                      | 87   | 84       
