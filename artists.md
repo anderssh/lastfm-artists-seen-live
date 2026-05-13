@@ -74,7 +74,7 @@ The Halo Effect                | 30   | 169
 The Offspring                  | 31   | 168      
 The Night Flight Orchestra     | 33   | 165      
 Death by Unga Bunga            | 35   | 157      
-Animals as Leaders             | 36   | 155      
+Animals as Leaders             | 36   | 156      
 Sylosis                        | 37   | 151      
 Toto                           | 45   | 136      
 DJ MøMø                        | 46   | 132      
