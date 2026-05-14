@@ -28,9 +28,9 @@ Avenged Sevenfold              | 14   | 322
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 17   | 241      
 Honningbarna                   | 19   | 211      
-The Dogs                       | 20   | 205      
-Slipknot                       | 22   | 199      
-Green Day                      | 23   | 197      
+The Dogs                       | 21   | 205      
+Slipknot                       | 23   | 199      
+Green Day                      | 24   | 197      
 Eluveitie                      | 27   | 182      
 Tool                           | 29   | 172      
 Mastodon                       | 32   | 165      
@@ -66,8 +66,8 @@ Name                           | Rank | PlayCount
 Thorbjørn Egner                | 2    | 961      
 Nospūn                         | 16   | 246      
 Jean-Luc Ponty                 | 18   | 226      
-John Mayer                     | 21   | 199      
-Moron Police                   | 24   | 196      
+Moron Police                   | 20   | 210      
+John Mayer                     | 22   | 199      
 All That Remains               | 25   | 195      
 Lars Vaular                    | 28   | 181      
 The Halo Effect                | 30   | 169      
