@@ -27,7 +27,7 @@ Haken                          | 13   | 344
 Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 17   | 241      
-Honningbarna                   | 19   | 211      
+Honningbarna                   | 20   | 211      
 The Dogs                       | 21   | 205      
 Slipknot                       | 23   | 199      
 Green Day                      | 24   | 197      
@@ -66,7 +66,7 @@ Name                           | Rank | PlayCount
 Thorbjørn Egner                | 2    | 961      
 Nospūn                         | 16   | 246      
 Jean-Luc Ponty                 | 18   | 226      
-Moron Police                   | 20   | 210      
+Moron Police                   | 19   | 224      
 John Mayer                     | 22   | 199      
 All That Remains               | 25   | 195      
 Lars Vaular                    | 28   | 181      
