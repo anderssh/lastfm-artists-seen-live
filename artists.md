@@ -20,7 +20,7 @@ Metallica                      | 4    | 456
 Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 423      
 Seven Spires                   | 8    | 386      
-Foo Fighters                   | 9    | 380      
+Foo Fighters                   | 9    | 384      
 Ghost                          | 11   | 360      
 Skálmöld                       | 12   | 345      
 Haken                          | 13   | 344      
@@ -35,22 +35,22 @@ Eluveitie                      | 27   | 182
 Tool                           | 29   | 172      
 Mastodon                       | 32   | 165      
 Amyl and the Sniffers          | 34   | 160      
-Gojira                         | 38   | 144      
-Pagan's Mind                   | 39   | 143      
-Finntroll                      | 40   | 142      
-Judas Priest                   | 41   | 142      
+Judas Priest                   | 38   | 149      
+Gojira                         | 39   | 144      
+Pagan's Mind                   | 40   | 143      
+Finntroll                      | 41   | 142      
 Kvelertak                      | 42   | 139      
 Ne Obliviscaris                | 43   | 139      
 Eminem                         | 44   | 138      
 Architects                     | 49   | 127      
 blink-182                      | 53   | 123      
 Lamb of God                    | 55   | 119      
-The Killers                    | 57   | 117      
+The Killers                    | 56   | 118      
 The Good The Bad and The Zugly | 58   | 116      
-Opeth                          | 60   | 115      
+Opeth                          | 61   | 115      
 22                             | 66   | 104      
 Volbeat                        | 68   | 103      
-Kaizers Orchestra              | 70   | 101      
+Kaizers Orchestra              | 69   | 102      
 Maktkamp                       | 72   | 98       
 Backstreet Girls               | 73   | 95       
 Oslo Ess                       | 74   | 95       
@@ -82,12 +82,12 @@ Heilung                        | 47   | 131
 Jinjer                         | 50   | 125      
 The Police                     | 51   | 125      
 Aktiv Dödshjelp                | 54   | 120      
-Trivium                        | 56   | 118      
+Trivium                        | 57   | 118      
 Linkin Park                    | 62   | 113      
 Red Hot Chili Peppers          | 63   | 113      
 Eivør Pálsdóttir               | 64   | 109      
 Porcupine Tree                 | 65   | 108      
-Megadeth                       | 69   | 102      
+Megadeth                       | 70   | 102      
 Parius                         | 71   | 100      
 The Black Keys                 | 75   | 93       
 VOLA                           | 76   | 93       
@@ -117,10 +117,10 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 410      
 Rush                         | 10   | 370      
-Pink Floyd                   | 26   | 188      
+Pink Floyd                   | 26   | 191      
 Hall & Oates                 | 48   | 129      
 Creedence Clearwater Revival | 52   | 124      
 Daft Punk                    | 59   | 115      
-Led Zeppelin                 | 61   | 114      
-Dire Straits                 | 67   | 103      
+Led Zeppelin                 | 60   | 115      
+Dire Straits                 | 67   | 104      
 The Beatles                  | 92   | 80       
