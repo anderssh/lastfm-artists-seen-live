@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 1009     
 AC/DC                          | 3    | 831      
-Metallica                      | 4    | 456      
+Metallica                      | 4    | 457      
 Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 423      
 Seven Spires                   | 8    | 386      
