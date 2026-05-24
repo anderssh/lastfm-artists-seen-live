@@ -15,15 +15,15 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 1010     
-AC/DC                          | 3    | 831      
+AC/DC                          | 3    | 833      
 Metallica                      | 4    | 457      
 Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 423      
-Foo Fighters                   | 8    | 386      
+Foo Fighters                   | 8    | 387      
 Seven Spires                   | 9    | 386      
 Ghost                          | 11   | 360      
-Skálmöld                       | 12   | 345      
-Haken                          | 13   | 344      
+Haken                          | 12   | 347      
+Skálmöld                       | 13   | 345      
 Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 292      
 Greta Van Fleet                | 17   | 241      
@@ -43,18 +43,18 @@ Kvelertak                      | 42   | 139
 Ne Obliviscaris                | 43   | 139      
 Eminem                         | 44   | 138      
 Architects                     | 49   | 127      
-blink-182                      | 53   | 123      
-Lamb of God                    | 56   | 119      
-The Killers                    | 57   | 118      
-The Good The Bad and The Zugly | 58   | 116      
-Opeth                          | 61   | 115      
-Volbeat                        | 66   | 105      
-22                             | 67   | 104      
-Kaizers Orchestra              | 69   | 102      
+blink-182                      | 52   | 124      
+The Killers                    | 54   | 122      
+Lamb of God                    | 57   | 119      
+The Good The Bad and The Zugly | 60   | 116      
+Opeth                          | 63   | 115      
+Volbeat                        | 67   | 105      
+22                             | 68   | 104      
+Kaizers Orchestra              | 69   | 103      
 Maktkamp                       | 72   | 98       
 Backstreet Girls               | 73   | 95       
 Oslo Ess                       | 74   | 95       
-Turbonegro                     | 81   | 88       
+Turbonegro                     | 80   | 90       
 Soilwork                       | 84   | 86       
 Children of Bodom              | 86   | 84       
 Fit for an Autopsy             | 88   | 83       
@@ -76,25 +76,25 @@ The Night Flight Orchestra     | 33   | 165
 Animals as Leaders             | 35   | 158      
 Death by Unga Bunga            | 36   | 157      
 Sylosis                        | 37   | 152      
-Toto                           | 45   | 136      
+Toto                           | 45   | 138      
 DJ MøMø                        | 46   | 132      
 Heilung                        | 47   | 131      
 Jinjer                         | 50   | 125      
 The Police                     | 51   | 125      
-Aktiv Dödshjelp                | 54   | 120      
-Trivium                        | 55   | 120      
-Linkin Park                    | 62   | 114      
-Red Hot Chili Peppers          | 63   | 114      
+Aktiv Dödshjelp                | 55   | 120      
+Trivium                        | 56   | 120      
+Red Hot Chili Peppers          | 58   | 117      
+Linkin Park                    | 59   | 116      
 Eivør Pálsdóttir               | 64   | 109      
 Porcupine Tree                 | 65   | 108      
 Megadeth                       | 70   | 102      
 Parius                         | 71   | 100      
-The Black Keys                 | 75   | 93       
-VOLA                           | 76   | 93       
-DumDum Boys                    | 77   | 92       
+DumDum Boys                    | 75   | 94       
+The Black Keys                 | 76   | 93       
+VOLA                           | 77   | 93       
 SikTh                          | 78   | 92       
 Queens of the Stone Age        | 79   | 90       
-Bill Withers                   | 80   | 88       
+Bill Withers                   | 81   | 88       
 Thulsa Doom                    | 82   | 87       
 Meshuggah                      | 83   | 86       
 Elton John                     | 85   | 85       
@@ -117,10 +117,10 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 410      
 Rush                         | 10   | 370      
-Pink Floyd                   | 26   | 191      
+Pink Floyd                   | 26   | 192      
 Hall & Oates                 | 48   | 129      
-Creedence Clearwater Revival | 52   | 124      
-Daft Punk                    | 59   | 115      
-Led Zeppelin                 | 60   | 115      
-Dire Straits                 | 68   | 104      
+Creedence Clearwater Revival | 53   | 124      
+Daft Punk                    | 61   | 115      
+Led Zeppelin                 | 62   | 115      
+Dire Straits                 | 66   | 106      
 The Beatles                  | 92   | 80       
