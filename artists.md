@@ -32,7 +32,7 @@ The Dogs                       | 21   | 205
 Slipknot                       | 22   | 200      
 Green Day                      | 24   | 197      
 Eluveitie                      | 27   | 182      
-Tool                           | 29   | 173      
+Tool                           | 29   | 175      
 Mastodon                       | 32   | 165      
 Amyl and the Sniffers          | 34   | 160      
 Judas Priest                   | 38   | 149      
@@ -44,16 +44,16 @@ Ne Obliviscaris                | 43   | 139
 Eminem                         | 44   | 138      
 Architects                     | 49   | 127      
 blink-182                      | 52   | 124      
-The Killers                    | 54   | 122      
-Lamb of God                    | 57   | 119      
-The Good The Bad and The Zugly | 60   | 116      
-Opeth                          | 63   | 115      
-Volbeat                        | 67   | 105      
-22                             | 68   | 104      
-Kaizers Orchestra              | 69   | 103      
-Maktkamp                       | 72   | 98       
-Backstreet Girls               | 73   | 95       
-Oslo Ess                       | 74   | 95       
+The Killers                    | 55   | 122      
+Lamb of God                    | 58   | 119      
+The Good The Bad and The Zugly | 61   | 116      
+Opeth                          | 64   | 115      
+Volbeat                        | 68   | 105      
+22                             | 69   | 104      
+Kaizers Orchestra              | 70   | 103      
+Maktkamp                       | 73   | 98       
+Backstreet Girls               | 74   | 95       
+Oslo Ess                       | 75   | 95       
 Turbonegro                     | 80   | 90       
 Soilwork                       | 84   | 86       
 Children of Bodom              | 86   | 84       
@@ -81,15 +81,15 @@ DJ MøMø                        | 46   | 132
 Heilung                        | 47   | 131      
 Jinjer                         | 50   | 125      
 The Police                     | 51   | 125      
-Aktiv Dödshjelp                | 55   | 120      
-Trivium                        | 56   | 120      
-Red Hot Chili Peppers          | 58   | 117      
-Linkin Park                    | 59   | 116      
-Eivør Pálsdóttir               | 64   | 109      
-Porcupine Tree                 | 65   | 108      
-Megadeth                       | 70   | 102      
-Parius                         | 71   | 100      
-DumDum Boys                    | 75   | 94       
+DumDum Boys                    | 54   | 122      
+Aktiv Dödshjelp                | 56   | 120      
+Trivium                        | 57   | 120      
+Red Hot Chili Peppers          | 59   | 117      
+Linkin Park                    | 60   | 116      
+Eivør Pálsdóttir               | 65   | 109      
+Porcupine Tree                 | 66   | 108      
+Megadeth                       | 71   | 102      
+Parius                         | 72   | 100      
 The Black Keys                 | 76   | 93       
 VOLA                           | 77   | 93       
 SikTh                          | 78   | 92       
@@ -120,7 +120,7 @@ Rush                         | 10   | 370
 Pink Floyd                   | 26   | 192      
 Hall & Oates                 | 48   | 129      
 Creedence Clearwater Revival | 53   | 124      
-Daft Punk                    | 61   | 115      
-Led Zeppelin                 | 62   | 115      
-Dire Straits                 | 66   | 106      
+Daft Punk                    | 62   | 115      
+Led Zeppelin                 | 63   | 115      
+Dire Straits                 | 67   | 106      
 The Beatles                  | 92   | 80       
