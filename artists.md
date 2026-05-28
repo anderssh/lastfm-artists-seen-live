@@ -31,8 +31,8 @@ Honningbarna                   | 20   | 211
 The Dogs                       | 21   | 205      
 Slipknot                       | 22   | 200      
 Green Day                      | 24   | 197      
-Eluveitie                      | 27   | 182      
-Tool                           | 29   | 175      
+Tool                           | 27   | 183      
+Eluveitie                      | 28   | 182      
 Mastodon                       | 32   | 165      
 Amyl and the Sniffers          | 34   | 160      
 Judas Priest                   | 38   | 149      
@@ -69,9 +69,9 @@ Jean-Luc Ponty                 | 18   | 226
 Moron Police                   | 19   | 224      
 John Mayer                     | 23   | 199      
 All That Remains               | 25   | 195      
-Lars Vaular                    | 28   | 181      
+Lars Vaular                    | 29   | 181      
 The Halo Effect                | 30   | 169      
-The Offspring                  | 31   | 168      
+The Offspring                  | 31   | 169      
 The Night Flight Orchestra     | 33   | 165      
 Animals as Leaders             | 35   | 158      
 Death by Unga Bunga            | 36   | 157      
@@ -79,13 +79,13 @@ Sylosis                        | 37   | 152
 Toto                           | 45   | 138      
 DJ MøMø                        | 46   | 132      
 Heilung                        | 47   | 131      
-Jinjer                         | 50   | 125      
-The Police                     | 51   | 125      
+The Police                     | 50   | 126      
+Jinjer                         | 51   | 125      
 DumDum Boys                    | 54   | 122      
-Aktiv Dödshjelp                | 56   | 120      
-Trivium                        | 57   | 120      
-Red Hot Chili Peppers          | 59   | 117      
-Linkin Park                    | 60   | 116      
+Trivium                        | 56   | 121      
+Aktiv Dödshjelp                | 57   | 120      
+Linkin Park                    | 59   | 117      
+Red Hot Chili Peppers          | 60   | 117      
 Eivør Pálsdóttir               | 65   | 109      
 Porcupine Tree                 | 66   | 108      
 Megadeth                       | 71   | 102      
