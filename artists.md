@@ -31,8 +31,8 @@ Honningbarna                   | 20   | 211
 The Dogs                       | 21   | 205      
 Slipknot                       | 22   | 200      
 Green Day                      | 24   | 197      
-Tool                           | 27   | 183      
-Eluveitie                      | 28   | 182      
+Tool                           | 28   | 183      
+Eluveitie                      | 29   | 182      
 Mastodon                       | 32   | 165      
 Amyl and the Sniffers          | 34   | 160      
 Judas Priest                   | 38   | 149      
@@ -69,7 +69,7 @@ Jean-Luc Ponty                 | 18   | 226
 Moron Police                   | 19   | 224      
 John Mayer                     | 23   | 199      
 All That Remains               | 25   | 195      
-Lars Vaular                    | 29   | 181      
+Lars Vaular                    | 27   | 187      
 The Halo Effect                | 30   | 169      
 The Offspring                  | 31   | 169      
 The Night Flight Orchestra     | 33   | 165      
