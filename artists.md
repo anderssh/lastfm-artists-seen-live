@@ -19,7 +19,7 @@ AC/DC                          | 3    | 833
 Metallica                      | 4    | 457      
 Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 423      
-Foo Fighters                   | 8    | 387      
+Foo Fighters                   | 8    | 389      
 Seven Spires                   | 9    | 386      
 Ghost                          | 11   | 360      
 Haken                          | 12   | 347      
@@ -48,7 +48,7 @@ The Killers                    | 55   | 123
 Lamb of God                    | 59   | 119      
 The Good The Bad and The Zugly | 61   | 116      
 Opeth                          | 64   | 115      
-Volbeat                        | 68   | 105      
+Volbeat                        | 68   | 106      
 22                             | 69   | 104      
 Kaizers Orchestra              | 70   | 103      
 Maktkamp                       | 73   | 98       
@@ -69,30 +69,30 @@ Jean-Luc Ponty                 | 18   | 226
 Moron Police                   | 19   | 224      
 John Mayer                     | 23   | 199      
 All That Remains               | 25   | 195      
-Lars Vaular                    | 27   | 187      
+Lars Vaular                    | 27   | 191      
 The Halo Effect                | 30   | 169      
 The Offspring                  | 31   | 169      
 The Night Flight Orchestra     | 33   | 165      
 Animals as Leaders             | 35   | 158      
 Death by Unga Bunga            | 36   | 157      
-Sylosis                        | 37   | 152      
-Linkin Park                    | 39   | 148      
+Sylosis                        | 37   | 153      
+Linkin Park                    | 39   | 149      
 Toto                           | 46   | 138      
 DJ MøMø                        | 47   | 132      
 Heilung                        | 48   | 131      
 The Police                     | 51   | 126      
 Jinjer                         | 52   | 125      
-DumDum Boys                    | 56   | 122      
-Trivium                        | 57   | 121      
+Trivium                        | 56   | 123      
+DumDum Boys                    | 57   | 122      
 Aktiv Dödshjelp                | 58   | 120      
-Red Hot Chili Peppers          | 60   | 118      
+Red Hot Chili Peppers          | 60   | 119      
 Eivør Pálsdóttir               | 65   | 109      
 Porcupine Tree                 | 66   | 108      
 Megadeth                       | 71   | 102      
 Parius                         | 72   | 100      
-The Black Keys                 | 76   | 93       
-VOLA                           | 77   | 93       
-SikTh                          | 78   | 92       
+SikTh                          | 76   | 93       
+The Black Keys                 | 77   | 93       
+VOLA                           | 78   | 93       
 Queens of the Stone Age        | 79   | 91       
 Bill Withers                   | 81   | 88       
 Thulsa Doom                    | 82   | 87       
