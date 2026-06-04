@@ -22,7 +22,7 @@ In Flames                      | 6    | 424
 Foo Fighters                   | 8    | 392      
 Seven Spires                   | 9    | 386      
 Ghost                          | 11   | 360      
-Haken                          | 12   | 347      
+Haken                          | 12   | 348      
 Skálmöld                       | 13   | 345      
 Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 292      
@@ -36,18 +36,18 @@ Eluveitie                      | 29   | 182
 Mastodon                       | 32   | 165      
 Amyl and the Sniffers          | 34   | 160      
 Judas Priest                   | 39   | 150      
-Gojira                         | 40   | 145      
-Pagan's Mind                   | 41   | 143      
-Finntroll                      | 42   | 142      
-Kvelertak                      | 43   | 139      
-Ne Obliviscaris                | 44   | 139      
-Eminem                         | 45   | 138      
-Architects                     | 50   | 128      
-blink-182                      | 53   | 124      
-The Killers                    | 55   | 123      
+Gojira                         | 41   | 145      
+Pagan's Mind                   | 42   | 143      
+Finntroll                      | 43   | 142      
+Kvelertak                      | 44   | 139      
+Ne Obliviscaris                | 45   | 139      
+Eminem                         | 46   | 138      
+Architects                     | 51   | 128      
+blink-182                      | 54   | 124      
+The Killers                    | 56   | 123      
 Lamb of God                    | 60   | 119      
-The Good The Bad and The Zugly | 61   | 116      
-Opeth                          | 64   | 115      
+Opeth                          | 61   | 116      
+The Good The Bad and The Zugly | 62   | 116      
 Volbeat                        | 65   | 110      
 22                             | 69   | 104      
 Kaizers Orchestra              | 70   | 103      
@@ -77,12 +77,12 @@ Animals as Leaders             | 35   | 158
 Death by Unga Bunga            | 36   | 157      
 Sylosis                        | 37   | 154      
 Linkin Park                    | 38   | 151      
-Toto                           | 46   | 138      
-DJ MøMø                        | 47   | 132      
-Heilung                        | 48   | 131      
-The Police                     | 51   | 126      
-Jinjer                         | 52   | 125      
-Trivium                        | 56   | 123      
+Trivium                        | 40   | 147      
+Toto                           | 47   | 138      
+DJ MøMø                        | 48   | 132      
+Heilung                        | 49   | 131      
+The Police                     | 52   | 126      
+Jinjer                         | 53   | 125      
 DumDum Boys                    | 57   | 122      
 Red Hot Chili Peppers          | 58   | 121      
 Aktiv Dödshjelp                | 59   | 120      
@@ -118,9 +118,9 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 7    | 410      
 Rush                         | 10   | 370      
 Pink Floyd                   | 26   | 192      
-Hall & Oates                 | 49   | 129      
-Creedence Clearwater Revival | 54   | 124      
-Daft Punk                    | 62   | 115      
-Led Zeppelin                 | 63   | 115      
+Hall & Oates                 | 50   | 129      
+Creedence Clearwater Revival | 55   | 124      
+Daft Punk                    | 63   | 115      
+Led Zeppelin                 | 64   | 115      
 Dire Straits                 | 68   | 106      
 The Beatles                  | 92   | 80       
