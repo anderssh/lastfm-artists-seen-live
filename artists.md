@@ -14,9 +14,9 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 1010     
+Dream Theater                  | 1    | 1011     
 AC/DC                          | 3    | 833      
-Metallica                      | 4    | 459      
+Metallica                      | 4    | 461      
 Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 424      
 Foo Fighters                   | 8    | 392      
@@ -69,7 +69,7 @@ Jean-Luc Ponty                 | 18   | 226
 Moron Police                   | 19   | 224      
 John Mayer                     | 23   | 199      
 All That Remains               | 25   | 195      
-Lars Vaular                    | 27   | 191      
+Lars Vaular                    | 26   | 193      
 The Offspring                  | 30   | 170      
 The Halo Effect                | 31   | 169      
 The Night Flight Orchestra     | 33   | 165      
@@ -90,7 +90,7 @@ Eivør Pálsdóttir               | 66   | 109
 Porcupine Tree                 | 67   | 108      
 Megadeth                       | 71   | 102      
 Parius                         | 72   | 100      
-SikTh                          | 76   | 94       
+SikTh                          | 76   | 95       
 The Black Keys                 | 77   | 93       
 VOLA                           | 78   | 93       
 Queens of the Stone Age        | 79   | 91       
@@ -117,7 +117,7 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 410      
 Rush                         | 10   | 370      
-Pink Floyd                   | 26   | 192      
+Pink Floyd                   | 27   | 192      
 Hall & Oates                 | 50   | 129      
 Creedence Clearwater Revival | 55   | 124      
 Daft Punk                    | 63   | 115      
