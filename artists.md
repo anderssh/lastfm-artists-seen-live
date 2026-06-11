@@ -19,7 +19,7 @@ AC/DC                          | 3    | 833
 Metallica                      | 4    | 462      
 Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 425      
-Foo Fighters                   | 8    | 392      
+Foo Fighters                   | 8    | 403      
 Seven Spires                   | 9    | 387      
 Ghost                          | 11   | 360      
 Haken                          | 12   | 349      
