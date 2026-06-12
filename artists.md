@@ -53,8 +53,8 @@ Volbeat                        | 66   | 110
 Kaizers Orchestra              | 70   | 103      
 Maktkamp                       | 73   | 98       
 Backstreet Girls               | 74   | 95       
-Oslo Ess                       | 75   | 95       
-Turbonegro                     | 80   | 90       
+Oslo Ess                       | 76   | 95       
+Turbonegro                     | 81   | 90       
 Soilwork                       | 85   | 86       
 Children of Bodom              | 87   | 84       
 Fit for an Autopsy             | 89   | 83       
@@ -90,14 +90,14 @@ Aktiv Dödshjelp                | 60   | 120
 Porcupine Tree                 | 67   | 108      
 Megadeth                       | 71   | 102      
 Parius                         | 72   | 100      
-SikTh                          | 76   | 95       
-The Black Keys                 | 77   | 93       
-VOLA                           | 78   | 93       
-Queens of the Stone Age        | 79   | 92       
-Bill Withers                   | 81   | 88       
-Meshuggah                      | 82   | 87       
-Thulsa Doom                    | 83   | 87       
-D-A-D                          | 84   | 86       
+D-A-D                          | 75   | 95       
+SikTh                          | 77   | 95       
+The Black Keys                 | 78   | 93       
+VOLA                           | 79   | 93       
+Queens of the Stone Age        | 80   | 92       
+Bill Withers                   | 82   | 88       
+Meshuggah                      | 83   | 87       
+Thulsa Doom                    | 84   | 87       
 Elton John                     | 86   | 85       
 Devin Townsend Project         | 88   | 84       
 Bokassa                        | 90   | 82       
