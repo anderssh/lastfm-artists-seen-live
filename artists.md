@@ -116,7 +116,7 @@ The Rolling Stones             | 100  | 73
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 410      
-Rush                         | 10   | 370      
+Rush                         | 10   | 373      
 Pink Floyd                   | 27   | 192      
 Hall & Oates                 | 50   | 129      
 Creedence Clearwater Revival | 55   | 124      
