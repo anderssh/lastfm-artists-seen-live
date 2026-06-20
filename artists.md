@@ -65,12 +65,12 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Thorbjørn Egner                | 2    | 961      
 Nospūn                         | 16   | 246      
-Jean-Luc Ponty                 | 18   | 226      
-Moron Police                   | 19   | 224      
+Moron Police                   | 18   | 238      
+Jean-Luc Ponty                 | 19   | 226      
 John Mayer                     | 23   | 199      
 All That Remains               | 25   | 195      
 Lars Vaular                    | 26   | 193      
-The Offspring                  | 30   | 170      
+The Offspring                  | 30   | 172      
 The Halo Effect                | 31   | 169      
 The Night Flight Orchestra     | 33   | 165      
 Animals as Leaders             | 35   | 158      
