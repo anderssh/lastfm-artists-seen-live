@@ -43,7 +43,7 @@ Kvelertak                      | 44   | 139
 Ne Obliviscaris                | 45   | 139      
 Eminem                         | 46   | 138      
 Architects                     | 51   | 128      
-blink-182                      | 54   | 124      
+blink-182                      | 55   | 124      
 The Killers                    | 56   | 124      
 Lamb of God                    | 61   | 119      
 Opeth                          | 62   | 116      
@@ -63,7 +63,7 @@ Fit for an Autopsy             | 89   | 83
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Thorbjørn Egner                | 2    | 961      
+Thorbjørn Egner                | 2    | 984      
 Nospūn                         | 16   | 246      
 Moron Police                   | 18   | 238      
 Jean-Luc Ponty                 | 19   | 226      
@@ -82,7 +82,7 @@ Toto                           | 47   | 138
 DJ MøMø                        | 48   | 132      
 Heilung                        | 49   | 131      
 The Police                     | 52   | 126      
-Jinjer                         | 53   | 125      
+Jinjer                         | 54   | 125      
 Eivør Pálsdóttir               | 57   | 123      
 DumDum Boys                    | 58   | 122      
 Red Hot Chili Peppers          | 59   | 121      
@@ -119,7 +119,7 @@ Fleetwood Mac                | 7    | 410
 Rush                         | 10   | 373      
 Pink Floyd                   | 27   | 192      
 Hall & Oates                 | 50   | 129      
-Creedence Clearwater Revival | 55   | 124      
+Creedence Clearwater Revival | 53   | 125      
 Daft Punk                    | 64   | 115      
 Led Zeppelin                 | 65   | 115      
 Dire Straits                 | 68   | 106      
