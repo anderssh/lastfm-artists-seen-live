@@ -19,7 +19,7 @@ AC/DC                          | 3    | 833
 Metallica                      | 4    | 462      
 Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 425      
-Foo Fighters                   | 8    | 403      
+Foo Fighters                   | 8    | 404      
 Seven Spires                   | 9    | 387      
 Ghost                          | 11   | 360      
 Haken                          | 12   | 355      
@@ -42,7 +42,7 @@ Finntroll                      | 43   | 142
 Kvelertak                      | 44   | 139      
 Ne Obliviscaris                | 45   | 139      
 Eminem                         | 46   | 138      
-Architects                     | 51   | 128      
+Architects                     | 50   | 129      
 blink-182                      | 55   | 124      
 The Killers                    | 56   | 124      
 Lamb of God                    | 61   | 119      
@@ -74,8 +74,8 @@ The Offspring                  | 30   | 172
 The Halo Effect                | 31   | 169      
 The Night Flight Orchestra     | 33   | 165      
 Animals as Leaders             | 35   | 158      
-Death by Unga Bunga            | 36   | 157      
-Trivium                        | 37   | 157      
+Trivium                        | 36   | 158      
+Death by Unga Bunga            | 37   | 157      
 Sylosis                        | 38   | 154      
 Linkin Park                    | 39   | 152      
 Toto                           | 47   | 138      
@@ -118,7 +118,7 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 7    | 410      
 Rush                         | 10   | 373      
 Pink Floyd                   | 27   | 192      
-Hall & Oates                 | 50   | 129      
+Hall & Oates                 | 51   | 129      
 Creedence Clearwater Revival | 53   | 125      
 Daft Punk                    | 64   | 115      
 Led Zeppelin                 | 65   | 115      
