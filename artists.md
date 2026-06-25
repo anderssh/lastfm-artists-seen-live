@@ -33,8 +33,8 @@ Slipknot                       | 22   | 203
 Green Day                      | 24   | 197      
 Tool                           | 28   | 185      
 Eluveitie                      | 29   | 182      
-Mastodon                       | 32   | 165      
-Amyl and the Sniffers          | 34   | 160      
+Mastodon                       | 33   | 165      
+Amyl and the Sniffers          | 35   | 160      
 Judas Priest                   | 40   | 151      
 Gojira                         | 41   | 145      
 Pagan's Mind                   | 42   | 143      
@@ -72,9 +72,9 @@ All That Remains               | 25   | 195
 Lars Vaular                    | 26   | 193      
 The Offspring                  | 30   | 172      
 The Halo Effect                | 31   | 169      
-The Night Flight Orchestra     | 33   | 165      
-Animals as Leaders             | 35   | 158      
-Trivium                        | 36   | 158      
+Trivium                        | 32   | 167      
+The Night Flight Orchestra     | 34   | 165      
+Animals as Leaders             | 36   | 158      
 Death by Unga Bunga            | 37   | 157      
 Sylosis                        | 38   | 154      
 Linkin Park                    | 39   | 152      
