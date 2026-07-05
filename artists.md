@@ -55,7 +55,7 @@ Maktkamp                       | 73   | 98
 Backstreet Girls               | 74   | 95       
 Oslo Ess                       | 76   | 95       
 Turbonegro                     | 81   | 90       
-Soilwork                       | 85   | 86       
+Soilwork                       | 86   | 86       
 Children of Bodom              | 87   | 84       
 Fit for an Autopsy             | 89   | 83       
 
@@ -69,7 +69,7 @@ Moron Police                   | 18   | 238
 Jean-Luc Ponty                 | 19   | 226      
 John Mayer                     | 23   | 199      
 All That Remains               | 25   | 195      
-Lars Vaular                    | 26   | 193      
+Lars Vaular                    | 27   | 193      
 The Offspring                  | 30   | 172      
 The Halo Effect                | 31   | 169      
 Trivium                        | 32   | 169      
@@ -96,9 +96,9 @@ The Black Keys                 | 78   | 93
 VOLA                           | 79   | 93       
 Queens of the Stone Age        | 80   | 92       
 Bill Withers                   | 82   | 88       
-Meshuggah                      | 83   | 87       
-Thulsa Doom                    | 84   | 87       
-Elton John                     | 86   | 85       
+Elton John                     | 83   | 87       
+Meshuggah                      | 84   | 87       
+Thulsa Doom                    | 85   | 87       
 Devin Townsend Project         | 88   | 84       
 Bokassa                        | 90   | 82       
 Barnesprell                    | 91   | 80       
@@ -115,12 +115,12 @@ The Rolling Stones             | 100  | 73
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 7    | 410      
+Fleetwood Mac                | 7    | 412      
 Rush                         | 10   | 373      
-Pink Floyd                   | 27   | 192      
+Pink Floyd                   | 26   | 195      
 Hall & Oates                 | 51   | 129      
 Creedence Clearwater Revival | 53   | 125      
 Daft Punk                    | 64   | 115      
 Led Zeppelin                 | 65   | 115      
-Dire Straits                 | 68   | 106      
+Dire Straits                 | 68   | 107      
 The Beatles                  | 93   | 80       
