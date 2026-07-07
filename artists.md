@@ -39,15 +39,15 @@ Judas Priest                   | 40   | 151
 Gojira                         | 41   | 145      
 Pagan's Mind                   | 42   | 143      
 Finntroll                      | 43   | 142      
-Kvelertak                      | 44   | 139      
-Ne Obliviscaris                | 45   | 139      
-Eminem                         | 46   | 138      
-Architects                     | 50   | 129      
-blink-182                      | 55   | 124      
-The Killers                    | 56   | 124      
-Lamb of God                    | 61   | 119      
-Opeth                          | 62   | 116      
-The Good The Bad and The Zugly | 63   | 116      
+Kvelertak                      | 45   | 139      
+Ne Obliviscaris                | 46   | 139      
+Eminem                         | 47   | 138      
+Architects                     | 51   | 129      
+blink-182                      | 56   | 124      
+The Killers                    | 57   | 124      
+Lamb of God                    | 62   | 119      
+Opeth                          | 63   | 116      
+The Good The Bad and The Zugly | 64   | 116      
 Volbeat                        | 66   | 111      
 22                             | 69   | 104      
 Kaizers Orchestra              | 70   | 103      
@@ -78,15 +78,15 @@ Animals as Leaders             | 36   | 158
 Death by Unga Bunga            | 37   | 157      
 Sylosis                        | 38   | 155      
 Linkin Park                    | 39   | 153      
-Toto                           | 47   | 138      
-DJ MøMø                        | 48   | 132      
-Heilung                        | 49   | 131      
-The Police                     | 52   | 126      
-Jinjer                         | 54   | 125      
-Eivør Pálsdóttir               | 57   | 123      
-Red Hot Chili Peppers          | 58   | 123      
-DumDum Boys                    | 59   | 122      
-Aktiv Dödshjelp                | 60   | 120      
+Toto                           | 48   | 138      
+DJ MøMø                        | 49   | 132      
+Heilung                        | 50   | 131      
+The Police                     | 53   | 126      
+Jinjer                         | 55   | 125      
+Eivør Pálsdóttir               | 58   | 123      
+Red Hot Chili Peppers          | 59   | 123      
+DumDum Boys                    | 60   | 122      
+Aktiv Dödshjelp                | 61   | 120      
 Porcupine Tree                 | 67   | 108      
 Megadeth                       | 71   | 102      
 Parius                         | 72   | 100      
@@ -118,9 +118,9 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 7    | 412      
 Rush                         | 10   | 373      
 Pink Floyd                   | 26   | 195      
-Hall & Oates                 | 51   | 129      
-Creedence Clearwater Revival | 53   | 125      
-Daft Punk                    | 64   | 115      
+Daft Punk                    | 44   | 141      
+Hall & Oates                 | 52   | 129      
+Creedence Clearwater Revival | 54   | 125      
 Led Zeppelin                 | 65   | 115      
 Dire Straits                 | 68   | 107      
 The Beatles                  | 93   | 80       
