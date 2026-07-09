@@ -35,10 +35,10 @@ Tool                           | 28   | 185
 Eluveitie                      | 29   | 182      
 Mastodon                       | 33   | 165      
 Amyl and the Sniffers          | 35   | 160      
-Judas Priest                   | 40   | 151      
-Gojira                         | 41   | 145      
-Pagan's Mind                   | 42   | 143      
-Finntroll                      | 43   | 142      
+Judas Priest                   | 41   | 151      
+Gojira                         | 42   | 145      
+Pagan's Mind                   | 43   | 143      
+Finntroll                      | 44   | 142      
 Kvelertak                      | 45   | 139      
 Ne Obliviscaris                | 46   | 139      
 Eminem                         | 47   | 138      
@@ -76,8 +76,8 @@ Trivium                        | 32   | 169
 The Night Flight Orchestra     | 34   | 165      
 Animals as Leaders             | 36   | 158      
 Death by Unga Bunga            | 37   | 157      
-Sylosis                        | 38   | 155      
-Linkin Park                    | 39   | 153      
+Sylosis                        | 39   | 155      
+Linkin Park                    | 40   | 153      
 Toto                           | 48   | 138      
 DJ MøMø                        | 49   | 132      
 Heilung                        | 50   | 131      
@@ -118,7 +118,7 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 7    | 412      
 Rush                         | 10   | 373      
 Pink Floyd                   | 26   | 195      
-Daft Punk                    | 44   | 141      
+Daft Punk                    | 38   | 156      
 Hall & Oates                 | 52   | 129      
 Creedence Clearwater Revival | 54   | 125      
 Led Zeppelin                 | 65   | 115      
