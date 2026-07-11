@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 1013     
+Dream Theater                  | 1    | 1015     
 AC/DC                          | 3    | 834      
 Metallica                      | 4    | 463      
 Spidergawd                     | 5    | 454      
@@ -26,7 +26,7 @@ Haken                          | 12   | 356
 Skálmöld                       | 13   | 345      
 Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 292      
-Greta Van Fleet                | 17   | 241      
+Greta Van Fleet                | 18   | 241      
 Honningbarna                   | 20   | 211      
 The Dogs                       | 21   | 205      
 Slipknot                       | 22   | 203      
@@ -64,8 +64,8 @@ Fit for an Autopsy             | 89   | 83
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Thorbjørn Egner                | 2    | 984      
-Nospūn                         | 16   | 246      
-Moron Police                   | 18   | 238      
+Moron Police                   | 16   | 250      
+Nospūn                         | 17   | 246      
 Jean-Luc Ponty                 | 19   | 226      
 John Mayer                     | 23   | 199      
 All That Remains               | 25   | 195      
