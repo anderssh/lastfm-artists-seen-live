@@ -68,7 +68,7 @@ Moron Police                   | 16   | 251
 Nospūn                         | 17   | 246      
 Jean-Luc Ponty                 | 19   | 226      
 John Mayer                     | 23   | 199      
-All That Remains               | 25   | 195      
+All That Remains               | 26   | 195      
 Lars Vaular                    | 27   | 193      
 The Offspring                  | 30   | 172      
 The Halo Effect                | 31   | 169      
@@ -96,7 +96,7 @@ The Black Keys                 | 78   | 93
 VOLA                           | 79   | 93       
 Queens of the Stone Age        | 80   | 92       
 Bill Withers                   | 82   | 88       
-Elton John                     | 83   | 87       
+Elton John                     | 83   | 88       
 Meshuggah                      | 84   | 87       
 Thulsa Doom                    | 85   | 87       
 Devin Townsend Project         | 88   | 84       
@@ -117,7 +117,7 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 412      
 Rush                         | 10   | 373      
-Pink Floyd                   | 26   | 195      
+Pink Floyd                   | 25   | 196      
 Daft Punk                    | 38   | 156      
 Hall & Oates                 | 52   | 129      
 Creedence Clearwater Revival | 54   | 125      
