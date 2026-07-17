@@ -106,10 +106,10 @@ Iron Maiden                    | 92   | 80
 Rival Sons                     | 94   | 79       
 will.i.am                      | 95   | 79       
 Kaptein Sabeltann              | 96   | 77       
-Love                           | 97   | 74       
-OnklP & De Fjerne Slektningene | 98   | 74       
-Brannbamsen Bjørnis            | 99   | 73       
-The Rolling Stones             | 100  | 73       
+The Rolling Stones             | 97   | 75       
+Love                           | 98   | 74       
+OnklP & De Fjerne Slektningene | 99   | 74       
+Brannbamsen Bjørnis            | 100  | 73       
 
 ## Inactive top 100 artists not seen live (9)
 
