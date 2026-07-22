@@ -101,8 +101,8 @@ Meshuggah                      | 84   | 87
 Thulsa Doom                    | 85   | 87       
 Devin Townsend Project         | 88   | 84       
 Bokassa                        | 90   | 82       
-Barnesprell                    | 91   | 80       
-Iron Maiden                    | 92   | 80       
+Barnesprell                    | 92   | 80       
+Iron Maiden                    | 93   | 80       
 Rival Sons                     | 94   | 79       
 will.i.am                      | 95   | 79       
 Kaptein Sabeltann              | 96   | 77       
@@ -123,4 +123,4 @@ Hall & Oates                 | 52   | 129
 Creedence Clearwater Revival | 54   | 125      
 Led Zeppelin                 | 63   | 116      
 Dire Straits                 | 67   | 109      
-The Beatles                  | 93   | 80       
+The Beatles                  | 91   | 81       
