@@ -51,9 +51,9 @@ The Good The Bad and The Zugly | 65   | 116
 Volbeat                        | 66   | 111      
 22                             | 69   | 104      
 Kaizers Orchestra              | 70   | 103      
-Maktkamp                       | 73   | 98       
-Backstreet Girls               | 74   | 95       
-Oslo Ess                       | 76   | 95       
+Oslo Ess                       | 72   | 101      
+Maktkamp                       | 74   | 98       
+Backstreet Girls               | 75   | 95       
 Turbonegro                     | 81   | 90       
 Soilwork                       | 86   | 86       
 Children of Bodom              | 87   | 84       
@@ -89,8 +89,8 @@ DumDum Boys                    | 60   | 122
 Aktiv Dödshjelp                | 61   | 120      
 Porcupine Tree                 | 68   | 108      
 Megadeth                       | 71   | 102      
-Parius                         | 72   | 100      
-D-A-D                          | 75   | 95       
+Parius                         | 73   | 100      
+D-A-D                          | 76   | 95       
 SikTh                          | 77   | 95       
 The Black Keys                 | 78   | 93       
 VOLA                           | 79   | 93       
