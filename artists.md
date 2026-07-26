@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 1015     
 AC/DC                          | 3    | 834      
-Metallica                      | 4    | 463      
+Metallica                      | 4    | 464      
 Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 425      
 Foo Fighters                   | 8    | 405      
@@ -34,7 +34,7 @@ Green Day                      | 25   | 197
 Tool                           | 28   | 185      
 Eluveitie                      | 29   | 182      
 Mastodon                       | 33   | 165      
-Amyl and the Sniffers          | 35   | 160      
+Amyl and the Sniffers          | 36   | 160      
 Judas Priest                   | 41   | 151      
 Gojira                         | 42   | 145      
 Pagan's Mind                   | 43   | 143      
@@ -74,8 +74,8 @@ The Offspring                  | 30   | 172
 The Halo Effect                | 31   | 169      
 Trivium                        | 32   | 169      
 The Night Flight Orchestra     | 34   | 165      
-Animals as Leaders             | 36   | 158      
-Death by Unga Bunga            | 37   | 157      
+Death by Unga Bunga            | 35   | 163      
+Animals as Leaders             | 37   | 158      
 Sylosis                        | 39   | 155      
 Linkin Park                    | 40   | 153      
 Toto                           | 47   | 139      
@@ -103,13 +103,13 @@ Devin Townsend Project         | 88   | 84
 Bokassa                        | 90   | 82       
 Barnesprell                    | 92   | 80       
 Iron Maiden                    | 93   | 80       
-Rival Sons                     | 94   | 79       
-will.i.am                      | 95   | 79       
-Kaptein Sabeltann              | 96   | 77       
-The Rolling Stones             | 97   | 75       
-Love                           | 98   | 74       
-OnklP & De Fjerne Slektningene | 99   | 74       
-Brannbamsen Bjørnis            | 100  | 73       
+Surferosa                      | 94   | 80       
+Rival Sons                     | 95   | 79       
+will.i.am                      | 96   | 79       
+Kaptein Sabeltann              | 97   | 77       
+The Rolling Stones             | 98   | 75       
+Love                           | 99   | 74       
+OnklP & De Fjerne Slektningene | 100  | 74       
 
 ## Inactive top 100 artists not seen live (9)
 
