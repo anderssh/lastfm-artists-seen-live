@@ -116,7 +116,7 @@ OnklP & De Fjerne Slektningene | 100  | 74
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 415      
-Rush                         | 10   | 373      
+Rush                         | 10   | 374      
 Pink Floyd                   | 24   | 198      
 Daft Punk                    | 38   | 156      
 Hall & Oates                 | 52   | 129      
