@@ -25,7 +25,7 @@ Ghost                          | 11   | 360
 Haken                          | 12   | 356      
 Skálmöld                       | 13   | 345      
 Avenged Sevenfold              | 14   | 322      
-Circus Maximus                 | 15   | 292      
+Circus Maximus                 | 15   | 293      
 Greta Van Fleet                | 18   | 241      
 Honningbarna                   | 20   | 211      
 The Dogs                       | 21   | 205      
@@ -66,7 +66,7 @@ Name                           | Rank | PlayCount
 Thorbjørn Egner                | 2    | 984      
 Moron Police                   | 16   | 251      
 Nospūn                         | 17   | 246      
-Jean-Luc Ponty                 | 19   | 226      
+Jean-Luc Ponty                 | 19   | 227      
 John Mayer                     | 23   | 199      
 All That Remains               | 26   | 195      
 Lars Vaular                    | 27   | 193      
