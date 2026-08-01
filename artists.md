@@ -33,8 +33,8 @@ Slipknot                       | 22   | 203
 Green Day                      | 25   | 197      
 Tool                           | 28   | 185      
 Eluveitie                      | 29   | 182      
-Mastodon                       | 33   | 165      
-Amyl and the Sniffers          | 36   | 160      
+Mastodon                       | 34   | 165      
+Amyl and the Sniffers          | 37   | 160      
 Judas Priest                   | 41   | 151      
 Gojira                         | 42   | 145      
 Pagan's Mind                   | 43   | 143      
@@ -61,55 +61,55 @@ Fit for an Autopsy             | 89   | 83
 
 ## Active top 100 artists not seen live (47)
 
-Name                           | Rank | PlayCount
------------------------------- | ---- | ---------
-Thorbjørn Egner                | 2    | 984      
-Moron Police                   | 16   | 251      
-Nospūn                         | 17   | 246      
-Jean-Luc Ponty                 | 19   | 227      
-John Mayer                     | 23   | 199      
-All That Remains               | 26   | 195      
-Lars Vaular                    | 27   | 193      
-The Offspring                  | 30   | 172      
-The Halo Effect                | 31   | 169      
-Trivium                        | 32   | 169      
-The Night Flight Orchestra     | 34   | 165      
-Death by Unga Bunga            | 35   | 163      
-Animals as Leaders             | 37   | 158      
-Sylosis                        | 39   | 155      
-Linkin Park                    | 40   | 153      
-Toto                           | 47   | 139      
-DJ MøMø                        | 49   | 132      
-Heilung                        | 50   | 131      
-The Police                     | 53   | 126      
-Jinjer                         | 55   | 125      
-Eivør Pálsdóttir               | 58   | 123      
-Red Hot Chili Peppers          | 59   | 123      
-DumDum Boys                    | 60   | 122      
-Aktiv Dödshjelp                | 61   | 120      
-Porcupine Tree                 | 68   | 108      
-Megadeth                       | 71   | 102      
-Parius                         | 73   | 100      
-D-A-D                          | 76   | 95       
-SikTh                          | 77   | 95       
-The Black Keys                 | 78   | 93       
-VOLA                           | 79   | 93       
-Queens of the Stone Age        | 80   | 92       
-Elton John                     | 82   | 89       
-Bill Withers                   | 83   | 88       
-Meshuggah                      | 84   | 87       
-Thulsa Doom                    | 85   | 87       
-Devin Townsend Project         | 88   | 84       
-Bokassa                        | 90   | 82       
-Barnesprell                    | 92   | 80       
-Iron Maiden                    | 93   | 80       
-Surferosa                      | 94   | 80       
-Rival Sons                     | 95   | 79       
-will.i.am                      | 96   | 79       
-Kaptein Sabeltann              | 97   | 77       
-The Rolling Stones             | 98   | 75       
-Love                           | 99   | 74       
-OnklP & De Fjerne Slektningene | 100  | 74       
+Name                       | Rank | PlayCount
+-------------------------- | ---- | ---------
+Thorbjørn Egner            | 2    | 984      
+Moron Police               | 16   | 251      
+Nospūn                     | 17   | 246      
+Jean-Luc Ponty             | 19   | 227      
+John Mayer                 | 23   | 199      
+All That Remains           | 26   | 195      
+Lars Vaular                | 27   | 193      
+The Offspring              | 30   | 172      
+The Halo Effect            | 32   | 169      
+Trivium                    | 33   | 169      
+The Night Flight Orchestra | 35   | 165      
+Death by Unga Bunga        | 36   | 163      
+Animals as Leaders         | 38   | 158      
+Sylosis                    | 39   | 155      
+Linkin Park                | 40   | 153      
+Toto                       | 47   | 139      
+DJ MøMø                    | 49   | 132      
+Heilung                    | 50   | 131      
+The Police                 | 53   | 126      
+Jinjer                     | 55   | 125      
+Eivør Pálsdóttir           | 58   | 123      
+Red Hot Chili Peppers      | 59   | 123      
+DumDum Boys                | 60   | 122      
+Aktiv Dödshjelp            | 61   | 120      
+Porcupine Tree             | 68   | 108      
+Megadeth                   | 71   | 102      
+Parius                     | 73   | 100      
+D-A-D                      | 76   | 95       
+SikTh                      | 77   | 95       
+The Black Keys             | 78   | 93       
+VOLA                       | 79   | 93       
+Queens of the Stone Age    | 80   | 92       
+Elton John                 | 82   | 89       
+Bill Withers               | 83   | 88       
+Meshuggah                  | 84   | 87       
+Thulsa Doom                | 85   | 87       
+Devin Townsend Project     | 88   | 84       
+Bokassa                    | 90   | 82       
+Barnesprell                | 92   | 80       
+Iron Maiden                | 93   | 80       
+Surferosa                  | 94   | 80       
+Rival Sons                 | 95   | 79       
+will.i.am                  | 96   | 79       
+Kaptein Sabeltann          | 97   | 77       
+Maraton                    | 98   | 76       
+The Rolling Stones         | 99   | 75       
+Love                       | 100  | 74       
 
 ## Inactive top 100 artists not seen live (9)
 
@@ -118,7 +118,7 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 7    | 415      
 Rush                         | 10   | 374      
 Pink Floyd                   | 24   | 198      
-Daft Punk                    | 38   | 156      
+Daft Punk                    | 31   | 170      
 Hall & Oates                 | 52   | 129      
 Creedence Clearwater Revival | 54   | 125      
 Led Zeppelin                 | 63   | 116      
