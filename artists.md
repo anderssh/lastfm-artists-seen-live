@@ -15,7 +15,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 1015     
-AC/DC                          | 3    | 834      
+AC/DC                          | 3    | 836      
 Metallica                      | 4    | 464      
 Spidergawd                     | 5    | 454      
 In Flames                      | 6    | 425      
@@ -37,18 +37,18 @@ Mastodon                       | 34   | 165
 Amyl and the Sniffers          | 37   | 160      
 Judas Priest                   | 41   | 151      
 Gojira                         | 42   | 145      
-Pagan's Mind                   | 43   | 143      
-Finntroll                      | 44   | 142      
-Kvelertak                      | 45   | 139      
-Ne Obliviscaris                | 46   | 139      
+Pagan's Mind                   | 43   | 144      
+Finntroll                      | 45   | 142      
+Kvelertak                      | 46   | 140      
+Ne Obliviscaris                | 47   | 139      
 Eminem                         | 48   | 138      
-Architects                     | 51   | 129      
+Architects                     | 52   | 129      
 blink-182                      | 56   | 124      
 The Killers                    | 57   | 124      
 Lamb of God                    | 62   | 119      
 Opeth                          | 64   | 116      
 The Good The Bad and The Zugly | 65   | 116      
-Volbeat                        | 66   | 111      
+Volbeat                        | 67   | 111      
 22                             | 69   | 104      
 Kaizers Orchestra              | 70   | 103      
 Oslo Ess                       | 72   | 101      
@@ -78,9 +78,9 @@ Death by Unga Bunga        | 36   | 163
 Animals as Leaders         | 38   | 158      
 Sylosis                    | 39   | 155      
 Linkin Park                | 40   | 153      
-Toto                       | 47   | 139      
+Toto                       | 44   | 144      
 DJ MøMø                    | 49   | 132      
-Heilung                    | 50   | 131      
+Heilung                    | 51   | 131      
 The Police                 | 53   | 126      
 Jinjer                     | 55   | 125      
 Eivør Pálsdóttir           | 58   | 123      
@@ -108,7 +108,7 @@ Rival Sons                 | 95   | 79
 will.i.am                  | 96   | 79       
 Kaptein Sabeltann          | 97   | 77       
 Maraton                    | 98   | 76       
-The Rolling Stones         | 99   | 75       
+The Rolling Stones         | 99   | 76       
 Love                       | 100  | 74       
 
 ## Inactive top 100 artists not seen live (9)
@@ -117,10 +117,10 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 415      
 Rush                         | 10   | 374      
-Pink Floyd                   | 24   | 198      
+Pink Floyd                   | 24   | 199      
 Daft Punk                    | 31   | 170      
-Hall & Oates                 | 52   | 129      
+Hall & Oates                 | 50   | 131      
 Creedence Clearwater Revival | 54   | 125      
 Led Zeppelin                 | 63   | 116      
-Dire Straits                 | 67   | 109      
-The Beatles                  | 91   | 81       
+Dire Straits                 | 66   | 111      
+The Beatles                  | 91   | 82       
