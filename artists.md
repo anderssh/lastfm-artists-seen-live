@@ -56,8 +56,8 @@ Maktkamp                       | 74   | 98
 Backstreet Girls               | 75   | 95       
 Turbonegro                     | 81   | 90       
 Soilwork                       | 86   | 86       
-Children of Bodom              | 87   | 84       
-Fit for an Autopsy             | 89   | 83       
+Children of Bodom              | 88   | 84       
+Fit for an Autopsy             | 90   | 83       
 
 ## Active top 100 artists not seen live (47)
 
@@ -99,8 +99,8 @@ Elton John                 | 82   | 89
 Bill Withers               | 83   | 88       
 Meshuggah                  | 84   | 87       
 Thulsa Doom                | 85   | 87       
-Devin Townsend Project     | 88   | 84       
-Bokassa                    | 90   | 82       
+Devin Townsend Project     | 89   | 84       
+Bokassa                    | 91   | 82       
 Barnesprell                | 92   | 80       
 Iron Maiden                | 93   | 80       
 Surferosa                  | 94   | 80       
@@ -123,4 +123,4 @@ Hall & Oates                 | 50   | 131
 Creedence Clearwater Revival | 54   | 125      
 Led Zeppelin                 | 63   | 116      
 Dire Straits                 | 66   | 111      
-The Beatles                  | 91   | 82       
+The Beatles                  | 87   | 85       
