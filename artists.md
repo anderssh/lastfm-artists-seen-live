@@ -14,7 +14,7 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Dream Theater                  | 1    | 1015     
+Dream Theater                  | 1    | 1017     
 AC/DC                          | 3    | 836      
 Metallica                      | 4    | 464      
 Spidergawd                     | 5    | 454      
@@ -43,7 +43,7 @@ Kvelertak                      | 46   | 140
 Ne Obliviscaris                | 47   | 139      
 Eminem                         | 48   | 138      
 Architects                     | 52   | 129      
-blink-182                      | 56   | 124      
+blink-182                      | 55   | 125      
 The Killers                    | 57   | 124      
 Lamb of God                    | 62   | 119      
 Opeth                          | 64   | 116      
@@ -55,7 +55,7 @@ Oslo Ess                       | 72   | 101
 Maktkamp                       | 74   | 98       
 Backstreet Girls               | 75   | 95       
 Turbonegro                     | 81   | 90       
-Soilwork                       | 86   | 86       
+Soilwork                       | 87   | 86       
 Children of Bodom              | 88   | 84       
 Fit for an Autopsy             | 90   | 83       
 
@@ -81,8 +81,8 @@ Linkin Park                | 40   | 153
 Toto                       | 44   | 144      
 DJ MøMø                    | 49   | 132      
 Heilung                    | 51   | 131      
-The Police                 | 53   | 126      
-Jinjer                     | 55   | 125      
+The Police                 | 54   | 126      
+Jinjer                     | 56   | 125      
 Eivør Pálsdóttir           | 58   | 123      
 Red Hot Chili Peppers      | 59   | 123      
 DumDum Boys                | 60   | 122      
@@ -96,9 +96,9 @@ The Black Keys             | 78   | 93
 VOLA                       | 79   | 93       
 Queens of the Stone Age    | 80   | 92       
 Elton John                 | 82   | 89       
-Bill Withers               | 83   | 88       
-Meshuggah                  | 84   | 87       
-Thulsa Doom                | 85   | 87       
+Bill Withers               | 84   | 88       
+Meshuggah                  | 85   | 87       
+Thulsa Doom                | 86   | 87       
 Devin Townsend Project     | 89   | 84       
 Bokassa                    | 91   | 82       
 Barnesprell                | 92   | 80       
@@ -107,8 +107,8 @@ Surferosa                  | 94   | 80
 Rival Sons                 | 95   | 79       
 will.i.am                  | 96   | 79       
 Kaptein Sabeltann          | 97   | 77       
-Maraton                    | 98   | 76       
-The Rolling Stones         | 99   | 76       
+The Rolling Stones         | 98   | 77       
+Maraton                    | 99   | 76       
 Love                       | 100  | 74       
 
 ## Inactive top 100 artists not seen live (9)
@@ -120,7 +120,7 @@ Rush                         | 10   | 374
 Pink Floyd                   | 24   | 199      
 Daft Punk                    | 31   | 170      
 Hall & Oates                 | 50   | 131      
-Creedence Clearwater Revival | 54   | 125      
-Led Zeppelin                 | 63   | 116      
+Creedence Clearwater Revival | 53   | 126      
+Led Zeppelin                 | 63   | 117      
 Dire Straits                 | 66   | 111      
-The Beatles                  | 87   | 85       
+The Beatles                  | 83   | 89       
