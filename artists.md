@@ -37,9 +37,9 @@ Mastodon                       | 34   | 165
 Amyl and the Sniffers          | 37   | 160      
 Judas Priest                   | 41   | 151      
 Gojira                         | 42   | 145      
-Pagan's Mind                   | 43   | 144      
-Finntroll                      | 45   | 142      
-Kvelertak                      | 46   | 140      
+Kvelertak                      | 43   | 144      
+Pagan's Mind                   | 44   | 144      
+Finntroll                      | 46   | 142      
 Ne Obliviscaris                | 47   | 139      
 Eminem                         | 48   | 138      
 Architects                     | 52   | 129      
@@ -54,7 +54,7 @@ Kaizers Orchestra              | 70   | 103
 Oslo Ess                       | 72   | 101      
 Maktkamp                       | 74   | 98       
 Backstreet Girls               | 75   | 95       
-Turbonegro                     | 81   | 90       
+Turbonegro                     | 82   | 90       
 Soilwork                       | 87   | 86       
 Children of Bodom              | 88   | 84       
 Fit for an Autopsy             | 90   | 83       
@@ -66,8 +66,8 @@ Name                       | Rank | PlayCount
 Thorbjørn Egner            | 2    | 984      
 Moron Police               | 16   | 251      
 Nospūn                     | 17   | 246      
-Jean-Luc Ponty             | 19   | 227      
-John Mayer                 | 23   | 199      
+Jean-Luc Ponty             | 19   | 228      
+John Mayer                 | 24   | 199      
 All That Remains           | 26   | 195      
 Lars Vaular                | 27   | 193      
 The Offspring              | 30   | 172      
@@ -76,9 +76,9 @@ Trivium                    | 33   | 169
 The Night Flight Orchestra | 35   | 165      
 Death by Unga Bunga        | 36   | 163      
 Animals as Leaders         | 38   | 158      
-Sylosis                    | 39   | 155      
-Linkin Park                | 40   | 153      
-Toto                       | 44   | 144      
+Linkin Park                | 39   | 155      
+Sylosis                    | 40   | 155      
+Toto                       | 45   | 144      
 DJ MøMø                    | 49   | 132      
 Heilung                    | 51   | 131      
 The Police                 | 54   | 126      
@@ -92,10 +92,10 @@ Megadeth                   | 71   | 102
 Parius                     | 73   | 100      
 D-A-D                      | 76   | 95       
 SikTh                      | 77   | 95       
-The Black Keys             | 78   | 93       
-VOLA                       | 79   | 93       
-Queens of the Stone Age    | 80   | 92       
-Elton John                 | 82   | 89       
+The Black Keys             | 79   | 93       
+VOLA                       | 80   | 93       
+Queens of the Stone Age    | 81   | 92       
+Elton John                 | 83   | 89       
 Bill Withers               | 84   | 88       
 Meshuggah                  | 85   | 87       
 Thulsa Doom                | 86   | 87       
@@ -106,10 +106,10 @@ Iron Maiden                | 93   | 80
 Surferosa                  | 94   | 80       
 Rival Sons                 | 95   | 79       
 will.i.am                  | 96   | 79       
-Kaptein Sabeltann          | 97   | 77       
-The Rolling Stones         | 98   | 77       
-Maraton                    | 99   | 76       
-Love                       | 100  | 74       
+Protest the Hero           | 97   | 78       
+Kaptein Sabeltann          | 98   | 77       
+The Rolling Stones         | 99   | 77       
+Maraton                    | 100  | 76       
 
 ## Inactive top 100 artists not seen live (9)
 
@@ -117,10 +117,10 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 415      
 Rush                         | 10   | 374      
-Pink Floyd                   | 24   | 199      
+Pink Floyd                   | 23   | 200      
 Daft Punk                    | 31   | 170      
 Hall & Oates                 | 50   | 131      
 Creedence Clearwater Revival | 53   | 126      
 Led Zeppelin                 | 63   | 117      
 Dire Straits                 | 66   | 111      
-The Beatles                  | 83   | 89       
+The Beatles                  | 78   | 93       
