@@ -53,7 +53,7 @@ Volbeat                        | 67   | 111
 Kaizers Orchestra              | 70   | 103      
 Oslo Ess                       | 72   | 101      
 Maktkamp                       | 74   | 98       
-Backstreet Girls               | 75   | 95       
+Backstreet Girls               | 76   | 95       
 Turbonegro                     | 82   | 90       
 Soilwork                       | 87   | 86       
 Children of Bodom              | 88   | 84       
@@ -90,8 +90,8 @@ Aktiv Dödshjelp            | 61   | 120
 Porcupine Tree             | 68   | 108      
 Megadeth                   | 71   | 102      
 Parius                     | 73   | 100      
-D-A-D                      | 76   | 95       
-SikTh                      | 77   | 95       
+D-A-D                      | 77   | 95       
+SikTh                      | 78   | 95       
 The Black Keys             | 79   | 93       
 VOLA                       | 80   | 93       
 Queens of the Stone Age    | 81   | 92       
@@ -123,4 +123,4 @@ Hall & Oates                 | 50   | 131
 Creedence Clearwater Revival | 53   | 126      
 Led Zeppelin                 | 63   | 117      
 Dire Straits                 | 66   | 111      
-The Beatles                  | 78   | 93       
+The Beatles                  | 75   | 96       
