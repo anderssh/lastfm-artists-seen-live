@@ -101,12 +101,12 @@ Meshuggah                  | 85   | 87
 Thulsa Doom                | 86   | 87       
 Devin Townsend Project     | 89   | 84       
 Bokassa                    | 91   | 82       
-Barnesprell                | 92   | 80       
-Iron Maiden                | 93   | 80       
-Surferosa                  | 94   | 80       
-Rival Sons                 | 95   | 79       
-will.i.am                  | 96   | 79       
-Protest the Hero           | 97   | 78       
+Protest the Hero           | 92   | 82       
+Barnesprell                | 93   | 80       
+Iron Maiden                | 94   | 80       
+Surferosa                  | 95   | 80       
+Rival Sons                 | 96   | 79       
+will.i.am                  | 97   | 79       
 Kaptein Sabeltann          | 98   | 77       
 The Rolling Stones         | 99   | 77       
 Maraton                    | 100  | 76       
