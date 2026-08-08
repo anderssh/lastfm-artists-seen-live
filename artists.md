@@ -54,10 +54,10 @@ Kaizers Orchestra              | 70   | 103
 Oslo Ess                       | 72   | 101      
 Maktkamp                       | 74   | 98       
 Backstreet Girls               | 76   | 95       
-Turbonegro                     | 82   | 90       
-Soilwork                       | 87   | 86       
-Children of Bodom              | 88   | 84       
-Fit for an Autopsy             | 90   | 83       
+Turbonegro                     | 83   | 90       
+Soilwork                       | 88   | 86       
+Children of Bodom              | 89   | 84       
+Fit for an Autopsy             | 91   | 83       
 
 ## Active top 100 artists not seen live (47)
 
@@ -94,14 +94,14 @@ D-A-D                      | 77   | 95
 SikTh                      | 78   | 95       
 The Black Keys             | 79   | 93       
 VOLA                       | 80   | 93       
-Queens of the Stone Age    | 81   | 92       
-Elton John                 | 83   | 89       
-Bill Withers               | 84   | 88       
-Meshuggah                  | 85   | 87       
-Thulsa Doom                | 86   | 87       
-Devin Townsend Project     | 89   | 84       
-Bokassa                    | 91   | 82       
-Protest the Hero           | 92   | 82       
+Protest the Hero           | 81   | 92       
+Queens of the Stone Age    | 82   | 92       
+Elton John                 | 84   | 89       
+Bill Withers               | 85   | 88       
+Meshuggah                  | 86   | 87       
+Thulsa Doom                | 87   | 87       
+Devin Townsend Project     | 90   | 84       
+Bokassa                    | 92   | 82       
 Barnesprell                | 93   | 80       
 Iron Maiden                | 94   | 80       
 Surferosa                  | 95   | 80       
