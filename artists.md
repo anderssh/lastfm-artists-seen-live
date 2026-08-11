@@ -101,15 +101,15 @@ Bill Withers               | 85   | 88
 Meshuggah                  | 86   | 87       
 Thulsa Doom                | 87   | 87       
 Devin Townsend Project     | 90   | 84       
-Bokassa                    | 92   | 82       
-Barnesprell                | 93   | 80       
-Iron Maiden                | 94   | 80       
-Surferosa                  | 95   | 80       
-Rival Sons                 | 96   | 79       
-will.i.am                  | 97   | 79       
-Kaptein Sabeltann          | 98   | 77       
-The Rolling Stones         | 99   | 77       
-Maraton                    | 100  | 76       
+Maraton                    | 92   | 83       
+Bokassa                    | 93   | 82       
+Barnesprell                | 94   | 80       
+Iron Maiden                | 95   | 80       
+Surferosa                  | 96   | 80       
+Rival Sons                 | 97   | 79       
+will.i.am                  | 98   | 79       
+Kaptein Sabeltann          | 99   | 77       
+The Rolling Stones         | 100  | 77       
 
 ## Inactive top 100 artists not seen live (9)
 
