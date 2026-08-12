@@ -42,14 +42,14 @@ Pagan's Mind                   | 45   | 144
 Finntroll                      | 46   | 142      
 Ne Obliviscaris                | 47   | 139      
 Eminem                         | 48   | 138      
-Architects                     | 52   | 129      
-The Killers                    | 53   | 128      
-blink-182                      | 56   | 125      
-Lamb of God                    | 62   | 119      
-Opeth                          | 64   | 116      
-The Good The Bad and The Zugly | 65   | 116      
-Volbeat                        | 67   | 111      
-22                             | 69   | 104      
+Architects                     | 53   | 129      
+The Killers                    | 54   | 128      
+22                             | 57   | 125      
+blink-182                      | 58   | 125      
+Lamb of God                    | 63   | 119      
+Opeth                          | 65   | 116      
+The Good The Bad and The Zugly | 66   | 116      
+Volbeat                        | 68   | 111      
 Kaizers Orchestra              | 70   | 104      
 Oslo Ess                       | 72   | 101      
 Maktkamp                       | 74   | 98       
@@ -80,14 +80,14 @@ Linkin Park                | 39   | 155
 Sylosis                    | 40   | 155      
 Toto                       | 42   | 146      
 DJ MøMø                    | 49   | 132      
-Heilung                    | 51   | 131      
-The Police                 | 55   | 126      
-Jinjer                     | 57   | 125      
-Red Hot Chili Peppers      | 58   | 124      
-DumDum Boys                | 59   | 123      
-Eivør Pálsdóttir           | 60   | 123      
-Aktiv Dödshjelp            | 61   | 120      
-Porcupine Tree             | 68   | 108      
+Jinjer                     | 50   | 132      
+Heilung                    | 52   | 131      
+The Police                 | 56   | 126      
+Red Hot Chili Peppers      | 59   | 124      
+DumDum Boys                | 60   | 123      
+Eivør Pálsdóttir           | 61   | 123      
+Aktiv Dödshjelp            | 62   | 120      
+Porcupine Tree             | 69   | 108      
 Megadeth                   | 71   | 102      
 Parius                     | 73   | 100      
 D-A-D                      | 77   | 95       
@@ -119,8 +119,8 @@ Fleetwood Mac                | 7    | 415
 Rush                         | 10   | 374      
 Pink Floyd                   | 21   | 205      
 Daft Punk                    | 31   | 171      
-Hall & Oates                 | 50   | 131      
-Creedence Clearwater Revival | 54   | 126      
-Led Zeppelin                 | 63   | 117      
-Dire Straits                 | 66   | 111      
-The Beatles                  | 75   | 96       
+Hall & Oates                 | 51   | 131      
+Creedence Clearwater Revival | 55   | 126      
+Led Zeppelin                 | 64   | 117      
+Dire Straits                 | 67   | 111      
+The Beatles                  | 75   | 97       
