@@ -27,17 +27,17 @@ Skálmöld                       | 13   | 345
 Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 293      
 Greta Van Fleet                | 18   | 241      
-Honningbarna                   | 20   | 211      
+Honningbarna                   | 19   | 236      
 The Dogs                       | 22   | 205      
 Slipknot                       | 23   | 203      
 Green Day                      | 25   | 197      
-Tool                           | 28   | 185      
+Tool                           | 28   | 193      
 Eluveitie                      | 29   | 182      
 Mastodon                       | 34   | 165      
 Amyl and the Sniffers          | 37   | 160      
 Judas Priest                   | 41   | 152      
-Gojira                         | 43   | 145      
-Kvelertak                      | 44   | 144      
+Kvelertak                      | 42   | 146      
+Gojira                         | 44   | 145      
 Pagan's Mind                   | 45   | 144      
 Finntroll                      | 46   | 142      
 Ne Obliviscaris                | 47   | 139      
@@ -50,8 +50,8 @@ Lamb of God                    | 63   | 119
 Opeth                          | 65   | 116      
 The Good The Bad and The Zugly | 66   | 116      
 Volbeat                        | 68   | 111      
-Kaizers Orchestra              | 70   | 104      
-Oslo Ess                       | 72   | 101      
+Kaizers Orchestra              | 70   | 105      
+Oslo Ess                       | 71   | 104      
 Maktkamp                       | 74   | 98       
 Backstreet Girls               | 76   | 95       
 Turbonegro                     | 83   | 91       
@@ -66,7 +66,7 @@ Name                       | Rank | PlayCount
 Thorbjørn Egner            | 2    | 984      
 Moron Police               | 16   | 251      
 Nospūn                     | 17   | 246      
-Jean-Luc Ponty             | 19   | 228      
+Jean-Luc Ponty             | 20   | 228      
 John Mayer                 | 24   | 199      
 All That Remains           | 26   | 195      
 Lars Vaular                | 27   | 193      
@@ -78,7 +78,7 @@ Death by Unga Bunga        | 36   | 163
 Animals as Leaders         | 38   | 158      
 Linkin Park                | 39   | 155      
 Sylosis                    | 40   | 155      
-Toto                       | 42   | 146      
+Toto                       | 43   | 146      
 DJ MøMø                    | 49   | 132      
 Jinjer                     | 50   | 132      
 Heilung                    | 52   | 131      
@@ -88,7 +88,7 @@ DumDum Boys                | 60   | 123
 Eivør Pálsdóttir           | 61   | 123      
 Aktiv Dödshjelp            | 62   | 120      
 Porcupine Tree             | 69   | 108      
-Megadeth                   | 71   | 102      
+Megadeth                   | 72   | 102      
 Parius                     | 73   | 100      
 D-A-D                      | 77   | 95       
 SikTh                      | 78   | 95       
