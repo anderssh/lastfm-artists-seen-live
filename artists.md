@@ -28,14 +28,14 @@ Avenged Sevenfold              | 14   | 322
 Circus Maximus                 | 15   | 293      
 Greta Van Fleet                | 18   | 241      
 Honningbarna                   | 19   | 236      
-The Dogs                       | 22   | 205      
-Slipknot                       | 23   | 203      
-Green Day                      | 25   | 197      
-Tool                           | 28   | 193      
+Slipknot                       | 22   | 205      
+The Dogs                       | 23   | 205      
+Tool                           | 25   | 199      
+Green Day                      | 26   | 197      
 Eluveitie                      | 29   | 182      
 Mastodon                       | 34   | 165      
 Amyl and the Sniffers          | 37   | 160      
-Judas Priest                   | 41   | 152      
+Judas Priest                   | 41   | 153      
 Kvelertak                      | 42   | 146      
 Gojira                         | 44   | 145      
 Pagan's Mind                   | 45   | 144      
@@ -46,7 +46,7 @@ Architects                     | 53   | 129
 The Killers                    | 54   | 128      
 22                             | 57   | 125      
 blink-182                      | 58   | 125      
-Lamb of God                    | 63   | 119      
+Lamb of God                    | 63   | 120      
 Opeth                          | 65   | 116      
 The Good The Bad and The Zugly | 66   | 116      
 Volbeat                        | 68   | 111      
@@ -54,7 +54,7 @@ Kaizers Orchestra              | 70   | 105
 Oslo Ess                       | 71   | 104      
 Maktkamp                       | 74   | 98       
 Backstreet Girls               | 76   | 95       
-Turbonegro                     | 83   | 91       
+Turbonegro                     | 83   | 92       
 Soilwork                       | 88   | 86       
 Children of Bodom              | 89   | 84       
 Fit for an Autopsy             | 91   | 83       
@@ -68,8 +68,8 @@ Moron Police               | 16   | 251
 Nospūn                     | 17   | 246      
 Jean-Luc Ponty             | 20   | 228      
 John Mayer                 | 24   | 199      
-All That Remains           | 26   | 195      
-Lars Vaular                | 27   | 193      
+All That Remains           | 27   | 195      
+Lars Vaular                | 28   | 193      
 The Offspring              | 30   | 172      
 The Halo Effect            | 32   | 169      
 Trivium                    | 33   | 169      
@@ -88,7 +88,7 @@ DumDum Boys                | 60   | 123
 Eivør Pálsdóttir           | 61   | 123      
 Aktiv Dödshjelp            | 62   | 120      
 Porcupine Tree             | 69   | 108      
-Megadeth                   | 72   | 102      
+Megadeth                   | 72   | 103      
 Parius                     | 73   | 100      
 D-A-D                      | 77   | 95       
 SikTh                      | 78   | 95       
@@ -103,8 +103,8 @@ Thulsa Doom                | 87   | 87
 Devin Townsend Project     | 90   | 84       
 Maraton                    | 92   | 83       
 Bokassa                    | 93   | 82       
-Barnesprell                | 94   | 80       
-Iron Maiden                | 95   | 80       
+Iron Maiden                | 94   | 82       
+Barnesprell                | 95   | 80       
 Surferosa                  | 96   | 80       
 Rival Sons                 | 97   | 79       
 will.i.am                  | 98   | 79       
