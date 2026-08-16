@@ -17,23 +17,23 @@ Name                           | Rank | PlayCount
 Dream Theater                  | 1    | 1017     
 AC/DC                          | 3    | 837      
 Metallica                      | 4    | 464      
-Spidergawd                     | 5    | 454      
+Spidergawd                     | 5    | 455      
 In Flames                      | 6    | 425      
 Foo Fighters                   | 8    | 411      
-Seven Spires                   | 9    | 389      
+Seven Spires                   | 9    | 390      
 Ghost                          | 11   | 360      
 Haken                          | 12   | 356      
 Skálmöld                       | 13   | 345      
 Avenged Sevenfold              | 14   | 322      
 Circus Maximus                 | 15   | 293      
 Greta Van Fleet                | 18   | 241      
-Honningbarna                   | 19   | 236      
+Honningbarna                   | 19   | 237      
 Slipknot                       | 22   | 205      
 The Dogs                       | 23   | 205      
 Tool                           | 25   | 199      
 Green Day                      | 26   | 197      
 Eluveitie                      | 29   | 182      
-Mastodon                       | 34   | 165      
+Mastodon                       | 35   | 165      
 Amyl and the Sniffers          | 37   | 160      
 Judas Priest                   | 41   | 153      
 Kvelertak                      | 42   | 146      
@@ -43,15 +43,15 @@ Finntroll                      | 46   | 142
 Ne Obliviscaris                | 47   | 139      
 Eminem                         | 48   | 138      
 Architects                     | 53   | 129      
-The Killers                    | 54   | 128      
+The Killers                    | 55   | 128      
 22                             | 57   | 125      
 blink-182                      | 58   | 125      
 Lamb of God                    | 63   | 120      
 Opeth                          | 65   | 116      
 The Good The Bad and The Zugly | 66   | 116      
-Volbeat                        | 68   | 111      
+Volbeat                        | 67   | 112      
 Kaizers Orchestra              | 70   | 105      
-Oslo Ess                       | 71   | 104      
+Oslo Ess                       | 71   | 105      
 Maktkamp                       | 74   | 98       
 Backstreet Girls               | 76   | 95       
 Turbonegro                     | 83   | 92       
@@ -73,8 +73,8 @@ Lars Vaular                | 28   | 193
 The Offspring              | 30   | 172      
 The Halo Effect            | 32   | 169      
 Trivium                    | 33   | 169      
-The Night Flight Orchestra | 35   | 165      
-Death by Unga Bunga        | 36   | 163      
+Death by Unga Bunga        | 34   | 166      
+The Night Flight Orchestra | 36   | 165      
 Animals as Leaders         | 38   | 158      
 Linkin Park                | 39   | 155      
 Sylosis                    | 40   | 155      
@@ -92,7 +92,7 @@ Megadeth                   | 72   | 103
 Parius                     | 73   | 100      
 D-A-D                      | 77   | 95       
 SikTh                      | 78   | 95       
-The Black Keys             | 79   | 93       
+The Black Keys             | 79   | 94       
 VOLA                       | 80   | 93       
 Protest the Hero           | 81   | 92       
 Queens of the Stone Age    | 82   | 92       
@@ -105,22 +105,22 @@ Maraton                    | 92   | 83
 Bokassa                    | 93   | 82       
 Iron Maiden                | 94   | 82       
 Barnesprell                | 95   | 80       
-Surferosa                  | 96   | 80       
-Rival Sons                 | 97   | 79       
-will.i.am                  | 98   | 79       
-Kaptein Sabeltann          | 99   | 77       
-The Rolling Stones         | 100  | 77       
+Rival Sons                 | 96   | 80       
+Surferosa                  | 97   | 80       
+The Rolling Stones         | 98   | 80       
+will.i.am                  | 99   | 79       
+Kaptein Sabeltann          | 100  | 77       
 
 ## Inactive top 100 artists not seen live (9)
 
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
-Fleetwood Mac                | 7    | 415      
+Fleetwood Mac                | 7    | 416      
 Rush                         | 10   | 374      
 Pink Floyd                   | 21   | 205      
 Daft Punk                    | 31   | 171      
 Hall & Oates                 | 51   | 131      
-Creedence Clearwater Revival | 55   | 126      
-Led Zeppelin                 | 64   | 117      
-Dire Straits                 | 67   | 111      
-The Beatles                  | 75   | 97       
+Creedence Clearwater Revival | 54   | 129      
+Led Zeppelin                 | 64   | 118      
+Dire Straits                 | 68   | 111      
+The Beatles                  | 75   | 98       
