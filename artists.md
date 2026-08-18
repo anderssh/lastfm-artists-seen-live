@@ -36,7 +36,7 @@ Eluveitie                      | 29   | 182
 Mastodon                       | 35   | 165      
 Amyl and the Sniffers          | 37   | 160      
 Judas Priest                   | 41   | 153      
-Kvelertak                      | 42   | 146      
+Kvelertak                      | 42   | 147      
 Gojira                         | 44   | 145      
 Pagan's Mind                   | 45   | 144      
 Finntroll                      | 46   | 142      
