@@ -33,8 +33,8 @@ The Dogs                       | 23   | 205
 Tool                           | 25   | 199      
 Green Day                      | 26   | 197      
 Eluveitie                      | 29   | 182      
-Mastodon                       | 35   | 165      
-Amyl and the Sniffers          | 37   | 160      
+Mastodon                       | 36   | 165      
+Amyl and the Sniffers          | 38   | 160      
 Judas Priest                   | 41   | 153      
 Kvelertak                      | 42   | 147      
 Gojira                         | 44   | 145      
@@ -49,10 +49,10 @@ blink-182                      | 58   | 125
 Lamb of God                    | 63   | 120      
 Opeth                          | 65   | 116      
 The Good The Bad and The Zugly | 66   | 116      
-Volbeat                        | 67   | 112      
+Volbeat                        | 68   | 112      
 Kaizers Orchestra              | 70   | 105      
 Oslo Ess                       | 71   | 105      
-Maktkamp                       | 74   | 98       
+Maktkamp                       | 75   | 98       
 Backstreet Girls               | 76   | 95       
 Turbonegro                     | 83   | 92       
 Soilwork                       | 88   | 86       
@@ -74,9 +74,9 @@ The Offspring              | 30   | 172
 The Halo Effect            | 32   | 169      
 Trivium                    | 33   | 169      
 Death by Unga Bunga        | 34   | 166      
-The Night Flight Orchestra | 36   | 165      
-Animals as Leaders         | 38   | 158      
-Linkin Park                | 39   | 155      
+Linkin Park                | 35   | 165      
+The Night Flight Orchestra | 37   | 165      
+Animals as Leaders         | 39   | 158      
 Sylosis                    | 40   | 155      
 Toto                       | 43   | 146      
 DJ MøMø                    | 49   | 132      
@@ -87,7 +87,7 @@ Red Hot Chili Peppers      | 59   | 124
 DumDum Boys                | 60   | 123      
 Eivør Pálsdóttir           | 61   | 123      
 Aktiv Dödshjelp            | 62   | 120      
-Porcupine Tree             | 69   | 108      
+Porcupine Tree             | 67   | 113      
 Megadeth                   | 72   | 103      
 Parius                     | 73   | 100      
 D-A-D                      | 77   | 95       
@@ -122,5 +122,5 @@ Daft Punk                    | 31   | 171
 Hall & Oates                 | 51   | 131      
 Creedence Clearwater Revival | 54   | 129      
 Led Zeppelin                 | 64   | 118      
-Dire Straits                 | 68   | 111      
-The Beatles                  | 75   | 98       
+Dire Straits                 | 69   | 111      
+The Beatles                  | 74   | 99       
