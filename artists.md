@@ -18,7 +18,7 @@ Dream Theater                  | 1    | 1017
 AC/DC                          | 3    | 837      
 Metallica                      | 4    | 464      
 Spidergawd                     | 5    | 455      
-In Flames                      | 6    | 425      
+In Flames                      | 6    | 439      
 Foo Fighters                   | 8    | 411      
 Seven Spires                   | 9    | 390      
 Ghost                          | 11   | 360      
@@ -28,9 +28,9 @@ Avenged Sevenfold              | 14   | 322
 Circus Maximus                 | 15   | 293      
 Greta Van Fleet                | 18   | 241      
 Honningbarna                   | 19   | 237      
-Slipknot                       | 22   | 205      
-The Dogs                       | 23   | 205      
-Tool                           | 25   | 199      
+Tool                           | 21   | 210      
+Slipknot                       | 23   | 205      
+The Dogs                       | 24   | 205      
 Green Day                      | 26   | 197      
 Eluveitie                      | 29   | 182      
 Mastodon                       | 36   | 165      
@@ -67,7 +67,7 @@ Thorbjørn Egner            | 2    | 984
 Moron Police               | 16   | 251      
 Nospūn                     | 17   | 246      
 Jean-Luc Ponty             | 20   | 228      
-John Mayer                 | 24   | 199      
+John Mayer                 | 25   | 199      
 All That Remains           | 27   | 195      
 Lars Vaular                | 28   | 193      
 The Offspring              | 30   | 172      
@@ -87,7 +87,7 @@ Red Hot Chili Peppers      | 59   | 124
 DumDum Boys                | 60   | 123      
 Eivør Pálsdóttir           | 61   | 123      
 Aktiv Dödshjelp            | 62   | 120      
-Porcupine Tree             | 67   | 113      
+Porcupine Tree             | 67   | 114      
 Megadeth                   | 72   | 103      
 Parius                     | 73   | 100      
 D-A-D                      | 77   | 95       
@@ -117,7 +117,7 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 7    | 416      
 Rush                         | 10   | 374      
-Pink Floyd                   | 21   | 205      
+Pink Floyd                   | 22   | 205      
 Daft Punk                    | 31   | 171      
 Hall & Oates                 | 51   | 131      
 Creedence Clearwater Revival | 54   | 129      
