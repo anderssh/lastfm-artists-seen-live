@@ -70,9 +70,9 @@ Jean-Luc Ponty             | 20   | 228
 John Mayer                 | 25   | 199      
 All That Remains           | 27   | 195      
 Lars Vaular                | 28   | 193      
-The Offspring              | 30   | 172      
-The Halo Effect            | 32   | 169      
-Trivium                    | 33   | 169      
+Trivium                    | 30   | 176      
+The Offspring              | 31   | 172      
+The Halo Effect            | 33   | 169      
 Death by Unga Bunga        | 34   | 166      
 Linkin Park                | 35   | 165      
 The Night Flight Orchestra | 37   | 165      
@@ -118,7 +118,7 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 7    | 416      
 Rush                         | 10   | 374      
 Pink Floyd                   | 22   | 205      
-Daft Punk                    | 31   | 171      
+Daft Punk                    | 32   | 171      
 Hall & Oates                 | 51   | 131      
 Creedence Clearwater Revival | 54   | 129      
 Led Zeppelin                 | 64   | 118      
