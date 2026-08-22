@@ -39,12 +39,12 @@ Judas Priest                   | 41   | 153
 Kvelertak                      | 42   | 147      
 Gojira                         | 44   | 145      
 Pagan's Mind                   | 45   | 144      
-Finntroll                      | 46   | 142      
-Ne Obliviscaris                | 47   | 139      
-Eminem                         | 48   | 138      
-Architects                     | 53   | 129      
-The Killers                    | 55   | 128      
-22                             | 57   | 125      
+22                             | 46   | 142      
+Finntroll                      | 47   | 142      
+Ne Obliviscaris                | 48   | 139      
+Eminem                         | 49   | 138      
+Architects                     | 54   | 129      
+The Killers                    | 56   | 128      
 blink-182                      | 58   | 125      
 Lamb of God                    | 63   | 120      
 Opeth                          | 65   | 116      
@@ -79,10 +79,10 @@ The Night Flight Orchestra | 37   | 165
 Animals as Leaders         | 39   | 158      
 Sylosis                    | 40   | 155      
 Toto                       | 43   | 146      
-DJ MøMø                    | 49   | 132      
-Jinjer                     | 50   | 132      
-Heilung                    | 52   | 131      
-The Police                 | 56   | 126      
+DJ MøMø                    | 50   | 132      
+Jinjer                     | 51   | 132      
+Heilung                    | 53   | 131      
+The Police                 | 57   | 126      
 Red Hot Chili Peppers      | 59   | 124      
 DumDum Boys                | 60   | 123      
 Eivør Pálsdóttir           | 61   | 123      
@@ -119,8 +119,8 @@ Fleetwood Mac                | 7    | 416
 Rush                         | 10   | 374      
 Pink Floyd                   | 22   | 205      
 Daft Punk                    | 32   | 171      
-Hall & Oates                 | 51   | 131      
-Creedence Clearwater Revival | 54   | 129      
+Hall & Oates                 | 52   | 131      
+Creedence Clearwater Revival | 55   | 129      
 Led Zeppelin                 | 64   | 118      
 Dire Straits                 | 69   | 111      
 The Beatles                  | 74   | 99       
