@@ -37,9 +37,9 @@ Mastodon                       | 36   | 165
 Amyl and the Sniffers          | 38   | 160      
 Judas Priest                   | 41   | 153      
 Kvelertak                      | 42   | 147      
-Gojira                         | 44   | 145      
-Pagan's Mind                   | 45   | 144      
-22                             | 46   | 142      
+22                             | 44   | 145      
+Gojira                         | 45   | 145      
+Pagan's Mind                   | 46   | 144      
 Finntroll                      | 47   | 142      
 Ne Obliviscaris                | 48   | 139      
 Eminem                         | 49   | 138      
