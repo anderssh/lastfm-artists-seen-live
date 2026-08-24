@@ -32,12 +32,12 @@ Tool                           | 21   | 210
 Slipknot                       | 23   | 205      
 The Dogs                       | 24   | 205      
 Green Day                      | 26   | 197      
-Eluveitie                      | 29   | 182      
+Eluveitie                      | 30   | 182      
 Mastodon                       | 36   | 165      
 Amyl and the Sniffers          | 38   | 160      
 Judas Priest                   | 41   | 153      
-Kvelertak                      | 42   | 147      
-22                             | 44   | 145      
+22                             | 42   | 151      
+Kvelertak                      | 43   | 147      
 Gojira                         | 45   | 145      
 Pagan's Mind                   | 46   | 144      
 Finntroll                      | 47   | 142      
@@ -70,7 +70,7 @@ Jean-Luc Ponty             | 20   | 228
 John Mayer                 | 25   | 199      
 All That Remains           | 27   | 195      
 Lars Vaular                | 28   | 193      
-Trivium                    | 30   | 176      
+Trivium                    | 29   | 186      
 The Offspring              | 31   | 172      
 The Halo Effect            | 33   | 169      
 Death by Unga Bunga        | 34   | 166      
@@ -78,7 +78,7 @@ Linkin Park                | 35   | 165
 The Night Flight Orchestra | 37   | 165      
 Animals as Leaders         | 39   | 158      
 Sylosis                    | 40   | 155      
-Toto                       | 43   | 146      
+Toto                       | 44   | 146      
 DJ MøMø                    | 50   | 132      
 Jinjer                     | 51   | 132      
 Heilung                    | 53   | 131      
