@@ -16,9 +16,9 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 1017     
 AC/DC                          | 3    | 837      
-Metallica                      | 4    | 464      
+Metallica                      | 4    | 465      
 Spidergawd                     | 5    | 455      
-In Flames                      | 6    | 443      
+In Flames                      | 6    | 447      
 Foo Fighters                   | 8    | 411      
 Seven Spires                   | 9    | 390      
 Ghost                          | 11   | 360      
@@ -33,13 +33,13 @@ Slipknot                       | 22   | 207
 The Dogs                       | 24   | 205      
 Green Day                      | 26   | 197      
 Eluveitie                      | 30   | 182      
-Mastodon                       | 36   | 165      
+Mastodon                       | 34   | 167      
 Amyl and the Sniffers          | 38   | 160      
 Judas Priest                   | 41   | 153      
 22                             | 42   | 151      
 Kvelertak                      | 43   | 147      
-Finntroll                      | 45   | 145      
-Gojira                         | 46   | 145      
+Gojira                         | 44   | 146      
+Finntroll                      | 46   | 145      
 Pagan's Mind                   | 47   | 144      
 Ne Obliviscaris                | 48   | 139      
 Eminem                         | 49   | 138      
@@ -55,7 +55,7 @@ Oslo Ess                       | 72   | 105
 Maktkamp                       | 77   | 98       
 Backstreet Girls               | 78   | 95       
 Turbonegro                     | 84   | 92       
-Soilwork                       | 86   | 89       
+Soilwork                       | 87   | 89       
 Children of Bodom              | 90   | 86       
 Fit for an Autopsy             | 92   | 83       
 
@@ -73,12 +73,12 @@ All That Remains               | 28   | 195
 Lars Vaular                    | 29   | 193      
 The Offspring                  | 31   | 172      
 The Halo Effect                | 33   | 169      
-Death by Unga Bunga            | 34   | 166      
-Linkin Park                    | 35   | 165      
+Death by Unga Bunga            | 35   | 166      
+Linkin Park                    | 36   | 165      
 The Night Flight Orchestra     | 37   | 165      
 Animals as Leaders             | 39   | 158      
 Sylosis                        | 40   | 155      
-Toto                           | 44   | 146      
+Toto                           | 45   | 146      
 DJ MøMø                        | 50   | 132      
 Jinjer                         | 51   | 132      
 Heilung                        | 53   | 131      
@@ -97,9 +97,9 @@ SikTh                          | 80   | 95
 The Black Keys                 | 81   | 94       
 VOLA                           | 82   | 93       
 Queens of the Stone Age        | 83   | 92       
-Elton John                     | 85   | 89       
-Bill Withers                   | 87   | 88       
-Meshuggah                      | 88   | 87       
+Meshuggah                      | 85   | 90       
+Elton John                     | 86   | 89       
+Bill Withers                   | 88   | 88       
 Thulsa Doom                    | 89   | 87       
 Devin Townsend Project         | 91   | 84       
 Maraton                        | 93   | 83       
