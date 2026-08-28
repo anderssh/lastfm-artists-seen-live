@@ -37,7 +37,7 @@ Mastodon                       | 34   | 167
 Amyl and the Sniffers          | 38   | 160      
 Judas Priest                   | 41   | 153      
 22                             | 42   | 151      
-Kvelertak                      | 43   | 147      
+Kvelertak                      | 43   | 148      
 Gojira                         | 44   | 146      
 Finntroll                      | 46   | 145      
 Pagan's Mind                   | 47   | 144      
@@ -123,4 +123,4 @@ Hall & Oates                 | 52   | 131
 Creedence Clearwater Revival | 55   | 129      
 Led Zeppelin                 | 65   | 118      
 Dire Straits                 | 70   | 111      
-The Beatles                  | 76   | 99       
+The Beatles                  | 76   | 100      
