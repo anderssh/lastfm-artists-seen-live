@@ -51,9 +51,9 @@ Opeth                          | 66   | 116
 The Good The Bad and The Zugly | 67   | 116      
 Kaizers Orchestra              | 68   | 115      
 Volbeat                        | 70   | 112      
-Oslo Ess                       | 72   | 105      
-Maktkamp                       | 77   | 98       
-Backstreet Girls               | 78   | 95       
+Backstreet Girls               | 72   | 106      
+Oslo Ess                       | 73   | 105      
+Maktkamp                       | 78   | 98       
 Turbonegro                     | 82   | 93       
 Soilwork                       | 87   | 89       
 Children of Bodom              | 90   | 86       
@@ -89,9 +89,9 @@ Eivør Pálsdóttir               | 62   | 123
 OnklP & De Fjerne Slektningene | 63   | 121      
 Aktiv Dödshjelp                | 64   | 120      
 Porcupine Tree                 | 69   | 114      
-Megadeth                       | 73   | 103      
-Protest the Hero               | 74   | 102      
-Parius                         | 76   | 100      
+Megadeth                       | 74   | 103      
+Protest the Hero               | 75   | 102      
+Parius                         | 77   | 100      
 D-A-D                          | 79   | 95       
 SikTh                          | 80   | 95       
 The Black Keys                 | 81   | 94       
@@ -123,4 +123,4 @@ Creedence Clearwater Revival | 50   | 133
 Hall & Oates                 | 54   | 131      
 Led Zeppelin                 | 65   | 120      
 Dire Straits                 | 71   | 111      
-The Beatles                  | 75   | 101      
+The Beatles                  | 76   | 101      
