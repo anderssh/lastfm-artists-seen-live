@@ -51,7 +51,7 @@ Opeth                          | 66   | 116
 The Good The Bad and The Zugly | 67   | 116      
 Kaizers Orchestra              | 68   | 115      
 Volbeat                        | 70   | 112      
-Backstreet Girls               | 72   | 106      
+Backstreet Girls               | 72   | 107      
 Oslo Ess                       | 73   | 105      
 Maktkamp                       | 78   | 98       
 Turbonegro                     | 82   | 93       
