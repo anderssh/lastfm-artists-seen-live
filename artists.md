@@ -33,7 +33,7 @@ Slipknot                       | 23   | 209
 The Dogs                       | 24   | 205      
 Green Day                      | 26   | 198      
 Eluveitie                      | 30   | 182      
-Mastodon                       | 34   | 167      
+Mastodon                       | 35   | 167      
 Amyl and the Sniffers          | 38   | 160      
 Judas Priest                   | 41   | 154      
 22                             | 42   | 151      
@@ -51,7 +51,7 @@ Opeth                          | 66   | 116
 The Good The Bad and The Zugly | 67   | 116      
 Kaizers Orchestra              | 68   | 115      
 Volbeat                        | 70   | 112      
-Backstreet Girls               | 72   | 107      
+Backstreet Girls               | 72   | 109      
 Oslo Ess                       | 73   | 105      
 Maktkamp                       | 78   | 98       
 Turbonegro                     | 82   | 93       
@@ -71,10 +71,10 @@ John Mayer                     | 25   | 199
 Trivium                        | 27   | 196      
 All That Remains               | 28   | 195      
 Lars Vaular                    | 29   | 193      
-The Offspring                  | 31   | 174      
-The Halo Effect                | 33   | 169      
-Death by Unga Bunga            | 35   | 166      
-Linkin Park                    | 36   | 166      
+Linkin Park                    | 31   | 176      
+The Offspring                  | 32   | 174      
+The Halo Effect                | 34   | 169      
+Death by Unga Bunga            | 36   | 166      
 The Night Flight Orchestra     | 37   | 165      
 Animals as Leaders             | 39   | 158      
 Sylosis                        | 40   | 155      
@@ -118,7 +118,7 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 8    | 416      
 Rush                         | 10   | 374      
 Pink Floyd                   | 21   | 218      
-Daft Punk                    | 32   | 172      
+Daft Punk                    | 33   | 172      
 Creedence Clearwater Revival | 50   | 133      
 Hall & Oates                 | 54   | 131      
 Led Zeppelin                 | 65   | 120      
