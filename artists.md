@@ -51,7 +51,7 @@ Opeth                          | 66   | 116
 The Good The Bad and The Zugly | 67   | 116      
 Kaizers Orchestra              | 68   | 115      
 Volbeat                        | 70   | 112      
-Backstreet Girls               | 72   | 109      
+Backstreet Girls               | 71   | 111      
 Oslo Ess                       | 73   | 105      
 Maktkamp                       | 78   | 98       
 Turbonegro                     | 82   | 93       
@@ -122,5 +122,5 @@ Daft Punk                    | 33   | 172
 Creedence Clearwater Revival | 50   | 133      
 Hall & Oates                 | 54   | 131      
 Led Zeppelin                 | 65   | 120      
-Dire Straits                 | 71   | 111      
+Dire Straits                 | 72   | 111      
 The Beatles                  | 76   | 101      
