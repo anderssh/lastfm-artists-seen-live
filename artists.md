@@ -36,7 +36,7 @@ Eluveitie                      | 30   | 182
 Mastodon                       | 35   | 167      
 Amyl and the Sniffers          | 38   | 160      
 Judas Priest                   | 41   | 154      
-22                             | 42   | 151      
+22                             | 42   | 152      
 Kvelertak                      | 43   | 148      
 Gojira                         | 45   | 146      
 Finntroll                      | 46   | 145      
@@ -50,14 +50,14 @@ Lamb of God                    | 61   | 124
 Opeth                          | 66   | 116      
 The Good The Bad and The Zugly | 67   | 116      
 Kaizers Orchestra              | 68   | 115      
-Volbeat                        | 70   | 112      
-Backstreet Girls               | 71   | 111      
+Backstreet Girls               | 70   | 113      
+Volbeat                        | 71   | 112      
 Oslo Ess                       | 73   | 105      
 Maktkamp                       | 78   | 98       
 Turbonegro                     | 82   | 93       
 Soilwork                       | 87   | 89       
 Children of Bodom              | 90   | 86       
-Fit for an Autopsy             | 92   | 83       
+Fit for an Autopsy             | 93   | 83       
 
 ## Active top 100 artists not seen live (47)
 
@@ -102,8 +102,8 @@ Elton John                     | 86   | 89
 Bill Withers                   | 88   | 88       
 Thulsa Doom                    | 89   | 87       
 Devin Townsend Project         | 91   | 84       
-Iron Maiden                    | 93   | 83       
-Maraton                        | 94   | 83       
+Maraton                        | 92   | 84       
+Iron Maiden                    | 94   | 83       
 Bokassa                        | 95   | 82       
 trass                          | 96   | 81       
 Barnesprell                    | 97   | 80       
