@@ -19,7 +19,7 @@ AC/DC                          | 3    | 838
 Metallica                      | 4    | 465      
 Spidergawd                     | 5    | 455      
 In Flames                      | 6    | 447      
-Foo Fighters                   | 7    | 418      
+Foo Fighters                   | 7    | 419      
 Seven Spires                   | 9    | 390      
 Ghost                          | 11   | 360      
 Haken                          | 12   | 357      
@@ -43,7 +43,7 @@ Finntroll                      | 46   | 145
 Pagan's Mind                   | 47   | 145      
 Ne Obliviscaris                | 48   | 139      
 Eminem                         | 49   | 138      
-The Killers                    | 53   | 132      
+The Killers                    | 51   | 133      
 Architects                     | 56   | 129      
 blink-182                      | 57   | 126      
 Lamb of God                    | 61   | 124      
@@ -71,7 +71,7 @@ John Mayer                     | 25   | 199
 Trivium                        | 27   | 196      
 All That Remains               | 28   | 195      
 Lars Vaular                    | 29   | 193      
-Linkin Park                    | 31   | 176      
+Linkin Park                    | 31   | 177      
 The Offspring                  | 32   | 174      
 The Halo Effect                | 34   | 169      
 Death by Unga Bunga            | 36   | 166      
@@ -79,21 +79,21 @@ The Night Flight Orchestra     | 37   | 165
 Animals as Leaders             | 39   | 158      
 Sylosis                        | 40   | 155      
 Toto                           | 44   | 148      
-DJ MøMø                        | 51   | 132      
-Jinjer                         | 52   | 132      
+DJ MøMø                        | 52   | 132      
+Jinjer                         | 53   | 132      
 Heilung                        | 55   | 131      
-The Police                     | 58   | 126      
-Red Hot Chili Peppers          | 59   | 125      
+Red Hot Chili Peppers          | 58   | 126      
+The Police                     | 59   | 126      
 DumDum Boys                    | 60   | 124      
 Eivør Pálsdóttir               | 62   | 123      
 OnklP & De Fjerne Slektningene | 63   | 121      
 Aktiv Dödshjelp                | 64   | 120      
 Porcupine Tree                 | 69   | 114      
-Megadeth                       | 74   | 103      
-Protest the Hero               | 75   | 102      
+Protest the Hero               | 74   | 104      
+Megadeth                       | 75   | 103      
 Parius                         | 77   | 100      
-D-A-D                          | 79   | 95       
-SikTh                          | 80   | 95       
+SikTh                          | 79   | 96       
+D-A-D                          | 80   | 95       
 The Black Keys                 | 81   | 94       
 VOLA                           | 83   | 93       
 Queens of the Stone Age        | 84   | 92       
