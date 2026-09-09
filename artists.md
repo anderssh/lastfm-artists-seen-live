@@ -19,7 +19,7 @@ AC/DC                          | 3    | 838
 Metallica                      | 4    | 465      
 Spidergawd                     | 5    | 455      
 In Flames                      | 6    | 447      
-Foo Fighters                   | 7    | 419      
+Foo Fighters                   | 7    | 422      
 Seven Spires                   | 9    | 390      
 Ghost                          | 11   | 360      
 Haken                          | 12   | 357      
@@ -43,9 +43,9 @@ Finntroll                      | 46   | 145
 Pagan's Mind                   | 47   | 145      
 Ne Obliviscaris                | 48   | 139      
 Eminem                         | 49   | 138      
-The Killers                    | 51   | 133      
+The Killers                    | 50   | 135      
 Architects                     | 56   | 129      
-blink-182                      | 57   | 126      
+blink-182                      | 58   | 126      
 Lamb of God                    | 61   | 124      
 Opeth                          | 66   | 116      
 The Good The Bad and The Zugly | 67   | 116      
@@ -54,7 +54,7 @@ Backstreet Girls               | 70   | 113
 Volbeat                        | 71   | 112      
 Oslo Ess                       | 73   | 105      
 Maktkamp                       | 78   | 98       
-Turbonegro                     | 82   | 93       
+Turbonegro                     | 83   | 93       
 Soilwork                       | 87   | 89       
 Children of Bodom              | 90   | 86       
 Fit for an Autopsy             | 93   | 83       
@@ -71,7 +71,7 @@ John Mayer                     | 25   | 199
 Trivium                        | 27   | 196      
 All That Remains               | 28   | 195      
 Lars Vaular                    | 29   | 193      
-Linkin Park                    | 31   | 177      
+Linkin Park                    | 31   | 179      
 The Offspring                  | 32   | 174      
 The Halo Effect                | 34   | 169      
 Death by Unga Bunga            | 36   | 166      
@@ -82,21 +82,21 @@ Toto                           | 44   | 148
 DJ MøMø                        | 52   | 132      
 Jinjer                         | 53   | 132      
 Heilung                        | 55   | 131      
-Red Hot Chili Peppers          | 58   | 126      
+Red Hot Chili Peppers          | 57   | 128      
 The Police                     | 59   | 126      
 DumDum Boys                    | 60   | 124      
 Eivør Pálsdóttir               | 62   | 123      
 OnklP & De Fjerne Slektningene | 63   | 121      
 Aktiv Dödshjelp                | 64   | 120      
 Porcupine Tree                 | 69   | 114      
-Protest the Hero               | 74   | 104      
+Protest the Hero               | 74   | 105      
 Megadeth                       | 75   | 103      
 Parius                         | 77   | 100      
 SikTh                          | 79   | 96       
 D-A-D                          | 80   | 95       
-The Black Keys                 | 81   | 94       
-VOLA                           | 83   | 93       
-Queens of the Stone Age        | 84   | 92       
+Queens of the Stone Age        | 81   | 94       
+The Black Keys                 | 82   | 94       
+VOLA                           | 84   | 93       
 Meshuggah                      | 85   | 90       
 Elton John                     | 86   | 89       
 Bill Withers                   | 88   | 88       
@@ -119,7 +119,7 @@ Fleetwood Mac                | 8    | 416
 Rush                         | 10   | 374      
 Pink Floyd                   | 21   | 218      
 Daft Punk                    | 33   | 172      
-Creedence Clearwater Revival | 50   | 133      
+Creedence Clearwater Revival | 51   | 133      
 Hall & Oates                 | 54   | 131      
 Led Zeppelin                 | 65   | 120      
 Dire Straits                 | 72   | 111      
