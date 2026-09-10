@@ -47,7 +47,7 @@ The Killers                    | 50   | 135
 Architects                     | 56   | 129      
 blink-182                      | 58   | 126      
 Lamb of God                    | 61   | 124      
-Opeth                          | 66   | 116      
+Opeth                          | 66   | 117      
 The Good The Bad and The Zugly | 67   | 116      
 Kaizers Orchestra              | 68   | 115      
 Backstreet Girls               | 70   | 113      
@@ -88,7 +88,7 @@ DumDum Boys                    | 60   | 124
 Eivør Pálsdóttir               | 62   | 123      
 OnklP & De Fjerne Slektningene | 63   | 121      
 Aktiv Dödshjelp                | 64   | 120      
-Porcupine Tree                 | 69   | 114      
+Porcupine Tree                 | 69   | 115      
 Protest the Hero               | 74   | 105      
 Megadeth                       | 75   | 103      
 Parius                         | 77   | 100      
