@@ -54,9 +54,9 @@ Backstreet Girls               | 70   | 113
 Volbeat                        | 71   | 112      
 Oslo Ess                       | 73   | 105      
 Maktkamp                       | 78   | 98       
-Turbonegro                     | 83   | 93       
-Soilwork                       | 87   | 89       
-Children of Bodom              | 90   | 86       
+Turbonegro                     | 84   | 93       
+Soilwork                       | 88   | 89       
+Children of Bodom              | 91   | 86       
 Fit for an Autopsy             | 93   | 83       
 
 ## Active top 100 artists not seen live (47)
@@ -92,17 +92,17 @@ Porcupine Tree                 | 69   | 115
 Protest the Hero               | 74   | 105      
 Megadeth                       | 75   | 103      
 Parius                         | 77   | 100      
-SikTh                          | 79   | 96       
-D-A-D                          | 80   | 95       
-Queens of the Stone Age        | 81   | 94       
-The Black Keys                 | 82   | 94       
-VOLA                           | 84   | 93       
-Meshuggah                      | 85   | 90       
-Elton John                     | 86   | 89       
-Bill Withers                   | 88   | 88       
-Thulsa Doom                    | 89   | 87       
-Devin Townsend Project         | 91   | 84       
-Maraton                        | 92   | 84       
+Maraton                        | 79   | 97       
+SikTh                          | 80   | 96       
+D-A-D                          | 81   | 95       
+Queens of the Stone Age        | 82   | 94       
+The Black Keys                 | 83   | 94       
+VOLA                           | 85   | 93       
+Meshuggah                      | 86   | 90       
+Elton John                     | 87   | 89       
+Bill Withers                   | 89   | 88       
+Thulsa Doom                    | 90   | 87       
+Devin Townsend Project         | 92   | 84       
 Iron Maiden                    | 94   | 83       
 Bokassa                        | 95   | 82       
 trass                          | 96   | 81       
