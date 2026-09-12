@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 1021     
 AC/DC                          | 3    | 838      
-Metallica                      | 4    | 465      
+Metallica                      | 4    | 466      
 Spidergawd                     | 5    | 455      
 In Flames                      | 6    | 447      
 Foo Fighters                   | 7    | 422      
@@ -28,17 +28,17 @@ Avenged Sevenfold              | 14   | 323
 Circus Maximus                 | 15   | 293      
 Greta Van Fleet                | 18   | 241      
 Honningbarna                   | 19   | 237      
-Tool                           | 22   | 210      
+Tool                           | 22   | 212      
 Slipknot                       | 23   | 209      
 The Dogs                       | 24   | 205      
 Green Day                      | 26   | 198      
-Eluveitie                      | 30   | 182      
+Eluveitie                      | 31   | 182      
 Mastodon                       | 35   | 167      
 Amyl and the Sniffers          | 38   | 160      
-Judas Priest                   | 41   | 154      
+Judas Priest                   | 40   | 155      
 22                             | 42   | 152      
 Kvelertak                      | 43   | 148      
-Gojira                         | 45   | 146      
+Gojira                         | 45   | 147      
 Finntroll                      | 46   | 145      
 Pagan's Mind                   | 47   | 145      
 Ne Obliviscaris                | 48   | 139      
@@ -46,7 +46,7 @@ Eminem                         | 49   | 138
 The Killers                    | 50   | 135      
 Architects                     | 56   | 129      
 blink-182                      | 58   | 126      
-Lamb of God                    | 61   | 124      
+Lamb of God                    | 60   | 125      
 Opeth                          | 66   | 117      
 The Good The Bad and The Zugly | 67   | 116      
 Kaizers Orchestra              | 68   | 115      
@@ -71,20 +71,20 @@ John Mayer                     | 25   | 199
 Trivium                        | 27   | 196      
 All That Remains               | 28   | 195      
 Lars Vaular                    | 29   | 193      
-Linkin Park                    | 31   | 179      
-The Offspring                  | 32   | 174      
+Linkin Park                    | 32   | 180      
+The Offspring                  | 33   | 174      
 The Halo Effect                | 34   | 169      
 Death by Unga Bunga            | 36   | 166      
 The Night Flight Orchestra     | 37   | 165      
 Animals as Leaders             | 39   | 158      
-Sylosis                        | 40   | 155      
+Sylosis                        | 41   | 155      
 Toto                           | 44   | 148      
 DJ MøMø                        | 52   | 132      
 Jinjer                         | 53   | 132      
 Heilung                        | 55   | 131      
 Red Hot Chili Peppers          | 57   | 128      
 The Police                     | 59   | 126      
-DumDum Boys                    | 60   | 124      
+DumDum Boys                    | 61   | 124      
 Eivør Pálsdóttir               | 62   | 123      
 OnklP & De Fjerne Slektningene | 63   | 121      
 Aktiv Dödshjelp                | 64   | 120      
@@ -118,7 +118,7 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 8    | 416      
 Rush                         | 10   | 374      
 Pink Floyd                   | 21   | 218      
-Daft Punk                    | 33   | 172      
+Daft Punk                    | 30   | 192      
 Creedence Clearwater Revival | 51   | 133      
 Hall & Oates                 | 54   | 131      
 Led Zeppelin                 | 65   | 120      
