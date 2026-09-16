@@ -16,10 +16,10 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 1023     
 AC/DC                          | 3    | 838      
-Metallica                      | 4    | 466      
+Metallica                      | 4    | 467      
 Spidergawd                     | 5    | 455      
 In Flames                      | 6    | 447      
-Foo Fighters                   | 7    | 422      
+Foo Fighters                   | 7    | 426      
 Seven Spires                   | 9    | 390      
 Ghost                          | 11   | 360      
 Haken                          | 12   | 358      
@@ -29,18 +29,18 @@ Circus Maximus                 | 15   | 293
 Greta Van Fleet                | 18   | 241      
 Honningbarna                   | 19   | 237      
 Tool                           | 22   | 212      
-Slipknot                       | 23   | 209      
+Slipknot                       | 23   | 210      
 The Dogs                       | 24   | 205      
 Green Day                      | 26   | 198      
-Eluveitie                      | 31   | 182      
+Eluveitie                      | 32   | 182      
 Mastodon                       | 35   | 167      
 Amyl and the Sniffers          | 38   | 160      
 Judas Priest                   | 40   | 155      
 22                             | 42   | 152      
 Kvelertak                      | 43   | 148      
-Gojira                         | 45   | 147      
-Finntroll                      | 46   | 145      
-Pagan's Mind                   | 47   | 145      
+Pagan's Mind                   | 44   | 148      
+Gojira                         | 46   | 147      
+Finntroll                      | 47   | 145      
 Ne Obliviscaris                | 48   | 139      
 Eminem                         | 49   | 138      
 The Killers                    | 50   | 135      
@@ -68,21 +68,21 @@ Moron Police                   | 16   | 263
 Nospūn                         | 17   | 246      
 Jean-Luc Ponty                 | 20   | 228      
 John Mayer                     | 25   | 199      
-Trivium                        | 27   | 196      
+Trivium                        | 27   | 198      
 All That Remains               | 28   | 195      
 Lars Vaular                    | 29   | 193      
-Linkin Park                    | 32   | 180      
+Linkin Park                    | 31   | 183      
 The Offspring                  | 33   | 175      
 The Halo Effect                | 34   | 169      
 Death by Unga Bunga            | 36   | 166      
 The Night Flight Orchestra     | 37   | 165      
 Animals as Leaders             | 39   | 158      
 Sylosis                        | 41   | 155      
-Toto                           | 44   | 148      
+Toto                           | 45   | 148      
 DJ MøMø                        | 52   | 132      
 Jinjer                         | 53   | 132      
 Heilung                        | 55   | 131      
-Red Hot Chili Peppers          | 57   | 128      
+Red Hot Chili Peppers          | 57   | 129      
 The Police                     | 59   | 126      
 DumDum Boys                    | 61   | 124      
 Eivør Pálsdóttir               | 62   | 123      
@@ -95,7 +95,7 @@ Parius                         | 77   | 100
 Maraton                        | 79   | 97       
 SikTh                          | 80   | 97       
 D-A-D                          | 81   | 95       
-Queens of the Stone Age        | 82   | 94       
+Queens of the Stone Age        | 82   | 95       
 The Black Keys                 | 83   | 94       
 VOLA                           | 85   | 93       
 Meshuggah                      | 86   | 90       
