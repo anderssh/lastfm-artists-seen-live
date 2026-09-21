@@ -70,7 +70,7 @@ Jean-Luc Ponty                 | 20   | 228
 John Mayer                     | 25   | 199      
 Trivium                        | 27   | 198      
 All That Remains               | 28   | 195      
-Lars Vaular                    | 29   | 193      
+Lars Vaular                    | 29   | 195      
 Linkin Park                    | 31   | 183      
 The Offspring                  | 33   | 175      
 The Halo Effect                | 34   | 169      
