@@ -15,11 +15,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 1023     
-AC/DC                          | 3    | 838      
+AC/DC                          | 3    | 839      
 Metallica                      | 4    | 467      
 Spidergawd                     | 5    | 455      
 In Flames                      | 6    | 447      
-Foo Fighters                   | 7    | 426      
+Foo Fighters                   | 7    | 427      
 Seven Spires                   | 9    | 390      
 Ghost                          | 11   | 360      
 Haken                          | 12   | 358      
@@ -37,24 +37,24 @@ Mastodon                       | 35   | 167
 Amyl and the Sniffers          | 38   | 160      
 Judas Priest                   | 40   | 155      
 22                             | 42   | 152      
-Kvelertak                      | 43   | 148      
-Pagan's Mind                   | 44   | 148      
-Gojira                         | 46   | 147      
-Finntroll                      | 47   | 145      
-Ne Obliviscaris                | 48   | 139      
-Eminem                         | 49   | 138      
-The Killers                    | 50   | 135      
-Architects                     | 56   | 129      
-blink-182                      | 58   | 126      
-Lamb of God                    | 60   | 125      
+Kvelertak                      | 44   | 148      
+Pagan's Mind                   | 45   | 148      
+Gojira                         | 47   | 147      
+Finntroll                      | 48   | 145      
+Ne Obliviscaris                | 49   | 139      
+Eminem                         | 50   | 138      
+The Killers                    | 51   | 137      
+Architects                     | 57   | 129      
+blink-182                      | 58   | 127      
+Lamb of God                    | 61   | 125      
 Opeth                          | 67   | 117      
-The Good The Bad and The Zugly | 69   | 116      
-Kaizers Orchestra              | 70   | 115      
+Kaizers Orchestra              | 68   | 116      
+The Good The Bad and The Zugly | 70   | 116      
 Backstreet Girls               | 71   | 113      
-Volbeat                        | 72   | 112      
+Volbeat                        | 73   | 112      
 Oslo Ess                       | 74   | 105      
 Maktkamp                       | 78   | 98       
-Turbonegro                     | 84   | 93       
+Turbonegro                     | 84   | 94       
 Soilwork                       | 88   | 89       
 Children of Bodom              | 91   | 86       
 Fit for an Autopsy             | 94   | 83       
@@ -71,25 +71,25 @@ John Mayer                     | 25   | 199
 Trivium                        | 27   | 198      
 All That Remains               | 28   | 195      
 Lars Vaular                    | 29   | 195      
-Linkin Park                    | 31   | 183      
+Linkin Park                    | 31   | 184      
 The Offspring                  | 33   | 175      
 The Halo Effect                | 34   | 169      
 Death by Unga Bunga            | 36   | 166      
 The Night Flight Orchestra     | 37   | 165      
 Animals as Leaders             | 39   | 158      
 Sylosis                        | 41   | 155      
-Toto                           | 45   | 148      
-DJ MøMø                        | 52   | 132      
-Jinjer                         | 53   | 132      
+Jinjer                         | 43   | 149      
+Toto                           | 46   | 148      
+DJ MøMø                        | 53   | 132      
 Heilung                        | 55   | 131      
-Red Hot Chili Peppers          | 57   | 129      
+Red Hot Chili Peppers          | 56   | 131      
 The Police                     | 59   | 126      
-DumDum Boys                    | 61   | 124      
+DumDum Boys                    | 60   | 125      
 Eivør Pálsdóttir               | 62   | 123      
 Protest the Hero               | 63   | 122      
 OnklP & De Fjerne Slektningene | 64   | 121      
 Aktiv Dödshjelp                | 65   | 120      
-Porcupine Tree                 | 68   | 116      
+Porcupine Tree                 | 69   | 116      
 Megadeth                       | 75   | 103      
 Parius                         | 77   | 100      
 Maraton                        | 79   | 97       
@@ -119,8 +119,8 @@ Fleetwood Mac                | 8    | 416
 Rush                         | 10   | 374      
 Pink Floyd                   | 21   | 218      
 Daft Punk                    | 30   | 192      
-Creedence Clearwater Revival | 51   | 133      
+Creedence Clearwater Revival | 52   | 133      
 Hall & Oates                 | 54   | 131      
 Led Zeppelin                 | 66   | 120      
-Dire Straits                 | 73   | 111      
+Dire Straits                 | 72   | 112      
 The Beatles                  | 76   | 101      
