@@ -15,11 +15,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 1023     
-AC/DC                          | 3    | 839      
+AC/DC                          | 3    | 842      
 Metallica                      | 4    | 467      
 Spidergawd                     | 5    | 455      
 In Flames                      | 6    | 447      
-Foo Fighters                   | 7    | 427      
+Foo Fighters                   | 7    | 431      
 Seven Spires                   | 9    | 390      
 Ghost                          | 11   | 360      
 Haken                          | 12   | 358      
@@ -31,19 +31,19 @@ Honningbarna                   | 19   | 237
 Tool                           | 22   | 212      
 Slipknot                       | 23   | 210      
 The Dogs                       | 24   | 205      
-Green Day                      | 26   | 198      
-Eluveitie                      | 32   | 182      
-Mastodon                       | 35   | 167      
+Green Day                      | 25   | 200      
+Mastodon                       | 32   | 184      
+Eluveitie                      | 33   | 182      
 Amyl and the Sniffers          | 38   | 160      
-Judas Priest                   | 40   | 155      
+Judas Priest                   | 40   | 157      
 22                             | 42   | 152      
 Kvelertak                      | 44   | 148      
 Pagan's Mind                   | 45   | 148      
 Gojira                         | 47   | 147      
 Finntroll                      | 48   | 145      
-Ne Obliviscaris                | 49   | 139      
-Eminem                         | 50   | 138      
-The Killers                    | 51   | 137      
+The Killers                    | 49   | 140      
+Ne Obliviscaris                | 50   | 139      
+Eminem                         | 51   | 138      
 Architects                     | 57   | 129      
 blink-182                      | 58   | 127      
 Lamb of God                    | 61   | 125      
@@ -67,26 +67,26 @@ Thorbjørn Egner                | 2    | 984
 Moron Police                   | 16   | 263      
 Nospūn                         | 17   | 246      
 Jean-Luc Ponty                 | 20   | 228      
-John Mayer                     | 25   | 199      
-Trivium                        | 27   | 198      
+John Mayer                     | 26   | 199      
+Trivium                        | 27   | 199      
 All That Remains               | 28   | 195      
 Lars Vaular                    | 29   | 195      
-Linkin Park                    | 31   | 184      
-The Offspring                  | 33   | 175      
-The Halo Effect                | 34   | 169      
+Linkin Park                    | 31   | 188      
+The Offspring                  | 34   | 176      
+The Halo Effect                | 35   | 169      
 Death by Unga Bunga            | 36   | 166      
 The Night Flight Orchestra     | 37   | 165      
 Animals as Leaders             | 39   | 158      
 Sylosis                        | 41   | 155      
 Jinjer                         | 43   | 149      
 Toto                           | 46   | 148      
-DJ MøMø                        | 53   | 132      
-Heilung                        | 55   | 131      
-Red Hot Chili Peppers          | 56   | 131      
+Red Hot Chili Peppers          | 52   | 136      
+DJ MøMø                        | 54   | 132      
+Heilung                        | 56   | 131      
 The Police                     | 59   | 126      
 DumDum Boys                    | 60   | 125      
-Eivør Pálsdóttir               | 62   | 123      
-Protest the Hero               | 63   | 122      
+Protest the Hero               | 62   | 125      
+Eivør Pálsdóttir               | 63   | 123      
 OnklP & De Fjerne Slektningene | 64   | 121      
 Aktiv Dödshjelp                | 65   | 120      
 Porcupine Tree                 | 69   | 116      
@@ -94,8 +94,8 @@ Megadeth                       | 75   | 103
 Parius                         | 77   | 100      
 Maraton                        | 79   | 97       
 SikTh                          | 80   | 97       
-D-A-D                          | 81   | 95       
-Queens of the Stone Age        | 82   | 95       
+Queens of the Stone Age        | 81   | 96       
+D-A-D                          | 82   | 95       
 The Black Keys                 | 83   | 94       
 VOLA                           | 85   | 93       
 Meshuggah                      | 86   | 90       
@@ -119,8 +119,8 @@ Fleetwood Mac                | 8    | 416
 Rush                         | 10   | 374      
 Pink Floyd                   | 21   | 218      
 Daft Punk                    | 30   | 192      
-Creedence Clearwater Revival | 52   | 133      
-Hall & Oates                 | 54   | 131      
+Creedence Clearwater Revival | 53   | 133      
+Hall & Oates                 | 55   | 131      
 Led Zeppelin                 | 66   | 120      
 Dire Straits                 | 72   | 112      
 The Beatles                  | 76   | 101      
