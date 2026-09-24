@@ -32,7 +32,7 @@ Tool                           | 22   | 212
 Slipknot                       | 23   | 210      
 The Dogs                       | 24   | 205      
 Green Day                      | 25   | 200      
-Mastodon                       | 32   | 184      
+Mastodon                       | 30   | 195      
 Eluveitie                      | 33   | 182      
 Amyl and the Sniffers          | 38   | 160      
 Judas Priest                   | 40   | 157      
@@ -71,7 +71,7 @@ John Mayer                     | 26   | 199
 Trivium                        | 27   | 199      
 All That Remains               | 28   | 195      
 Lars Vaular                    | 29   | 195      
-Linkin Park                    | 31   | 188      
+Linkin Park                    | 32   | 188      
 The Offspring                  | 34   | 176      
 The Halo Effect                | 35   | 169      
 Death by Unga Bunga            | 36   | 166      
@@ -118,7 +118,7 @@ Name                         | Rank | PlayCount
 Fleetwood Mac                | 8    | 416      
 Rush                         | 10   | 374      
 Pink Floyd                   | 21   | 218      
-Daft Punk                    | 30   | 192      
+Daft Punk                    | 31   | 192      
 Creedence Clearwater Revival | 53   | 133      
 Hall & Oates                 | 55   | 131      
 Led Zeppelin                 | 66   | 120      
