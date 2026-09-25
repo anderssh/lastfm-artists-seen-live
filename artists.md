@@ -22,7 +22,7 @@ In Flames                      | 6    | 447
 Foo Fighters                   | 7    | 431      
 Seven Spires                   | 9    | 390      
 Ghost                          | 11   | 360      
-Haken                          | 12   | 358      
+Haken                          | 12   | 360      
 Skálmöld                       | 13   | 345      
 Avenged Sevenfold              | 14   | 323      
 Circus Maximus                 | 15   | 293      
@@ -65,7 +65,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Thorbjørn Egner                | 2    | 984      
 Moron Police                   | 16   | 263      
-Nospūn                         | 17   | 246      
+Nospūn                         | 17   | 253      
 Jean-Luc Ponty                 | 20   | 228      
 John Mayer                     | 26   | 199      
 Trivium                        | 27   | 199      
