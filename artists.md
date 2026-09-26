@@ -21,8 +21,8 @@ Spidergawd                     | 5    | 455
 In Flames                      | 6    | 447      
 Foo Fighters                   | 7    | 431      
 Seven Spires                   | 9    | 390      
-Ghost                          | 11   | 360      
-Haken                          | 12   | 360      
+Haken                          | 11   | 361      
+Ghost                          | 12   | 360      
 Skálmöld                       | 13   | 345      
 Avenged Sevenfold              | 14   | 323      
 Circus Maximus                 | 15   | 293      
