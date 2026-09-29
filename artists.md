@@ -44,9 +44,9 @@ Finntroll                      | 48   | 145
 The Killers                    | 49   | 140      
 Ne Obliviscaris                | 50   | 139      
 Eminem                         | 51   | 138      
-Architects                     | 57   | 129      
-blink-182                      | 58   | 127      
-Lamb of God                    | 61   | 125      
+Architects                     | 58   | 129      
+blink-182                      | 59   | 127      
+Lamb of God                    | 62   | 125      
 Opeth                          | 67   | 117      
 Kaizers Orchestra              | 68   | 116      
 The Good The Bad and The Zugly | 70   | 116      
@@ -67,8 +67,8 @@ Thorbjørn Egner                | 2    | 984
 Moron Police                   | 16   | 263      
 Nospūn                         | 17   | 253      
 Jean-Luc Ponty                 | 20   | 228      
-John Mayer                     | 26   | 199      
-Trivium                        | 27   | 199      
+Trivium                        | 26   | 200      
+John Mayer                     | 27   | 199      
 All That Remains               | 28   | 195      
 Lars Vaular                    | 29   | 195      
 Linkin Park                    | 32   | 188      
@@ -82,10 +82,10 @@ Jinjer                         | 43   | 149
 Toto                           | 46   | 148      
 Red Hot Chili Peppers          | 52   | 136      
 DJ MøMø                        | 54   | 132      
-Heilung                        | 56   | 131      
-The Police                     | 59   | 126      
-DumDum Boys                    | 60   | 125      
-Protest the Hero               | 62   | 125      
+Protest the Hero               | 55   | 132      
+Heilung                        | 57   | 131      
+The Police                     | 60   | 126      
+DumDum Boys                    | 61   | 125      
 Eivør Pálsdóttir               | 63   | 123      
 OnklP & De Fjerne Slektningene | 64   | 121      
 Aktiv Dödshjelp                | 65   | 120      
@@ -120,7 +120,7 @@ Rush                         | 10   | 374
 Pink Floyd                   | 21   | 218      
 Daft Punk                    | 31   | 192      
 Creedence Clearwater Revival | 53   | 133      
-Hall & Oates                 | 55   | 131      
+Hall & Oates                 | 56   | 131      
 Led Zeppelin                 | 66   | 120      
 Dire Straits                 | 72   | 112      
 The Beatles                  | 76   | 101      
