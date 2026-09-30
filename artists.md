@@ -30,9 +30,9 @@ Greta Van Fleet                | 18   | 241
 Honningbarna                   | 19   | 237      
 Tool                           | 22   | 212      
 Slipknot                       | 23   | 210      
-The Dogs                       | 24   | 205      
-Green Day                      | 25   | 200      
-Mastodon                       | 30   | 195      
+Mastodon                       | 24   | 206      
+The Dogs                       | 25   | 205      
+Green Day                      | 26   | 200      
 Eluveitie                      | 33   | 182      
 Amyl and the Sniffers          | 38   | 160      
 Judas Priest                   | 40   | 157      
@@ -67,10 +67,10 @@ Thorbjørn Egner                | 2    | 984
 Moron Police                   | 16   | 263      
 Nospūn                         | 17   | 253      
 Jean-Luc Ponty                 | 20   | 228      
-Trivium                        | 26   | 200      
-John Mayer                     | 27   | 199      
-All That Remains               | 28   | 195      
-Lars Vaular                    | 29   | 195      
+Trivium                        | 27   | 200      
+John Mayer                     | 28   | 199      
+All That Remains               | 29   | 195      
+Lars Vaular                    | 30   | 195      
 Linkin Park                    | 32   | 188      
 The Offspring                  | 34   | 176      
 The Halo Effect                | 35   | 169      
