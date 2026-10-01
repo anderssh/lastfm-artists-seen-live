@@ -19,11 +19,11 @@ AC/DC                          | 3    | 843
 Metallica                      | 4    | 467      
 Spidergawd                     | 5    | 455      
 In Flames                      | 6    | 447      
-Foo Fighters                   | 7    | 431      
+Foo Fighters                   | 7    | 432      
 Seven Spires                   | 9    | 390      
 Haken                          | 11   | 361      
 Ghost                          | 12   | 360      
-Skálmöld                       | 13   | 345      
+Skálmöld                       | 13   | 355      
 Avenged Sevenfold              | 14   | 323      
 Circus Maximus                 | 15   | 293      
 Greta Van Fleet                | 18   | 241      
@@ -32,7 +32,7 @@ Tool                           | 22   | 212
 Slipknot                       | 23   | 210      
 Mastodon                       | 24   | 206      
 The Dogs                       | 25   | 205      
-Green Day                      | 26   | 200      
+Green Day                      | 27   | 200      
 Eluveitie                      | 33   | 182      
 Amyl and the Sniffers          | 38   | 160      
 Judas Priest                   | 40   | 157      
@@ -41,7 +41,7 @@ Kvelertak                      | 44   | 148
 Pagan's Mind                   | 45   | 148      
 Gojira                         | 47   | 147      
 Finntroll                      | 48   | 145      
-The Killers                    | 49   | 140      
+The Killers                    | 49   | 141      
 Ne Obliviscaris                | 50   | 139      
 Eminem                         | 51   | 138      
 Architects                     | 58   | 129      
@@ -67,11 +67,11 @@ Thorbjørn Egner                | 2    | 984
 Moron Police                   | 16   | 263      
 Nospūn                         | 17   | 253      
 Jean-Luc Ponty                 | 20   | 228      
-Trivium                        | 27   | 200      
+Trivium                        | 26   | 201      
 John Mayer                     | 28   | 199      
 All That Remains               | 29   | 195      
 Lars Vaular                    | 30   | 195      
-Linkin Park                    | 32   | 188      
+Linkin Park                    | 32   | 190      
 The Offspring                  | 34   | 176      
 The Halo Effect                | 35   | 169      
 Death by Unga Bunga            | 36   | 166      
@@ -80,9 +80,9 @@ Animals as Leaders             | 39   | 158
 Sylosis                        | 41   | 155      
 Jinjer                         | 43   | 149      
 Toto                           | 46   | 148      
-Red Hot Chili Peppers          | 52   | 136      
-DJ MøMø                        | 54   | 132      
-Protest the Hero               | 55   | 132      
+Red Hot Chili Peppers          | 52   | 137      
+Protest the Hero               | 54   | 133      
+DJ MøMø                        | 55   | 132      
 Heilung                        | 57   | 131      
 The Police                     | 60   | 126      
 DumDum Boys                    | 61   | 125      
