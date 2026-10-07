@@ -15,8 +15,8 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 1024     
-AC/DC                          | 3    | 843      
-Metallica                      | 4    | 468      
+AC/DC                          | 3    | 846      
+Metallica                      | 4    | 471      
 Spidergawd                     | 5    | 455      
 In Flames                      | 6    | 447      
 Foo Fighters                   | 7    | 432      
@@ -102,8 +102,8 @@ Meshuggah                      | 86   | 90
 Elton John                     | 87   | 89       
 Bill Withers                   | 89   | 88       
 Thulsa Doom                    | 90   | 87       
-Devin Townsend Project         | 92   | 84       
-Iron Maiden                    | 93   | 84       
+Iron Maiden                    | 92   | 85       
+Devin Townsend Project         | 93   | 84       
 Bokassa                        | 95   | 82       
 trass                          | 96   | 81       
 Barnesprell                    | 97   | 80       
