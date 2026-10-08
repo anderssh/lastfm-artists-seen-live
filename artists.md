@@ -93,7 +93,7 @@ Porcupine Tree                 | 69   | 116
 Maraton                        | 74   | 109      
 Megadeth                       | 76   | 103      
 Parius                         | 78   | 100      
-SikTh                          | 80   | 97       
+SikTh                          | 80   | 98       
 Queens of the Stone Age        | 81   | 96       
 D-A-D                          | 82   | 95       
 The Black Keys                 | 83   | 94       
