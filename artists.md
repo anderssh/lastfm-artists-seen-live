@@ -21,7 +21,7 @@ Spidergawd                     | 5    | 455
 In Flames                      | 6    | 447      
 Foo Fighters                   | 7    | 432      
 Seven Spires                   | 9    | 390      
-Haken                          | 11   | 361      
+Haken                          | 11   | 366      
 Ghost                          | 12   | 360      
 Skálmöld                       | 13   | 355      
 Avenged Sevenfold              | 14   | 323      
@@ -47,14 +47,14 @@ Eminem                         | 51   | 138
 Architects                     | 58   | 129      
 blink-182                      | 59   | 127      
 Lamb of God                    | 62   | 125      
-Opeth                          | 67   | 117      
-Kaizers Orchestra              | 68   | 116      
+Kaizers Orchestra              | 67   | 119      
+Opeth                          | 68   | 117      
 The Good The Bad and The Zugly | 70   | 116      
 Backstreet Girls               | 71   | 113      
 Volbeat                        | 73   | 112      
 Oslo Ess                       | 75   | 105      
 Maktkamp                       | 79   | 98       
-Turbonegro                     | 84   | 94       
+Turbonegro                     | 83   | 95       
 Soilwork                       | 88   | 89       
 Children of Bodom              | 91   | 86       
 Fit for an Autopsy             | 94   | 83       
@@ -96,7 +96,7 @@ Parius                         | 78   | 100
 SikTh                          | 80   | 98       
 Queens of the Stone Age        | 81   | 96       
 D-A-D                          | 82   | 95       
-The Black Keys                 | 83   | 94       
+The Black Keys                 | 84   | 94       
 VOLA                           | 85   | 93       
 Meshuggah                      | 86   | 90       
 Elton John                     | 87   | 89       
