@@ -21,7 +21,7 @@ Spidergawd                     | 5    | 455
 In Flames                      | 6    | 447      
 Foo Fighters                   | 7    | 432      
 Seven Spires                   | 9    | 390      
-Haken                          | 11   | 366      
+Haken                          | 10   | 374      
 Ghost                          | 12   | 360      
 Skálmöld                       | 13   | 355      
 Avenged Sevenfold              | 14   | 323      
@@ -64,7 +64,7 @@ Fit for an Autopsy             | 94   | 83
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Thorbjørn Egner                | 2    | 984      
-Moron Police                   | 16   | 263      
+Moron Police                   | 16   | 264      
 Nospūn                         | 17   | 253      
 Jean-Luc Ponty                 | 20   | 228      
 Trivium                        | 26   | 201      
@@ -116,7 +116,7 @@ The Rolling Stones             | 100  | 80
 Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 8    | 416      
-Rush                         | 10   | 374      
+Rush                         | 11   | 374      
 Pink Floyd                   | 21   | 218      
 Daft Punk                    | 31   | 192      
 Creedence Clearwater Revival | 53   | 133      
