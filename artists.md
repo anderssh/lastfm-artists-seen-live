@@ -48,7 +48,7 @@ Architects                     | 58   | 129
 blink-182                      | 59   | 127      
 Lamb of God                    | 62   | 125      
 Kaizers Orchestra              | 67   | 119      
-Opeth                          | 68   | 117      
+Opeth                          | 68   | 119      
 The Good The Bad and The Zugly | 70   | 116      
 Backstreet Girls               | 71   | 113      
 Volbeat                        | 73   | 112      
@@ -89,7 +89,7 @@ DumDum Boys                    | 61   | 125
 Eivør Pálsdóttir               | 63   | 123      
 OnklP & De Fjerne Slektningene | 64   | 121      
 Aktiv Dödshjelp                | 65   | 120      
-Porcupine Tree                 | 69   | 116      
+Porcupine Tree                 | 69   | 118      
 Maraton                        | 74   | 109      
 Megadeth                       | 76   | 103      
 Parius                         | 78   | 100      
