@@ -15,11 +15,11 @@ Last.fm user: [anderssh93](https://www.last.fm/user/anderssh93)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 1024     
-AC/DC                          | 3    | 846      
+AC/DC                          | 3    | 848      
 Metallica                      | 4    | 471      
 Spidergawd                     | 5    | 455      
 In Flames                      | 6    | 447      
-Foo Fighters                   | 7    | 432      
+Foo Fighters                   | 7    | 434      
 Seven Spires                   | 9    | 390      
 Haken                          | 10   | 374      
 Ghost                          | 12   | 360      
@@ -37,11 +37,11 @@ Eluveitie                      | 33   | 182
 Amyl and the Sniffers          | 38   | 160      
 Judas Priest                   | 40   | 157      
 22                             | 42   | 152      
-Kvelertak                      | 44   | 148      
-Pagan's Mind                   | 45   | 148      
+Kvelertak                      | 45   | 148      
+Pagan's Mind                   | 46   | 148      
 Gojira                         | 47   | 147      
 Finntroll                      | 48   | 145      
-The Killers                    | 49   | 141      
+The Killers                    | 49   | 142      
 Ne Obliviscaris                | 50   | 139      
 Eminem                         | 51   | 138      
 Architects                     | 58   | 129      
@@ -71,15 +71,15 @@ Trivium                        | 26   | 201
 John Mayer                     | 28   | 199      
 All That Remains               | 29   | 195      
 Lars Vaular                    | 30   | 195      
-Linkin Park                    | 32   | 190      
+Linkin Park                    | 32   | 191      
 The Offspring                  | 34   | 176      
 The Halo Effect                | 35   | 169      
 Death by Unga Bunga            | 36   | 166      
 The Night Flight Orchestra     | 37   | 165      
 Animals as Leaders             | 39   | 158      
 Sylosis                        | 41   | 155      
-Jinjer                         | 43   | 149      
-Toto                           | 46   | 148      
+Toto                           | 43   | 150      
+Jinjer                         | 44   | 149      
 Red Hot Chili Peppers          | 52   | 137      
 Protest the Hero               | 54   | 133      
 DJ MøMø                        | 55   | 132      
@@ -87,8 +87,8 @@ Heilung                        | 57   | 131
 The Police                     | 60   | 126      
 DumDum Boys                    | 61   | 125      
 Eivør Pálsdóttir               | 63   | 123      
-OnklP & De Fjerne Slektningene | 64   | 121      
-Aktiv Dödshjelp                | 65   | 120      
+OnklP & De Fjerne Slektningene | 65   | 121      
+Aktiv Dödshjelp                | 66   | 120      
 Porcupine Tree                 | 69   | 118      
 Maraton                        | 74   | 109      
 Megadeth                       | 76   | 103      
@@ -117,10 +117,10 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 8    | 416      
 Rush                         | 11   | 374      
-Pink Floyd                   | 21   | 218      
+Pink Floyd                   | 21   | 222      
 Daft Punk                    | 31   | 192      
 Creedence Clearwater Revival | 53   | 133      
 Hall & Oates                 | 56   | 131      
-Led Zeppelin                 | 66   | 120      
+Led Zeppelin                 | 64   | 121      
 Dire Straits                 | 72   | 112      
 The Beatles                  | 77   | 101      
