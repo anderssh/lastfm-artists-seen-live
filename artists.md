@@ -47,8 +47,8 @@ Eminem                         | 51   | 138
 Architects                     | 58   | 129      
 blink-182                      | 59   | 127      
 Lamb of God                    | 62   | 125      
-Kaizers Orchestra              | 67   | 119      
-Opeth                          | 68   | 119      
+Opeth                          | 67   | 120      
+Kaizers Orchestra              | 68   | 119      
 The Good The Bad and The Zugly | 70   | 116      
 Backstreet Girls               | 71   | 113      
 Volbeat                        | 73   | 112      
