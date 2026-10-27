@@ -80,7 +80,7 @@ Animals as Leaders             | 39   | 158
 Sylosis                        | 41   | 155      
 Toto                           | 43   | 150      
 Jinjer                         | 44   | 149      
-Red Hot Chili Peppers          | 52   | 137      
+Red Hot Chili Peppers          | 52   | 138      
 Protest the Hero               | 54   | 133      
 DJ MøMø                        | 55   | 132      
 Heilung                        | 57   | 131      
