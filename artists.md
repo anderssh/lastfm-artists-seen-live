@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Dream Theater                  | 1    | 1024     
 AC/DC                          | 3    | 848      
-Metallica                      | 4    | 471      
+Metallica                      | 4    | 472      
 Spidergawd                     | 5    | 455      
 In Flames                      | 6    | 447      
 Foo Fighters                   | 7    | 434      
@@ -30,7 +30,7 @@ Greta Van Fleet                | 18   | 241
 Honningbarna                   | 19   | 237      
 Tool                           | 22   | 212      
 Slipknot                       | 23   | 210      
-Mastodon                       | 24   | 206      
+Mastodon                       | 24   | 208      
 The Dogs                       | 25   | 205      
 Green Day                      | 27   | 200      
 Eluveitie                      | 33   | 182      
@@ -94,7 +94,7 @@ Maraton                        | 74   | 109
 Megadeth                       | 76   | 103      
 Parius                         | 78   | 100      
 SikTh                          | 80   | 98       
-Queens of the Stone Age        | 81   | 96       
+Queens of the Stone Age        | 81   | 97       
 D-A-D                          | 82   | 95       
 The Black Keys                 | 84   | 94       
 VOLA                           | 85   | 93       
@@ -117,7 +117,7 @@ Name                         | Rank | PlayCount
 ---------------------------- | ---- | ---------
 Fleetwood Mac                | 8    | 416      
 Rush                         | 11   | 374      
-Pink Floyd                   | 21   | 222      
+Pink Floyd                   | 21   | 223      
 Daft Punk                    | 31   | 192      
 Creedence Clearwater Revival | 53   | 133      
 Hall & Oates                 | 56   | 131      
