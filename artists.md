@@ -35,7 +35,7 @@ The Dogs                       | 25   | 205
 Green Day                      | 27   | 200      
 Eluveitie                      | 33   | 182      
 Amyl and the Sniffers          | 38   | 160      
-Judas Priest                   | 40   | 157      
+Judas Priest                   | 40   | 158      
 22                             | 42   | 152      
 Kvelertak                      | 45   | 148      
 Pagan's Mind                   | 46   | 148      
