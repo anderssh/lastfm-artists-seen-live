@@ -35,7 +35,7 @@ The Dogs                       | 25   | 205
 Green Day                      | 27   | 200      
 Eluveitie                      | 33   | 182      
 Amyl and the Sniffers          | 38   | 160      
-Judas Priest                   | 40   | 158      
+Judas Priest                   | 39   | 159      
 22                             | 42   | 152      
 Kvelertak                      | 45   | 148      
 Pagan's Mind                   | 46   | 148      
@@ -52,7 +52,7 @@ Kaizers Orchestra              | 68   | 119
 The Good The Bad and The Zugly | 70   | 116      
 Backstreet Girls               | 71   | 113      
 Volbeat                        | 73   | 112      
-Oslo Ess                       | 75   | 105      
+Oslo Ess                       | 75   | 106      
 Maktkamp                       | 79   | 98       
 Turbonegro                     | 83   | 95       
 Soilwork                       | 88   | 89       
@@ -76,7 +76,7 @@ The Offspring                  | 34   | 176
 The Halo Effect                | 35   | 169      
 Death by Unga Bunga            | 36   | 166      
 The Night Flight Orchestra     | 37   | 165      
-Animals as Leaders             | 39   | 158      
+Animals as Leaders             | 40   | 158      
 Sylosis                        | 41   | 155      
 Toto                           | 43   | 150      
 Jinjer                         | 44   | 149      
@@ -87,7 +87,7 @@ Heilung                        | 57   | 131
 The Police                     | 60   | 126      
 DumDum Boys                    | 61   | 125      
 Eivør Pálsdóttir               | 63   | 123      
-OnklP & De Fjerne Slektningene | 65   | 121      
+OnklP & De Fjerne Slektningene | 64   | 122      
 Aktiv Dödshjelp                | 66   | 120      
 Porcupine Tree                 | 69   | 118      
 Maraton                        | 74   | 109      
@@ -121,6 +121,6 @@ Pink Floyd                   | 21   | 223
 Daft Punk                    | 31   | 192      
 Creedence Clearwater Revival | 53   | 133      
 Hall & Oates                 | 56   | 131      
-Led Zeppelin                 | 64   | 121      
+Led Zeppelin                 | 65   | 121      
 Dire Straits                 | 72   | 112      
 The Beatles                  | 77   | 101      
