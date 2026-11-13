@@ -28,9 +28,9 @@ Avenged Sevenfold              | 14   | 323
 Circus Maximus                 | 15   | 293      
 Greta Van Fleet                | 18   | 241      
 Honningbarna                   | 19   | 237      
-Tool                           | 22   | 212      
-Slipknot                       | 23   | 210      
-Mastodon                       | 24   | 208      
+Mastodon                       | 22   | 213      
+Tool                           | 23   | 212      
+Slipknot                       | 24   | 210      
 The Dogs                       | 25   | 205      
 Green Day                      | 27   | 200      
 Eluveitie                      | 33   | 182      
