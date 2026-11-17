@@ -50,8 +50,8 @@ Lamb of God                    | 62   | 125
 Opeth                          | 67   | 120      
 Kaizers Orchestra              | 68   | 119      
 The Good The Bad and The Zugly | 70   | 116      
-Backstreet Girls               | 71   | 113      
-Volbeat                        | 73   | 112      
+Backstreet Girls               | 72   | 113      
+Volbeat                        | 74   | 112      
 Oslo Ess                       | 76   | 106      
 Maktkamp                       | 79   | 98       
 Turbonegro                     | 83   | 95       
@@ -90,8 +90,8 @@ Eivør Pálsdóttir               | 63   | 123
 OnklP & De Fjerne Slektningene | 64   | 122      
 Aktiv Dödshjelp                | 66   | 120      
 Porcupine Tree                 | 69   | 118      
-Maraton                        | 74   | 109      
-Parius                         | 75   | 107      
+Parius                         | 71   | 114      
+Maraton                        | 75   | 109      
 Megadeth                       | 77   | 103      
 SikTh                          | 80   | 98       
 Queens of the Stone Age        | 81   | 97       
@@ -122,5 +122,5 @@ Daft Punk                    | 31   | 192
 Creedence Clearwater Revival | 53   | 133      
 Hall & Oates                 | 56   | 131      
 Led Zeppelin                 | 65   | 121      
-Dire Straits                 | 72   | 112      
+Dire Straits                 | 73   | 112      
 The Beatles                  | 78   | 101      
