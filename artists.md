@@ -123,4 +123,4 @@ Creedence Clearwater Revival | 53   | 133
 Hall & Oates                 | 56   | 131      
 Led Zeppelin                 | 65   | 121      
 Dire Straits                 | 73   | 112      
-The Beatles                  | 78   | 101      
+The Beatles                  | 78   | 102      
