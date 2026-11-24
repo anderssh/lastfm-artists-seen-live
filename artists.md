@@ -52,7 +52,7 @@ Kaizers Orchestra              | 68   | 119
 The Good The Bad and The Zugly | 70   | 116      
 Backstreet Girls               | 72   | 113      
 Volbeat                        | 74   | 112      
-Oslo Ess                       | 76   | 106      
+Oslo Ess                       | 76   | 107      
 Maktkamp                       | 79   | 98       
 Turbonegro                     | 83   | 95       
 Soilwork                       | 88   | 89       
@@ -83,11 +83,11 @@ Jinjer                         | 44   | 149
 Red Hot Chili Peppers          | 50   | 141      
 Protest the Hero               | 54   | 133      
 DJ MøMø                        | 55   | 132      
-Heilung                        | 57   | 131      
+Heilung                        | 56   | 132      
 The Police                     | 60   | 126      
 DumDum Boys                    | 61   | 125      
 Eivør Pálsdóttir               | 63   | 123      
-OnklP & De Fjerne Slektningene | 64   | 122      
+OnklP & De Fjerne Slektningene | 64   | 123      
 Aktiv Dödshjelp                | 66   | 120      
 Porcupine Tree                 | 69   | 118      
 Parius                         | 71   | 114      
@@ -105,11 +105,11 @@ Thulsa Doom                    | 90   | 87
 Iron Maiden                    | 92   | 85       
 Devin Townsend Project         | 93   | 84       
 Bokassa                        | 95   | 82       
-trass                          | 96   | 81       
-Barnesprell                    | 97   | 80       
-Rival Sons                     | 98   | 80       
-Surferosa                      | 99   | 80       
-The Rolling Stones             | 100  | 80       
+The Undertones                 | 96   | 82       
+trass                          | 97   | 81       
+Barnesprell                    | 98   | 80       
+Rival Sons                     | 99   | 80       
+Surferosa                      | 100  | 80       
 
 ## Inactive top 100 artists not seen live (9)
 
@@ -120,7 +120,7 @@ Rush                         | 11   | 374
 Pink Floyd                   | 21   | 223      
 Daft Punk                    | 31   | 192      
 Creedence Clearwater Revival | 53   | 133      
-Hall & Oates                 | 56   | 131      
+Hall & Oates                 | 57   | 131      
 Led Zeppelin                 | 65   | 121      
 Dire Straits                 | 73   | 112      
 The Beatles                  | 78   | 103      
