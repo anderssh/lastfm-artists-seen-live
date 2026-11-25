@@ -44,9 +44,9 @@ Finntroll                      | 48   | 145
 The Killers                    | 49   | 142      
 Ne Obliviscaris                | 51   | 139      
 Eminem                         | 52   | 138      
-Architects                     | 58   | 129      
-blink-182                      | 59   | 127      
-Lamb of God                    | 62   | 125      
+Architects                     | 59   | 129      
+blink-182                      | 60   | 127      
+Lamb of God                    | 63   | 125      
 Opeth                          | 67   | 120      
 Kaizers Orchestra              | 68   | 119      
 The Good The Bad and The Zugly | 70   | 116      
@@ -81,12 +81,12 @@ Sylosis                        | 41   | 155
 Toto                           | 43   | 150      
 Jinjer                         | 44   | 149      
 Red Hot Chili Peppers          | 50   | 141      
-Protest the Hero               | 54   | 133      
-DJ MøMø                        | 55   | 132      
-Heilung                        | 56   | 132      
-The Police                     | 60   | 126      
-DumDum Boys                    | 61   | 125      
-Eivør Pálsdóttir               | 63   | 123      
+Eivør Pálsdóttir               | 54   | 133      
+Protest the Hero               | 55   | 133      
+DJ MøMø                        | 56   | 132      
+Heilung                        | 57   | 132      
+The Police                     | 61   | 126      
+DumDum Boys                    | 62   | 125      
 OnklP & De Fjerne Slektningene | 64   | 123      
 Aktiv Dödshjelp                | 66   | 120      
 Porcupine Tree                 | 69   | 118      
@@ -120,7 +120,7 @@ Rush                         | 11   | 374
 Pink Floyd                   | 21   | 223      
 Daft Punk                    | 31   | 192      
 Creedence Clearwater Revival | 53   | 133      
-Hall & Oates                 | 57   | 131      
+Hall & Oates                 | 58   | 131      
 Led Zeppelin                 | 65   | 121      
 Dire Straits                 | 73   | 112      
 The Beatles                  | 78   | 103      
