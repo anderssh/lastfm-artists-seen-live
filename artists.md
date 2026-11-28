@@ -28,7 +28,7 @@ Avenged Sevenfold              | 14   | 323
 Circus Maximus                 | 15   | 293      
 Greta Van Fleet                | 18   | 241      
 Honningbarna                   | 19   | 237      
-Mastodon                       | 22   | 213      
+Mastodon                       | 22   | 216      
 Tool                           | 23   | 212      
 Slipknot                       | 24   | 210      
 The Dogs                       | 25   | 205      
@@ -67,7 +67,7 @@ Thorbjørn Egner                | 2    | 1007
 Moron Police                   | 16   | 264      
 Nospūn                         | 17   | 253      
 Jean-Luc Ponty                 | 20   | 228      
-Trivium                        | 26   | 201      
+Trivium                        | 26   | 202      
 John Mayer                     | 28   | 199      
 All That Remains               | 29   | 195      
 Lars Vaular                    | 30   | 195      
@@ -90,7 +90,7 @@ DumDum Boys                    | 62   | 125
 OnklP & De Fjerne Slektningene | 64   | 123      
 Aktiv Dödshjelp                | 66   | 120      
 Porcupine Tree                 | 69   | 118      
-Parius                         | 71   | 114      
+Parius                         | 71   | 115      
 Maraton                        | 75   | 109      
 Megadeth                       | 77   | 103      
 SikTh                          | 80   | 98       
@@ -106,10 +106,10 @@ Iron Maiden                    | 92   | 85
 Devin Townsend Project         | 93   | 84       
 Bokassa                        | 95   | 82       
 The Undertones                 | 96   | 82       
-trass                          | 97   | 81       
-Barnesprell                    | 98   | 80       
-Rival Sons                     | 99   | 80       
-Surferosa                      | 100  | 80       
+The Rolling Stones             | 97   | 81       
+trass                          | 98   | 81       
+Barnesprell                    | 99   | 80       
+Rival Sons                     | 100  | 80       
 
 ## Inactive top 100 artists not seen live (9)
 
